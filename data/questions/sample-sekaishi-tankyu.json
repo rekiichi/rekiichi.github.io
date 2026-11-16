@@ -1,0 +1,289 @@
+{
+  "generatedFrom": "sample-sekaishi-tankyu.csv",
+  "_note": "このファイルは sample-sekaishi-tankyu.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "sample-w-01",
+      "subject": "sekaishi-tankyu",
+      "question": "前18世紀ごろメソポタミアを統一し、「目には目を、歯には歯を」で知られる法典を定めたバビロン第1王朝の王は？",
+      "answer": "ハンムラビ王",
+      "alternatives": [
+        "ハンムラビ",
+        "ハンムラピ王",
+        "ハンムラピ"
+      ],
+      "explanation": "法典は同害復讐の原則に立ち、身分によって刑罰に差があった。",
+      "yearStart": -1792,
+      "yearEnd": -1750,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-w-02",
+      "subject": "sekaishi-tankyu",
+      "question": "古代エジプトの古王国時代に、王（ファラオ）の墓としてつくられたとされる巨大な建造物は？",
+      "answer": "ピラミッド",
+      "alternatives": [],
+      "explanation": "ギザのクフ王のピラミッドが最大。王は神の化身として統治した。",
+      "yearStart": -2700,
+      "yearEnd": -2200,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-w-03",
+      "subject": "sekaishi-tankyu",
+      "question": "前5世紀半ば、アテネの民主政を完成させた政治家は？",
+      "answer": "ペリクレス",
+      "alternatives": [],
+      "explanation": "成年男性市民が民会で国政を決める直接民主政が行われた。",
+      "yearStart": -460,
+      "yearEnd": -429,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-w-04",
+      "subject": "sekaishi-tankyu",
+      "question": "前27年、オクタウィアヌスが元老院から与えられた「尊厳者」を意味する称号は？",
+      "answer": "アウグストゥス",
+      "alternatives": [],
+      "explanation": "共和政の形を保ちつつ、事実上の帝政（元首政）を始めた。",
+      "yearStart": -27,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-w-05",
+      "subject": "sekaishi-tankyu",
+      "question": "前221年に中国を統一し、初めて「皇帝」の称号を用いた秦の王は？",
+      "answer": "始皇帝",
+      "alternatives": [
+        "秦の始皇帝"
+      ],
+      "explanation": "郡県制を全国に広げ、文字・度量衡・貨幣を統一した。",
+      "yearStart": -221,
+      "yearEnd": -210,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-w-06",
+      "subject": "sekaishi-tankyu",
+      "question": "618年に隋にかわって中国を統一し、長安を都とした王朝は？",
+      "answer": "唐",
+      "alternatives": [],
+      "explanation": "律令にもとづく国家体制を整え、東アジア諸国に大きな影響を与えた。",
+      "yearStart": 618,
+      "yearEnd": 907,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-w-07",
+      "subject": "sekaishi-tankyu",
+      "question": "7世紀前半、アラビア半島でムハンマドが唯一神アッラーの教えとして広めた宗教は？",
+      "answer": "イスラーム",
+      "alternatives": [
+        "イスラム教",
+        "イスラーム教",
+        "イスラム"
+      ],
+      "explanation": "622年のメディナへの移住（ヒジュラ）がイスラーム暦の始まりとされる。",
+      "yearStart": 610,
+      "yearEnd": 632,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-w-08",
+      "subject": "sekaishi-tankyu",
+      "question": "750年にウマイヤ朝を倒して成立し、のちに新都バグダードを建設したイスラーム王朝は？",
+      "answer": "アッバース朝",
+      "alternatives": [],
+      "explanation": "アラブ人以外の改宗者への差別をなくし、イスラーム法にもとづく統治を行った。",
+      "yearStart": 750,
+      "yearEnd": 1258,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-w-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1258年にバグダードを攻略してアッバース朝を滅ぼし、イル＝ハン国を建てたモンゴルの将軍は？",
+      "answer": "フレグ",
+      "alternatives": [
+        "フラグ"
+      ],
+      "explanation": "チンギス＝ハンの孫。イル＝ハン国はのちにイスラームを受け入れた。",
+      "yearStart": 1258,
+      "regions": [
+        "西アジア",
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "advanced",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-w-10",
+      "subject": "sekaishi-tankyu",
+      "question": "14世紀のイタリアで始まった、古代ギリシア・ローマの文化を復興させようとする文化運動は？",
+      "answer": "ルネサンス",
+      "alternatives": [
+        "文芸復興"
+      ],
+      "explanation": "人間らしさを重んじる人文主義（ヒューマニズム）が広がった。",
+      "yearStart": 1350,
+      "yearEnd": 1600,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-w-11",
+      "subject": "sekaishi-tankyu",
+      "question": "1517年に「九十五カ条の論題」を発表し、宗教改革を始めたドイツの人物は？",
+      "answer": "ルター",
+      "alternatives": [
+        "マルティン＝ルター"
+      ],
+      "explanation": "贖宥状（免罪符）の販売を批判し、信仰と聖書を重んじた。",
+      "yearStart": 1517,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-w-12",
+      "subject": "sekaishi-tankyu",
+      "question": "1789年、バスティーユ牢獄の襲撃をきっかけに本格化した革命は？",
+      "answer": "フランス革命",
+      "alternatives": [],
+      "explanation": "同年、国民議会は人権宣言を採択し、自由・平等や国民主権を示した。",
+      "yearStart": 1789,
+      "yearEnd": 1799,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-w-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1804年に皇帝に即位し、一時はヨーロッパ大陸の大部分を支配したフランスの軍人は？",
+      "answer": "ナポレオン",
+      "alternatives": [
+        "ナポレオン1世",
+        "ナポレオン＝ボナパルト"
+      ],
+      "explanation": "ナポレオン法典（民法典）を制定し、革命の成果を法として定着させた。",
+      "yearStart": 1804,
+      "yearEnd": 1815,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-w-14",
+      "subject": "sekaishi-tankyu",
+      "question": "1453年にコンスタンティノープルを攻略し、ビザンツ帝国を滅ぼしたオスマン帝国のスルタンは？",
+      "answer": "メフメト2世",
+      "alternatives": [],
+      "explanation": "コンスタンティノープルはイスタンブルと呼ばれ、オスマン帝国の都となった。",
+      "yearStart": 1453,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": false,
+      "memo": "サンプル：未確認の問題（ビルドに含まれない例）"
+    }
+  ]
+}

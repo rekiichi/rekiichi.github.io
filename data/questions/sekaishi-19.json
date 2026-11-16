@@ -1,0 +1,1960 @@
+{
+  "generatedFrom": "sekaishi-19.csv",
+  "_note": "このファイルは sekaishi-19.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "w-1901-01",
+      "subject": "sekaishi-tankyu",
+      "question": "第二次世界大戦後の西ヨーロッパなどで発展した、社会保障制度を充実させて国民の生活を守ろうとする国家のあり方を何というか。",
+      "answer": "福祉国家",
+      "reading": "ふくしこっか",
+      "alternatives": [],
+      "explanation": "政府の役割が大きくなったため、「大きな政府」とも呼ばれた。",
+      "yearStart": 1960,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ",
+        "国際"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1901-02",
+      "subject": "sekaishi-tankyu",
+      "question": "1962年に『沈黙の春』を著して、農薬などの化学物質による環境の破壊を警告したアメリカの生物学者は誰か。",
+      "answer": "レイチェル=カーソン",
+      "alternatives": [
+        "カーソン"
+      ],
+      "explanation": "環境問題への関心が世界的に高まるきっかけとなった。",
+      "yearStart": 1962,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "文化",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1901-03",
+      "subject": "sekaishi-tankyu",
+      "question": "1972年に、「かけがえのない地球」をスローガンとして、ストックホルムでひらかれた環境問題についての国際会議は何か。",
+      "answer": "国連人間環境会議",
+      "reading": "こくれんにんげんかんきょうかいぎ",
+      "alternatives": [],
+      "explanation": "人間環境宣言が採択された。",
+      "yearStart": 1972,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1901-04",
+      "subject": "sekaishi-tankyu",
+      "question": "1971年に、アメリカのニクソン大統領が、金とドルの交換の停止を発表したことを何というか。",
+      "answer": "ドル=ショック",
+      "alternatives": [
+        "ニクソン=ショック"
+      ],
+      "explanation": "ベトナム戦争の出費などでアメリカの国際収支が悪化したことが背景にある。",
+      "yearStart": 1971,
+      "regions": [
+        "南北アメリカ",
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1901-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1973年に、先進国の通貨の制度は、固定相場制から何に移ったか。",
+      "answer": "変動相場制",
+      "reading": "へんどうそうばせい",
+      "alternatives": [],
+      "explanation": "ドルを基軸とするブレトン=ウッズ体制はくずれた。",
+      "yearStart": 1973,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1901-06",
+      "subject": "sekaishi-tankyu",
+      "question": "1973年に、エジプトとシリアがイスラエルを攻撃して始まった戦争を何というか。",
+      "answer": "第4次中東戦争",
+      "reading": "だいよじちゅうとうせんそう",
+      "alternatives": [],
+      "explanation": "アラブの産油国は、イスラエルを支持する国への石油の輸出を制限する戦略をとった。",
+      "yearStart": 1973,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1901-07",
+      "subject": "sekaishi-tankyu",
+      "question": "1973年に、第4次中東戦争をきっかけに、原油の価格が急激に上がって世界の経済が混乱したことを何というか。",
+      "answer": "第1次石油危機",
+      "reading": "だいいちじせきゆきき",
+      "alternatives": [
+        "石油危機",
+        "オイル=ショック",
+        "第一次石油危機"
+      ],
+      "explanation": "安い石油にたよってきた先進国の経済成長が止まった。",
+      "yearStart": 1973,
+      "regions": [
+        "西アジア",
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1901-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1960年に、産油国が国際石油資本に対抗して、石油の価格や生産量を調整するためにつくった組織は何か。",
+      "answer": "石油輸出国機構",
+      "reading": "せきゆゆしゅつこくきこう",
+      "alternatives": [
+        "OPEC"
+      ],
+      "explanation": "1968年にはアラブ石油輸出国機構（OAPEC）もつくられた。",
+      "yearStart": 1960,
+      "regions": [
+        "西アジア",
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1901-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1975年に、石油危機後の世界経済の問題を話しあうために始まった、主要な先進国の首脳の会議を何というか。",
+      "answer": "先進国首脳会議",
+      "reading": "せんしんこくしゅのうかいぎ",
+      "alternatives": [
+        "サミット"
+      ],
+      "explanation": "第1回はフランスのランブイエでひらかれた。",
+      "yearStart": 1975,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1901-10",
+      "subject": "sekaishi-tankyu",
+      "question": "1970年代末から80年代に、イギリスやアメリカなどで広まった、政府の役割を小さくして、市場での自由な競争を重んじる考え方を何というか。",
+      "answer": "新自由主義",
+      "reading": "しんじゆうしゅぎ",
+      "alternatives": [],
+      "explanation": "国営企業の民営化、規制の緩和、福祉の見直しなどが進められた（「小さな政府」）。",
+      "yearStart": 1979,
+      "regions": [
+        "ヨーロッパ",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1901-11",
+      "subject": "sekaishi-tankyu",
+      "question": "1979年にイギリスの首相となり、国営企業の民営化や規制の緩和などの改革を進めた保守党の政治家は誰か。",
+      "answer": "サッチャー",
+      "alternatives": [],
+      "explanation": "イギリスで最初の女性の首相。1982年にはアルゼンチンとのフォークランド戦争に勝利した。",
+      "yearStart": 1979,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1901-12",
+      "subject": "sekaishi-tankyu",
+      "question": "1981年にアメリカの大統領となり、「強いアメリカ」をかかげて軍備を拡張し、減税や規制の緩和を進めた共和党の政治家は誰か。",
+      "answer": "レーガン",
+      "alternatives": [],
+      "explanation": "財政と貿易の「双子の赤字」が大きくなった。",
+      "yearStart": 1981,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1901-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1985年に、アメリカの貿易赤字をへらすために、主要国がドル高を是正することを取り決めた合意を何というか。",
+      "answer": "プラザ合意",
+      "reading": "ぷらざごうい",
+      "alternatives": [],
+      "explanation": "日本では急速に円高が進んだ。",
+      "yearStart": 1985,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1901-14",
+      "subject": "sekaishi-tankyu",
+      "question": "複数の国に生産や販売の拠点をおいて、世界的な規模で活動する企業を何というか。",
+      "answer": "多国籍企業",
+      "reading": "たこくせききぎょう",
+      "alternatives": [],
+      "explanation": "経済の国際化が進む原動力となった。",
+      "yearStart": 1970,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1901-15",
+      "subject": "sekaishi-tankyu",
+      "question": "1979年に、エジプトのサダト大統領がイスラエルと結んだ条約は何か。",
+      "answer": "エジプト=イスラエル平和条約",
+      "alternatives": [],
+      "explanation": "アメリカのカーター大統領が仲介した。シナイ半島がエジプトに返還された。",
+      "yearStart": 1979,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1901-16",
+      "subject": "sekaishi-tankyu",
+      "question": "1979年に、イランで国王の近代化政策と独裁に反対する運動が高まり、王政が倒れた革命を何というか。",
+      "answer": "イラン=イスラーム革命",
+      "alternatives": [
+        "イラン革命"
+      ],
+      "explanation": "シーア派の指導者ホメイニが中心となり、イラン=イスラーム共和国が成立した。この革命をきっかけに第2次石油危機がおこった。",
+      "yearStart": 1979,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1901-17",
+      "subject": "sekaishi-tankyu",
+      "question": "イラン=イスラーム革命を指導した、シーア派の宗教指導者は誰か。",
+      "answer": "ホメイニ",
+      "alternatives": [],
+      "explanation": "イスラームの教えにもとづく国づくりを進めた。",
+      "yearStart": 1979,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1901-18",
+      "subject": "sekaishi-tankyu",
+      "question": "1980年に、イラクのサダム=フセイン政権がイランに侵攻して始まった戦争を何というか。",
+      "answer": "イラン=イラク戦争",
+      "alternatives": [],
+      "explanation": "1988年まで続いた。",
+      "yearStart": 1980,
+      "yearEnd": 1988,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1901-19",
+      "subject": "sekaishi-tankyu",
+      "question": "1987年に、イスラエルの占領地でパレスチナ人が始めた、投石などによる抵抗運動を何というか。",
+      "answer": "インティファーダ",
+      "alternatives": [],
+      "explanation": "「蜂起」を意味するアラビア語。",
+      "yearStart": 1987,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1901-20",
+      "subject": "sekaishi-tankyu",
+      "question": "1970年代以降に急速な工業化を進めた、韓国・台湾・香港・シンガポールなどの国や地域を何というか。",
+      "answer": "新興工業経済地域",
+      "reading": "しんこうこうぎょうけいざいちいき",
+      "alternatives": [
+        "NIES",
+        "ニーズ"
+      ],
+      "explanation": "輸出向けの工業を育てた。",
+      "yearStart": 1975,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1901-21",
+      "subject": "sekaishi-tankyu",
+      "question": "1980年に、韓国で民主化を求める学生や市民を、軍が武力でおさえこんだ事件を何というか。",
+      "answer": "光州事件",
+      "reading": "こうしゅうじけん",
+      "alternatives": [],
+      "explanation": "その後も民主化運動は続き、1987年に大統領の直接選挙制が実現した。",
+      "yearStart": 1980,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1901-22",
+      "subject": "sekaishi-tankyu",
+      "question": "1986年に、フィリピンで民衆の運動によって倒された、長期の独裁政権の大統領は誰か。",
+      "answer": "マルコス",
+      "alternatives": [],
+      "explanation": "夫を暗殺されたコラソン=アキノが新しい大統領となった。",
+      "yearStart": 1986,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1901-23",
+      "subject": "sekaishi-tankyu",
+      "question": "1980年代のラテンアメリカ諸国を苦しめた、外国からの借金が返せないほどふくらんだ問題を何というか。",
+      "answer": "累積債務問題",
+      "reading": "るいせきさいむもんだい",
+      "alternatives": [
+        "累積債務"
+      ],
+      "explanation": "経済の混乱のなかで、多くの国で軍事政権から民政への移行が進んだ。",
+      "yearStart": 1982,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1902-01",
+      "subject": "sekaishi-tankyu",
+      "question": "1979年12月に、ソ連が、社会主義政権を助けるために軍隊を送った国はどこか。",
+      "answer": "アフガニスタン",
+      "alternatives": [],
+      "explanation": "アメリカなどがはげしく反発し、東西の緊張がふたたび高まった（新冷戦）。",
+      "yearStart": 1979,
+      "regions": [
+        "西アジア",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1902-02",
+      "subject": "sekaishi-tankyu",
+      "question": "1983年に、アメリカのレーガン大統領が発表した、宇宙空間でミサイルをうち落とす軍事計画を何というか。",
+      "answer": "戦略防衛構想",
+      "reading": "せんりゃくぼうえいこうそう",
+      "alternatives": [
+        "SDI"
+      ],
+      "explanation": "ソ連に軍事費の負担をしいることになった。",
+      "yearStart": 1983,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1902-03",
+      "subject": "sekaishi-tankyu",
+      "question": "1980年に、ポーランドでワレサを指導者として結成された、政府から独立した労働組合を何というか。",
+      "answer": "連帯",
+      "reading": "れんたい",
+      "alternatives": [
+        "自主管理労組「連帯」"
+      ],
+      "explanation": "政府は一時これを弾圧したが、1989年の選挙で圧勝した。",
+      "yearStart": 1980,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1902-04",
+      "subject": "sekaishi-tankyu",
+      "question": "1985年にソ連共産党の書記長となり、国内の改革と、西側との協調を進めた人物は誰か。",
+      "answer": "ゴルバチョフ",
+      "alternatives": [],
+      "explanation": "1990年にはソ連で最初の大統領となった。",
+      "yearStart": 1985,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1902-05",
+      "subject": "sekaishi-tankyu",
+      "question": "ゴルバチョフが進めた、ソ連の政治や経済の立て直しをめざす改革を何というか。",
+      "answer": "ペレストロイカ",
+      "alternatives": [],
+      "explanation": "「立て直し」を意味するロシア語。市場経済の部分的な導入や、政治の民主化がはかられた。",
+      "yearStart": 1986,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1902-06",
+      "subject": "sekaishi-tankyu",
+      "question": "ゴルバチョフが進めた、言論の自由化や情報の公開を何というか。",
+      "answer": "グラスノスチ",
+      "alternatives": [
+        "情報公開"
+      ],
+      "explanation": "1986年のチェルノブイリ原子力発電所の事故をきっかけに、本格的に進められた。",
+      "yearStart": 1986,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1902-07",
+      "subject": "sekaishi-tankyu",
+      "question": "1986年に、ソ連（現在のウクライナ）でおこり、大量の放射性物質が広い範囲に広がった事故は何か。",
+      "answer": "チェルノブイリ原子力発電所事故",
+      "alternatives": [
+        "チェルノブイリ原発事故",
+        "チョルノービリ原子力発電所事故"
+      ],
+      "explanation": "事故の情報の公開がおくれ、ソ連の体制の問題点が明らかになった。",
+      "yearStart": 1986,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1902-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1987年に、アメリカとソ連が結んだ、核兵器の削減に初めてふみこんだ条約は何か。",
+      "answer": "中距離核戦力全廃条約",
+      "reading": "ちゅうきょりかくせんりょくぜんぱいじょうやく",
+      "alternatives": [
+        "INF全廃条約",
+        "中距離核戦力（INF）全廃条約"
+      ],
+      "explanation": "レーガンとゴルバチョフが調印した。",
+      "yearStart": 1987,
+      "regions": [
+        "南北アメリカ",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1902-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1989年に、東ヨーロッパの国々で、共産党の一党支配がつぎつぎにくずれた変革を何というか。",
+      "answer": "東欧革命",
+      "reading": "とうおうかくめい",
+      "alternatives": [],
+      "explanation": "ポーランドやハンガリーから始まり、東ドイツ・チェコスロヴァキア・ルーマニアなどに広がった。",
+      "yearStart": 1989,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1902-10",
+      "subject": "sekaishi-tankyu",
+      "question": "1989年11月に開放された、東西の冷戦を象徴する建造物は何か。",
+      "answer": "ベルリンの壁",
+      "reading": "べるりんのかべ",
+      "alternatives": [],
+      "explanation": "東ドイツでは、西側への出国を求める人々が急増していた。",
+      "yearStart": 1989,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1902-11",
+      "subject": "sekaishi-tankyu",
+      "question": "1989年に、ルーマニアで民衆の蜂起によって倒され、処刑された独裁者は誰か。",
+      "answer": "チャウシェスク",
+      "alternatives": [],
+      "explanation": "東欧革命のなかで、流血をともなった数少ない例。",
+      "yearStart": 1989,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1902-12",
+      "subject": "sekaishi-tankyu",
+      "question": "1989年12月に、アメリカのブッシュ大統領とソ連のゴルバチョフが、冷戦の終結を宣言した会談は何か。",
+      "answer": "マルタ会談",
+      "reading": "まるたかいだん",
+      "alternatives": [],
+      "explanation": "地中海のマルタ島でひらかれた。",
+      "yearStart": 1989,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1902-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1990年10月に実現した、冷戦の終結を象徴するヨーロッパの出来事は何か。",
+      "answer": "ドイツ統一",
+      "reading": "どいつとういつ",
+      "alternatives": [
+        "東西ドイツの統一",
+        "ドイツの統一"
+      ],
+      "explanation": "西ドイツが東ドイツを吸収する形でおこなわれた。西ドイツの首相はコール。",
+      "yearStart": 1990,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1902-14",
+      "subject": "sekaishi-tankyu",
+      "question": "1991年に、アメリカとソ連が結んだ、戦略核兵器の数をへらす条約は何か。",
+      "answer": "第1次戦略兵器削減条約",
+      "reading": "だいいちじせんりゃくへいきさくげんじょうやく",
+      "alternatives": [
+        "START I",
+        "START",
+        "戦略兵器削減条約"
+      ],
+      "explanation": "同じ年に、ワルシャワ条約機構とコメコンも解消された。",
+      "yearStart": 1991,
+      "regions": [
+        "南北アメリカ",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1902-15",
+      "subject": "sekaishi-tankyu",
+      "question": "1991年8月の保守派のクーデタの失敗後に、ソ連の実権をにぎったロシア共和国の大統領は誰か。",
+      "answer": "エリツィン",
+      "alternatives": [],
+      "explanation": "ソ連共産党を解散させた。",
+      "yearStart": 1991,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1902-16",
+      "subject": "sekaishi-tankyu",
+      "question": "1991年12月に、ロシア・ウクライナ・ベラルーシなど旧ソ連の11の共和国が結成した、ゆるやかな国家の連合を何というか。",
+      "answer": "独立国家共同体",
+      "reading": "どくりつこっかきょうどうたい",
+      "alternatives": [
+        "CIS"
+      ],
+      "explanation": "これによってソ連は消滅した。",
+      "yearStart": 1991,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1902-17",
+      "subject": "sekaishi-tankyu",
+      "question": "毛沢東の死後に実権をにぎり、1978年から改革開放政策を進めた中国の指導者は誰か。",
+      "answer": "鄧小平",
+      "reading": "とうしょうへい",
+      "alternatives": [],
+      "explanation": "農業・工業・国防・科学技術の「四つの現代化」をかかげた。",
+      "yearStart": 1978,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1902-18",
+      "subject": "sekaishi-tankyu",
+      "question": "1978年から鄧小平が進めた、人民公社の解体や外国の資本・技術の導入などの政策を何というか。",
+      "answer": "改革開放政策",
+      "reading": "かいかくかいほうせいさく",
+      "alternatives": [
+        "改革開放"
+      ],
+      "explanation": "農家が生産を請け負う制度や、経済特区がつくられた。",
+      "yearStart": 1978,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1902-19",
+      "subject": "sekaishi-tankyu",
+      "question": "1989年6月に、北京で民主化を求める学生や市民の運動を、中国政府が軍隊を使っておさえこんだ事件を何というか。",
+      "answer": "天安門事件",
+      "reading": "てんあんもんじけん",
+      "alternatives": [
+        "第2次天安門事件"
+      ],
+      "explanation": "国際的に強い批判を受けた。",
+      "yearStart": 1989,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1902-20",
+      "subject": "sekaishi-tankyu",
+      "question": "1997年に、イギリスから中国に返還された地域はどこか。",
+      "answer": "香港",
+      "alternatives": [],
+      "explanation": "社会主義の中国のなかで資本主義の制度を残す「一国二制度」がとられた。1999年にはポルトガルからマカオも返還された。",
+      "yearStart": 1997,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1902-21",
+      "subject": "sekaishi-tankyu",
+      "question": "1986年からベトナムで進められた、市場経済の導入や対外開放などの改革政策を何というか。",
+      "answer": "ドイモイ",
+      "alternatives": [
+        "刷新"
+      ],
+      "explanation": "「刷新」を意味する。共産党の一党支配は続けたまま、経済の改革を進めた。",
+      "yearStart": 1986,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1902-22",
+      "subject": "sekaishi-tankyu",
+      "question": "南アフリカで、アパルトヘイトの撤廃後の1994年に、初めての黒人の大統領となった人物は誰か。",
+      "answer": "マンデラ",
+      "alternatives": [
+        "ネルソン=マンデラ"
+      ],
+      "explanation": "アフリカ民族会議（ANC）の指導者として、長く獄中にあった。",
+      "yearStart": 1994,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1902-23",
+      "subject": "sekaishi-tankyu",
+      "question": "1990年に、イラクがクウェートに侵攻したことをきっかけに、翌年、アメリカを中心とする多国籍軍がイラクを攻撃した戦争を何というか。",
+      "answer": "湾岸戦争",
+      "reading": "わんがんせんそう",
+      "alternatives": [],
+      "explanation": "国際連合の安全保障理事会の決議にもとづいておこなわれ、クウェートは解放された。",
+      "yearStart": 1991,
+      "regions": [
+        "西アジア",
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-01",
+      "subject": "sekaishi-tankyu",
+      "question": "1991年にクロアティアとスロヴェニアが独立を宣言したことから内戦が始まり、解体していった東ヨーロッパの連邦国家はどこか。",
+      "answer": "ユーゴスラヴィア",
+      "alternatives": [
+        "ユーゴスラビア"
+      ],
+      "explanation": "民族や宗教のちがいによる対立が、冷戦の終結とともに表面化した。",
+      "yearStart": 1991,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-02",
+      "subject": "sekaishi-tankyu",
+      "question": "1992年から95年にかけて、セルビア人・クロアティア人・ムスリムの3つの勢力がはげしく争った内戦は、どこでおこったか。",
+      "answer": "ボスニア=ヘルツェゴヴィナ",
+      "alternatives": [
+        "ボスニア"
+      ],
+      "explanation": "多くの住民が犠牲となった。",
+      "yearStart": 1992,
+      "yearEnd": 1995,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-03",
+      "subject": "sekaishi-tankyu",
+      "question": "1990年代末に、セルビアからの独立を求めるアルバニア系の住民とセルビア政府の対立に、NATOの軍が介入して空爆をおこなった紛争を何というか。",
+      "answer": "コソヴォ紛争",
+      "alternatives": [
+        "コソボ紛争",
+        "コソヴォ問題"
+      ],
+      "explanation": "コソヴォは2008年に独立を宣言した。",
+      "yearStart": 1999,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-04",
+      "subject": "sekaishi-tankyu",
+      "question": "1990年代から、ロシア連邦からの独立を求める運動がおこり、ロシア軍が攻撃をおこなったカフカス地方の共和国はどこか。",
+      "answer": "チェチェン",
+      "alternatives": [
+        "チェチェン共和国"
+      ],
+      "explanation": "ロシア国内の民族問題を示す紛争となった。",
+      "yearStart": 1994,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-05",
+      "subject": "sekaishi-tankyu",
+      "question": "2000年にロシアの大統領となり、強い指導力で国家の立て直しを進めた人物は誰か。",
+      "answer": "プーチン",
+      "alternatives": [],
+      "explanation": "2014年にウクライナのクリミア半島を併合し、2022年にはウクライナに侵攻した。",
+      "yearStart": 2000,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-06",
+      "subject": "sekaishi-tankyu",
+      "question": "1992年に調印され、翌年に発効して、ヨーロッパ連合を発足させた条約は何か。",
+      "answer": "マーストリヒト条約",
+      "alternatives": [
+        "ヨーロッパ連合条約"
+      ],
+      "explanation": "共通の通貨や、共通の外交・安全保障政策の導入をめざした。",
+      "yearStart": 1992,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-07",
+      "subject": "sekaishi-tankyu",
+      "question": "1993年に、ヨーロッパ共同体（EC）が発展して発足した組織は何か。",
+      "answer": "ヨーロッパ連合",
+      "reading": "よーろっぱれんごう",
+      "alternatives": [
+        "EU",
+        "欧州連合"
+      ],
+      "explanation": "2004年以降、東ヨーロッパの国々も加盟した。イギリスは2020年に離脱した。",
+      "yearStart": 1993,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1999年に導入され、2002年から紙幣と硬貨が使われ始めた、ヨーロッパ連合の共通通貨は何か。",
+      "answer": "ユーロ",
+      "alternatives": [],
+      "explanation": "加盟国のうち、条件を満たした国が導入した。",
+      "yearStart": 1999,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1994年に、アメリカ・カナダ・メキシコのあいだで発効した、貿易の自由化のための協定は何か。",
+      "answer": "北米自由貿易協定",
+      "reading": "ほくべいじゆうぼうえききょうてい",
+      "alternatives": [
+        "NAFTA"
+      ],
+      "explanation": "ヨーロッパの統合に対抗する面があった。",
+      "yearStart": 1994,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-10",
+      "subject": "sekaishi-tankyu",
+      "question": "1989年に、アジア・太平洋地域の経済協力を進めるために発足した会議は何か。",
+      "answer": "アジア太平洋経済協力",
+      "reading": "あじあたいへいようけいざいきょうりょく",
+      "alternatives": [
+        "APEC",
+        "アジア太平洋経済協力会議"
+      ],
+      "explanation": "日本・アメリカ・オーストラリア・ASEAN諸国などが参加した。",
+      "yearStart": 1989,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-11",
+      "subject": "sekaishi-tankyu",
+      "question": "1995年に、GATTを受けついで発足した、貿易の自由化を進めるための国際機関は何か。",
+      "answer": "世界貿易機関",
+      "reading": "せかいぼうえききかん",
+      "alternatives": [
+        "WTO"
+      ],
+      "explanation": "サービスの貿易や知的財産権もあつかう。中国は2001年に加盟した。",
+      "yearStart": 1995,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-12",
+      "subject": "sekaishi-tankyu",
+      "question": "人・もの・資本・情報が国境をこえて大量に行き来し、世界の一体化が進むことを何というか。",
+      "answer": "グローバル化",
+      "alternatives": [
+        "グローバリゼーション"
+      ],
+      "explanation": "冷戦の終結と情報通信技術の発達によって急速に進んだ。",
+      "yearStart": 1995,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1997年に、タイの通貨の急落から始まり、東南アジアや韓国に広がった経済の混乱を何というか。",
+      "answer": "アジア通貨危機",
+      "reading": "あじあつうかきき",
+      "alternatives": [],
+      "explanation": "インドネシアでは、翌年にスハルト政権が倒れた。",
+      "yearStart": 1997,
+      "regions": [
+        "東南アジア",
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-14",
+      "subject": "sekaishi-tankyu",
+      "question": "2008年に、アメリカの大手の投資銀行の破綻をきっかけにおこった、世界的な金融危機を何と呼ぶか。",
+      "answer": "リーマン=ショック",
+      "alternatives": [
+        "世界金融危機",
+        "国際金融危機"
+      ],
+      "explanation": "世界中が同時に不況となり、主要20カ国・地域（G20）の首脳会議がひらかれるようになった。",
+      "yearStart": 2008,
+      "regions": [
+        "南北アメリカ",
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-15",
+      "subject": "sekaishi-tankyu",
+      "question": "21世紀に入って急速な経済成長をとげた、ブラジル・ロシア・インド・中国・南アフリカの5カ国を何と呼ぶか。",
+      "answer": "BRICS",
+      "alternatives": [
+        "ブリックス"
+      ],
+      "explanation": "広い国土と多くの人口、豊かな資源をもつ。",
+      "yearStart": 2010,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-16",
+      "subject": "sekaishi-tankyu",
+      "question": "1993年に、イスラエルとパレスチナ解放機構（PLO）がたがいを認めあい、パレスチナ人の暫定的な自治を始めることを決めた合意を何というか。",
+      "answer": "パレスチナ暫定自治協定",
+      "alternatives": [
+        "オスロ合意"
+      ],
+      "explanation": "イスラエルのラビン首相とPLOのアラファト議長が調印した。その後、ラビンが暗殺され、和平は行きづまった。",
+      "yearStart": 1993,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-17",
+      "subject": "sekaishi-tankyu",
+      "question": "2010年末にチュニジアで始まり、エジプトやリビアなどに広がって、長期の独裁政権を倒した民主化運動を何というか。",
+      "answer": "アラブの春",
+      "reading": "あらぶのはる",
+      "alternatives": [],
+      "explanation": "その後、シリアなどでは内戦となった。",
+      "yearStart": 2011,
+      "regions": [
+        "西アジア",
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-18",
+      "subject": "sekaishi-tankyu",
+      "question": "1994年に、フツ人とツチ人の対立から、多数の人々が虐殺された内戦がおこったアフリカの国はどこか。",
+      "answer": "ルワンダ",
+      "alternatives": [],
+      "explanation": "冷戦後のアフリカでは、各地で内戦や紛争がおこった。",
+      "yearStart": 1994,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-19",
+      "subject": "sekaishi-tankyu",
+      "question": "2002年に、アフリカ統一機構が発展して発足した、アフリカの地域機構は何か。",
+      "answer": "アフリカ連合",
+      "reading": "あふりかれんごう",
+      "alternatives": [
+        "AU"
+      ],
+      "explanation": "ヨーロッパ連合を手本に、政治と経済の統合をめざしている。",
+      "yearStart": 2002,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-20",
+      "subject": "sekaishi-tankyu",
+      "question": "2000年に、韓国の大統領として初めて北朝鮮を訪れ、南北首脳会談をおこなった人物は誰か。",
+      "answer": "金大中",
+      "reading": "きんだいちゅう",
+      "alternatives": [],
+      "explanation": "「キム=デジュン」と読む。北朝鮮の指導者は金正日だった。",
+      "yearStart": 2000,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-21",
+      "subject": "sekaishi-tankyu",
+      "question": "ミャンマーで、軍事政権に対する民主化運動を指導した人物は誰か。",
+      "answer": "アウン=サン=スー=チー",
+      "alternatives": [
+        "スー=チー"
+      ],
+      "explanation": "独立運動の指導者アウン=サンの娘。",
+      "yearStart": 1988,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-22",
+      "subject": "sekaishi-tankyu",
+      "question": "2002年に、インドネシアから独立した東南アジアの国はどこか。",
+      "answer": "東ティモール",
+      "alternatives": [],
+      "explanation": "もとはポルトガルの植民地で、1976年にインドネシアに併合されていた。",
+      "yearStart": 2002,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-23",
+      "subject": "sekaishi-tankyu",
+      "question": "1991年に、内戦の続いていたカンボジアについて結ばれた和平協定にもとづき、国連の暫定統治をへて1993年に成立した国は何か。",
+      "answer": "カンボジア王国",
+      "reading": "かんぼじあおうこく",
+      "alternatives": [],
+      "explanation": "シハヌークが国王となった。",
+      "yearStart": 1993,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-24",
+      "subject": "sekaishi-tankyu",
+      "question": "2001年9月11日に、アメリカで、ハイジャックされた旅客機がニューヨークの高層ビルなどに突入した事件を何というか。",
+      "answer": "同時多発テロ事件",
+      "reading": "どうじたはつてろじけん",
+      "alternatives": [
+        "同時多発テロ",
+        "9.11事件",
+        "アメリカ同時多発テロ"
+      ],
+      "explanation": "アメリカは、イスラーム急進派の組織アル=カーイダのしわざと断定した。",
+      "yearStart": 2001,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-25",
+      "subject": "sekaishi-tankyu",
+      "question": "同時多発テロ事件ののち、アメリカが、事件の首謀者をかくまっているとして攻撃し、ターリバーン政権を倒した国はどこか。",
+      "answer": "アフガニスタン",
+      "alternatives": [],
+      "explanation": "アメリカのブッシュ大統領は「対テロ戦争」をとなえた。",
+      "yearStart": 2001,
+      "regions": [
+        "西アジア",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-26",
+      "subject": "sekaishi-tankyu",
+      "question": "2003年に、アメリカがイギリスなどとともに、大量破壊兵器をもっているとしてイラクを攻撃した戦争を何というか。",
+      "answer": "イラク戦争",
+      "reading": "いらくせんそう",
+      "alternatives": [],
+      "explanation": "サダム=フセイン政権は倒れたが、大量破壊兵器は見つからず、その後も混乱が続いた。",
+      "yearStart": 2003,
+      "regions": [
+        "西アジア",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-27",
+      "subject": "sekaishi-tankyu",
+      "question": "2009年に、アメリカで初めてのアフリカ系の大統領となった人物は誰か。",
+      "answer": "オバマ",
+      "alternatives": [],
+      "explanation": "「核兵器のない世界」をめざすことをうったえた。",
+      "yearStart": 2009,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-28",
+      "subject": "sekaishi-tankyu",
+      "question": "紛争地域の停戦の監視などをおこなう、国際連合の活動を何というか。",
+      "answer": "国連平和維持活動",
+      "reading": "こくれんへいわいじかつどう",
+      "alternatives": [
+        "PKO",
+        "平和維持活動"
+      ],
+      "explanation": "冷戦後は、選挙の監視や復興の支援など、活動の内容が広がった。",
+      "yearStart": 1992,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-29",
+      "subject": "sekaishi-tankyu",
+      "question": "1992年に、ブラジルのリオデジャネイロでひらかれた、地球環境問題についての国際会議を何というか。",
+      "answer": "国連環境開発会議",
+      "reading": "こくれんかんきょうかいはつかいぎ",
+      "alternatives": [
+        "地球サミット"
+      ],
+      "explanation": "「持続可能な開発」が理念としてかかげられた。",
+      "yearStart": 1992,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-30",
+      "subject": "sekaishi-tankyu",
+      "question": "1997年に採択された、先進国に温室効果ガスの排出量の削減を義務づけた取り決めは何か。",
+      "answer": "京都議定書",
+      "reading": "きょうとぎていしょ",
+      "alternatives": [],
+      "explanation": "地球温暖化を防ぐための国際的な取り決め。2015年には、すべての国が参加するパリ協定が採択された。",
+      "yearStart": 1997,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1903-31",
+      "subject": "sekaishi-tankyu",
+      "question": "2015年に採択された、すべての国が温室効果ガスの削減に取り組むことを定めた、地球温暖化対策の国際的な取り決めは何か。",
+      "answer": "パリ協定",
+      "reading": "ぱりきょうてい",
+      "alternatives": [],
+      "explanation": "産業革命前からの気温の上昇を2度未満におさえることを目標とした。",
+      "yearStart": 2015,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-32",
+      "subject": "sekaishi-tankyu",
+      "question": "2015年に国際連合で採択された、2030年までに達成をめざす17の国際的な目標を何というか。",
+      "answer": "持続可能な開発目標",
+      "reading": "じぞくかのうなかいはつもくひょう",
+      "alternatives": [
+        "SDGs"
+      ],
+      "explanation": "貧困や飢餓の解消、教育、ジェンダーの平等、気候変動への対策などをふくむ。",
+      "yearStart": 2015,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-33",
+      "subject": "sekaishi-tankyu",
+      "question": "国境をこえて、人権や環境、開発などの問題に取り組む民間の団体を何というか。",
+      "answer": "非政府組織",
+      "reading": "ひせいふそしき",
+      "alternatives": [
+        "NGO"
+      ],
+      "explanation": "対人地雷の禁止などで大きな役割をはたした。",
+      "yearStart": 1990,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1903-34",
+      "subject": "sekaishi-tankyu",
+      "question": "1996年に国際連合で採択された、地下をふくむすべての核実験を禁止する条約は何か。",
+      "answer": "包括的核実験禁止条約",
+      "reading": "ほうかつてきかくじっけんきんしじょうやく",
+      "alternatives": [
+        "CTBT"
+      ],
+      "explanation": "アメリカなどが批准していないため、まだ発効していない。",
+      "yearStart": 1996,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-01",
+      "subject": "sekaishi-tankyu",
+      "question": "20世紀初めに相対性理論を発表して、時間や空間についてのそれまでの考え方を大きく変えた物理学者は誰か。",
+      "answer": "アインシュタイン",
+      "alternatives": [],
+      "explanation": "ドイツ生まれのユダヤ人で、ナチスの迫害をのがれてアメリカに移った。",
+      "yearStart": 1905,
+      "regions": [
+        "ヨーロッパ",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1904-02",
+      "subject": "sekaishi-tankyu",
+      "question": "1961年に、人類で初めて宇宙飛行に成功したソ連の宇宙飛行士は誰か。",
+      "answer": "ガガーリン",
+      "alternatives": [],
+      "explanation": "「地球は青かった」ということばで知られる。",
+      "yearStart": 1961,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-03",
+      "subject": "sekaishi-tankyu",
+      "question": "1969年に、人類で初めて月面への着陸に成功したアメリカの宇宙船は何か。",
+      "answer": "アポロ11号",
+      "alternatives": [
+        "アポロ"
+      ],
+      "explanation": "アメリカとソ連は宇宙開発を競いあった。",
+      "yearStart": 1969,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1904-04",
+      "subject": "sekaishi-tankyu",
+      "question": "1953年に、ワトソンとクリックが明らかにした、遺伝情報をになう物質の構造は何か。",
+      "answer": "DNAの二重らせん構造",
+      "alternatives": [
+        "DNAの構造",
+        "二重らせん構造"
+      ],
+      "explanation": "生命科学が急速に発展するきっかけとなった。2003年にはヒトの遺伝情報（ヒトゲノム）の解読が完了した。",
+      "yearStart": 1953,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1928年にフレミングが発見し、のちに感染症の治療に大きな効果をあげた最初の抗生物質は何か。",
+      "answer": "ペニシリン",
+      "alternatives": [],
+      "explanation": "第二次世界大戦中に実用化された。",
+      "yearStart": 1928,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-06",
+      "subject": "sekaishi-tankyu",
+      "question": "20世紀末から急速に普及した、世界中のコンピュータを結ぶ通信網を何というか。",
+      "answer": "インターネット",
+      "alternatives": [],
+      "explanation": "情報技術（IT）の革命が進み、大量の情報が瞬時に世界をかけめぐるようになった。",
+      "yearStart": 1995,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "文化",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1904-07",
+      "subject": "sekaishi-tankyu",
+      "question": "二酸化炭素などの温室効果ガスの増加によって、地球の気温が上がる現象を何というか。",
+      "answer": "地球温暖化",
+      "reading": "ちきゅうおんだんか",
+      "alternatives": [],
+      "explanation": "海面の上昇や異常気象の原因になるとされる。",
+      "yearStart": 1990,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-08",
+      "subject": "sekaishi-tankyu",
+      "question": "人間の心の奥にある無意識の世界を探究して、精神分析学をひらいたオーストリアの医師は誰か。",
+      "answer": "フロイト",
+      "alternatives": [],
+      "explanation": "人間の理性を重んじる近代の考え方に大きな影響を与えた。",
+      "yearStart": 1900,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1904-09",
+      "subject": "sekaishi-tankyu",
+      "question": "『プロテスタンティズムの倫理と資本主義の精神』を著して、宗教と近代社会の関係を論じたドイツの社会学者は誰か。",
+      "answer": "マックス=ヴェーバー",
+      "alternatives": [
+        "ヴェーバー",
+        "ウェーバー"
+      ],
+      "explanation": "社会科学の方法を確立した。",
+      "yearStart": 1905,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-10",
+      "subject": "sekaishi-tankyu",
+      "question": "観念よりも実際の行動や結果を重んじる、アメリカで発展した哲学を何というか。",
+      "answer": "プラグマティズム",
+      "alternatives": [
+        "実用主義"
+      ],
+      "explanation": "デューイが大成した。",
+      "yearStart": 1900,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-11",
+      "subject": "sekaishi-tankyu",
+      "question": "第二次世界大戦後に、人間は自由な選択によって自分のあり方を決める存在であると説く実存主義をとなえたフランスの哲学者・作家は誰か。",
+      "answer": "サルトル",
+      "alternatives": [],
+      "explanation": "社会への参加を重んじた。",
+      "yearStart": 1943,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-12",
+      "subject": "sekaishi-tankyu",
+      "question": "『雇用・利子および貨幣の一般理論』を著して、不況のときには政府が積極的に経済に介入して需要をつくり出すべきだと説いたイギリスの経済学者は誰か。",
+      "answer": "ケインズ",
+      "alternatives": [],
+      "explanation": "ニューディールなどの政策を理論的にささえた。",
+      "yearStart": 1936,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1904-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1978年に『オリエンタリズム』を著して、ヨーロッパの人々の東洋に対する見方にひそむ偏見を批判したパレスチナ系のアメリカ人の学者は誰か。",
+      "answer": "サイード",
+      "alternatives": [],
+      "explanation": "植民地支配が残した問題を考える研究に大きな影響を与えた。",
+      "yearStart": 1978,
+      "regions": [
+        "南北アメリカ",
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-14",
+      "subject": "sekaishi-tankyu",
+      "question": "対象をさまざまな角度から見た形に分解して、1つの画面にえがく立体派（キュビスム）を始めたスペイン出身の画家は誰か。",
+      "answer": "ピカソ",
+      "alternatives": [],
+      "explanation": "「ゲルニカ」で戦争の悲惨さをえがいた。",
+      "yearStart": 1907,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1904-15",
+      "subject": "sekaishi-tankyu",
+      "question": "強い色彩を大胆に使う野獣派（フォーヴィスム）を代表するフランスの画家は誰か。",
+      "answer": "マティス",
+      "alternatives": [],
+      "explanation": "20世紀の絵画の新しい流れをひらいた。",
+      "yearStart": 1905,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-16",
+      "subject": "sekaishi-tankyu",
+      "question": "夢や無意識の世界をえがく超現実主義（シュルレアリスム）を代表するスペインの画家は誰か。",
+      "answer": "ダリ",
+      "alternatives": [],
+      "explanation": "フロイトの精神分析学の影響を受けた。",
+      "yearStart": 1931,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-17",
+      "subject": "sekaishi-tankyu",
+      "question": "『ジャン=クリストフ』を著し、第一次世界大戦に反対したフランスの作家は誰か。",
+      "answer": "ロマン=ロラン",
+      "alternatives": [],
+      "explanation": "人道主義の立場から平和をうったえた。",
+      "yearStart": 1912,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-18",
+      "subject": "sekaishi-tankyu",
+      "question": "『魔の山』などを著し、ナチスに反対して亡命したドイツの作家は誰か。",
+      "answer": "トーマス=マン",
+      "alternatives": [],
+      "explanation": "ノーベル文学賞を受賞した。",
+      "yearStart": 1924,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-19",
+      "subject": "sekaishi-tankyu",
+      "question": "『武器よさらば』や『誰がために鐘は鳴る』を著し、スペイン内戦にも参加したアメリカの作家は誰か。",
+      "answer": "ヘミングウェー",
+      "alternatives": [
+        "ヘミングウェイ"
+      ],
+      "explanation": "戦争に傷ついた世代をえがいた。",
+      "yearStart": 1929,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-20",
+      "subject": "sekaishi-tankyu",
+      "question": "1913年に、アジアで初めてノーベル文学賞を受賞したインドの詩人は誰か。",
+      "answer": "タゴール",
+      "alternatives": [],
+      "explanation": "インドの国歌の作詞者でもある。",
+      "yearStart": 1913,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-21",
+      "subject": "sekaishi-tankyu",
+      "question": "1979年に国際連合で採択された、政治・経済・社会などのあらゆる分野での女性への差別をなくすことをめざす条約は何か。",
+      "answer": "女性差別撤廃条約",
+      "reading": "じょせいさべつてっぱいじょうやく",
+      "alternatives": [
+        "女子差別撤廃条約"
+      ],
+      "explanation": "日本は1985年に批准した。",
+      "yearStart": 1979,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1904-22",
+      "subject": "sekaishi-tankyu",
+      "question": "1960年代後半から、アメリカなどでさかんになった、女性の解放と男女の平等を求める運動を何というか。",
+      "answer": "ウーマン=リブ",
+      "alternatives": [
+        "女性解放運動",
+        "フェミニズム運動"
+      ],
+      "explanation": "社会のあらゆる場面での性による差別を問い直した。",
+      "yearStart": 1968,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ",
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1904-23",
+      "subject": "sekaishi-tankyu",
+      "question": "生物学的な性別ではなく、社会や文化のなかでつくられた性別についての考え方や役割を何というか。",
+      "answer": "ジェンダー",
+      "alternatives": [],
+      "explanation": "「男らしさ」「女らしさ」のような決めつけを見直す動きが広がった。",
+      "yearStart": 1990,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

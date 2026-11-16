@@ -1,0 +1,1700 @@
+{
+  "generatedFrom": "nihonshi-15.csv",
+  "_note": "このファイルは nihonshi-15.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "j-1501-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1920年に、第一次世界大戦後のヨーロッパの復興によって、日本の輸出が減り、株価が暴落しておこった恐慌を何というか。",
+      "answer": "戦後恐慌",
+      "reading": "せんごきょうこう",
+      "alternatives": [],
+      "explanation": "綿糸や生糸の値段が暴落した。1923年には、関東大震災による震災恐慌がおこった。",
+      "yearStart": 1920,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1501-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1927年に、大蔵大臣の失言をきっかけに、銀行に預金者がおしよせる取付け騒ぎがおこり、多くの銀行が休業に追いこまれた恐慌を何というか。",
+      "answer": "金融恐慌",
+      "reading": "きんゆうきょうこう",
+      "alternatives": [],
+      "explanation": "関東大震災で決済できなくなった手形（震災手形）の処理をめぐる議論のなかでおこった。",
+      "yearStart": 1927,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1501-03",
+      "subject": "nihonshi-tankyu",
+      "question": "金融恐慌で、経営が破綻した総合商社の鈴木商店に、巨額の貸付をおこなっていたために、経営の危機におちいった銀行は何か。",
+      "answer": "台湾銀行",
+      "reading": "たいわんぎんこう",
+      "alternatives": [],
+      "explanation": "第1次若槻礼次郎内閣は、緊急勅令によって救済しようとしたが、枢密院に否決されて総辞職した。",
+      "yearStart": 1927,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1501-04",
+      "subject": "nihonshi-tankyu",
+      "question": "金融恐慌で、田中義一内閣が出した、銀行の預金の支払いを3週間猶予する命令を何というか。",
+      "answer": "モラトリアム",
+      "alternatives": [
+        "支払猶予令"
+      ],
+      "explanation": "大蔵大臣の高橋是清がおこない、日本銀行から巨額の融資をして、恐慌をしずめた。",
+      "yearStart": 1927,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1501-05",
+      "subject": "nihonshi-tankyu",
+      "question": "金融恐慌ののち、預金が集中して、金融界を支配するようになった、三井・三菱・住友・安田・第一の5つの銀行をまとめて何というか。",
+      "answer": "五大銀行",
+      "reading": "ごだいぎんこう",
+      "alternatives": [],
+      "explanation": "中小の銀行の整理と合併が進み、財閥の力がいっそう強まった。",
+      "yearStart": 1927,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1501-06",
+      "subject": "nihonshi-tankyu",
+      "question": "1920年代に、普通選挙の実施にそなえて結成された、労働者や農民の利益を代表する、社会主義系の合法的な政党をまとめて何というか。",
+      "answer": "無産政党",
+      "reading": "むさんせいとう",
+      "alternatives": [],
+      "explanation": "労働農民党・社会民衆党・日本労農党などに分かれた。1928年の最初の普通選挙では、8人が当選した。",
+      "yearStart": 1926,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1501-07",
+      "subject": "nihonshi-tankyu",
+      "question": "1928年に、田中義一内閣が、最初の普通選挙の直後に、共産党員を一斉に検挙した事件を何というか。",
+      "answer": "三・一五事件",
+      "reading": "さん・いちごじけん",
+      "alternatives": [],
+      "explanation": "翌年にも大規模な検挙がおこなわれた（四・一六事件）。",
+      "yearStart": 1928,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1501-08",
+      "subject": "nihonshi-tankyu",
+      "question": "1928年に、田中義一内閣が、緊急勅令によって治安維持法を改正して、最高刑を何に引き上げたか。",
+      "answer": "死刑",
+      "reading": "しけい",
+      "alternatives": [],
+      "explanation": "思想を取りしまる特別高等警察（特高）を、全国の道府県においた。",
+      "yearStart": 1928,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1501-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1927年から翌年にかけて、田中義一内閣が、国民革命軍の北伐に対して、日本人の居留民の保護を名目に、3度にわたって中国に軍を送ったことを何というか。",
+      "answer": "山東出兵",
+      "reading": "さんとうしゅっぺい",
+      "alternatives": [],
+      "explanation": "1928年には、済南で国民革命軍と衝突した（済南事件）。",
+      "yearStart": 1927,
+      "yearEnd": 1928,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1501-10",
+      "subject": "nihonshi-tankyu",
+      "question": "1928年に、関東軍の一部が、満州を直接支配しようとして、満州の軍閥の指導者を、奉天の郊外で列車ごと爆破して殺害した事件を何というか。",
+      "answer": "張作霖爆殺事件",
+      "reading": "ちょうさくりんばくさつじけん",
+      "alternatives": [
+        "満州某重大事件"
+      ],
+      "explanation": "真相は国民に知らされなかった。田中義一首相は、事件の処理をめぐって天皇の信任を失い、翌年、総辞職した。",
+      "yearStart": 1928,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1501-11",
+      "subject": "nihonshi-tankyu",
+      "question": "張作霖爆殺事件ののち、父のあとをついで、満州を国民政府の支配のもとに合流させた人物は誰か。",
+      "answer": "張学良",
+      "reading": "ちょうがくりょう",
+      "alternatives": [],
+      "explanation": "中国では、不平等条約の撤廃や、権益の回収を求める運動が高まった。",
+      "yearStart": 1928,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1501-12",
+      "subject": "nihonshi-tankyu",
+      "question": "1928年に、日本をふくむ15か国がパリで調印した、国際紛争を解決する手段としての戦争を放棄することを定めた条約は何か。",
+      "answer": "不戦条約",
+      "reading": "ふせんじょうやく",
+      "alternatives": [
+        "パリ不戦条約",
+        "ケロッグ・ブリアン条約"
+      ],
+      "explanation": "田中義一内閣は、欧米に対しては協調外交の方針を引きついだ。",
+      "yearStart": 1928,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1501-13",
+      "subject": "nihonshi-tankyu",
+      "question": "1929年に成立した、立憲民政党の内閣の首相で、財政の引きしめと協調外交を進めた人物は誰か。",
+      "answer": "浜口雄幸",
+      "reading": "はまぐちおさち",
+      "alternatives": [],
+      "explanation": "大蔵大臣に井上準之助を、外務大臣に幣原喜重郎を起用した。",
+      "yearStart": 1929,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1501-14",
+      "subject": "nihonshi-tankyu",
+      "question": "1930年に、浜口雄幸内閣が、為替相場を安定させて貿易をさかんにするためにおこなった、金の輸出の禁止を解いて、金本位制に復帰する政策を何というか。",
+      "answer": "金解禁",
+      "reading": "きんかいきん",
+      "alternatives": [
+        "金輸出解禁"
+      ],
+      "explanation": "大蔵大臣の井上準之助が、実際の為替相場よりも円高となる、旧平価でおこなった。",
+      "yearStart": 1930,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1501-15",
+      "subject": "nihonshi-tankyu",
+      "question": "1930年に、金解禁による不況と、世界恐慌の影響が重なって、日本でおこった深刻な恐慌を何というか。",
+      "answer": "昭和恐慌",
+      "reading": "しょうわきょうこう",
+      "alternatives": [],
+      "explanation": "輸出が大きく減り、企業の倒産や失業者がふえた。",
+      "yearStart": 1930,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1501-16",
+      "subject": "nihonshi-tankyu",
+      "question": "昭和恐慌のとき、アメリカ向けの生糸の輸出が激減して、繭の値段が暴落するなど、農村が深刻な打撃を受けたことを何というか。",
+      "answer": "農業恐慌",
+      "reading": "のうぎょうきょうこう",
+      "alternatives": [],
+      "explanation": "1930年の豊作による米の値段の下落と、翌年の東北・北海道の大凶作が重なった。欠食児童や、女性の身売りがあいついだ。",
+      "yearStart": 1930,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1501-17",
+      "subject": "nihonshi-tankyu",
+      "question": "1931年に、浜口雄幸内閣が定めた、指定した産業でのカルテルの結成を認めて、生産や価格の制限を助ける法律は何か。",
+      "answer": "重要産業統制法",
+      "reading": "じゅうようさんぎょうとうせいほう",
+      "alternatives": [],
+      "explanation": "国家が経済を統制する先がけとなった。",
+      "yearStart": 1931,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1501-18",
+      "subject": "nihonshi-tankyu",
+      "question": "1930年に、浜口雄幸内閣が調印した、補助艦の保有量を制限する条約は何か。",
+      "answer": "ロンドン海軍軍縮条約",
+      "reading": "ろんどんかいぐんぐんしゅくじょうやく",
+      "alternatives": [
+        "ロンドン海軍軍備制限条約",
+        "ロンドン海軍条約"
+      ],
+      "explanation": "日本の補助艦の保有量の総トン数は、アメリカ・イギリスの約7割と定められた。",
+      "yearStart": 1930,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1501-19",
+      "subject": "nihonshi-tankyu",
+      "question": "ロンドン海軍軍縮条約の調印に対して、野党の立憲政友会や海軍軍令部、右翼が、政府は天皇の権限をおかしたと攻撃した問題を何というか。",
+      "answer": "統帥権干犯問題",
+      "reading": "とうすいけんかんぱんもんだい",
+      "alternatives": [],
+      "explanation": "浜口雄幸首相は、枢密院の同意をえて条約を批准したが、1930年11月に東京駅で右翼の青年に狙撃されて重傷を負った。",
+      "yearStart": 1930,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1931年9月18日に、関東軍が、奉天の郊外で、南満州鉄道の線路を爆破した事件を何というか。",
+      "answer": "柳条湖事件",
+      "reading": "りゅうじょうこじけん",
+      "alternatives": [],
+      "explanation": "関東軍は、これを中国軍のしわざであるとして軍事行動を始めた。計画の中心は、参謀の石原莞爾らだった。",
+      "yearStart": 1931,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-02",
+      "subject": "nihonshi-tankyu",
+      "question": "柳条湖事件をきっかけに、関東軍が満州の全域を占領した軍事行動を何というか。",
+      "answer": "満州事変",
+      "reading": "まんしゅうじへん",
+      "alternatives": [],
+      "explanation": "第2次若槻礼次郎内閣は不拡大の方針を声明したが、関東軍はこれを無視した。世論や新聞は、軍の行動を支持した。",
+      "yearStart": 1931,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-03",
+      "subject": "nihonshi-tankyu",
+      "question": "1932年3月に、関東軍が、清の最後の皇帝であった溥儀を執政として、建国を宣言させた国は何か。",
+      "answer": "満州国",
+      "reading": "まんしゅうこく",
+      "alternatives": [],
+      "explanation": "実権は関東軍と日本人の官僚がにぎった。溥儀は1934年に皇帝となった。",
+      "yearStart": 1932,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-04",
+      "subject": "nihonshi-tankyu",
+      "question": "1932年5月15日に、海軍の青年将校らが、首相官邸をおそって、首相を射殺した事件を何というか。",
+      "answer": "五・一五事件",
+      "reading": "ご・いちごじけん",
+      "alternatives": [],
+      "explanation": "殺害されたのは、立憲政友会の犬養毅首相。これによって、政党内閣は終わった。",
+      "yearStart": 1932,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-05",
+      "subject": "nihonshi-tankyu",
+      "question": "1932年に、井上日召の率いる右翼の団体の団員が、前の大蔵大臣の井上準之助と、三井合名会社の理事長の団琢磨を暗殺した事件を何というか。",
+      "answer": "血盟団事件",
+      "reading": "けつめいだんじけん",
+      "alternatives": [],
+      "explanation": "前年には、陸軍の青年将校のクーデタの計画（三月事件・十月事件）も発覚していた。",
+      "yearStart": 1932,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1502-06",
+      "subject": "nihonshi-tankyu",
+      "question": "五・一五事件ののち、元老の西園寺公望の推薦で首相となった、海軍大将は誰か。",
+      "answer": "斎藤実",
+      "reading": "さいとうまこと",
+      "alternatives": [],
+      "explanation": "軍部・官僚・政党などからなる挙国一致内閣を組織した。",
+      "yearStart": 1932,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-07",
+      "subject": "nihonshi-tankyu",
+      "question": "1932年9月に、斎藤実内閣が、満州国を承認して結んだ取り決めを何というか。",
+      "answer": "日満議定書",
+      "reading": "にちまんぎていしょ",
+      "alternatives": [],
+      "explanation": "満州国は、日本の権益を認め、日本軍の無条件の駐屯を認めた。",
+      "yearStart": 1932,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-08",
+      "subject": "nihonshi-tankyu",
+      "question": "満州事変について、中国の提訴を受けて、国際連盟が現地と日本に派遣した調査団を、団長の名から何というか。",
+      "answer": "リットン調査団",
+      "reading": "りっとんちょうさだん",
+      "alternatives": [],
+      "explanation": "報告書は、日本の軍事行動は自衛とはいえず、満州国は自発的な独立運動によるものではないとした。",
+      "yearStart": 1932,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1933年に、国際連盟の総会が、リットン調査団の報告にもとづく勧告案を採択すると、日本がとった行動は何か。",
+      "answer": "国際連盟からの脱退",
+      "reading": "こくさいれんめいからのだったい",
+      "alternatives": [
+        "国際連盟脱退",
+        "国際連盟の脱退",
+        "脱退"
+      ],
+      "explanation": "全権の松岡洋右らは総会の場から退場し、3月に脱退を通告した。日本は国際的に孤立していった。",
+      "yearStart": 1933,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-10",
+      "subject": "nihonshi-tankyu",
+      "question": "1933年5月に、日本軍と中国の国民政府のあいだで結ばれて、満州事変を終わらせた停戦協定を何というか。",
+      "answer": "塘沽停戦協定",
+      "reading": "たんくーていせんきょうてい",
+      "alternatives": [],
+      "explanation": "その後、日本軍は、華北を国民政府の支配から切りはなそうとする工作を進めた。",
+      "yearStart": 1933,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1502-11",
+      "subject": "nihonshi-tankyu",
+      "question": "1931年12月に、犬養毅内閣の大蔵大臣となり、ただちに金の輸出をふたたび禁止した人物は誰か。",
+      "answer": "高橋是清",
+      "reading": "たかはしこれきよ",
+      "alternatives": [],
+      "explanation": "円と金の交換も停止し、日本は管理通貨制度に移った。円安を利用して輸出をのばし、赤字国債を発行して、軍事費と農村の救済の事業に支出した。",
+      "yearStart": 1931,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-12",
+      "subject": "nihonshi-tankyu",
+      "question": "金との交換を保証せず、政府が通貨の発行量を管理・調節する制度を何というか。",
+      "answer": "管理通貨制度",
+      "reading": "かんりつうかせいど",
+      "alternatives": [],
+      "explanation": "日本は、1931年の金輸出の再禁止によって、事実上この制度に移った。",
+      "yearStart": 1931,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-13",
+      "subject": "nihonshi-tankyu",
+      "question": "1930年代に、円安を利用した日本の輸出の急増に対して、イギリスなどが、不当に安い賃金による投げ売りであると非難した言葉は何か。",
+      "answer": "ソーシャル=ダンピング",
+      "alternatives": [],
+      "explanation": "綿織物の輸出は、イギリスをぬいて世界第1位となった。列強は、ブロック経済圏をつくって対抗した。",
+      "yearStart": 1933,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1502-14",
+      "subject": "nihonshi-tankyu",
+      "question": "1930年代に、軍部と結びついて、満州や朝鮮に進出し、重化学工業を中心に急成長した、日産・日窒などの新しい企業集団を何というか。",
+      "answer": "新興財閥",
+      "reading": "しんこうざいばつ",
+      "alternatives": [],
+      "explanation": "鮎川義介の日産は、満州重工業開発会社をつくった。野口遵の日窒は、朝鮮で水力発電と化学工業を経営した。",
+      "yearStart": 1935,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1502-15",
+      "subject": "nihonshi-tankyu",
+      "question": "1934年に、官営の八幡製鉄所と民間の製鉄会社が合同して設立された、半官半民の会社は何か。",
+      "answer": "日本製鉄会社",
+      "reading": "にほんせいてつがいしゃ",
+      "alternatives": [
+        "日本製鉄"
+      ],
+      "explanation": "鉄鋼の国内での自給を達成した。1930年代に、重化学工業の生産額は軽工業を上まわった。",
+      "yearStart": 1934,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1502-16",
+      "subject": "nihonshi-tankyu",
+      "question": "昭和恐慌からの農村の立て直しのために、政府が、産業組合の拡充などによって、農民に「自力更生」をはからせた運動を何というか。",
+      "answer": "農山漁村経済更生運動",
+      "reading": "のうさんぎょそんけいざいこうせいうんどう",
+      "alternatives": [],
+      "explanation": "公共の土木事業に農民をやとって、現金の収入をえさせる時局匡救事業もおこなわれた。",
+      "yearStart": 1932,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1502-17",
+      "subject": "nihonshi-tankyu",
+      "question": "1930年代に、社会主義者や共産主義者が、国家の弾圧によって、その思想を放棄したことを何というか。",
+      "answer": "転向",
+      "reading": "てんこう",
+      "alternatives": [],
+      "explanation": "1933年に、獄中の共産党の幹部の佐野学と鍋山貞親が声明を出したことをきっかけに、大量におこった。",
+      "yearStart": 1933,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-18",
+      "subject": "nihonshi-tankyu",
+      "question": "1933年に、自由主義的な刑法の学説をとなえた京都帝国大学の教授が、文部大臣の鳩山一郎の圧力で休職の処分を受けた事件を、教授の名から何というか。",
+      "answer": "滝川事件",
+      "reading": "たきがわじけん",
+      "alternatives": [],
+      "explanation": "教授の滝川幸辰の処分に抗議して、法学部の教授会は全員が辞表を出したが、敗北した。",
+      "yearStart": 1933,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-19",
+      "subject": "nihonshi-tankyu",
+      "question": "1935年に、美濃部達吉の憲法学説が、貴族院で、日本の国体に反する学説であると攻撃されて、政治問題となった事件を何というか。",
+      "answer": "天皇機関説事件",
+      "reading": "てんのうきかんせつじけん",
+      "alternatives": [
+        "天皇機関説問題"
+      ],
+      "explanation": "軍部や右翼の圧力を受けた岡田啓介内閣は、国体明徴声明を出して、この学説を否定した。",
+      "yearStart": 1935,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-20",
+      "subject": "nihonshi-tankyu",
+      "question": "『日本改造法案大綱』を著して、天皇と軍隊を中心とする国家の改造を説き、陸軍の青年将校に大きな影響を与えた思想家は誰か。",
+      "answer": "北一輝",
+      "reading": "きたいっき",
+      "alternatives": [],
+      "explanation": "二・二六事件ののち、死刑となった。",
+      "yearStart": 1923,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1502-21",
+      "subject": "nihonshi-tankyu",
+      "question": "1930年代の陸軍の派閥のうち、天皇が直接おこなう政治の実現をめざし、直接行動による国家の改造を説いた、青年将校を中心とする派閥を何というか。",
+      "answer": "皇道派",
+      "reading": "こうどうは",
+      "alternatives": [],
+      "explanation": "軍の統制のもとで、官僚や財閥と結んで総力戦の体制をつくろうとする統制派と対立した。",
+      "yearStart": 1934,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1502-22",
+      "subject": "nihonshi-tankyu",
+      "question": "1936年2月26日に、陸軍の皇道派の青年将校たちが、約1400人の兵を率いて、首相官邸などをおそい、東京の中心部を占拠した事件を何というか。",
+      "answer": "二・二六事件",
+      "reading": "に・にろくじけん",
+      "alternatives": [],
+      "explanation": "内大臣の斎藤実、大蔵大臣の高橋是清らが殺害された。天皇の厳罰の指示もあって、反乱軍としてしずめられた。",
+      "yearStart": 1936,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-23",
+      "subject": "nihonshi-tankyu",
+      "question": "二・二六事件ののちに成立し、軍部の要求を受け入れて、軍部大臣現役武官制を復活させた内閣の首相は誰か。",
+      "answer": "広田弘毅",
+      "reading": "ひろたこうき",
+      "alternatives": [],
+      "explanation": "以後、軍部が政治への発言力を強めた。大規模な軍備の拡張の計画も進められた。",
+      "yearStart": 1936,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1502-24",
+      "subject": "nihonshi-tankyu",
+      "question": "1936年に、広田弘毅内閣が、ソ連を中心とする国際的な共産主義の運動に対抗するために、ドイツと結んだ協定は何か。",
+      "answer": "日独防共協定",
+      "reading": "にちどくぼうきょうきょうてい",
+      "alternatives": [],
+      "explanation": "翌年にはイタリアも参加した（日独伊三国防共協定）。",
+      "yearStart": 1936,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1936年に、張学良が、共産党との内戦をやめて日本に抵抗することを求めて、蔣介石を監禁した事件を何というか。",
+      "answer": "西安事件",
+      "reading": "せいあんじけん",
+      "alternatives": [],
+      "explanation": "これをきっかけに、国民政府は共産党への攻撃をやめ、日本への抵抗の体制が整えられていった。",
+      "yearStart": 1936,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1503-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1937年7月7日に、北京の郊外で、日本軍と中国軍が衝突した事件を何というか。",
+      "answer": "盧溝橋事件",
+      "reading": "ろこうきょうじけん",
+      "alternatives": [],
+      "explanation": "第1次近衛文麿内閣は、はじめ不拡大の方針をとったが、軍部の圧力で兵力をふやした。",
+      "yearStart": 1937,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-03",
+      "subject": "nihonshi-tankyu",
+      "question": "盧溝橋事件をきっかけに始まった、日本と中国の全面的な戦争を何というか。",
+      "answer": "日中戦争",
+      "reading": "にっちゅうせんそう",
+      "alternatives": [],
+      "explanation": "宣戦布告のないまま、戦線は華北から上海、さらに南方へと広がった。当時の日本は「支那事変」と呼んだ。",
+      "yearStart": 1937,
+      "yearEnd": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-04",
+      "subject": "nihonshi-tankyu",
+      "question": "1937年12月に、日本軍が、国民政府の首都を占領したさいに、多数の中国人の一般の住民や捕虜を殺害した事件を何というか。",
+      "answer": "南京事件",
+      "reading": "なんきんじけん",
+      "alternatives": [
+        "南京大虐殺"
+      ],
+      "explanation": "国民政府は、漢口、ついで重慶に移って、抵抗を続けた。",
+      "yearStart": 1937,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-05",
+      "subject": "nihonshi-tankyu",
+      "question": "1937年に、中国で、国民党と共産党が、日本に抵抗するためにふたたび協力したことを何というか。",
+      "answer": "第2次国共合作",
+      "reading": "だいにじこっきょうがっさく",
+      "alternatives": [
+        "第二次国共合作"
+      ],
+      "explanation": "抗日民族統一戦線が成立した。",
+      "yearStart": 1937,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-06",
+      "subject": "nihonshi-tankyu",
+      "question": "1938年1月に、近衛文麿首相が、「国民政府を対手とせず」と声明して、みずから和平の道をとざした声明を何というか。",
+      "answer": "第1次近衛声明",
+      "reading": "だいいちじこのえせいめい",
+      "alternatives": [
+        "第一次近衛声明",
+        "近衛声明"
+      ],
+      "explanation": "同じ年の11月には、戦争の目的は「東亜新秩序」の建設にあると声明した。",
+      "yearStart": 1938,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-07",
+      "subject": "nihonshi-tankyu",
+      "question": "近衛声明に応じて重慶を脱出し、1940年に、日本の支援のもとで、南京に新しい国民政府をつくった国民党の幹部は誰か。",
+      "answer": "汪兆銘",
+      "reading": "おうちょうめい",
+      "alternatives": [
+        "汪精衛"
+      ],
+      "explanation": "この政権は弱体で、戦争を終わらせることはできなかった。",
+      "yearStart": 1940,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1503-08",
+      "subject": "nihonshi-tankyu",
+      "question": "1938年に、第1次近衛文麿内閣が制定した、政府が、議会の承認なしに、戦争に必要な物資や労働力を動員できるようにした法律は何か。",
+      "answer": "国家総動員法",
+      "reading": "こっかそうどういんほう",
+      "alternatives": [],
+      "explanation": "これにもとづいて、国民徴用令や価格等統制令などの勅令が出された。",
+      "yearStart": 1938,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1937年に、国民に戦争への協力をうながすために始められた、節約や貯蓄などをすすめる運動を何というか。",
+      "answer": "国民精神総動員運動",
+      "reading": "こくみんせいしんそうどういんうんどう",
+      "alternatives": [],
+      "explanation": "同じ年に、戦時の経済の統制を計画する企画院も設置された。",
+      "yearStart": 1937,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1503-10",
+      "subject": "nihonshi-tankyu",
+      "question": "1939年に、国家総動員法にもとづいて出された、一般の国民を軍需産業に動員するための勅令は何か。",
+      "answer": "国民徴用令",
+      "reading": "こくみんちょうようれい",
+      "alternatives": [],
+      "explanation": "同じ年に、公定価格を定める価格等統制令も出された。",
+      "yearStart": 1939,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1503-11",
+      "subject": "nihonshi-tankyu",
+      "question": "戦時中に、砂糖・マッチ・衣料などの生活に必要な物資を、切符と引きかえに売るようにした制度を何というか。",
+      "answer": "切符制",
+      "reading": "きっぷせい",
+      "alternatives": [],
+      "explanation": "1941年には、米が配給制となった。農村では、政府が米を強制的に買い上げる供出制が実施された。",
+      "yearStart": 1940,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-12",
+      "subject": "nihonshi-tankyu",
+      "question": "1938年から、工場や職場ごとにつくられた、労働者と経営者が一体となって国策に協力するための組織を何というか。",
+      "answer": "産業報国会",
+      "reading": "さんぎょうほうこくかい",
+      "alternatives": [],
+      "explanation": "1940年に大日本産業報国会にまとめられ、すべての労働組合が解散した。",
+      "yearStart": 1938,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1503-13",
+      "subject": "nihonshi-tankyu",
+      "question": "1937年に、政府の大陸政策を批判したために、東京帝国大学の教授の職を追われた、植民地政策の研究者は誰か。",
+      "answer": "矢内原忠雄",
+      "reading": "やないはらただお",
+      "alternatives": [],
+      "explanation": "翌年には、東京帝国大学の大内兵衛らの経済学者が検挙された（人民戦線事件）。",
+      "yearStart": 1937,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1503-14",
+      "subject": "nihonshi-tankyu",
+      "question": "1939年に、満州国とモンゴル人民共和国の国境で、日本軍が、ソ連・モンゴルの軍と戦って大敗した事件を何というか。",
+      "answer": "ノモンハン事件",
+      "reading": "のもんはんじけん",
+      "alternatives": [],
+      "explanation": "戦闘の最中に、ドイツがソ連と独ソ不可侵条約を結んだため、平沼騏一郎内閣は総辞職した。",
+      "yearStart": 1939,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-15",
+      "subject": "nihonshi-tankyu",
+      "question": "1939年に、アメリカが、日本の中国への侵略に抗議して、廃棄を通告した条約は何か。",
+      "answer": "日米通商航海条約",
+      "reading": "にちべいつうしょうこうかいじょうやく",
+      "alternatives": [],
+      "explanation": "翌年に失効し、日本は、石油やくず鉄などの軍需物資の輸入がむずかしくなった。",
+      "yearStart": 1939,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1503-16",
+      "subject": "nihonshi-tankyu",
+      "question": "1940年に、衆議院で、日中戦争についての軍部と政府の方針をきびしく批判する演説をおこない、議員を除名された立憲民政党の議員は誰か。",
+      "answer": "斎藤隆夫",
+      "reading": "さいとうたかお",
+      "alternatives": [],
+      "explanation": "「反軍演説」と呼ばれる。",
+      "yearStart": 1940,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1503-17",
+      "subject": "nihonshi-tankyu",
+      "question": "1940年に、近衛文麿が先頭に立って進めた、ドイツのナチ党やイタリアのファシスト党にならって、強力な指導政党を中心とする新しい政治体制をつくろうとした運動を何というか。",
+      "answer": "新体制運動",
+      "reading": "しんたいせいうんどう",
+      "alternatives": [],
+      "explanation": "立憲政友会・立憲民政党・社会大衆党などの政党は、つぎつぎに解散して参加した。",
+      "yearStart": 1940,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-18",
+      "subject": "nihonshi-tankyu",
+      "question": "1940年に、新体制運動の結果として結成された、首相を総裁とする、全国的な組織を何というか。",
+      "answer": "大政翼賛会",
+      "reading": "たいせいよくさんかい",
+      "alternatives": [],
+      "explanation": "政党ではなく、政府の決定を国民に伝える機関となった。町内会・部落会・隣組を下部の組織とした。",
+      "yearStart": 1940,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-19",
+      "subject": "nihonshi-tankyu",
+      "question": "大政翼賛会の最も下の組織として、5〜10戸ほどでつくられ、配給や回覧板、防空の訓練などをおこなった組織を何というか。",
+      "answer": "隣組",
+      "reading": "となりぐみ",
+      "alternatives": [],
+      "explanation": "国民の生活のすみずみまで、戦争への協力の体制に組みこんだ。",
+      "yearStart": 1940,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1503-20",
+      "subject": "nihonshi-tankyu",
+      "question": "1941年に、小学校は、「皇国の道」にもとづく国家主義的な教育を進めるために、何と改められたか。",
+      "answer": "国民学校",
+      "reading": "こくみんがっこう",
+      "alternatives": [],
+      "explanation": "ナチ=ドイツの制度にならった。",
+      "yearStart": 1941,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1503-21",
+      "subject": "nihonshi-tankyu",
+      "question": "日中戦争の時期に、朝鮮や台湾で強められた、日本語の使用や神社への参拝を強制するなど、人々を日本人に同化させようとする政策を何というか。",
+      "answer": "皇民化政策",
+      "reading": "こうみんかせいさく",
+      "alternatives": [],
+      "explanation": "朝鮮では、姓名を日本風に改めさせる創氏改名が強制された。",
+      "yearStart": 1940,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-22",
+      "subject": "nihonshi-tankyu",
+      "question": "1940年9月に、日本が、援蔣ルートを断ち切り、南方に進出する足がかりとするために、軍を進めた地域はどこか。",
+      "answer": "北部仏印",
+      "reading": "ほくぶふついん",
+      "alternatives": [
+        "フランス領インドシナ北部",
+        "北部フランス領インドシナ"
+      ],
+      "explanation": "フランスがドイツに降伏したことを利用した。",
+      "yearStart": 1940,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-23",
+      "subject": "nihonshi-tankyu",
+      "question": "1940年9月に、日本がドイツ・イタリアと結んだ軍事同盟を何というか。",
+      "answer": "日独伊三国同盟",
+      "reading": "にちどくいさんごくどうめい",
+      "alternatives": [
+        "三国同盟"
+      ],
+      "explanation": "アメリカを仮想の敵国とした。アメリカは、日本へのくず鉄などの輸出を禁止した。",
+      "yearStart": 1940,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-24",
+      "subject": "nihonshi-tankyu",
+      "question": "日本が、欧米の植民地支配にかわって、日本を中心とする共存共栄の新しい秩序をアジアにきずくとして、となえた構想を何というか。",
+      "answer": "大東亜共栄圏",
+      "reading": "だいとうあきょうえいけん",
+      "alternatives": [],
+      "explanation": "実際には、戦争に必要な資源や労働力を確保することが目的だった。",
+      "yearStart": 1940,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-25",
+      "subject": "nihonshi-tankyu",
+      "question": "1941年4月に、外務大臣の松岡洋右が、南方への進出にそなえて、北方の安全を確保するためにソ連と結んだ条約は何か。",
+      "answer": "日ソ中立条約",
+      "reading": "にっそちゅうりつじょうやく",
+      "alternatives": [],
+      "explanation": "同じ月に、戦争をさけるための日米交渉が、駐米大使の野村吉三郎とハル国務長官とのあいだで始まった。",
+      "yearStart": 1941,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-26",
+      "subject": "nihonshi-tankyu",
+      "question": "1941年7月の日本軍の南部仏印への進駐に対して、アメリカは、在米日本資産の凍結に続いて、日本への何の輸出を禁止したか。",
+      "answer": "石油",
+      "reading": "せきゆ",
+      "alternatives": [],
+      "explanation": "軍部は、アメリカ・イギリス・中国・オランダによる「ABCD包囲陣」の脅威を国民に宣伝した。",
+      "yearStart": 1941,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-27",
+      "subject": "nihonshi-tankyu",
+      "question": "1941年10月に、日米交渉の継続を主張する近衛文麿首相にかわって首相となった、陸軍大臣は誰か。",
+      "answer": "東条英機",
+      "reading": "とうじょうひでき",
+      "alternatives": [],
+      "explanation": "中国からの撤兵に反対して、開戦を主張していた。首相・陸軍大臣・内務大臣をかねた。",
+      "yearStart": 1941,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-28",
+      "subject": "nihonshi-tankyu",
+      "question": "1941年11月に、アメリカが日米交渉で示した、日本軍の中国と仏印からの全面的な撤退や、三国同盟の事実上の廃棄などを求めた提案を、一般に何というか。",
+      "answer": "ハル=ノート",
+      "alternatives": [],
+      "explanation": "日本はこれを最後通牒と受けとめ、12月1日の御前会議で開戦を決定した。",
+      "yearStart": 1941,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1503-29",
+      "subject": "nihonshi-tankyu",
+      "question": "1941年12月8日に、日本の陸軍がイギリス領のマレー半島に上陸するとともに、海軍が奇襲攻撃をおこなった、アメリカ海軍の基地があるハワイの軍港はどこか。",
+      "answer": "真珠湾",
+      "reading": "しんじゅわん",
+      "alternatives": [
+        "パールハーバー"
+      ],
+      "explanation": "日本は、アメリカ・イギリスに宣戦を布告し、太平洋戦争が始まった。",
+      "yearStart": 1941,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-30",
+      "subject": "nihonshi-tankyu",
+      "question": "1941年に始まった、日本と、アメリカ・イギリスなどの連合国との戦争を何というか。",
+      "answer": "太平洋戦争",
+      "reading": "たいへいようせんそう",
+      "alternatives": [
+        "アジア・太平洋戦争",
+        "アジア太平洋戦争"
+      ],
+      "explanation": "当時の日本政府は「大東亜戦争」と呼んだ。開戦から半年ほどで、東南アジアから南太平洋にかけての広い地域を占領した。",
+      "yearStart": 1941,
+      "yearEnd": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-31",
+      "subject": "nihonshi-tankyu",
+      "question": "1942年に、東条英機内閣が、戦争を支持する体制をかためるために、政府の推薦する候補者に有利になるようにおこなった総選挙を何というか。",
+      "answer": "翼賛選挙",
+      "reading": "よくさんせんきょ",
+      "alternatives": [],
+      "explanation": "推薦を受けた候補者が、圧倒的な多数を占めた。議会は、政府の提案を承認するだけの機関となった。",
+      "yearStart": 1942,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1503-32",
+      "subject": "nihonshi-tankyu",
+      "question": "1942年6月に、日本の海軍が、主力の航空母艦4隻を失う大敗を喫して、戦局が不利に転じるきっかけとなった戦いを何というか。",
+      "answer": "ミッドウェー海戦",
+      "reading": "みっどうぇーかいせん",
+      "alternatives": [],
+      "explanation": "以後、アメリカ軍の本格的な反攻が始まった。翌年2月には、ガダルカナル島から撤退した。",
+      "yearStart": 1942,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-33",
+      "subject": "nihonshi-tankyu",
+      "question": "1943年11月に、東条英機内閣が、占領地域の戦争への協力を確保するために、満州国や汪兆銘の政権、タイ、ビルマ、フィリピンなどの代表を東京に集めてひらいた会議を何というか。",
+      "answer": "大東亜会議",
+      "reading": "だいとうあかいぎ",
+      "alternatives": [],
+      "explanation": "占領地では、資源の取り立てや労働力の動員によって住民の生活が苦しくなり、各地で日本への抵抗の運動がおこった。",
+      "yearStart": 1943,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1503-34",
+      "subject": "nihonshi-tankyu",
+      "question": "1943年に、それまで徴兵を猶予されていた、文科系の大学生などを、軍に入隊させたことを何というか。",
+      "answer": "学徒出陣",
+      "reading": "がくとしゅつじん",
+      "alternatives": [],
+      "explanation": "兵力の不足をおぎなうためだった。",
+      "yearStart": 1943,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-35",
+      "subject": "nihonshi-tankyu",
+      "question": "戦時中に、労働力の不足をおぎなうために、中学校以上の生徒や学生、未婚の女性などを、軍需工場などで働かせたことを何というか。",
+      "answer": "勤労動員",
+      "reading": "きんろうどういん",
+      "alternatives": [],
+      "explanation": "未婚の女性は、女子挺身隊に組織された。",
+      "yearStart": 1943,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-36",
+      "subject": "nihonshi-tankyu",
+      "question": "戦時中に、労働力の不足をおぎなうために、多くの朝鮮人や中国人を、日本の鉱山や工場などに連れてきて、きびしい条件で働かせたことを何というか。",
+      "answer": "強制連行",
+      "reading": "きょうせいれんこう",
+      "alternatives": [],
+      "explanation": "朝鮮や台湾では、徴兵制も実施された。戦地の「慰安施設」には、朝鮮・中国・フィリピンなどの女性が集められた。",
+      "yearStart": 1942,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1503-37",
+      "subject": "nihonshi-tankyu",
+      "question": "1944年7月に、アメリカ軍に占領されて、日本の本土への爆撃機による空襲の基地とされた、マリアナ諸島の島はどこか。",
+      "answer": "サイパン島",
+      "reading": "さいぱんとう",
+      "alternatives": [
+        "サイパン"
+      ],
+      "explanation": "東条英機内閣は、責任をとって総辞職した。",
+      "yearStart": 1944,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-38",
+      "subject": "nihonshi-tankyu",
+      "question": "1944年から、空襲をさけるために、大都市の国民学校の児童を、集団で地方に移したことを何というか。",
+      "answer": "学童疎開",
+      "reading": "がくどうそかい",
+      "alternatives": [
+        "集団疎開"
+      ],
+      "explanation": "親もとをはなれて、寺や旅館などで集団で生活した。",
+      "yearStart": 1944,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-39",
+      "subject": "nihonshi-tankyu",
+      "question": "1945年3月10日に、アメリカ軍のB29爆撃機が、大量の焼夷弾を投下して、一夜で約10万人が死亡した空襲を何というか。",
+      "answer": "東京大空襲",
+      "reading": "とうきょうだいくうしゅう",
+      "alternatives": [],
+      "explanation": "全国の都市が、無差別の爆撃を受けた。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-40",
+      "subject": "nihonshi-tankyu",
+      "question": "1945年3月末から6月にかけて、アメリカ軍が上陸して、一般の住民をまきこむはげしい地上戦となった戦いを何というか。",
+      "answer": "沖縄戦",
+      "reading": "おきなわせん",
+      "alternatives": [],
+      "explanation": "男子の生徒は鉄血勤皇隊に、女子の生徒はひめゆり学徒隊などの看護の要員に動員された。集団自決に追いこまれた住民もいた。県民の死者は12万人以上にのぼった。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-41",
+      "subject": "nihonshi-tankyu",
+      "question": "1943年に、ローズヴェルト・チャーチル・蔣介石がエジプトで会談して発表した、日本の無条件降伏まで戦うことなどを内容とする宣言を何というか。",
+      "answer": "カイロ宣言",
+      "reading": "かいろせんげん",
+      "alternatives": [],
+      "explanation": "満州・台湾の中国への返還や、朝鮮の独立なども示した。",
+      "yearStart": 1943,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1503-42",
+      "subject": "nihonshi-tankyu",
+      "question": "1945年2月に、ローズヴェルト・チャーチル・スターリンが、クリミア半島で会談して、ドイツの降伏後の処理とともに、ソ連の対日参戦を秘密のうちに取り決めた会談を何というか。",
+      "answer": "ヤルタ会談",
+      "reading": "やるたかいだん",
+      "alternatives": [],
+      "explanation": "ソ連は、南樺太の返還と千島列島の引きわたしを条件に、ドイツの降伏から2〜3か月後に参戦することを約束した。",
+      "yearStart": 1945,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-43",
+      "subject": "nihonshi-tankyu",
+      "question": "1945年7月に、アメリカ・イギリス・中国の名で発表された、日本軍の無条件降伏を求め、日本の戦後処理の方針を示した宣言を何というか。",
+      "answer": "ポツダム宣言",
+      "reading": "ぽつだむせんげん",
+      "alternatives": [],
+      "explanation": "鈴木貫太郎内閣は、はじめこれを「黙殺する」と発表した。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-44",
+      "subject": "nihonshi-tankyu",
+      "question": "1945年8月6日に、アメリカが、人類の歴史上初めて原子爆弾を投下した都市はどこか。",
+      "answer": "広島",
+      "reading": "ひろしま",
+      "alternatives": [],
+      "explanation": "8月9日には長崎に投下された。この年のうちに、広島で約14万人、長崎で約7万人以上が死亡したと推定されている。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-45",
+      "subject": "nihonshi-tankyu",
+      "question": "1945年8月8日に、日ソ中立条約を無視して日本に宣戦を布告し、満州・朝鮮・樺太などに侵攻した国はどこか。",
+      "answer": "ソ連",
+      "reading": "それん",
+      "alternatives": [
+        "ソビエト連邦",
+        "ソヴィエト連邦"
+      ],
+      "explanation": "降伏した日本軍の兵士ら約60万人がシベリアなどに送られて、強制労働をさせられた（シベリア抑留）。満州では、多くの開拓団の人々が犠牲となった。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-46",
+      "subject": "nihonshi-tankyu",
+      "question": "1945年8月14日に、日本政府が、昭和天皇の判断によって受け入れを決定し、連合国に通告したものは何か。",
+      "answer": "ポツダム宣言の受諾",
+      "reading": "ぽつだむせんげんのじゅだく",
+      "alternatives": [
+        "ポツダム宣言受諾"
+      ],
+      "explanation": "翌日の正午に、天皇のラジオ放送で、戦争の終結が国民に発表された。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1503-47",
+      "subject": "nihonshi-tankyu",
+      "question": "1945年9月2日に、東京湾のアメリカの軍艦ミズーリ号の上で、日本政府と軍の代表が署名したものは何か。",
+      "answer": "降伏文書",
+      "reading": "こうふくぶんしょ",
+      "alternatives": [],
+      "explanation": "政府の代表は重光葵、軍の代表は梅津美治郎だった。4年にわたる太平洋戦争が終わった。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

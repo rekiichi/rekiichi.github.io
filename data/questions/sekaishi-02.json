@@ -1,0 +1,2258 @@
+{
+  "generatedFrom": "sekaishi-02.csv",
+  "_note": "このファイルは sekaishi-02.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "w-0201-01",
+      "subject": "sekaishi-tankyu",
+      "question": "馬に乗って家畜とともに草原を移動し、すぐれた軍事力をもった遊牧民を何というか。",
+      "answer": "騎馬遊牧民",
+      "reading": "きばゆうぼくみん",
+      "alternatives": [],
+      "explanation": "馬の機動力と弓矢によって、農耕民の国家にとって大きな脅威となった。",
+      "yearStart": -700,
+      "yearApprox": true,
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0201-02",
+      "subject": "sekaishi-tankyu",
+      "question": "前7世紀頃、黒海北岸の草原地帯を支配した騎馬遊牧民は何か。",
+      "answer": "スキタイ",
+      "alternatives": [],
+      "explanation": "動物の文様をもつ金属器など、独自の騎馬文化を生んだ。",
+      "yearStart": -650,
+      "yearApprox": true,
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0201-03",
+      "subject": "sekaishi-tankyu",
+      "question": "遊牧民が、有力な君主のもとに諸部族を連合させてつくった国家を何というか。",
+      "answer": "遊牧国家",
+      "reading": "ゆうぼくこっか",
+      "alternatives": [],
+      "explanation": "農耕民やオアシスの民を支配下に入れ、貢ぎ物をとった。",
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0201-04",
+      "subject": "sekaishi-tankyu",
+      "question": "前3世紀末にモンゴル高原の遊牧民を統一し、秦や漢をおびやかした遊牧国家（民族）は何か。",
+      "answer": "匈奴",
+      "reading": "きょうど",
+      "alternatives": [],
+      "explanation": "前漢の武帝の攻撃を受けておとろえ、のち東西・南北に分裂した。",
+      "yearStart": -209,
+      "yearApprox": true,
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0201-05",
+      "subject": "sekaishi-tankyu",
+      "question": "前3世紀末に即位して匈奴の全盛期をきずき、漢の高祖を破った君主は誰か。",
+      "answer": "冒頓単于",
+      "reading": "ぼくとつぜんう",
+      "alternatives": [],
+      "explanation": "西方の月氏を追い、中央ユーラシア東部を支配した。",
+      "yearStart": -209,
+      "yearApprox": true,
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0201-06",
+      "subject": "sekaishi-tankyu",
+      "question": "匈奴の君主の称号を何というか。",
+      "answer": "単于",
+      "reading": "ぜんう",
+      "alternatives": [],
+      "explanation": "「広く大きい」という意味とされる。",
+      "yearStart": -209,
+      "yearApprox": true,
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0201-07",
+      "subject": "sekaishi-tankyu",
+      "question": "匈奴に追われて西方に移り、中央アジアのアム川上流域に国を建てた人々（国）は何か。",
+      "answer": "大月氏",
+      "reading": "だいげっし",
+      "alternatives": [
+        "月氏"
+      ],
+      "explanation": "前漢の武帝は、同盟を結ぼうとして張騫を派遣した。",
+      "yearStart": -160,
+      "yearApprox": true,
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0201-08",
+      "subject": "sekaishi-tankyu",
+      "question": "中央アジアの乾燥地帯で、わき水や河川の水を利用して農業や商業を営んだ定住民の都市を何というか。",
+      "answer": "オアシス都市",
+      "alternatives": [],
+      "explanation": "隊商交易の中継地として栄えたが、しばしば遊牧国家の支配を受けた。",
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0201-09",
+      "subject": "sekaishi-tankyu",
+      "question": "中国と西アジア・地中海地域を、オアシス都市をつないで結んだ東西交易路を何というか。",
+      "answer": "オアシスの道",
+      "alternatives": [
+        "絹の道",
+        "シルク=ロード"
+      ],
+      "explanation": "中国の絹が西方に運ばれたことから「絹の道」とも呼ばれる。",
+      "yearStart": -100,
+      "yearApprox": true,
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0201-10",
+      "subject": "sekaishi-tankyu",
+      "question": "モンゴル高原から南ロシアの草原地帯を結ぶ東西交通路を何というか。",
+      "answer": "草原の道",
+      "alternatives": [
+        "ステップ=ロード"
+      ],
+      "explanation": "騎馬遊牧民の活動の舞台となった。",
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0201-11",
+      "subject": "sekaishi-tankyu",
+      "question": "ラクダなどに荷を積み、隊を組んでオアシス都市のあいだを行き来しておこなう交易を何というか。",
+      "answer": "隊商交易",
+      "alternatives": [
+        "キャラバン交易"
+      ],
+      "explanation": "オアシス都市の重要な収入源となった。",
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-01",
+      "subject": "sekaishi-tankyu",
+      "question": "前221年に中国を統一し、初めて「皇帝」の称号を使った秦の王は誰か。",
+      "answer": "始皇帝",
+      "reading": "しこうてい",
+      "alternatives": [
+        "秦王政"
+      ],
+      "explanation": "都は咸陽。法家の李斯を用いて中央集権を進めた。",
+      "yearStart": -221,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0202-02",
+      "subject": "sekaishi-tankyu",
+      "question": "全国を郡に分け、その下に県をおいて、中央から派遣した官吏に治めさせる地方制度を何というか。",
+      "answer": "郡県制",
+      "reading": "ぐんけんせい",
+      "alternatives": [],
+      "explanation": "始皇帝が全国に実施した。",
+      "yearStart": -221,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0202-03",
+      "subject": "sekaishi-tankyu",
+      "question": "始皇帝が全国で統一した貨幣（銅銭）は何か。",
+      "answer": "半両銭",
+      "reading": "はんりょうせん",
+      "alternatives": [],
+      "explanation": "度量衡（長さ・容積・重さ）や文字、車の幅も統一した。",
+      "yearStart": -221,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-04",
+      "subject": "sekaishi-tankyu",
+      "question": "始皇帝が、医薬・占い・農業以外の書物を焼き、儒者らを穴にうめて殺したとされる思想統制を何というか。",
+      "answer": "焚書・坑儒",
+      "reading": "ふんしょ・こうじゅ",
+      "alternatives": [],
+      "explanation": "法家の李斯の進言によるとされる。",
+      "yearStart": -213,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0202-05",
+      "subject": "sekaishi-tankyu",
+      "question": "始皇帝が匈奴の侵入を防ぐために、戦国時代の国々の城壁をつないで修築した建造物は何か。",
+      "answer": "万里の長城",
+      "reading": "ばんりのちょうじょう",
+      "alternatives": [
+        "長城"
+      ],
+      "explanation": "将軍の蒙恬に匈奴を討たせ、長城を修築した。",
+      "yearStart": -214,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0202-06",
+      "subject": "sekaishi-tankyu",
+      "question": "始皇帝の陵墓の近くで発見された、兵士や馬をかたどった実物大の焼き物の像を何というか。",
+      "answer": "兵馬俑",
+      "reading": "へいばよう",
+      "alternatives": [],
+      "explanation": "1974年に発見され、始皇帝の権力の大きさを伝えている。",
+      "yearStart": -210,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-07",
+      "subject": "sekaishi-tankyu",
+      "question": "始皇帝の死後の前209年におこった、中国史上最初の農民反乱は何か。",
+      "answer": "陳勝・呉広の乱",
+      "reading": "ちんしょう・ごこうのらん",
+      "alternatives": [],
+      "explanation": "「王侯将相いずくんぞ種あらんや」ということばで知られる。",
+      "yearStart": -209,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0202-08",
+      "subject": "sekaishi-tankyu",
+      "question": "楚の名門出身の項羽を破って、前202年に漢（前漢）を建てた農民出身の人物は誰か。",
+      "answer": "劉邦",
+      "reading": "りゅうほう",
+      "alternatives": [
+        "高祖"
+      ],
+      "explanation": "都を長安においた。",
+      "yearStart": -202,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0202-09",
+      "subject": "sekaishi-tankyu",
+      "question": "郡県制と、一族や功臣を諸侯王にする封建制をあわせておこなった、漢の初めの地方制度を何というか。",
+      "answer": "郡国制",
+      "reading": "ぐんこくせい",
+      "alternatives": [],
+      "explanation": "のちに諸侯王の勢力は次第に削られた。",
+      "yearStart": -202,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0202-10",
+      "subject": "sekaishi-tankyu",
+      "question": "前154年、領地を削られることに反発した諸侯王たちがおこした反乱は何か。",
+      "answer": "呉楚七国の乱",
+      "reading": "ごそしちこくのらん",
+      "alternatives": [],
+      "explanation": "鎮圧されたのち、実質的に郡県制と変わらない体制になった。",
+      "yearStart": -154,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-11",
+      "subject": "sekaishi-tankyu",
+      "question": "前141年に即位し、前漢の最盛期をきずいた皇帝は誰か。",
+      "answer": "武帝",
+      "reading": "ぶてい",
+      "alternatives": [],
+      "explanation": "匈奴を北に追い、南越や衛氏朝鮮を滅ぼして領土を広げた。",
+      "yearStart": -141,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0202-12",
+      "subject": "sekaishi-tankyu",
+      "question": "武帝が、匈奴をはさみうちにする同盟を結ぶために大月氏に派遣した人物は誰か。",
+      "answer": "張騫",
+      "reading": "ちょうけん",
+      "alternatives": [],
+      "explanation": "同盟は成らなかったが、西域の事情が中国に伝わった。",
+      "yearStart": -139,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0202-13",
+      "subject": "sekaishi-tankyu",
+      "question": "前108年、武帝が衛氏朝鮮を滅ぼして朝鮮半島においた4郡のうち、現在の平壌付近におかれた郡は何か。",
+      "answer": "楽浪郡",
+      "reading": "らくろうぐん",
+      "alternatives": [],
+      "explanation": "4世紀初めに高句麗に滅ぼされるまで、中国文化が伝わる窓口となった。",
+      "yearStart": -108,
+      "regions": [
+        "朝鮮",
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-14",
+      "subject": "sekaishi-tankyu",
+      "question": "武帝が財政を立て直すためにおこなった、塩・鉄・酒を国家が独占して売る政策を何というか。",
+      "answer": "専売",
+      "reading": "せんばい",
+      "alternatives": [
+        "専売制"
+      ],
+      "explanation": "あいつぐ外征によって財政が苦しくなったためにおこなわれた。",
+      "yearStart": -119,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-15",
+      "subject": "sekaishi-tankyu",
+      "question": "武帝がおこなった、各地の特産物を国家に納めさせ、それが不足している地方に運んで売る政策を何というか。",
+      "answer": "均輸",
+      "reading": "きんゆ",
+      "alternatives": [],
+      "explanation": "物価が上がれば売り、下がれば買う平準とともに、物価の調整と財政の再建をはかった。",
+      "yearStart": -115,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-16",
+      "subject": "sekaishi-tankyu",
+      "question": "地方長官が、すぐれた人物を地方の評判にもとづいて中央に推薦する、漢の官吏登用制度を何というか。",
+      "answer": "郷挙里選",
+      "reading": "きょうきょりせん",
+      "alternatives": [],
+      "explanation": "豪族の子弟が多く推薦され、豪族が官界に進出した。",
+      "yearStart": -134,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-17",
+      "subject": "sekaishi-tankyu",
+      "question": "儒学を国家の学問とするよう武帝に提案した学者は誰か。",
+      "answer": "董仲舒",
+      "reading": "とうちゅうじょ",
+      "alternatives": [],
+      "explanation": "五経博士がおかれ、儒学が国家の学問となる出発点となった。",
+      "yearStart": -136,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0202-18",
+      "subject": "sekaishi-tankyu",
+      "question": "武帝の時代につくられ、その後長く中国の基準の貨幣となった銅銭は何か。",
+      "answer": "五銖銭",
+      "reading": "ごしゅせん",
+      "alternatives": [],
+      "explanation": "唐の時代まで使われた。",
+      "yearStart": -118,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-19",
+      "subject": "sekaishi-tankyu",
+      "question": "後8年に皇帝の位をうばって新を建てた、前漢の外戚の人物は誰か。",
+      "answer": "王莽",
+      "reading": "おうもう",
+      "alternatives": [],
+      "explanation": "周の制度を理想とする現実ばなれした改革をおこない、社会が混乱した。",
+      "yearStart": 8,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0202-20",
+      "subject": "sekaishi-tankyu",
+      "question": "王莽の新が滅びるきっかけとなった農民反乱は何か。",
+      "answer": "赤眉の乱",
+      "reading": "せきびのらん",
+      "alternatives": [],
+      "explanation": "参加者が眉を赤く染めて目印としたことから名づけられた。",
+      "yearStart": 18,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-21",
+      "subject": "sekaishi-tankyu",
+      "question": "25年に漢を復興して後漢を建て、洛陽を都とした皇帝は誰か。",
+      "answer": "光武帝",
+      "reading": "こうぶてい",
+      "alternatives": [
+        "劉秀"
+      ],
+      "explanation": "漢の一族で、豪族の支持をえて即位した。",
+      "yearStart": 25,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0202-22",
+      "subject": "sekaishi-tankyu",
+      "question": "後漢の西域都護として、西域（中央アジアのオアシス都市）の国々を服属させた人物は誰か。",
+      "answer": "班超",
+      "reading": "はんちょう",
+      "alternatives": [],
+      "explanation": "部下の甘英を大秦（ローマ帝国）に派遣した。",
+      "yearStart": 91,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-23",
+      "subject": "sekaishi-tankyu",
+      "question": "166年に海路で日南郡に使者を送ったとされる「大秦王安敦」は、ローマ皇帝の誰のことと考えられているか。",
+      "answer": "マルクス=アウレリウス=アントニヌス",
+      "alternatives": [
+        "マルクス=アウレリウス"
+      ],
+      "explanation": "『後漢書』に記録がある。",
+      "yearStart": 166,
+      "regions": [
+        "中国",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0202-24",
+      "subject": "sekaishi-tankyu",
+      "question": "後漢の末期に、宦官が儒学を学んだ官僚たちを弾圧した事件を何というか。",
+      "answer": "党錮の禁",
+      "reading": "とうこのきん",
+      "alternatives": [],
+      "explanation": "皇帝の側近である宦官と、外戚・官僚の争いが政治を混乱させた。",
+      "yearStart": 166,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-25",
+      "subject": "sekaishi-tankyu",
+      "question": "184年に、張角を指導者とする太平道の信者たちがおこした農民反乱は何か。",
+      "answer": "黄巾の乱",
+      "reading": "こうきんのらん",
+      "alternatives": [],
+      "explanation": "各地に軍事集団が生まれて後漢はおとろえ、220年に滅んだ。",
+      "yearStart": 184,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0202-26",
+      "subject": "sekaishi-tankyu",
+      "question": "黄巾の乱をおこした張角がひらいた宗教結社は何か。",
+      "answer": "太平道",
+      "reading": "たいへいどう",
+      "alternatives": [],
+      "explanation": "同じ頃、四川では五斗米道が広まった。",
+      "yearStart": 184,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-27",
+      "subject": "sekaishi-tankyu",
+      "question": "漢代に勢力をのばした、広い土地をもち、多くの農民を支配した地方の有力者を何というか。",
+      "answer": "豪族",
+      "reading": "ごうぞく",
+      "alternatives": [],
+      "explanation": "郷挙里選によって官界にも進出した。",
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-28",
+      "subject": "sekaishi-tankyu",
+      "question": "前漢の武帝の時代に、太古から武帝までの歴史を記した『史記』を著したのは誰か。",
+      "answer": "司馬遷",
+      "reading": "しばせん",
+      "alternatives": [],
+      "explanation": "『史記』は紀伝体で書かれ、のちの正史の手本となった。",
+      "yearStart": -91,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0202-29",
+      "subject": "sekaishi-tankyu",
+      "question": "皇帝の事績を記す本紀と、重要な人物の伝記である列伝などを組み合わせた歴史書の形式を何というか。",
+      "answer": "紀伝体",
+      "reading": "きでんたい",
+      "alternatives": [],
+      "explanation": "年代順に記す編年体と区別される。",
+      "yearStart": -91,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-30",
+      "subject": "sekaishi-tankyu",
+      "question": "後漢の班固が著した、前漢一代の歴史を記した歴史書は何か。",
+      "answer": "漢書",
+      "reading": "かんじょ",
+      "alternatives": [],
+      "explanation": "『史記』にならって紀伝体で書かれた。",
+      "yearStart": 80,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-31",
+      "subject": "sekaishi-tankyu",
+      "question": "後漢の時代に、製紙法を改良したとされる宦官は誰か。",
+      "answer": "蔡倫",
+      "reading": "さいりん",
+      "alternatives": [],
+      "explanation": "紙は、木簡や竹簡にかわる書写材料として広まった。",
+      "yearStart": 105,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0202-32",
+      "subject": "sekaishi-tankyu",
+      "question": "経典の字句の解釈を重んじる、漢代の儒学の学問を何というか。",
+      "answer": "訓詁学",
+      "reading": "くんこがく",
+      "alternatives": [],
+      "explanation": "後漢の鄭玄が大成した。",
+      "yearStart": 150,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0203-01",
+      "subject": "sekaishi-tankyu",
+      "question": "220年に後漢の皇帝から位をゆずり受けた曹丕が、華北に建てた国は何か。",
+      "answer": "魏",
+      "reading": "ぎ",
+      "alternatives": [],
+      "explanation": "曹丕は曹操の子。都は洛陽。",
+      "yearStart": 220,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0203-02",
+      "subject": "sekaishi-tankyu",
+      "question": "三国時代に、劉備が四川に建てた国は何か。",
+      "answer": "蜀",
+      "reading": "しょく",
+      "alternatives": [],
+      "explanation": "都は成都。",
+      "yearStart": 221,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0203-03",
+      "subject": "sekaishi-tankyu",
+      "question": "三国時代に、孫権が長江下流域に建てた国は何か。",
+      "answer": "呉",
+      "reading": "ご",
+      "alternatives": [],
+      "explanation": "都は建業（現在の南京）。",
+      "yearStart": 222,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0203-04",
+      "subject": "sekaishi-tankyu",
+      "question": "魏の将軍であった司馬炎が265年に建て、280年に中国を統一した王朝は何か。",
+      "answer": "晋",
+      "reading": "しん",
+      "alternatives": [
+        "西晋"
+      ],
+      "explanation": "統一は長く続かず、一族の争いによって混乱した。",
+      "yearStart": 265,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0203-05",
+      "subject": "sekaishi-tankyu",
+      "question": "晋（西晋）で、皇帝の一族の諸王が帝位をめぐっておこした内乱は何か。",
+      "answer": "八王の乱",
+      "reading": "はちおうのらん",
+      "alternatives": [],
+      "explanation": "諸王が遊牧諸民族の兵力を利用したため、五胡の勢力がのびた。",
+      "yearStart": 290,
+      "yearEnd": 306,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-06",
+      "subject": "sekaishi-tankyu",
+      "question": "4世紀初めから華北に進出して多くの国を建てた、匈奴・鮮卑・羯・氐・羌の5つの民族をまとめて何というか。",
+      "answer": "五胡",
+      "reading": "ごこ",
+      "alternatives": [],
+      "explanation": "華北では、五胡の建てた国々が興亡する五胡十六国の時代が続いた。",
+      "yearStart": 304,
+      "regions": [
+        "中国",
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0203-07",
+      "subject": "sekaishi-tankyu",
+      "question": "晋（西晋）が滅んだあとの317年に、皇帝の一族の司馬睿が江南に建てた王朝は何か。",
+      "answer": "東晋",
+      "reading": "とうしん",
+      "alternatives": [],
+      "explanation": "都は建康（現在の南京）。華北から多くの人々が江南に移住した。",
+      "yearStart": 317,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0203-08",
+      "subject": "sekaishi-tankyu",
+      "question": "鮮卑の拓跋氏が建て、439年に華北を統一した王朝は何か。",
+      "answer": "北魏",
+      "reading": "ほくぎ",
+      "alternatives": [],
+      "explanation": "太武帝が華北を統一した。",
+      "yearStart": 439,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0203-09",
+      "subject": "sekaishi-tankyu",
+      "question": "都を平城から洛陽に移し、鮮卑の服装や言語を禁じる漢化政策をおこなった北魏の皇帝は誰か。",
+      "answer": "孝文帝",
+      "reading": "こうぶんてい",
+      "alternatives": [],
+      "explanation": "均田制や三長制も実施した。",
+      "yearStart": 494,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0203-10",
+      "subject": "sekaishi-tankyu",
+      "question": "北魏の孝文帝が始め、隋・唐にも受けつがれた、国家が農民に土地を分け与える制度は何か。",
+      "answer": "均田制",
+      "reading": "きんでんせい",
+      "alternatives": [],
+      "explanation": "農民の生活を安定させ、税収を確保するねらいがあった。",
+      "yearStart": 485,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0203-11",
+      "subject": "sekaishi-tankyu",
+      "question": "北魏で均田制とともに実施された、村落をまとめ直して戸籍や税の徴収を管理する制度は何か。",
+      "answer": "三長制",
+      "reading": "さんちょうせい",
+      "alternatives": [],
+      "explanation": "5家を隣、5隣を里、5里を党とし、それぞれに長をおいた。",
+      "yearStart": 486,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0203-12",
+      "subject": "sekaishi-tankyu",
+      "question": "魏の曹操が始めた、戦乱で荒れた土地を国家が流民などに耕作させる制度は何か。",
+      "answer": "屯田制",
+      "reading": "とんでんせい",
+      "alternatives": [],
+      "explanation": "国家の重要な財源となった。",
+      "yearStart": 196,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-13",
+      "subject": "sekaishi-tankyu",
+      "question": "東晋のあと江南に興亡した、宋・斉・梁・陳の4つの王朝をまとめて何というか。",
+      "answer": "南朝",
+      "reading": "なんちょう",
+      "alternatives": [],
+      "explanation": "華北の北朝と対立したこの時代を南北朝時代という。",
+      "yearStart": 420,
+      "yearEnd": 589,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0203-14",
+      "subject": "sekaishi-tankyu",
+      "question": "呉・東晋・宋・斉・梁・陳の、建業（建康）に都をおいた6つの王朝をまとめて何というか。",
+      "answer": "六朝",
+      "reading": "りくちょう",
+      "alternatives": [],
+      "explanation": "この時代の江南では、貴族を中心とする文化が栄えた。",
+      "yearStart": 222,
+      "yearEnd": 589,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-15",
+      "subject": "sekaishi-tankyu",
+      "question": "魏で始まった、地方におかれた中正官が人材を9等級に評価して推薦する官吏登用制度を何というか。",
+      "answer": "九品中正",
+      "reading": "きゅうひんちゅうせい",
+      "alternatives": [
+        "九品官人法"
+      ],
+      "explanation": "有力な豪族の子弟が高い官職を独占するようになった。",
+      "yearStart": 220,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0203-16",
+      "subject": "sekaishi-tankyu",
+      "question": "九品中正のもとで高い官職を代々独占し、社会の上層を占めた名門の家柄の人々を何というか。",
+      "answer": "門閥貴族",
+      "reading": "もんばつきぞく",
+      "alternatives": [
+        "貴族"
+      ],
+      "explanation": "「上品に寒門なく、下品に勢族なし」といわれた。",
+      "yearStart": 300,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-17",
+      "subject": "sekaishi-tankyu",
+      "question": "魏・晋の時代に知識人のあいだで流行した、老荘思想にもとづく世俗をはなれた議論を何というか。",
+      "answer": "清談",
+      "reading": "せいだん",
+      "alternatives": [],
+      "explanation": "「竹林の七賢」が有名。",
+      "yearStart": 260,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-18",
+      "subject": "sekaishi-tankyu",
+      "question": "「帰去来辞」などで田園での生活をうたった、東晋の詩人は誰か。",
+      "answer": "陶淵明",
+      "reading": "とうえんめい",
+      "alternatives": [
+        "陶潜"
+      ],
+      "explanation": "役人をやめて故郷に帰り、自然のなかの暮らしをうたった。",
+      "yearStart": 405,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-19",
+      "subject": "sekaishi-tankyu",
+      "question": "梁の昭明太子が、古くからのすぐれた詩や文章を集めて編集した詩文集は何か。",
+      "answer": "文選",
+      "reading": "もんぜん",
+      "alternatives": [],
+      "explanation": "日本の文学にも大きな影響を与えた。",
+      "yearStart": 530,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-20",
+      "subject": "sekaishi-tankyu",
+      "question": "「女史箴図」の作者とされ、「画聖」と呼ばれた東晋の画家は誰か。",
+      "answer": "顧愷之",
+      "reading": "こがいし",
+      "alternatives": [],
+      "explanation": "貴族文化を代表する画家。",
+      "yearStart": 400,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-21",
+      "subject": "sekaishi-tankyu",
+      "question": "「蘭亭序」で知られ、「書聖」と呼ばれた東晋の書家は誰か。",
+      "answer": "王羲之",
+      "reading": "おうぎし",
+      "alternatives": [],
+      "explanation": "書を芸術の域に高めた。",
+      "yearStart": 353,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-22",
+      "subject": "sekaishi-tankyu",
+      "question": "4世紀初めに西域から洛陽に来て、華北で仏教を広めた僧は誰か。",
+      "answer": "仏図澄",
+      "reading": "ぶっとちょう",
+      "alternatives": [],
+      "explanation": "多くの弟子を育てた。",
+      "yearStart": 310,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-23",
+      "subject": "sekaishi-tankyu",
+      "question": "5世紀初めに長安にむかえられ、多くの仏典を漢訳した西域のクチャ（亀茲）出身の僧は誰か。",
+      "answer": "鳩摩羅什",
+      "reading": "くまらじゅう",
+      "alternatives": [],
+      "explanation": "その訳は中国仏教の発展に大きく貢献した。",
+      "yearStart": 401,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-24",
+      "subject": "sekaishi-tankyu",
+      "question": "東晋の時代に仏教を学ぶためインドにおもむき、旅行記『仏国記』を著した僧は誰か。",
+      "answer": "法顕",
+      "reading": "ほっけん",
+      "alternatives": [],
+      "explanation": "陸路でグプタ朝時代のインドに行き、海路で帰国した。",
+      "yearStart": 399,
+      "regions": [
+        "中国",
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-25",
+      "subject": "sekaishi-tankyu",
+      "question": "北魏のはじめの都の平城（現在の大同）の近くにつくられた、巨大な石仏で知られる石窟寺院は何か。",
+      "answer": "雲崗",
+      "reading": "うんこう",
+      "alternatives": [],
+      "explanation": "ガンダーラやグプタの様式の影響がみられる。",
+      "yearStart": 460,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0203-26",
+      "subject": "sekaishi-tankyu",
+      "question": "北魏が洛陽に都を移したのち、その近くにつくられた石窟寺院は何か。",
+      "answer": "竜門",
+      "reading": "りゅうもん",
+      "alternatives": [],
+      "explanation": "中国風の様式の仏像が多い。",
+      "yearStart": 494,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0203-27",
+      "subject": "sekaishi-tankyu",
+      "question": "北魏の寇謙之が教団としてまとめ、太武帝の保護を受けた中国の宗教は何か。",
+      "answer": "道教",
+      "reading": "どうきょう",
+      "alternatives": [],
+      "explanation": "不老長寿を願う神仙思想や老荘思想などをもとに成立した。",
+      "yearStart": 424,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-28",
+      "subject": "sekaishi-tankyu",
+      "question": "前1世紀頃に中国東北地方におこり、4世紀初めに楽浪郡を滅ぼして朝鮮半島北部に進出した国は何か。",
+      "answer": "高句麗",
+      "reading": "こうくり",
+      "alternatives": [],
+      "explanation": "5世紀には平壌に都を移した。",
+      "yearStart": 313,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-29",
+      "subject": "sekaishi-tankyu",
+      "question": "4世紀半ばに朝鮮半島の南西部に成立し、のちに日本に仏教を伝えた国は何か。",
+      "answer": "百済",
+      "reading": "ひゃくさい",
+      "alternatives": [],
+      "explanation": "日本では「くだら」とも読む。",
+      "yearStart": 350,
+      "yearApprox": true,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-30",
+      "subject": "sekaishi-tankyu",
+      "question": "4世紀半ばに朝鮮半島の南東部に成立した国は何か。",
+      "answer": "新羅",
+      "reading": "しんら",
+      "alternatives": [],
+      "explanation": "日本では「しらぎ」とも読む。7世紀に朝鮮半島を統一した。",
+      "yearStart": 350,
+      "yearApprox": true,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0203-31",
+      "subject": "sekaishi-tankyu",
+      "question": "239年に魏に使いを送り、「親魏倭王」の称号を与えられた邪馬台国の女王は誰か。",
+      "answer": "卑弥呼",
+      "reading": "ひみこ",
+      "alternatives": [],
+      "explanation": "『三国志』の「魏志」倭人伝に記されている。",
+      "yearStart": 239,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0204-01",
+      "subject": "sekaishi-tankyu",
+      "question": "581年に隋を建て、589年に南朝の陳を滅ぼして中国を統一した皇帝は誰か。",
+      "answer": "楊堅",
+      "reading": "ようけん",
+      "alternatives": [
+        "文帝"
+      ],
+      "explanation": "北周の外戚。都は大興城（長安）。",
+      "yearStart": 581,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-02",
+      "subject": "sekaishi-tankyu",
+      "question": "隋の文帝が始めた、学科試験によって官吏を選ぶ制度は何か。",
+      "answer": "科挙",
+      "reading": "かきょ",
+      "alternatives": [],
+      "explanation": "九品中正をやめ、家柄によらない人材の登用をめざした。",
+      "yearStart": 590,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-03",
+      "subject": "sekaishi-tankyu",
+      "question": "隋の煬帝が完成させた、華北と江南を結ぶ水路は何か。",
+      "answer": "大運河",
+      "reading": "だいうんが",
+      "alternatives": [],
+      "explanation": "政治の中心の華北と、経済が発展した江南が結ばれた。",
+      "yearStart": 610,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-04",
+      "subject": "sekaishi-tankyu",
+      "question": "大運河を完成させたが、3度の高句麗遠征に失敗して各地で反乱をまねいた隋の第2代皇帝は誰か。",
+      "answer": "煬帝",
+      "reading": "ようだい",
+      "alternatives": [],
+      "explanation": "隋は618年に滅んだ。",
+      "yearStart": 604,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-05",
+      "subject": "sekaishi-tankyu",
+      "question": "618年に隋を倒して唐を建てた人物は誰か。",
+      "answer": "李淵",
+      "reading": "りえん",
+      "alternatives": [
+        "高祖"
+      ],
+      "explanation": "都は長安。",
+      "yearStart": 618,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-06",
+      "subject": "sekaishi-tankyu",
+      "question": "唐の第2代皇帝で、中国を統一して支配体制の基礎を固めた皇帝は誰か。",
+      "answer": "太宗",
+      "reading": "たいそう",
+      "alternatives": [
+        "李世民"
+      ],
+      "explanation": "東突厥を服属させた。",
+      "yearStart": 626,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-07",
+      "subject": "sekaishi-tankyu",
+      "question": "新羅と結んで百済・高句麗を滅ぼし、唐の領土を最大にした第3代皇帝は誰か。",
+      "answer": "高宗",
+      "reading": "こうそう",
+      "alternatives": [],
+      "explanation": "皇后は、のちに皇帝となる則天武后。",
+      "yearStart": 649,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-08",
+      "subject": "sekaishi-tankyu",
+      "question": "隋・唐で整えられた、刑法典と行政法典などからなる法の体系を何というか。",
+      "answer": "律令",
+      "reading": "りつりょう",
+      "alternatives": [],
+      "explanation": "律は刑法、令は行政法・民法にあたる。格（改正・補充）と式（施行細則）もつくられた。",
+      "yearStart": 624,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-09",
+      "subject": "sekaishi-tankyu",
+      "question": "唐の中央官制で、皇帝の命令（詔勅）の草案をつくった機関は何か。",
+      "answer": "中書省",
+      "reading": "ちゅうしょしょう",
+      "alternatives": [],
+      "explanation": "門下省が審議し、尚書省が実施した。あわせて三省という。",
+      "yearStart": 624,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-10",
+      "subject": "sekaishi-tankyu",
+      "question": "唐の三省のうち、詔勅の草案を審議し、差しもどす権限をもった機関は何か。",
+      "answer": "門下省",
+      "reading": "もんかしょう",
+      "alternatives": [],
+      "explanation": "貴族の意見を政治に反映させる役割をはたした。",
+      "yearStart": 624,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-11",
+      "subject": "sekaishi-tankyu",
+      "question": "唐の尚書省の下におかれた、吏・戸・礼・兵・刑・工の6つの官庁をまとめて何というか。",
+      "answer": "六部",
+      "reading": "りくぶ",
+      "alternatives": [],
+      "explanation": "吏部は官吏の人事、戸部は財政、礼部は教育・祭祀、兵部は軍事、刑部は司法、工部は土木を担当した。",
+      "yearStart": 624,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-12",
+      "subject": "sekaishi-tankyu",
+      "question": "唐で、官吏の不正を取りしまった監察機関は何か。",
+      "answer": "御史台",
+      "reading": "ぎょしだい",
+      "alternatives": [],
+      "explanation": "三省・六部とならぶ重要な機関。",
+      "yearStart": 624,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0204-13",
+      "subject": "sekaishi-tankyu",
+      "question": "唐で、均田制によって土地を与えられた農民に課された、穀物・布・労役の税の制度をまとめて何というか。",
+      "answer": "租調庸制",
+      "reading": "そちょうようせい",
+      "alternatives": [
+        "租庸調制",
+        "租調庸",
+        "租庸調"
+      ],
+      "explanation": "租は穀物、調は絹や麻などの布、庸は中央での労役（または布での代納）。",
+      "yearStart": 624,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-14",
+      "subject": "sekaishi-tankyu",
+      "question": "唐の初めの、農民から兵士を徴発する兵制を何というか。",
+      "answer": "府兵制",
+      "reading": "ふへいせい",
+      "alternatives": [],
+      "explanation": "8世紀には、兵士を募集する募兵制に変わった。",
+      "yearStart": 624,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-15",
+      "subject": "sekaishi-tankyu",
+      "question": "唐が、服属した周辺の諸民族を治めるために辺境においた機関は何か。",
+      "answer": "都護府",
+      "reading": "とごふ",
+      "alternatives": [],
+      "explanation": "実際の統治は、その土地の首長にまかせた（羈縻政策）。",
+      "yearStart": 640,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-16",
+      "subject": "sekaishi-tankyu",
+      "question": "690年に国号を周と改めた、中国史上ただ一人の女性の皇帝は誰か。",
+      "answer": "則天武后",
+      "reading": "そくてんぶこう",
+      "alternatives": [
+        "武則天"
+      ],
+      "explanation": "高宗の皇后。科挙出身の官僚を積極的に用いた。",
+      "yearStart": 690,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-17",
+      "subject": "sekaishi-tankyu",
+      "question": "8世紀前半に即位し、治世の前半が「開元の治」と呼ばれる安定期となった唐の皇帝は誰か。",
+      "answer": "玄宗",
+      "reading": "げんそう",
+      "alternatives": [],
+      "explanation": "晩年は楊貴妃を愛して政治をかえりみなくなった。",
+      "yearStart": 712,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-18",
+      "subject": "sekaishi-tankyu",
+      "question": "755年に、節度使の安禄山とその部下の史思明がおこした反乱は何か。",
+      "answer": "安史の乱",
+      "reading": "あんしのらん",
+      "alternatives": [],
+      "explanation": "ウイグルの援軍をえて763年にしずめられたが、唐の支配は大きくゆらいだ。",
+      "yearStart": 755,
+      "yearEnd": 763,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-19",
+      "subject": "sekaishi-tankyu",
+      "question": "辺境の防衛のためにおかれた軍団の指揮官で、安史の乱ののち各地で自立する勢力となったものを何というか。",
+      "answer": "節度使",
+      "reading": "せつどし",
+      "alternatives": [],
+      "explanation": "行政や財政の権限もにぎって自立した勢力を、藩鎮という。",
+      "yearStart": 750,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-20",
+      "subject": "sekaishi-tankyu",
+      "question": "780年に宰相の楊炎の提案で実施された、実際に住んでいる土地で、資産に応じて夏と秋の年2回税をとる税制は何か。",
+      "answer": "両税法",
+      "reading": "りょうぜいほう",
+      "alternatives": [],
+      "explanation": "租調庸制にかわる税制で、銭で納めることを原則とした。",
+      "yearStart": 780,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-21",
+      "subject": "sekaishi-tankyu",
+      "question": "875年におこり、唐の滅亡を決定的にした、塩の密売人が指導者となった反乱は何か。",
+      "answer": "黄巣の乱",
+      "reading": "こうそうのらん",
+      "alternatives": [],
+      "explanation": "反乱軍は全国を荒らし、長安も占領した。",
+      "yearStart": 875,
+      "yearEnd": 884,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-22",
+      "subject": "sekaishi-tankyu",
+      "question": "907年に唐を滅ぼして後梁を建てた節度使は誰か。",
+      "answer": "朱全忠",
+      "reading": "しゅぜんちゅう",
+      "alternatives": [],
+      "explanation": "黄巣の乱の反乱軍から唐に寝返った人物。",
+      "yearStart": 907,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-23",
+      "subject": "sekaishi-tankyu",
+      "question": "唐の滅亡後、華北に5つの王朝が交替し、地方に10あまりの国が分立した時代を何というか。",
+      "answer": "五代十国",
+      "reading": "ごだいじっこく",
+      "alternatives": [],
+      "explanation": "武人の勢力が強まり、貴族は没落した。",
+      "yearStart": 907,
+      "yearEnd": 979,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-24",
+      "subject": "sekaishi-tankyu",
+      "question": "唐の太宗の命令で孔穎達らがまとめた、儒学の経典（五経）の注釈書は何か。",
+      "answer": "五経正義",
+      "reading": "ごきょうせいぎ",
+      "alternatives": [],
+      "explanation": "科挙の基準とされ、経典の解釈が統一された。",
+      "yearStart": 653,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-25",
+      "subject": "sekaishi-tankyu",
+      "question": "自由奔放な詩風で「詩仙」と呼ばれた、盛唐の詩人は誰か。",
+      "answer": "李白",
+      "reading": "りはく",
+      "alternatives": [],
+      "explanation": "玄宗に仕えたこともある。",
+      "yearStart": 740,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-26",
+      "subject": "sekaishi-tankyu",
+      "question": "社会の現実を見つめた詩風で「詩聖」と呼ばれた、盛唐の詩人は誰か。",
+      "answer": "杜甫",
+      "reading": "とほ",
+      "alternatives": [],
+      "explanation": "安史の乱の混乱を体験し、「春望」などの詩をつくった。",
+      "yearStart": 757,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-27",
+      "subject": "sekaishi-tankyu",
+      "question": "玄宗と楊貴妃の愛をうたった「長恨歌」で知られる、中唐の詩人は誰か。",
+      "answer": "白居易",
+      "reading": "はくきょい",
+      "alternatives": [
+        "白楽天"
+      ],
+      "explanation": "わかりやすい詩で広く親しまれ、日本の平安文学にも影響を与えた。",
+      "yearStart": 806,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-28",
+      "subject": "sekaishi-tankyu",
+      "question": "柳宗元とともに、漢代以前の力強い文体（古文）の復興をとなえた唐の文章家は誰か。",
+      "answer": "韓愈",
+      "reading": "かんゆ",
+      "alternatives": [],
+      "explanation": "形式にとらわれた美文を批判した。",
+      "yearStart": 800,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-29",
+      "subject": "sekaishi-tankyu",
+      "question": "力強い書風で知られ、安史の乱では義勇軍を率いて戦った唐の書家は誰か。",
+      "answer": "顔真卿",
+      "reading": "がんしんけい",
+      "alternatives": [],
+      "explanation": "それまでの上品な書風をあらためた。",
+      "yearStart": 755,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-30",
+      "subject": "sekaishi-tankyu",
+      "question": "緑・褐色・白などの釉薬で彩られた、唐代の陶器を何というか。",
+      "answer": "唐三彩",
+      "reading": "とうさんさい",
+      "alternatives": [],
+      "explanation": "ラクダや西域の人物の像も多く、国際的な唐の文化を伝えている。",
+      "yearStart": 700,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-31",
+      "subject": "sekaishi-tankyu",
+      "question": "7世紀前半に陸路でインドにおもむいてナーランダー僧院で学び、帰国後に『大唐西域記』を著した僧は誰か。",
+      "answer": "玄奘",
+      "reading": "げんじょう",
+      "alternatives": [],
+      "explanation": "ヴァルダナ朝のハルシャ王の時代のインドを訪れた。",
+      "yearStart": 629,
+      "yearEnd": 645,
+      "regions": [
+        "中国",
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-32",
+      "subject": "sekaishi-tankyu",
+      "question": "7世紀後半に海路でインドにおもむき、『南海寄帰内法伝』を著した僧は誰か。",
+      "answer": "義浄",
+      "reading": "ぎじょう",
+      "alternatives": [],
+      "explanation": "とちゅうで立ち寄ったシュリーヴィジャヤの仏教のようすも伝えている。",
+      "yearStart": 671,
+      "yearEnd": 695,
+      "regions": [
+        "中国",
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-33",
+      "subject": "sekaishi-tankyu",
+      "question": "唐代に中国に伝わった、ネストリウス派キリスト教の中国での呼び名は何か。",
+      "answer": "景教",
+      "reading": "けいきょう",
+      "alternatives": [],
+      "explanation": "長安に「大秦景教流行中国碑」が建てられた。",
+      "yearStart": 635,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-34",
+      "subject": "sekaishi-tankyu",
+      "question": "唐代に中国に伝わった、ゾロアスター教の中国での呼び名は何か。",
+      "answer": "祆教",
+      "reading": "けんきょう",
+      "alternatives": [],
+      "explanation": "景教・マニ教とともに、西方から伝わった。",
+      "yearStart": 630,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-35",
+      "subject": "sekaishi-tankyu",
+      "question": "中央アジアのソグディアナを本拠とし、隋・唐の時代に東西交易で活躍したイラン系の人々は何人か。",
+      "answer": "ソグド人",
+      "alternatives": [],
+      "explanation": "長安などにも多く住み、西方の文化を伝えた。",
+      "yearStart": 650,
+      "yearApprox": true,
+      "regions": [
+        "内陸アジア",
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-36",
+      "subject": "sekaishi-tankyu",
+      "question": "6世紀半ばにモンゴル高原におこり、中央ユーラシアに大帝国をきずいたトルコ系の遊牧国家は何か。",
+      "answer": "突厥",
+      "reading": "とっけつ",
+      "alternatives": [],
+      "explanation": "北方の遊牧民として初めて独自の文字（突厥文字）をつくった。",
+      "yearStart": 552,
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-37",
+      "subject": "sekaishi-tankyu",
+      "question": "8世紀半ばに突厥にかわってモンゴル高原を支配し、安史の乱では唐を助けたトルコ系の遊牧国家は何か。",
+      "answer": "ウイグル",
+      "alternatives": [],
+      "explanation": "9世紀半ばにキルギスに敗れて滅んだ。",
+      "yearStart": 744,
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-38",
+      "subject": "sekaishi-tankyu",
+      "question": "7世紀にソンツェン=ガンポがチベットに建てた国は何か。",
+      "answer": "吐蕃",
+      "reading": "とばん",
+      "alternatives": [],
+      "explanation": "インドと中国の文化をとり入れ、チベット仏教が生まれた。",
+      "yearStart": 629,
+      "yearApprox": true,
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-39",
+      "subject": "sekaishi-tankyu",
+      "question": "8世紀に雲南で勢力をのばした、チベット=ビルマ系の人々の国は何か。",
+      "answer": "南詔",
+      "reading": "なんしょう",
+      "alternatives": [],
+      "explanation": "唐の文化をとり入れ、仏教が栄えた。",
+      "yearStart": 738,
+      "yearApprox": true,
+      "regions": [
+        "中国",
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-40",
+      "subject": "sekaishi-tankyu",
+      "question": "唐と結んで百済・高句麗を滅ぼし、676年に朝鮮半島を統一した国は何か。",
+      "answer": "新羅",
+      "reading": "しんら",
+      "alternatives": [],
+      "explanation": "都は金城（現在の慶州）。仏教がさかんで、仏国寺などが建てられた。",
+      "yearStart": 676,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-41",
+      "subject": "sekaishi-tankyu",
+      "question": "新羅で、生まれた氏族によって身分や官職を決めた制度を何というか。",
+      "answer": "骨品制",
+      "reading": "こっぴんせい",
+      "alternatives": [],
+      "explanation": "王族や貴族の特権が守られた。",
+      "yearStart": 650,
+      "yearApprox": true,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-42",
+      "subject": "sekaishi-tankyu",
+      "question": "698年に、大祚栄が高句麗の遺民らを率いて中国東北地方に建てた国は何か。",
+      "answer": "渤海",
+      "reading": "ぼっかい",
+      "alternatives": [],
+      "explanation": "唐の制度や文化をとり入れて栄え、「海東の盛国」と呼ばれた。",
+      "yearStart": 698,
+      "regions": [
+        "朝鮮",
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0204-43",
+      "subject": "sekaishi-tankyu",
+      "question": "663年に、百済の復興を助けようとした日本の軍が、唐・新羅の連合軍に敗れた戦いは何か。",
+      "answer": "白村江の戦い",
+      "reading": "はくそんこうのたたかい",
+      "alternatives": [],
+      "explanation": "「はくすきのえ」とも読む。",
+      "yearStart": 663,
+      "regions": [
+        "朝鮮",
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-44",
+      "subject": "sekaishi-tankyu",
+      "question": "中国の皇帝が、周辺の国の君主に位や称号を与えて君臣の関係を結ぶことでつくられた国際秩序を何というか。",
+      "answer": "冊封体制",
+      "reading": "さくほうたいせい",
+      "alternatives": [],
+      "explanation": "周辺の国は、皇帝に貢ぎ物を送る朝貢をおこなった。",
+      "regions": [
+        "中国",
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0204-45",
+      "subject": "sekaishi-tankyu",
+      "question": "日本が唐の制度や文化を学ぶために、7世紀から9世紀にかけて派遣した使節を何というか。",
+      "answer": "遣唐使",
+      "reading": "けんとうし",
+      "alternatives": [],
+      "explanation": "律令や仏教文化などが日本に伝えられた。",
+      "yearStart": 630,
+      "yearEnd": 894,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

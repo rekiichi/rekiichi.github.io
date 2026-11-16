@@ -1,0 +1,3818 @@
+{
+  "generatedFrom": "nihonshi-09.csv",
+  "_note": "このファイルは nihonshi-09.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "j-0901-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1600年に、徳川家康の率いる東軍が、石田三成らの西軍を破った戦いを何というか。",
+      "answer": "関ヶ原の戦い",
+      "reading": "せきがはらのたたかい",
+      "alternatives": [],
+      "explanation": "勝利した家康は、西軍についた大名の領地を取り上げたり、へらしたりした。",
+      "yearStart": 1600,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1603年に征夷大将軍に任命されて、江戸に幕府をひらいた人物は誰か。",
+      "answer": "徳川家康",
+      "reading": "とくがわいえやす",
+      "alternatives": [],
+      "explanation": "2年後に将軍職を子の秀忠にゆずり、徳川氏が将軍職を世襲することを示した。",
+      "yearStart": 1603,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-03",
+      "subject": "nihonshi-tankyu",
+      "question": "1614年と1615年の2度の戦いで、徳川氏が豊臣氏を滅ぼした戦いをまとめて何というか。",
+      "answer": "大坂の陣",
+      "reading": "おおさかのじん",
+      "alternatives": [
+        "大坂の役"
+      ],
+      "explanation": "冬の陣と夏の陣からなる。以後、大きな戦乱はなくなった。",
+      "yearStart": 1614,
+      "yearEnd": 1615,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-04",
+      "subject": "nihonshi-tankyu",
+      "question": "1615年に幕府が定めた、大名の居城を1つに限る法令は何か。",
+      "answer": "一国一城令",
+      "reading": "いっこくいちじょうれい",
+      "alternatives": [],
+      "explanation": "大名の軍事力を弱めることがねらいだった。",
+      "yearStart": 1615,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-05",
+      "subject": "nihonshi-tankyu",
+      "question": "1615年に幕府が定めた、大名を統制するための法令は何か。",
+      "answer": "武家諸法度",
+      "reading": "ぶけしょはっと",
+      "alternatives": [],
+      "explanation": "城の修理や大名どうしの結婚には幕府の許可が必要とされた。将軍の代がわりごとに出された。",
+      "yearStart": 1615,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-06",
+      "subject": "nihonshi-tankyu",
+      "question": "徳川氏の一族の大名を何というか。",
+      "answer": "親藩",
+      "reading": "しんぱん",
+      "alternatives": [],
+      "explanation": "なかでも尾張・紀伊・水戸の三家は最高の格式をもった。",
+      "yearStart": 1615,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-07",
+      "subject": "nihonshi-tankyu",
+      "question": "関ヶ原の戦いより前から、徳川氏の家臣であった大名を何というか。",
+      "answer": "譜代",
+      "reading": "ふだい",
+      "alternatives": [
+        "譜代大名"
+      ],
+      "explanation": "石高は小さいが、要地におかれ、幕府の要職についた。",
+      "yearStart": 1615,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-08",
+      "subject": "nihonshi-tankyu",
+      "question": "関ヶ原の戦いの前後に、徳川氏に従った大名を何というか。",
+      "answer": "外様",
+      "reading": "とざま",
+      "alternatives": [
+        "外様大名"
+      ],
+      "explanation": "石高の大きい者が多かったが、江戸から遠い地域におかれ、幕府の政治には参加できなかった。",
+      "yearStart": 1615,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-09",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府が大名に対しておこなった処分のうち、領地を取り上げることを何というか。",
+      "answer": "改易",
+      "reading": "かいえき",
+      "alternatives": [],
+      "explanation": "領地をへらす減封や、領地を移す転封もおこなわれた。",
+      "yearStart": 1620,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-10",
+      "subject": "nihonshi-tankyu",
+      "question": "1635年に、武家諸法度（寛永令）で制度として定めた、大名に1年おきに江戸と領地を往復させ、妻子を江戸に住まわせた制度を何というか。",
+      "answer": "参勤交代",
+      "reading": "さんきんこうたい",
+      "alternatives": [],
+      "explanation": "第3代将軍の徳川家光が定めた。大名にとって大きな出費となった。",
+      "yearStart": 1635,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-11",
+      "subject": "nihonshi-tankyu",
+      "question": "参勤交代を制度として定めるなど、幕府のしくみを整えた第3代将軍は誰か。",
+      "answer": "徳川家光",
+      "reading": "とくがわいえみつ",
+      "alternatives": [],
+      "explanation": "「生まれながらの将軍」として、強い権力をふるった。",
+      "yearStart": 1623,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-12",
+      "subject": "nihonshi-tankyu",
+      "question": "将軍と大名が、強力な領主権をもって土地と人民を支配するしくみを何というか。",
+      "answer": "幕藩体制",
+      "reading": "ばくはんたいせい",
+      "alternatives": [],
+      "explanation": "将軍の直轄領（幕領）と、大名の領地（藩）からなる。",
+      "yearStart": 1635,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-13",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府の直轄領を何というか。",
+      "answer": "幕領",
+      "reading": "ばくりょう",
+      "alternatives": [
+        "天領"
+      ],
+      "explanation": "約400万石あり、主要な鉱山や都市も直接支配した。",
+      "yearStart": 1635,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-14",
+      "subject": "nihonshi-tankyu",
+      "question": "将軍直属の家臣で、領地が1万石未満の者のうち、将軍に会うことのできる者を何というか。",
+      "answer": "旗本",
+      "reading": "はたもと",
+      "alternatives": [],
+      "explanation": "将軍に会うことのできない者は御家人という。",
+      "yearStart": 1635,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-15",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸幕府で、ふだんの政務を統轄した最高の役職を何というか。",
+      "answer": "老中",
+      "reading": "ろうじゅう",
+      "alternatives": [],
+      "explanation": "譜代大名から任命された。臨時の最高職として大老がおかれることもあった。",
+      "yearStart": 1635,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-16",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸幕府で、老中を補佐し、旗本・御家人を監督した役職を何というか。",
+      "answer": "若年寄",
+      "reading": "わかどしより",
+      "alternatives": [],
+      "explanation": "譜代大名から任命された。",
+      "yearStart": 1635,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-17",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸幕府で、大名を監察した役職を何というか。",
+      "answer": "大目付",
+      "reading": "おおめつけ",
+      "alternatives": [],
+      "explanation": "旗本・御家人は目付が監察した。",
+      "yearStart": 1635,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-18",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸幕府の、寺社奉行・町奉行・勘定奉行の3つの奉行をまとめて何というか。",
+      "answer": "三奉行",
+      "reading": "さんぶぎょう",
+      "alternatives": [],
+      "explanation": "重要な事がらは、老中と三奉行らが評定所で合議して決めた。",
+      "yearStart": 1635,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-19",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸幕府が、朝廷や西日本の大名を監視するために京都においた役職は何か。",
+      "answer": "京都所司代",
+      "reading": "きょうとしょしだい",
+      "alternatives": [],
+      "explanation": "大坂や駿府などの重要な都市には城代や町奉行をおいた。",
+      "yearStart": 1600,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-20",
+      "subject": "nihonshi-tankyu",
+      "question": "1615年に幕府が定めた、天皇や公家の行動を規制した法令は何か。",
+      "answer": "禁中並公家諸法度",
+      "reading": "きんちゅうならびにくげしょはっと",
+      "alternatives": [],
+      "explanation": "天皇の第一のつとめは学問であるとした。",
+      "yearStart": 1615,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-21",
+      "subject": "nihonshi-tankyu",
+      "question": "1627年に、後水尾天皇が幕府の許可なく僧に与えた紫衣の勅許を、幕府が無効とした事件を何というか。",
+      "answer": "紫衣事件",
+      "reading": "しえじけん",
+      "alternatives": [],
+      "explanation": "抗議した大徳寺の沢庵らは処罰された。幕府の法度が天皇の勅許に優先することが示された。",
+      "yearStart": 1627,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-22",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府が、キリスト教を禁止するために、すべての人をどこかの寺院の檀家とし、寺院にそれを証明させた制度を何というか。",
+      "answer": "寺請制度",
+      "reading": "てらうけせいど",
+      "alternatives": [],
+      "explanation": "宗門改めがおこなわれ、宗旨人別改帳がつくられた。",
+      "yearStart": 1640,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-23",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府が、宗派ごとに本山と末寺の関係を定めて、寺院を統制した制度を何というか。",
+      "answer": "本末制度",
+      "reading": "ほんまつせいど",
+      "alternatives": [],
+      "explanation": "宗派ごとに寺院法度が出された。",
+      "yearStart": 1615,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-24",
+      "subject": "nihonshi-tankyu",
+      "question": "1612年に、幕府が直轄領に出し、翌年に全国に広げた、キリスト教を禁止する法令を何というか。",
+      "answer": "禁教令",
+      "reading": "きんきょうれい",
+      "alternatives": [],
+      "explanation": "信者に改宗を強制し、従わない者は処罰した。",
+      "yearStart": 1612,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-25",
+      "subject": "nihonshi-tankyu",
+      "question": "キリスト教の信者を見つけるために、キリストやマリアの像をふませたことを何というか。",
+      "answer": "絵踏",
+      "reading": "えふみ",
+      "alternatives": [
+        "踏絵"
+      ],
+      "explanation": "九州北部などで毎年おこなわれた。",
+      "yearStart": 1629,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-26",
+      "subject": "nihonshi-tankyu",
+      "question": "1637年に、九州で、領主のきびしい年貢の取り立てとキリスト教徒への弾圧に対して、農民たちがおこした大規模な一揆を何というか。",
+      "answer": "島原の乱",
+      "reading": "しまばらのらん",
+      "alternatives": [
+        "島原・天草一揆"
+      ],
+      "explanation": "益田（天草四郎）時貞を首領として原城跡にたてこもった。幕府は約12万人の兵を送ってしずめた。",
+      "yearStart": 1637,
+      "yearEnd": 1638,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-27",
+      "subject": "nihonshi-tankyu",
+      "question": "1600年に、豊後に漂着したオランダ船リーフデ号の水先案内人で、徳川家康の外交顧問となったイギリス人は誰か。",
+      "answer": "ウィリアム=アダムズ",
+      "alternatives": [
+        "三浦按針",
+        "アダムズ"
+      ],
+      "explanation": "オランダ人のヤン=ヨーステンとともに家康に用いられた。",
+      "yearStart": 1600,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-28",
+      "subject": "nihonshi-tankyu",
+      "question": "1604年に幕府が定めた、特定の商人たちに輸入生糸を一括して買い取らせる制度を何というか。",
+      "answer": "糸割符制度",
+      "reading": "いとわっぷせいど",
+      "alternatives": [],
+      "explanation": "ポルトガル商人が生糸の貿易で利益を独占するのを防いだ。",
+      "yearStart": 1604,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-29",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府から海外への渡航を許可する朱印状を与えられた船による貿易を何というか。",
+      "answer": "朱印船貿易",
+      "reading": "しゅいんせんぼうえき",
+      "alternatives": [],
+      "explanation": "西国の大名や、京都・堺・長崎の豪商が船を出した。",
+      "yearStart": 1604,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-30",
+      "subject": "nihonshi-tankyu",
+      "question": "朱印船貿易がさかんになって、東南アジアの各地につくられた日本人の居住地を何というか。",
+      "answer": "日本町",
+      "reading": "にほんまち",
+      "alternatives": [],
+      "explanation": "シャム（タイ）のアユタヤでは、山田長政が王に重く用いられた。",
+      "yearStart": 1620,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-31",
+      "subject": "nihonshi-tankyu",
+      "question": "1613年に、仙台藩主の伊達政宗が、スペインとの通商を求めてヨーロッパに派遣した家臣は誰か。",
+      "answer": "支倉常長",
+      "reading": "はせくらつねなが",
+      "alternatives": [],
+      "explanation": "この使節を慶長遣欧使節という。通商を結ぶ目的ははたせなかった。",
+      "yearStart": 1613,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-32",
+      "subject": "nihonshi-tankyu",
+      "question": "1633年に、幕府は、朱印状に加えて老中の出す許可状をもつ船のほかは、海外への渡航を禁じた。この許可状をもつ船を何というか。",
+      "answer": "奉書船",
+      "reading": "ほうしょせん",
+      "alternatives": [],
+      "explanation": "1635年には、日本人の海外渡航と帰国が全面的に禁止され、朱印船貿易は終わった。",
+      "yearStart": 1633,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-33",
+      "subject": "nihonshi-tankyu",
+      "question": "1639年に、幕府が来航を禁止したのは、どこの国の船か。",
+      "answer": "ポルトガル",
+      "alternatives": [
+        "ポルトガル船"
+      ],
+      "explanation": "島原の乱ののち、キリスト教の取りしまりをいっそう強めた。",
+      "yearStart": 1639,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-34",
+      "subject": "nihonshi-tankyu",
+      "question": "1641年に、幕府が平戸のオランダ商館を移した、長崎の人工の島はどこか。",
+      "answer": "出島",
+      "reading": "でじま",
+      "alternatives": [],
+      "explanation": "以後、ヨーロッパの国ではオランダだけが、長崎での貿易を許された。",
+      "yearStart": 1641,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-35",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府が、キリスト教の禁止と貿易の統制のために、外国との交流をきびしく制限した政策を、のちに何と呼ぶようになったか。",
+      "answer": "鎖国",
+      "reading": "さこく",
+      "alternatives": [],
+      "explanation": "長崎・対馬・薩摩・松前の「四つの口」を通じて、外国や周辺の地域との交流は続いた。",
+      "yearStart": 1641,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-36",
+      "subject": "nihonshi-tankyu",
+      "question": "オランダ商館長が幕府に提出した、海外の事情を記した報告書を何というか。",
+      "answer": "オランダ風説書",
+      "reading": "おらんだふうせつがき",
+      "alternatives": [],
+      "explanation": "幕府はこれによって海外の情報を独占した。",
+      "yearStart": 1641,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-37",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、将軍の代がわりごとなどに、朝鮮から派遣された使節を何というか。",
+      "answer": "朝鮮通信使",
+      "reading": "ちょうせんつうしんし",
+      "alternatives": [
+        "通信使"
+      ],
+      "explanation": "対馬藩の宗氏が、朝鮮との外交と貿易を担当した。",
+      "yearStart": 1607,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-38",
+      "subject": "nihonshi-tankyu",
+      "question": "1609年に、琉球王国を征服して支配下においた藩はどこか。",
+      "answer": "薩摩藩",
+      "reading": "さつまはん",
+      "alternatives": [
+        "島津氏",
+        "薩摩"
+      ],
+      "explanation": "琉球は、中国との朝貢貿易を続けながら、幕府に慶賀使や謝恩使を送った。",
+      "yearStart": 1609,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-39",
+      "subject": "nihonshi-tankyu",
+      "question": "蝦夷地で、アイヌとの交易を独占する権利を幕府から認められた藩はどこか。",
+      "answer": "松前藩",
+      "reading": "まつまえはん",
+      "alternatives": [
+        "松前氏",
+        "松前"
+      ],
+      "explanation": "家臣には、アイヌと交易する権利を知行として与えた（商場知行制）。",
+      "yearStart": 1604,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-40",
+      "subject": "nihonshi-tankyu",
+      "question": "1669年に、松前藩の不正な交易に対して、アイヌの人々がおこした戦いを、指導者の名から何というか。",
+      "answer": "シャクシャインの戦い",
+      "reading": "しゃくしゃいんのたたかい",
+      "alternatives": [],
+      "explanation": "松前藩は、津軽藩などの協力をえてしずめた。",
+      "yearStart": 1669,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-41",
+      "subject": "nihonshi-tankyu",
+      "question": "徳川家康に仕えて、朱子学を幕府の学問とする基礎をきずいた儒学者は誰か。",
+      "answer": "林羅山",
+      "reading": "はやしらざん",
+      "alternatives": [],
+      "explanation": "藤原惺窩の弟子。その子孫は代々幕府に仕えた。",
+      "yearStart": 1607,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-42",
+      "subject": "nihonshi-tankyu",
+      "question": "徳川家康をまつる日光東照宮に代表される、江戸時代の初めの神社の建築様式を何というか。",
+      "answer": "権現造",
+      "reading": "ごんげんづくり",
+      "alternatives": [],
+      "explanation": "豪華な彫刻や彩色に特色がある。",
+      "yearStart": 1636,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-43",
+      "subject": "nihonshi-tankyu",
+      "question": "京都の桂離宮に代表される、書院造に茶室の様式をとり入れた、簡素で洗練された建築様式を何というか。",
+      "answer": "数寄屋造",
+      "reading": "すきやづくり",
+      "alternatives": [],
+      "explanation": "修学院離宮もこの様式でつくられた。",
+      "yearStart": 1620,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-44",
+      "subject": "nihonshi-tankyu",
+      "question": "「風神雷神図屛風」をえがいた、江戸時代の初めの京都の絵師は誰か。",
+      "answer": "俵屋宗達",
+      "reading": "たわらやそうたつ",
+      "alternatives": [],
+      "explanation": "大和絵の伝統をもとに、装飾的な画風をひらいた。",
+      "yearStart": 1630,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-45",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の初めに、蒔絵・陶芸・書などにすぐれた作品を残し、京都の鷹ヶ峰に芸術村をつくった人物は誰か。",
+      "answer": "本阿弥光悦",
+      "reading": "ほんあみこうえつ",
+      "alternatives": [],
+      "explanation": "「舟橋蒔絵硯箱」で知られる。",
+      "yearStart": 1615,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-46",
+      "subject": "nihonshi-tankyu",
+      "question": "有田焼で、上絵付けの技法を研究して赤絵を完成させた陶工は誰か。",
+      "answer": "酒井田柿右衛門",
+      "reading": "さかいだかきえもん",
+      "alternatives": [],
+      "explanation": "有田焼は伊万里の港から積み出され、ヨーロッパにも輸出された。",
+      "yearStart": 1640,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-47",
+      "subject": "nihonshi-tankyu",
+      "question": "1605年に将軍職を子にゆずったのちも、駿府で実権をにぎり続けた徳川家康は、何と呼ばれたか。",
+      "answer": "大御所",
+      "reading": "おおごしょ",
+      "alternatives": [],
+      "explanation": "前の将軍をさす呼び名。",
+      "yearStart": 1605,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-48",
+      "subject": "nihonshi-tankyu",
+      "question": "徳川家康から将軍職をゆずられた、第2代将軍は誰か。",
+      "answer": "徳川秀忠",
+      "reading": "とくがわひでただ",
+      "alternatives": [],
+      "explanation": "武家諸法度や禁中並公家諸法度は、秀忠の名で出された。",
+      "yearStart": 1605,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-49",
+      "subject": "nihonshi-tankyu",
+      "question": "大名が、有力な家臣に領地を与えて、その土地と領民を直接支配させた制度を何というか。",
+      "answer": "地方知行制",
+      "reading": "じかたちぎょうせい",
+      "alternatives": [],
+      "explanation": "17世紀半ばまでに、多くの藩で、年貢米を蔵米として支給する俸禄制度にかわった。",
+      "yearStart": 1620,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-50",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府が、朝廷との連絡のために、公家から2人選ばせた役職を何というか。",
+      "answer": "武家伝奏",
+      "reading": "ぶけてんそう",
+      "alternatives": [],
+      "explanation": "京都所司代と連絡をとり、幕府の指示を朝廷に伝えた。",
+      "yearStart": 1603,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-51",
+      "subject": "nihonshi-tankyu",
+      "question": "長崎での貿易の管理や、キリスト教の取りしまりにあたった、幕府の役職を何というか。",
+      "answer": "長崎奉行",
+      "reading": "ながさきぶぎょう",
+      "alternatives": [],
+      "explanation": "重要な直轄地におかれた遠国奉行の1つ。",
+      "yearStart": 1605,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0901-52",
+      "subject": "nihonshi-tankyu",
+      "question": "1622年に、長崎で宣教師や信者55人が処刑された事件を何というか。",
+      "answer": "元和の大殉教",
+      "reading": "げんなのだいじゅんきょう",
+      "alternatives": [],
+      "explanation": "幕府のきびしい迫害を示す事件。",
+      "yearStart": 1622,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "j-0901-53",
+      "subject": "nihonshi-tankyu",
+      "question": "1613年に平戸に商館をひらいたが、オランダとの競争に敗れて、1623年に商館をとじて日本から退いた国はどこか。",
+      "answer": "イギリス",
+      "alternatives": [],
+      "explanation": "翌1624年には、スペイン船の来航が禁止された。",
+      "yearStart": 1623,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-54",
+      "subject": "nihonshi-tankyu",
+      "question": "1609年に、対馬藩の宗氏が朝鮮と結んだ、貿易についての条約を何というか。",
+      "answer": "己酉約条",
+      "reading": "きゆうやくじょう",
+      "alternatives": [],
+      "explanation": "釜山に倭館がおかれ、宗氏は朝鮮との貿易を独占した。",
+      "yearStart": 1609,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-55",
+      "subject": "nihonshi-tankyu",
+      "question": "1689年に、長崎で、清の商人の居住地として定められた区画を何というか。",
+      "answer": "唐人屋敷",
+      "reading": "とうじんやしき",
+      "alternatives": [],
+      "explanation": "密貿易を防ぐためにもうけられた。",
+      "yearStart": 1689,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0901-56",
+      "subject": "nihonshi-tankyu",
+      "question": "松前藩で、18世紀前半頃までに広まった、アイヌとの交易を商人に請け負わせて、運上金を納めさせた制度を何というか。",
+      "answer": "場所請負制度",
+      "reading": "ばしょうけおいせいど",
+      "alternatives": [
+        "場所請負制"
+      ],
+      "explanation": "アイヌの人々は、商人に使われる立場へとかわっていった。",
+      "yearStart": 1720,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-01",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の武士に認められていた、姓を名のり、刀を身につける特権を何というか。",
+      "answer": "苗字・帯刀",
+      "reading": "みょうじ・たいとう",
+      "alternatives": [
+        "名字・帯刀"
+      ],
+      "explanation": "武士は、政治や軍事を独占する支配身分だった。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0902-02",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の社会で、農業を中心に、林業や漁業などにも従事し、人口の大部分を占めた身分を何というか。",
+      "answer": "百姓",
+      "reading": "ひゃくしょう",
+      "alternatives": [],
+      "explanation": "村に住み、年貢や諸役を負担した。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0902-03",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の村で、村の運営にあたった名主（庄屋）・組頭・百姓代の3つの役をまとめて何というか。",
+      "answer": "村方三役",
+      "reading": "むらかたさんやく",
+      "alternatives": [
+        "地方三役"
+      ],
+      "explanation": "名主は、西日本では庄屋、東北では肝煎とも呼ばれた。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0902-04",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の村で、検地帳に登録された田畑や屋敷をもち、年貢を納める義務を負った百姓を何というか。",
+      "answer": "本百姓",
+      "reading": "ほんびゃくしょう",
+      "alternatives": [
+        "高持百姓",
+        "高持"
+      ],
+      "explanation": "村の正式な構成員として、村の運営に参加した。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0902-05",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の村で、田畑をもたず、小作や日雇いの仕事で生活した百姓を何というか。",
+      "answer": "水呑",
+      "reading": "みずのみ",
+      "alternatives": [
+        "水呑百姓",
+        "無高"
+      ],
+      "explanation": "村の運営には参加できなかった。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0902-06",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、年貢の納入や犯罪の防止について連帯責任を負わせるために、百姓を数戸ずつ組織させたものを何というか。",
+      "answer": "五人組",
+      "reading": "ごにんぐみ",
+      "alternatives": [],
+      "explanation": "たがいに監視させるねらいもあった。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0902-07",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、年貢や諸役を、村全体の責任で納めさせたしくみを何というか。",
+      "answer": "村請制",
+      "reading": "むらうけせい",
+      "alternatives": [],
+      "explanation": "幕府や藩は、村の自治にたよって百姓を支配した。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0902-08",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の村で、田植えや屋根のふきかえなどのさいにおこなわれた、百姓どうしの共同作業を何というか。",
+      "answer": "結",
+      "reading": "ゆい",
+      "alternatives": [
+        "もやい"
+      ],
+      "explanation": "村の生活は、たがいの助け合いによって支えられていた。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-09",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の村で、村のおきて（村法）にそむいた者に対しておこなわれた、交際を絶つ制裁を何というか。",
+      "answer": "村八分",
+      "reading": "むらはちぶ",
+      "alternatives": [],
+      "explanation": "村法は、村の百姓が自分たちで定めた。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-10",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の村で、肥料や燃料にする草木をとるために、百姓が共同で利用した山野を何というか。",
+      "answer": "入会地",
+      "reading": "いりあいち",
+      "alternatives": [],
+      "explanation": "用水とともに、村が共同で管理した。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0902-11",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の年貢のうち、田畑や屋敷地にかけられた基本の年貢を何というか。",
+      "answer": "本途物成",
+      "reading": "ほんとものなり",
+      "alternatives": [
+        "本年貢"
+      ],
+      "explanation": "石高の40〜50％を、米や貨幣で納めた（四公六民・五公五民）。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0902-12",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、山野や河海の利用や、農業以外の副業などにかけられた雑税を何というか。",
+      "answer": "小物成",
+      "reading": "こものなり",
+      "alternatives": [],
+      "explanation": "ほかに、村の石高にかけられる高掛物などがあった。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-13",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、街道の近くの村々に課された、宿駅の人や馬の不足をおぎなうための負担を何というか。",
+      "answer": "助郷役",
+      "reading": "すけごうやく",
+      "alternatives": [
+        "助郷"
+      ],
+      "explanation": "交通量がふえると、百姓の重い負担となった。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-14",
+      "subject": "nihonshi-tankyu",
+      "question": "1643年に幕府が出した、百姓が田畑を売り買いすることを禁じた法令は何か。",
+      "answer": "田畑永代売買の禁止令",
+      "reading": "でんぱたえいたいばいばいのきんしれい",
+      "alternatives": [
+        "田畑永代売買の禁令",
+        "田畑永代売買禁止令"
+      ],
+      "explanation": "百姓が土地を失って、年貢を納められなくなることを防ごうとした。",
+      "yearStart": 1643,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0902-15",
+      "subject": "nihonshi-tankyu",
+      "question": "1673年に幕府が出した、百姓が田畑を分けて相続することを制限した法令は何か。",
+      "answer": "分地制限令",
+      "reading": "ぶんちせいげんれい",
+      "alternatives": [],
+      "explanation": "百姓の経営がこまかく分かれて、成り立たなくなることを防ごうとした。",
+      "yearStart": 1673,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-16",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府が、百姓に対して、たばこ・木綿・菜種などの作物を、田畑で自由に栽培することを禁じたことを何というか。",
+      "answer": "田畑勝手作りの禁",
+      "reading": "でんぱたかってづくりのきん",
+      "alternatives": [
+        "田畑勝手作の禁",
+        "田畑勝手作りの禁令"
+      ],
+      "explanation": "年貢のもとになる米などの生産を確保しようとした。",
+      "yearStart": 1643,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-17",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の城下町で、商人や職人が住むように定められた地域を何というか。",
+      "answer": "町人地",
+      "reading": "ちょうにんち",
+      "alternatives": [
+        "町方"
+      ],
+      "explanation": "ほかに、武家地や寺社地があり、身分ごとに住む場所が分けられた。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0902-18",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の都市で、町の中に屋敷をもち、町の運営に参加した住民を何というか。",
+      "answer": "家持",
+      "reading": "いえもち",
+      "alternatives": [
+        "町人"
+      ],
+      "explanation": "町は、町法（町掟）にもとづいて自治をおこなった。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-19",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の都市で、宅地を借りて、自分で家を建てて住んだ人を何というか。",
+      "answer": "地借",
+      "reading": "じがり",
+      "alternatives": [],
+      "explanation": "町の運営には参加できなかった。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-20",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の都市で、家や部屋を借りて住んだ人を何というか。",
+      "answer": "店借",
+      "reading": "たながり",
+      "alternatives": [
+        "借家"
+      ],
+      "explanation": "地代や店賃を払うほかには、ほとんど負担がなかった。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-21",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の町人が、屋敷の広さなどに応じて負担した、上下水道の整備や防火などのための夫役を何というか。",
+      "answer": "町人足役",
+      "reading": "ちょうにんそくやく",
+      "alternatives": [],
+      "explanation": "のちに貨幣で納めるようになった。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "j-0902-22",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の商家の奉公人のうち、主人にかわって店の経営をまかされた、最も上の地位を何というか。",
+      "answer": "番頭",
+      "reading": "ばんとう",
+      "alternatives": [],
+      "explanation": "奉公人は、丁稚から手代、番頭へと昇進した。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-23",
+      "subject": "nihonshi-tankyu",
+      "question": "尾張藩が直轄の山林として保護した、木曽の特産の木材は何か。",
+      "answer": "檜",
+      "reading": "ひのき",
+      "alternatives": [
+        "木曽檜",
+        "ヒノキ"
+      ],
+      "explanation": "秋田藩の杉とともに、建築用の木材として知られた。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-24",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、摂津・和泉・紀伊などの漁民によって全国に伝えられた、網を使う進んだ漁法を何というか。",
+      "answer": "上方漁法",
+      "reading": "かみがたぎょほう",
+      "alternatives": [],
+      "explanation": "各地に漁場がひらかれた。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-25",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に瀬戸内海の沿岸を中心に発達した、潮の干満を利用して海水を引き入れる塩田を何というか。",
+      "answer": "入浜塩田",
+      "reading": "いりはまえんでん",
+      "alternatives": [
+        "入浜式塩田"
+      ],
+      "explanation": "それまでの揚浜法にくらべて、少ない労力で大量の塩がつくれた。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-26",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸幕府が直轄した鉱山のうち、佐渡にあった金山を何というか。",
+      "answer": "佐渡金山",
+      "reading": "さどきんざん",
+      "alternatives": [
+        "佐渡相川金山",
+        "相川金山"
+      ],
+      "explanation": "17世紀の初めに、金・銀の産出量が最もさかんになった。",
+      "yearStart": 1601,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0902-27",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸幕府が直轄した鉱山のうち、但馬にあった銀山を何というか。",
+      "answer": "生野銀山",
+      "reading": "いくのぎんざん",
+      "alternatives": [
+        "但馬生野銀山"
+      ],
+      "explanation": "石見の大森銀山とともに、多くの銀を産出した。",
+      "yearStart": 1600,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-28",
+      "subject": "nihonshi-tankyu",
+      "question": "17世紀末に伊予で発見され、大坂の住友家が経営した銅山は何か。",
+      "answer": "別子銅山",
+      "reading": "べっしどうざん",
+      "alternatives": [],
+      "explanation": "17世紀後半から、金・銀にかわって銅の産出がふえ、長崎貿易の最大の輸出品となった。",
+      "yearStart": 1690,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-29",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸幕府が直轄した鉱山のうち、下野にあった銅山を何というか。",
+      "answer": "足尾銅山",
+      "reading": "あしおどうざん",
+      "alternatives": [],
+      "explanation": "出羽の阿仁銅山も知られる。",
+      "yearStart": 1610,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-30",
+      "subject": "nihonshi-tankyu",
+      "question": "砂鉄と木炭を原料として、中国地方や東北地方でおこなわれた製鉄の方法を何というか。",
+      "answer": "たたら製鉄",
+      "alternatives": [
+        "たたら"
+      ],
+      "explanation": "つくられた玉鋼は、農具や刀の材料として全国に送られた。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-31",
+      "subject": "nihonshi-tankyu",
+      "question": "朱印船貿易や、地域による価格の差を利用して、大きな富をえた江戸時代の初めの豪商をまとめて何というか。",
+      "answer": "初期豪商",
+      "reading": "しょきごうしょう",
+      "alternatives": [],
+      "explanation": "京都の茶屋四郎次郎、摂津平野の末吉孫左衛門らが知られる。鎖国や交通の整備によっておとろえた。",
+      "yearStart": 1610,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0902-32",
+      "subject": "nihonshi-tankyu",
+      "question": "京都の豪商で、朱印船貿易をおこなうとともに、富士川や高瀬川などの水路をひらいた人物は誰か。",
+      "answer": "角倉了以",
+      "reading": "すみのくらりょうい",
+      "alternatives": [],
+      "explanation": "河川の水運の発達につくした。",
+      "yearStart": 1611,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0903-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1651年に11歳で将軍となった、第4代将軍は誰か。",
+      "answer": "徳川家綱",
+      "reading": "とくがわいえつな",
+      "alternatives": [],
+      "explanation": "叔父の保科正之らに支えられ、武力にたよる政治から、儒教の考えにもとづく文治政治への転換が進んだ。",
+      "yearStart": 1651,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0903-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1651年に、兵学者の由井正雪らが、牢人を集めて幕府を倒そうと計画した事件を何というか。",
+      "answer": "慶安の変",
+      "reading": "けいあんのへん",
+      "alternatives": [
+        "由井正雪の乱",
+        "慶安事件"
+      ],
+      "explanation": "大名の改易によって、主家を失った牢人がふえていたことが背景にある。",
+      "yearStart": 1651,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0903-03",
+      "subject": "nihonshi-tankyu",
+      "question": "慶安の変ののち、幕府は牢人の増加を防ぐために、跡つぎのいない大名が死ぬ直前に養子をとることの禁止をゆるめた。この禁止を何というか。",
+      "answer": "末期養子の禁",
+      "reading": "まつごようしのきん",
+      "alternatives": [
+        "末期養子の禁止"
+      ],
+      "explanation": "50歳未満の大名に末期養子を認めた。",
+      "yearStart": 1651,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0903-04",
+      "subject": "nihonshi-tankyu",
+      "question": "1663年に幕府が禁止した、主人の死後に家臣があとを追って死ぬことを何というか。",
+      "answer": "殉死",
+      "reading": "じゅんし",
+      "alternatives": [],
+      "explanation": "家臣は、主人個人ではなく、主人の家に仕えるものとされた。",
+      "yearStart": 1663,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0903-05",
+      "subject": "nihonshi-tankyu",
+      "question": "1657年に、江戸城の天守や市街の大半を焼いた大火事を何というか。",
+      "answer": "明暦の大火",
+      "reading": "めいれきのたいか",
+      "alternatives": [],
+      "explanation": "復興の費用が、幕府の財政を悪化させる一因となった。",
+      "yearStart": 1657,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0903-06",
+      "subject": "nihonshi-tankyu",
+      "question": "岡山藩主で、儒学者の熊沢蕃山を用い、郷校の閑谷学校をひらいた人物は誰か。",
+      "answer": "池田光政",
+      "reading": "いけだみつまさ",
+      "alternatives": [],
+      "explanation": "17世紀後半には、諸藩でも儒学者をまねいて藩政の安定がはかられた。",
+      "yearStart": 1670,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0903-07",
+      "subject": "nihonshi-tankyu",
+      "question": "会津藩主で、第4代将軍の家綱を補佐し、儒学者の山崎闇斎に学んだ人物は誰か。",
+      "answer": "保科正之",
+      "reading": "ほしなまさゆき",
+      "alternatives": [],
+      "explanation": "第3代将軍の家光の弟。",
+      "yearStart": 1651,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0903-08",
+      "subject": "nihonshi-tankyu",
+      "question": "水戸藩主で、江戸に彰考館をもうけて、歴史書『大日本史』の編纂を始めた人物は誰か。",
+      "answer": "徳川光圀",
+      "reading": "とくがわみつくに",
+      "alternatives": [],
+      "explanation": "明から亡命した儒学者の朱舜水をまねいた。",
+      "yearStart": 1657,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0903-09",
+      "subject": "nihonshi-tankyu",
+      "question": "加賀藩主で、儒学者の木下順庵らをまねいて、学問をさかんにした人物は誰か。",
+      "answer": "前田綱紀",
+      "reading": "まえだつなのり",
+      "alternatives": [],
+      "explanation": "古い書物の収集や保存にもつとめた。",
+      "yearStart": 1670,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0903-10",
+      "subject": "nihonshi-tankyu",
+      "question": "1680年に将軍となり、儒教を重んじる政治を進めた第5代将軍は誰か。",
+      "answer": "徳川綱吉",
+      "reading": "とくがわつなよし",
+      "alternatives": [],
+      "explanation": "その治世を元禄時代という。",
+      "yearStart": 1680,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0903-11",
+      "subject": "nihonshi-tankyu",
+      "question": "徳川綱吉の治世の初めに、大老として政治を補佐した人物は誰か。",
+      "answer": "堀田正俊",
+      "reading": "ほったまさとし",
+      "alternatives": [],
+      "explanation": "1684年に江戸城内で暗殺された。",
+      "yearStart": 1681,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0903-12",
+      "subject": "nihonshi-tankyu",
+      "question": "徳川綱吉に重く用いられた柳沢吉保がついた、将軍の側近として、将軍の命令を老中に伝える役職を何というか。",
+      "answer": "側用人",
+      "reading": "そばようにん",
+      "alternatives": [],
+      "explanation": "将軍の信任をえて、大きな力をもつことがあった。",
+      "yearStart": 1688,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0903-13",
+      "subject": "nihonshi-tankyu",
+      "question": "1683年に徳川綱吉が出した、「文武忠孝を励し、礼儀を正すべき事」を第1条とする武家諸法度を、年号から何というか。",
+      "answer": "天和令",
+      "reading": "てんなれい",
+      "alternatives": [
+        "天和の武家諸法度"
+      ],
+      "explanation": "それまでの「文武弓馬の道」にかえて、主君への忠と父祖への孝、礼儀による秩序を求めた。",
+      "yearStart": 1683,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0903-14",
+      "subject": "nihonshi-tankyu",
+      "question": "徳川綱吉が、江戸の湯島に建てた、孔子をまつる建物を何というか。",
+      "answer": "湯島聖堂",
+      "reading": "ゆしませいどう",
+      "alternatives": [
+        "聖堂"
+      ],
+      "explanation": "林鳳岡（信篤）を大学頭に任命した。",
+      "yearStart": 1690,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0903-15",
+      "subject": "nihonshi-tankyu",
+      "question": "徳川綱吉が出した、犬をはじめとするすべての生き物の殺生を禁じた法令をまとめて何というか。",
+      "answer": "生類憐みの令",
+      "reading": "しょうるいあわれみのれい",
+      "alternatives": [],
+      "explanation": "人々を苦しめたが、生命を大切にする考えを広めた面もある。",
+      "yearStart": 1685,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0903-16",
+      "subject": "nihonshi-tankyu",
+      "question": "徳川綱吉が出した、近親者が死んだときに喪に服する日数などを定めた法令を何というか。",
+      "answer": "服忌令",
+      "reading": "ぶっきれい",
+      "alternatives": [],
+      "explanation": "死や血をけがれとしてきらう考えが、社会に広まった。",
+      "yearStart": 1684,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0903-17",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府の収入をふやすために、金の含有率をへらした元禄小判の発行を提案した、勘定吟味役（のち勘定奉行）は誰か。",
+      "answer": "荻原重秀",
+      "reading": "おぎわらしげひで",
+      "alternatives": [],
+      "explanation": "幕府は大きな利益をえたが、貨幣の価値が下がって物価が上がり、人々の生活を苦しめた。",
+      "yearStart": 1695,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0903-18",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸城内で吉良義央に切りつけて切腹となった浅野長矩の家臣たちが、1702年に吉良を討った事件を何というか。",
+      "answer": "赤穂事件",
+      "reading": "あこうじけん",
+      "alternatives": [],
+      "explanation": "のちに「忠臣蔵」として、人形浄瑠璃や歌舞伎の題材になった。",
+      "yearStart": 1702,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0903-19",
+      "subject": "nihonshi-tankyu",
+      "question": "第6代将軍の徳川家宣と、第7代将軍の家継に仕えて、政治を進めた朱子学者は誰か。",
+      "answer": "新井白石",
+      "reading": "あらいはくせき",
+      "alternatives": [],
+      "explanation": "側用人の間部詮房とともに、政治の刷新をはかった。",
+      "yearStart": 1709,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0903-20",
+      "subject": "nihonshi-tankyu",
+      "question": "新井白石が進めた政治を、当時の年号から何というか。",
+      "answer": "正徳の政治",
+      "reading": "しょうとくのせいじ",
+      "alternatives": [
+        "正徳の治"
+      ],
+      "explanation": "生類憐みの令を廃止し、儀式や制度を整えて、将軍の権威を高めようとした。",
+      "yearStart": 1709,
+      "yearEnd": 1716,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0903-21",
+      "subject": "nihonshi-tankyu",
+      "question": "新井白石とともに政治を進めた、徳川家宣の側用人は誰か。",
+      "answer": "間部詮房",
+      "reading": "まなべあきふさ",
+      "alternatives": [],
+      "explanation": "徳川吉宗が将軍になると、白石とともに退けられた。",
+      "yearStart": 1709,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0903-22",
+      "subject": "nihonshi-tankyu",
+      "question": "新井白石が、朝廷との結びつきを強めるために、費用を出して創設した宮家は何か。",
+      "answer": "閑院宮家",
+      "reading": "かんいんのみやけ",
+      "alternatives": [
+        "閑院宮"
+      ],
+      "explanation": "それまで宮家は3つしかなかった。",
+      "yearStart": 1710,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0903-23",
+      "subject": "nihonshi-tankyu",
+      "question": "新井白石は、朝鮮通信使の待遇を簡素にするとともに、朝鮮の国書に記す将軍の呼び名を「日本国大君」から何に改めさせたか。",
+      "answer": "日本国王",
+      "reading": "にほんこくおう",
+      "alternatives": [],
+      "explanation": "将軍の地位を明確にするねらいがあった。",
+      "yearStart": 1711,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0903-24",
+      "subject": "nihonshi-tankyu",
+      "question": "新井白石が、金の含有率を慶長小判と同じにもどして発行した小判を何というか。",
+      "answer": "正徳小判",
+      "reading": "しょうとくこばん",
+      "alternatives": [
+        "正徳金銀"
+      ],
+      "explanation": "物価の上昇をおさえようとしたが、たび重なる貨幣の交換は社会を混乱させた。",
+      "yearStart": 1714,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0903-25",
+      "subject": "nihonshi-tankyu",
+      "question": "1715年に、新井白石が、金・銀の海外への流出を防ぐために、長崎での貿易額を制限した法令は何か。",
+      "answer": "海舶互市新例",
+      "reading": "かいはくごししんれい",
+      "alternatives": [
+        "長崎新令",
+        "正徳新令"
+      ],
+      "explanation": "清の船は年間30隻、オランダの船は年間2隻に制限した。",
+      "yearStart": 1715,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-01",
+      "subject": "nihonshi-tankyu",
+      "question": "17世紀に、幕府や藩が大規模な治水やかんがいの工事をおこなって、耕地を大きく広げたことを何というか。",
+      "answer": "新田開発",
+      "reading": "しんでんかいはつ",
+      "alternatives": [],
+      "explanation": "全国の耕地は、江戸時代の初めの約164万町歩から、18世紀の初めには約297万町歩にふえた。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-02",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、有力な商人が資金を出して開発した新田を何というか。",
+      "answer": "町人請負新田",
+      "reading": "ちょうにんうけおいしんでん",
+      "alternatives": [],
+      "explanation": "17世紀末から各地でみられた。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-03",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に広まった、田畑を深く耕すことのできる鍬を何というか。",
+      "answer": "備中鍬",
+      "reading": "びっちゅうぐわ",
+      "alternatives": [],
+      "explanation": "刃先が数本に分かれている。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-04",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に広まった、稲などの脱穀のための農具を何というか。",
+      "answer": "千歯扱",
+      "reading": "せんばこき",
+      "alternatives": [
+        "千歯こき",
+        "千歯扱き"
+      ],
+      "explanation": "それまでの扱箸にくらべて、能率が大きく上がった。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-05",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に広まった、風の力でもみがらやごみを飛ばして、穀物の粒を選別する農具を何というか。",
+      "answer": "唐箕",
+      "reading": "とうみ",
+      "alternatives": [],
+      "explanation": "金網を使って粒の大きさで選別する千石簁も使われた。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-06",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に広まった、人が踏んで回して水をくみあげる、かんがい用の小型の水車を何というか。",
+      "answer": "踏車",
+      "reading": "ふみぐるま",
+      "alternatives": [],
+      "explanation": "それまでの竜骨車にかわって使われた。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-07",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に使われるようになった、干鰯や油粕などの、お金を出して買う肥料をまとめて何というか。",
+      "answer": "金肥",
+      "reading": "きんぴ",
+      "alternatives": [],
+      "explanation": "綿などの商品作物の栽培にさかんに使われた。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-08",
+      "subject": "nihonshi-tankyu",
+      "question": "鰯を干してつくった肥料を何というか。",
+      "answer": "干鰯",
+      "reading": "ほしか",
+      "alternatives": [],
+      "explanation": "上総の九十九里浜では、地曳網による鰯漁がさかんになった。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1697年に、宮崎安貞が著した、日本で最初の体系的な農書は何か。",
+      "answer": "農業全書",
+      "reading": "のうぎょうぜんしょ",
+      "alternatives": [],
+      "explanation": "中国の農書を参考に、自分の体験や見聞をまとめた。",
+      "yearStart": 1697,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-10",
+      "subject": "nihonshi-tankyu",
+      "question": "19世紀に、『農具便利論』や『広益国産考』を著して、商品作物の栽培などを説いた農学者は誰か。",
+      "answer": "大蔵永常",
+      "reading": "おおくらながつね",
+      "alternatives": [],
+      "explanation": "農業の技術を広く伝えた。",
+      "yearStart": 1822,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-11",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、売ることを目的として栽培された、木綿・菜種・藍・紅花・たばこなどの作物をまとめて何というか。",
+      "answer": "商品作物",
+      "reading": "しょうひんさくもつ",
+      "alternatives": [],
+      "explanation": "農村にも貨幣経済が広まった。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-12",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、出羽の村山（最上）地方の特産物となった、染料や口紅の原料になる作物は何か。",
+      "answer": "紅花",
+      "reading": "べにばな",
+      "alternatives": [],
+      "explanation": "各地で、風土に合った特産物が生まれた。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-13",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、阿波の特産物となった、染料の原料になる作物は何か。",
+      "answer": "藍",
+      "reading": "あい",
+      "alternatives": [],
+      "explanation": "木綿の染料として広く使われた。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-14",
+      "subject": "nihonshi-tankyu",
+      "question": "いりこ・ほしあわび・ふかひれなどを俵につめた、清への輸出品をまとめて何というか。",
+      "answer": "俵物",
+      "reading": "たわらもの",
+      "alternatives": [],
+      "explanation": "17世紀末から、銅にかわる長崎貿易の輸出品として重要になった。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-15",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、高級な絹織物の産地として知られた、京都の地域はどこか。",
+      "answer": "西陣",
+      "reading": "にしじん",
+      "alternatives": [],
+      "explanation": "高機という織機を使って、金襴・緞子などを織った。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-16",
+      "subject": "nihonshi-tankyu",
+      "question": "京都の西陣で使われ、18世紀には上野の桐生などにも伝わった、高度な技術を必要とする織機を何というか。",
+      "answer": "高機",
+      "reading": "たかばた",
+      "alternatives": [],
+      "explanation": "農村でふつうに使われていたのは、いざり機（地機）だった。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-17",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、伏見とならぶ酒の産地として知られた、摂津の地域はどこか。",
+      "answer": "灘",
+      "reading": "なだ",
+      "alternatives": [],
+      "explanation": "酒は、樽廻船で江戸に運ばれた。",
+      "yearStart": 1750,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-18",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、醤油の産地として知られた、下総の町を1つあげよ。",
+      "answer": "野田",
+      "reading": "のだ",
+      "alternatives": [
+        "銚子"
+      ],
+      "explanation": "関東の人々の好みに合った濃口醤油がつくられた。",
+      "yearStart": 1750,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-19",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸幕府が整えた、江戸の日本橋を起点とする5つの主要な街道をまとめて何というか。",
+      "answer": "五街道",
+      "reading": "ごかいどう",
+      "alternatives": [],
+      "explanation": "東海道・中山道・甲州道中・日光道中・奥州道中からなる。道中奉行が管理した。",
+      "yearStart": 1620,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-20",
+      "subject": "nihonshi-tankyu",
+      "question": "五街道のうち、江戸から太平洋側を通って京都にいたる街道は何か。",
+      "answer": "東海道",
+      "reading": "とうかいどう",
+      "alternatives": [],
+      "explanation": "品川から大津まで、53の宿駅がおかれた。",
+      "yearStart": 1620,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-21",
+      "subject": "nihonshi-tankyu",
+      "question": "五街道のうち、江戸から内陸部を通って、近江の草津で東海道に合流する街道は何か。",
+      "answer": "中山道",
+      "reading": "なかせんどう",
+      "alternatives": [],
+      "explanation": "67の宿駅がおかれた。",
+      "yearStart": 1620,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-22",
+      "subject": "nihonshi-tankyu",
+      "question": "街道におかれ、旅人の宿泊の施設や、人と馬を交代させる施設がもうけられた集落を何というか。",
+      "answer": "宿駅",
+      "reading": "しゅくえき",
+      "alternatives": [
+        "宿場",
+        "宿場町"
+      ],
+      "explanation": "大名らが泊まる本陣・脇本陣や、庶民が泊まる旅籠屋があった。",
+      "yearStart": 1620,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-23",
+      "subject": "nihonshi-tankyu",
+      "question": "宿駅で、大名や公家などが宿泊した施設を何というか。",
+      "answer": "本陣",
+      "reading": "ほんじん",
+      "alternatives": [],
+      "explanation": "参勤交代によって、街道と宿駅はにぎわった。",
+      "yearStart": 1635,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-24",
+      "subject": "nihonshi-tankyu",
+      "question": "宿駅で、幕府の公用の荷物や書状を、人と馬を交代させて次の宿駅に送る仕事をおこなった施設を何というか。",
+      "answer": "問屋場",
+      "reading": "といやば",
+      "alternatives": [],
+      "explanation": "宿駅の町人や百姓が、人と馬を出す伝馬役を負担した。",
+      "yearStart": 1620,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-25",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府が、治安を守るために街道の要所にもうけて、通行人を取り調べた施設を何というか。",
+      "answer": "関所",
+      "reading": "せきしょ",
+      "alternatives": [],
+      "explanation": "関東では、「入鉄砲に出女」をとくにきびしく取りしまった。東海道の箱根や新居が知られる。",
+      "yearStart": 1620,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-26",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、手紙や小さな荷物を運んだ人や、そのしくみを何というか。",
+      "answer": "飛脚",
+      "reading": "ひきゃく",
+      "alternatives": [],
+      "explanation": "幕府の継飛脚、大名の大名飛脚、民間の町飛脚があった。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-27",
+      "subject": "nihonshi-tankyu",
+      "question": "17世紀後半に、東廻り海運と西廻り海運を整備した江戸の商人は誰か。",
+      "answer": "河村瑞賢",
+      "reading": "かわむらずいけん",
+      "alternatives": [],
+      "explanation": "幕府の命令で、東北地方の幕領の年貢米を江戸に運ぶ航路を整えた。",
+      "yearStart": 1671,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-28",
+      "subject": "nihonshi-tankyu",
+      "question": "東北地方の日本海側から、津軽海峡を通って、太平洋側を南下して江戸にいたる航路を何というか。",
+      "answer": "東廻り海運",
+      "reading": "ひがしまわりかいうん",
+      "alternatives": [
+        "東廻り航路"
+      ],
+      "explanation": "1671年に河村瑞賢が整備した。",
+      "yearStart": 1671,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-29",
+      "subject": "nihonshi-tankyu",
+      "question": "東北地方の日本海側から、下関を通り、瀬戸内海をへて大坂にいたる航路を何というか。",
+      "answer": "西廻り海運",
+      "reading": "にしまわりかいうん",
+      "alternatives": [
+        "西廻り航路"
+      ],
+      "explanation": "1672年に河村瑞賢が整備した。全国の物資が大坂に集まるようになった。",
+      "yearStart": 1672,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-30",
+      "subject": "nihonshi-tankyu",
+      "question": "大坂と江戸を結ぶ南海路で、木綿・油・酒・醤油などのさまざまな荷物を運んだ、17世紀前半に始まった定期船を何というか。",
+      "answer": "菱垣廻船",
+      "reading": "ひがきかいせん",
+      "alternatives": [],
+      "explanation": "船の両側に、荷物が落ちないように菱形の垣をつけた。",
+      "yearStart": 1620,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-31",
+      "subject": "nihonshi-tankyu",
+      "question": "大坂と江戸を結ぶ南海路で、はじめは酒をおもに運び、のちには菱垣廻船を圧倒した船を何というか。",
+      "answer": "樽廻船",
+      "reading": "たるかいせん",
+      "alternatives": [],
+      "explanation": "荷物を積む時間が短く、速く運べた。",
+      "yearStart": 1730,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-32",
+      "subject": "nihonshi-tankyu",
+      "question": "18世紀後半頃から、日本海側の港と大坂を結んで、蝦夷地や東北地方の産物を運んで売買した船を何というか。",
+      "answer": "北前船",
+      "reading": "きたまえぶね",
+      "alternatives": [],
+      "explanation": "蝦夷地の昆布や鰊が、西日本に大量に運ばれた。",
+      "yearStart": 1780,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-33",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に全国で使われた、金貨・銀貨・銭貨の3種類の貨幣をまとめて何というか。",
+      "answer": "三貨",
+      "reading": "さんか",
+      "alternatives": [],
+      "explanation": "東日本ではおもに金貨が、西日本ではおもに銀貨が使われた。",
+      "yearStart": 1640,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-34",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸幕府が、小判などの金貨をつくらせた機関を何というか。",
+      "answer": "金座",
+      "reading": "きんざ",
+      "alternatives": [],
+      "explanation": "銀貨は銀座、銭貨は銭座でつくられた。",
+      "yearStart": 1601,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-35",
+      "subject": "nihonshi-tankyu",
+      "question": "1636年から幕府がつくらせて、全国に流通した銅銭は何か。",
+      "answer": "寛永通宝",
+      "reading": "かんえいつうほう",
+      "alternatives": [],
+      "explanation": "それまで使われていた中国の銭や私鋳銭は、しだいに姿を消した。",
+      "yearStart": 1636,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-36",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の丁銀や豆板銀のように、重さをはかって使う貨幣を何というか。",
+      "answer": "秤量貨幣",
+      "reading": "しょうりょうかへい",
+      "alternatives": [],
+      "explanation": "小判などの金貨は、枚数を数えて使う計数貨幣だった。",
+      "yearStart": 1640,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-37",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、藩が発行して、領内だけで通用させた紙幣を何というか。",
+      "answer": "藩札",
+      "reading": "はんさつ",
+      "alternatives": [],
+      "explanation": "1661年の越前の福井藩が最初とされる。財政の苦しさをおぎなうために発行された。",
+      "yearStart": 1661,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-38",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、金貨・銀貨・銭貨の交換や、預金・貸付・為替などの業務をおこなった商人を何というか。",
+      "answer": "両替商",
+      "reading": "りょうがえしょう",
+      "alternatives": [],
+      "explanation": "大坂の鴻池、江戸の三井などが知られる。",
+      "yearStart": 1670,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-39",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸・大坂・京都の3つの都市をまとめて何というか。",
+      "answer": "三都",
+      "reading": "さんと",
+      "alternatives": [],
+      "explanation": "江戸は18世紀前半に人口が約100万人に達した。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-40",
+      "subject": "nihonshi-tankyu",
+      "question": "全国の物資が集まる商業の中心地であった大坂は、何と呼ばれたか。",
+      "answer": "天下の台所",
+      "reading": "てんかのだいどころ",
+      "alternatives": [],
+      "explanation": "江戸は「将軍のお膝元」と呼ばれた。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-41",
+      "subject": "nihonshi-tankyu",
+      "question": "諸藩が、年貢米や特産物を売るために、大坂などにおいた、倉庫をかねた屋敷を何というか。",
+      "answer": "蔵屋敷",
+      "reading": "くらやしき",
+      "alternatives": [],
+      "explanation": "ここに集められた年貢米や特産物を蔵物という。",
+      "yearStart": 1670,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-42",
+      "subject": "nihonshi-tankyu",
+      "question": "蔵屋敷で、蔵物の売買を担当した商人を何というか。",
+      "answer": "蔵元",
+      "reading": "くらもと",
+      "alternatives": [],
+      "explanation": "売上金の保管や送金は掛屋が担当した。",
+      "yearStart": 1670,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-43",
+      "subject": "nihonshi-tankyu",
+      "question": "蔵屋敷に集められた蔵物に対して、民間の商人が各地の産地から仕入れて取引した商品を何というか。",
+      "answer": "納屋物",
+      "reading": "なやもの",
+      "alternatives": [],
+      "explanation": "商品の流通がさかんになるにつれてふえた。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-44",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸で、旗本や御家人の代理として、蔵米の受け取りと売却をおこなった商人を何というか。",
+      "answer": "札差",
+      "reading": "ふださし",
+      "alternatives": [
+        "蔵宿"
+      ],
+      "explanation": "蔵米を担保に金を貸して、大きな利益をえた。",
+      "yearStart": 1720,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-45",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、商工業者が同業者どうしで結成し、幕府や藩から営業の独占を認められた組合を何というか。",
+      "answer": "株仲間",
+      "reading": "かぶなかま",
+      "alternatives": [],
+      "explanation": "営業の独占を認められるかわりに、運上・冥加という税を納めた。",
+      "yearStart": 1720,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-46",
+      "subject": "nihonshi-tankyu",
+      "question": "17世紀末に江戸で結成された、大坂から送られてくる荷物を扱う問屋の仲間の連合を何というか。",
+      "answer": "十組問屋",
+      "reading": "とくみどいや",
+      "alternatives": [],
+      "explanation": "大坂では、江戸へ荷物を送る二十四組問屋が結成された。",
+      "yearStart": 1694,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0904-47",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸で越後屋呉服店をひらき、「現金かけねなし」の新しい商法で成功した商人は誰か。",
+      "answer": "三井高利",
+      "reading": "みついたかとし",
+      "alternatives": [],
+      "explanation": "店先で、現金で、定価で売る商法をとった。両替商もいとなんだ。",
+      "yearStart": 1673,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-48",
+      "subject": "nihonshi-tankyu",
+      "question": "大坂で、全国の米の値段に大きな影響を与えた米市場がおかれた場所はどこか。",
+      "answer": "堂島",
+      "reading": "どうじま",
+      "alternatives": [],
+      "explanation": "大坂には、ほかに雑喉場の魚市場、天満の青物市場があった。",
+      "yearStart": 1730,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0904-49",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸で、魚市場がおかれた場所はどこか。",
+      "answer": "日本橋",
+      "reading": "にほんばし",
+      "alternatives": [],
+      "explanation": "青物市場は神田におかれた。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-01",
+      "subject": "nihonshi-tankyu",
+      "question": "17世紀後半から18世紀の初めにかけて、上方の豊かな町人を中心に栄えた文化を何というか。",
+      "answer": "元禄文化",
+      "reading": "げんろくぶんか",
+      "alternatives": [],
+      "explanation": "現実の世の中や人間をありのままにえがく、明るく活気のある文化。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0905-02",
+      "subject": "nihonshi-tankyu",
+      "question": "『好色一代男』や『日本永代蔵』などを著した、大坂の町人は誰か。",
+      "answer": "井原西鶴",
+      "reading": "いはらさいかく",
+      "alternatives": [],
+      "explanation": "ほかに『世間胸算用』『武家義理物語』などがある。",
+      "yearStart": 1682,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0905-03",
+      "subject": "nihonshi-tankyu",
+      "question": "井原西鶴が始めた、町人の生活や欲望をありのままにえがいた小説を何というか。",
+      "answer": "浮世草子",
+      "reading": "うきよぞうし",
+      "alternatives": [],
+      "explanation": "恋愛をえがく好色物、町人の経済生活をえがく町人物、武士をえがく武家物がある。",
+      "yearStart": 1682,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0905-04",
+      "subject": "nihonshi-tankyu",
+      "question": "俳諧を芸術性の高い文学に高め、紀行文『奥の細道』を著した人物は誰か。",
+      "answer": "松尾芭蕉",
+      "reading": "まつおばしょう",
+      "alternatives": [],
+      "explanation": "伊賀の出身。各地を旅して、自然と人生をみつめる句をよんだ。",
+      "yearStart": 1689,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0905-05",
+      "subject": "nihonshi-tankyu",
+      "question": "松尾芭蕉が確立した、さび・しおり・かるみを重んじる俳諧の作風を何というか。",
+      "answer": "蕉風",
+      "reading": "しょうふう",
+      "alternatives": [
+        "正風",
+        "蕉風俳諧"
+      ],
+      "explanation": "それまでの、こっけいさを主とする談林俳諧などとはちがう、新しい作風だった。",
+      "yearStart": 1690,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-06",
+      "subject": "nihonshi-tankyu",
+      "question": "『曽根崎心中』や『国性爺合戦』など、人形浄瑠璃や歌舞伎の脚本を書いた人物は誰か。",
+      "answer": "近松門左衛門",
+      "reading": "ちかまつもんざえもん",
+      "alternatives": [],
+      "explanation": "義理と人情の板ばさみに苦しむ人々の姿をえがいた。",
+      "yearStart": 1703,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0905-07",
+      "subject": "nihonshi-tankyu",
+      "question": "近松門左衛門の作品のうち、『曽根崎心中』のように、当時の町人の社会のできごとを題材にしたものを何というか。",
+      "answer": "世話物",
+      "reading": "せわもの",
+      "alternatives": [],
+      "explanation": "歴史上のできごとを題材にしたものは時代物という。",
+      "yearStart": 1703,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-08",
+      "subject": "nihonshi-tankyu",
+      "question": "大坂で竹本座をひらき、近松門左衛門の作品を語って人気を集めた、人形浄瑠璃の語り手は誰か。",
+      "answer": "竹本義太夫",
+      "reading": "たけもとぎだゆう",
+      "alternatives": [],
+      "explanation": "その語りは義太夫節と呼ばれる。",
+      "yearStart": 1684,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-09",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸の歌舞伎で、荒事と呼ばれる勇ましい演技で人気を集めた役者は誰か。",
+      "answer": "市川団十郎",
+      "reading": "いちかわだんじゅうろう",
+      "alternatives": [
+        "初代市川団十郎"
+      ],
+      "explanation": "歌舞伎は、成人の男性だけが演じる野郎歌舞伎となって発展した。",
+      "yearStart": 1690,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-10",
+      "subject": "nihonshi-tankyu",
+      "question": "上方の歌舞伎で、和事と呼ばれる恋愛を演じる演技で人気を集めた役者は誰か。",
+      "answer": "坂田藤十郎",
+      "reading": "さかたとうじゅうろう",
+      "alternatives": [
+        "初代坂田藤十郎"
+      ],
+      "explanation": "女形の芳沢あやめも名優として知られる。",
+      "yearStart": 1690,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-11",
+      "subject": "nihonshi-tankyu",
+      "question": "儒学のうち、上下の身分の秩序や礼節を重んじたため、幕府や藩に重んじられた学派は何か。",
+      "answer": "朱子学",
+      "reading": "しゅしがく",
+      "alternatives": [],
+      "explanation": "林羅山の子孫（林家）や、木下順庵とその門人の新井白石・室鳩巣らが知られる。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0905-12",
+      "subject": "nihonshi-tankyu",
+      "question": "土佐でおこった朱子学の一派である南学を学び、神道を儒教の立場から解釈して、垂加神道を説いた人物は誰か。",
+      "answer": "山崎闇斎",
+      "reading": "やまざきあんさい",
+      "alternatives": [],
+      "explanation": "南学の系統からは、土佐藩の家老の野中兼山も出た。",
+      "yearStart": 1660,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-13",
+      "subject": "nihonshi-tankyu",
+      "question": "明の王陽明が始めた、知行合一の立場から実践を重んじる、儒学の学派は何か。",
+      "answer": "陽明学",
+      "reading": "ようめいがく",
+      "alternatives": [],
+      "explanation": "現実を批判して改めようとする傾向が強く、幕府から警戒された。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0905-14",
+      "subject": "nihonshi-tankyu",
+      "question": "日本の陽明学の祖とされ、「近江聖人」と呼ばれた人物は誰か。",
+      "answer": "中江藤樹",
+      "reading": "なかえとうじゅ",
+      "alternatives": [],
+      "explanation": "近江に藤樹書院をひらいて、庶民にも教えを説いた。",
+      "yearStart": 1640,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0905-15",
+      "subject": "nihonshi-tankyu",
+      "question": "中江藤樹の門人で、岡山藩主の池田光政に仕え、『大学或問』で幕府の政治を批判して処罰された人物は誰か。",
+      "answer": "熊沢蕃山",
+      "reading": "くまざわばんざん",
+      "alternatives": [],
+      "explanation": "下総の古河に幽閉された。",
+      "yearStart": 1687,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-16",
+      "subject": "nihonshi-tankyu",
+      "question": "朱子学や陽明学を後の時代の解釈であると批判し、孔子や孟子の古典に直接学ぼうとした学派をまとめて何というか。",
+      "answer": "古学",
+      "reading": "こがく",
+      "alternatives": [
+        "古学派"
+      ],
+      "explanation": "山鹿素行・伊藤仁斎・荻生徂徠らが知られる。",
+      "yearStart": 1670,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0905-17",
+      "subject": "nihonshi-tankyu",
+      "question": "『聖教要録』を著して朱子学を批判し、幕府によって赤穂に流された人物は誰か。",
+      "answer": "山鹿素行",
+      "reading": "やまがそこう",
+      "alternatives": [],
+      "explanation": "武士の生き方（士道）を説いた兵学者でもある。",
+      "yearStart": 1665,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-18",
+      "subject": "nihonshi-tankyu",
+      "question": "京都の堀川に私塾の古義堂をひらき、『論語』や『孟子』の本来の意味を明らかにしようとした人物は誰か。",
+      "answer": "伊藤仁斎",
+      "reading": "いとうじんさい",
+      "alternatives": [],
+      "explanation": "その学問は古義学と呼ばれ、子の東涯が受けついだ。",
+      "yearStart": 1662,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0905-19",
+      "subject": "nihonshi-tankyu",
+      "question": "古文辞学を始め、江戸に私塾の蘐園塾をひらき、将軍の徳川吉宗の政治の相談にもこたえた人物は誰か。",
+      "answer": "荻生徂徠",
+      "reading": "おぎゅうそらい",
+      "alternatives": [],
+      "explanation": "政治や経済の具体的な方策を説く経世論に道をひらいた。",
+      "yearStart": 1720,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0905-20",
+      "subject": "nihonshi-tankyu",
+      "question": "荻生徂徠が、徳川吉宗の問いにこたえて、武士を農村に土着させることなどを説いた書物は何か。",
+      "answer": "政談",
+      "reading": "せいだん",
+      "alternatives": [],
+      "explanation": "都市の膨張をおさえ、武士の生活を立て直すことを説いた。",
+      "yearStart": 1727,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-21",
+      "subject": "nihonshi-tankyu",
+      "question": "荻生徂徠の門人で、『経済録』を著し、藩が商業をおこなって利益をあげることを説いた人物は誰か。",
+      "answer": "太宰春台",
+      "reading": "だざいしゅんだい",
+      "alternatives": [],
+      "explanation": "経世論を発展させた。",
+      "yearStart": 1729,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "経済"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "j-0905-22",
+      "subject": "nihonshi-tankyu",
+      "question": "新井白石が著した、公家の政権から武家の政権への移りかわりを、独自の時代区分で論じた歴史書は何か。",
+      "answer": "読史余論",
+      "reading": "とくしよろん",
+      "alternatives": [],
+      "explanation": "将軍の徳川家宣への講義をもとにまとめた。",
+      "yearStart": 1712,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-23",
+      "subject": "nihonshi-tankyu",
+      "question": "新井白石が、日本に潜入して捕らえられたイタリア人宣教師シドッチを尋問して著した書物を1つあげよ。",
+      "answer": "西洋紀聞",
+      "reading": "せいようきぶん",
+      "alternatives": [
+        "采覧異言"
+      ],
+      "explanation": "世界の地理や西洋の事情を記した。",
+      "yearStart": 1715,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-24",
+      "subject": "nihonshi-tankyu",
+      "question": "動物・植物・鉱物の薬としての効用を研究する学問を何というか。",
+      "answer": "本草学",
+      "reading": "ほんぞうがく",
+      "alternatives": [],
+      "explanation": "のちに博物学の性格を強めた。稲生若水の『庶物類纂』がある。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-25",
+      "subject": "nihonshi-tankyu",
+      "question": "『大和本草』を著した、福岡藩の儒学者は誰か。",
+      "answer": "貝原益軒",
+      "reading": "かいばらえきけん",
+      "alternatives": [],
+      "explanation": "日本の動物・植物・鉱物を分類して解説した。",
+      "yearStart": 1709,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-26",
+      "subject": "nihonshi-tankyu",
+      "question": "『発微算法』を著し、筆算による代数の計算法や円周率の計算などにすぐれた研究を残して、和算を大成した人物は誰か。",
+      "answer": "関孝和",
+      "reading": "せきたかかず",
+      "alternatives": [],
+      "explanation": "和算は、測量や商売の必要から発達した日本独自の数学。",
+      "yearStart": 1674,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0905-27",
+      "subject": "nihonshi-tankyu",
+      "question": "1627年に、そろばんを使った計算などをわかりやすく解説した和算書『塵劫記』を著した人物は誰か。",
+      "answer": "吉田光由",
+      "reading": "よしだみつよし",
+      "alternatives": [],
+      "explanation": "和算が庶民に広まるきっかけとなった。",
+      "yearStart": 1627,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-28",
+      "subject": "nihonshi-tankyu",
+      "question": "それまでの暦の誤りを、自分でおこなった天体の観測によって修正し、日本独自の暦である貞享暦をつくった人物は誰か。",
+      "answer": "渋川春海",
+      "reading": "しぶかわはるみ",
+      "alternatives": [
+        "安井算哲"
+      ],
+      "explanation": "元の授時暦をもとにした。幕府の天文方に任命された。",
+      "yearStart": 1684,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0905-29",
+      "subject": "nihonshi-tankyu",
+      "question": "『万葉集』を研究して『万葉代匠記』を著し、のちの国学のもとをひらいた僧は誰か。",
+      "answer": "契沖",
+      "reading": "けいちゅう",
+      "alternatives": [],
+      "explanation": "多くの実例にもとづいて、古典を研究する方法をとった。",
+      "yearStart": 1690,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-30",
+      "subject": "nihonshi-tankyu",
+      "question": "『源氏物語』や『枕草子』の注釈書を著し、幕府の歌学方に任命された人物は誰か。",
+      "answer": "北村季吟",
+      "reading": "きたむらきぎん",
+      "alternatives": [],
+      "explanation": "『源氏物語湖月抄』がある。",
+      "yearStart": 1689,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-31",
+      "subject": "nihonshi-tankyu",
+      "question": "「紅白梅図屛風」や「燕子花図屛風」をえがき、俵屋宗達の装飾的な画風を発展させた京都の絵師は誰か。",
+      "answer": "尾形光琳",
+      "reading": "おがたこうりん",
+      "alternatives": [],
+      "explanation": "その画風を受けつぐ人々を琳派という。蒔絵の「八橋蒔絵螺鈿硯箱」も知られる。",
+      "yearStart": 1710,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0905-32",
+      "subject": "nihonshi-tankyu",
+      "question": "「見返り美人図」をえがき、浮世絵の版画を始めた絵師は誰か。",
+      "answer": "菱川師宣",
+      "reading": "ひしかわもろのぶ",
+      "alternatives": [],
+      "explanation": "安い値段で手に入る版画によって、絵画が庶民に広まった。",
+      "yearStart": 1690,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0905-33",
+      "subject": "nihonshi-tankyu",
+      "question": "上絵付けの技法をもとに色絵を完成させ、京焼のもとをきずいた陶工は誰か。",
+      "answer": "野々村仁清",
+      "reading": "ののむらにんせい",
+      "alternatives": [],
+      "explanation": "尾形光琳の弟の尾形乾山は、その流れをくんで装飾的な陶器を残した。",
+      "yearStart": 1660,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-34",
+      "subject": "nihonshi-tankyu",
+      "question": "元禄時代に、京都で、絹の布に花や鳥などをあざやかにえがく染め物を始めたとされる人物は誰か。",
+      "answer": "宮崎友禅",
+      "reading": "みやざきゆうぜん",
+      "alternatives": [],
+      "explanation": "その染め物を友禅染という。",
+      "yearStart": 1690,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-35",
+      "subject": "nihonshi-tankyu",
+      "question": "大和絵の一派である土佐派を再興して、朝廷の絵師となった人物は誰か。",
+      "answer": "土佐光起",
+      "reading": "とさみつおき",
+      "alternatives": [],
+      "explanation": "幕府の御用絵師は、狩野派が受けついだ。",
+      "yearStart": 1654,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0905-36",
+      "subject": "nihonshi-tankyu",
+      "question": "大和絵の一派である住吉派の絵師で、江戸にまねかれて幕府の御用絵師となった人物は誰か。",
+      "answer": "住吉具慶",
+      "reading": "すみよしぐけい",
+      "alternatives": [],
+      "explanation": "父の住吉如慶が住吉派をおこした。",
+      "yearStart": 1685,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    }
+  ]
+}

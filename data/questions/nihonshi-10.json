@@ -1,0 +1,2556 @@
+{
+  "generatedFrom": "nihonshi-10.csv",
+  "_note": "このファイルは nihonshi-10.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "j-1001-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1716年に、紀伊藩主から将軍となった第8代将軍は誰か。",
+      "answer": "徳川吉宗",
+      "reading": "とくがわよしむね",
+      "alternatives": [],
+      "explanation": "米の値段の安定につとめたので「米将軍」と呼ばれた。",
+      "yearStart": 1716,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1001-02",
+      "subject": "nihonshi-tankyu",
+      "question": "徳川吉宗が、幕府の財政の立て直しをめざして進めた改革を何というか。",
+      "answer": "享保の改革",
+      "reading": "きょうほうのかいかく",
+      "alternatives": [],
+      "explanation": "側用人による政治をやめ、将軍がみずから政治を主導した。",
+      "yearStart": 1716,
+      "yearEnd": 1745,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1001-03",
+      "subject": "nihonshi-tankyu",
+      "question": "1722年に、徳川吉宗が、大名に石高1万石につき100石の米を納めさせ、かわりに参勤交代で江戸にいる期間を半年にちぢめた制度を何というか。",
+      "answer": "上げ米",
+      "reading": "あげまい",
+      "alternatives": [
+        "上米",
+        "上げ米の制",
+        "上米の制"
+      ],
+      "explanation": "幕府の財政の苦しさをおぎなうための、一時的な措置だった。",
+      "yearStart": 1722,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1001-04",
+      "subject": "nihonshi-tankyu",
+      "question": "1723年に、徳川吉宗が定めた、役職ごとに基準の石高を決め、それに足りない者には、在職中だけ不足分を支給する制度を何というか。",
+      "answer": "足高の制",
+      "reading": "たしだかのせい",
+      "alternatives": [],
+      "explanation": "支出をおさえながら、有能な人材を登用することができた。",
+      "yearStart": 1723,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1001-05",
+      "subject": "nihonshi-tankyu",
+      "question": "享保の改革で広くとり入れられた、数年間の収穫量の平均をもとに、一定の期間は同じ率で年貢を取り立てる方法を何というか。",
+      "answer": "定免法",
+      "reading": "じょうめんほう",
+      "alternatives": [],
+      "explanation": "それまでは、毎年の収穫を調べて年貢を決める検見法だった。年貢の増収をめざした。",
+      "yearStart": 1722,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1001-06",
+      "subject": "nihonshi-tankyu",
+      "question": "1719年に、徳川吉宗が出した、金銭の貸し借りについての訴えを幕府は受けつけず、当事者どうしで解決させることとした法令は何か。",
+      "answer": "相対済し令",
+      "reading": "あいたいすましれい",
+      "alternatives": [],
+      "explanation": "ふえ続ける訴訟で、政務がとどこおるのを防ごうとした。",
+      "yearStart": 1719,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1001-07",
+      "subject": "nihonshi-tankyu",
+      "question": "1721年に、徳川吉宗が、庶民の意見を聞くために評定所の前に設置した箱を何というか。",
+      "answer": "目安箱",
+      "reading": "めやすばこ",
+      "alternatives": [],
+      "explanation": "投書をもとに、貧しい人々のための医療施設である小石川養生所がつくられた。",
+      "yearStart": 1721,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1001-08",
+      "subject": "nihonshi-tankyu",
+      "question": "徳川吉宗に登用されて江戸の町奉行となり、町火消の制度を整えた人物は誰か。",
+      "answer": "大岡忠相",
+      "reading": "おおおかただすけ",
+      "alternatives": [],
+      "explanation": "足高の制などによって登用された人材の代表。",
+      "yearStart": 1717,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1001-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1742年に、徳川吉宗が、裁判や刑罰の基準を定めるために編纂させた法典は何か。",
+      "answer": "公事方御定書",
+      "reading": "くじかたおさだめがき",
+      "alternatives": [],
+      "explanation": "下巻は「御定書百箇条」と呼ばれる。",
+      "yearStart": 1742,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1001-10",
+      "subject": "nihonshi-tankyu",
+      "question": "徳川吉宗が、実学をすすめるために輸入の制限をゆるめた、キリスト教に関係のない書物を何というか。",
+      "answer": "漢訳洋書",
+      "reading": "かんやくようしょ",
+      "alternatives": [],
+      "explanation": "青木昆陽や野呂元丈にオランダ語を学ばせ、のちの蘭学の発展のもとになった。",
+      "yearStart": 1720,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1001-11",
+      "subject": "nihonshi-tankyu",
+      "question": "徳川吉宗に登用され、飢饉にそなえる作物として、甘藷（さつまいも）の栽培を広めた学者は誰か。",
+      "answer": "青木昆陽",
+      "reading": "あおきこんよう",
+      "alternatives": [],
+      "explanation": "『蕃薯考』を著した。",
+      "yearStart": 1735,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1001-12",
+      "subject": "nihonshi-tankyu",
+      "question": "徳川吉宗の子や孫から始まった、田安家・一橋家・清水家の3つの家をまとめて何というか。",
+      "answer": "三卿",
+      "reading": "さんきょう",
+      "alternatives": [
+        "御三卿"
+      ],
+      "explanation": "将軍家に跡つぎがいないときに、将軍を出す家とされた。",
+      "yearStart": 1750,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1001-13",
+      "subject": "nihonshi-tankyu",
+      "question": "1732年に、西日本を中心に、うんかなどの害虫の大量発生によっておこった大きな飢饉を何というか。",
+      "answer": "享保の飢饉",
+      "reading": "きょうほうのききん",
+      "alternatives": [
+        "享保の大飢饉"
+      ],
+      "explanation": "翌年、米の値段が上がった江戸で、最初の打ちこわしがおこった。",
+      "yearStart": 1732,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1001-14",
+      "subject": "nihonshi-tankyu",
+      "question": "18世紀に、田畑を集めて地主となり、村役人をつとめたり、商品の生産や流通にもかかわったりした有力な百姓を何というか。",
+      "answer": "豪農",
+      "reading": "ごうのう",
+      "alternatives": [],
+      "explanation": "田畑を失った百姓は、小作人となったり、年季奉公や日雇いに出たりした。",
+      "yearStart": 1750,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1001-15",
+      "subject": "nihonshi-tankyu",
+      "question": "18世紀の村で、小百姓や小作人が、村役人の不正を追及したり、村の運営への参加を求めたりしておこした運動を何というか。",
+      "answer": "村方騒動",
+      "reading": "むらかたそうどう",
+      "alternatives": [],
+      "explanation": "村の中での対立が深まったことを示す。",
+      "yearStart": 1750,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1001-16",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、百姓が、年貢をへらすことや、不正をはたらく役人をやめさせることなどを求めて、集団で領主に対しておこした行動を何というか。",
+      "answer": "百姓一揆",
+      "reading": "ひゃくしょういっき",
+      "alternatives": [],
+      "explanation": "江戸時代を通じて、約3200件がおこったことが確認されている。",
+      "yearStart": 1750,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1001-17",
+      "subject": "nihonshi-tankyu",
+      "question": "17世紀後半に多くみられた、村の代表者が、百姓全体の利益のために、領主に直接うったえた一揆の形を何というか。",
+      "answer": "代表越訴型一揆",
+      "reading": "だいひょうおっそがたいっき",
+      "alternatives": [],
+      "explanation": "下総の佐倉惣五郎らは、義民として伝えられた。",
+      "yearStart": 1670,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1001-18",
+      "subject": "nihonshi-tankyu",
+      "question": "17世紀末から各地でみられた、村々の百姓の全体が団結して参加した、大規模な一揆の形を何というか。",
+      "answer": "惣百姓一揆",
+      "reading": "そうびゃくしょういっき",
+      "alternatives": [],
+      "explanation": "藩の全域におよぶこともあった（全藩一揆）。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1001-19",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代の都市で、生活に苦しむ人々が、米屋や高利貸などをおそって、家や家財をこわした行動を何というか。",
+      "answer": "打ちこわし",
+      "reading": "うちこわし",
+      "alternatives": [
+        "打毀し"
+      ],
+      "explanation": "飢饉などで米の値段が上がったときにおこった。",
+      "yearStart": 1750,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1001-20",
+      "subject": "nihonshi-tankyu",
+      "question": "1782年から数年間にわたって、冷害や浅間山の噴火などによって、東北地方を中心におこった大きな飢饉を何というか。",
+      "answer": "天明の飢饉",
+      "reading": "てんめいのききん",
+      "alternatives": [
+        "天明の大飢饉"
+      ],
+      "explanation": "多くの餓死者が出て、各地で百姓一揆や打ちこわしがおこった。",
+      "yearStart": 1782,
+      "yearEnd": 1787,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1001-21",
+      "subject": "nihonshi-tankyu",
+      "question": "第10代将軍の徳川家治のもとで、側用人から老中となって政治の実権をにぎった人物は誰か。",
+      "answer": "田沼意次",
+      "reading": "たぬまおきつぐ",
+      "alternatives": [],
+      "explanation": "年貢だけにたよらず、商人の力を利用して幕府の収入をふやそうとした。",
+      "yearStart": 1772,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1001-22",
+      "subject": "nihonshi-tankyu",
+      "question": "田沼意次が、営業税である運上・冥加の増収をめざして、積極的に結成を認めた商工業者の組合を何というか。",
+      "answer": "株仲間",
+      "reading": "かぶなかま",
+      "alternatives": [],
+      "explanation": "銅や朝鮮人参などを扱う幕府の専売の座ももうけた。",
+      "yearStart": 1775,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1001-23",
+      "subject": "nihonshi-tankyu",
+      "question": "1772年から田沼意次がつくらせた、8枚で金1両と交換できると定めた銀貨を何というか。",
+      "answer": "南鐐二朱銀",
+      "reading": "なんりょうにしゅぎん",
+      "alternatives": [],
+      "explanation": "重さをはかって使う銀貨を、金貨の単位で数える貨幣にかえ、金を中心とする貨幣の制度にまとめようとした。",
+      "yearStart": 1772,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1001-24",
+      "subject": "nihonshi-tankyu",
+      "question": "田沼意次が、新田の開発のために干拓の工事を始めた、下総の沼を1つあげよ。",
+      "answer": "印旛沼",
+      "reading": "いんばぬま",
+      "alternatives": [
+        "手賀沼"
+      ],
+      "explanation": "利根川の洪水などのために、工事は失敗に終わった。",
+      "yearStart": 1782,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1001-25",
+      "subject": "nihonshi-tankyu",
+      "question": "田沼意次が、長崎貿易で、金・銀を輸入するために輸出をすすめた品物を1つあげよ。",
+      "answer": "俵物",
+      "reading": "たわらもの",
+      "alternatives": [
+        "銅"
+      ],
+      "explanation": "それまでの、金・銀が流出する貿易のあり方をあらためた。",
+      "yearStart": 1775,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1001-26",
+      "subject": "nihonshi-tankyu",
+      "question": "ロシアとの交易や蝦夷地の開発を説いて、田沼意次の政策に影響を与えた、工藤平助の書物は何か。",
+      "answer": "赤蝦夷風説考",
+      "reading": "あかえぞふうせつこう",
+      "alternatives": [],
+      "explanation": "田沼は、最上徳内らを蝦夷地に派遣して調査させた。",
+      "yearStart": 1783,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1001-27",
+      "subject": "nihonshi-tankyu",
+      "question": "田沼意次の時代に、役人のあいだで横行して、人々の批判を集めた行為は何か。",
+      "answer": "賄賂",
+      "reading": "わいろ",
+      "alternatives": [
+        "わいろ"
+      ],
+      "explanation": "1784年に子の若年寄の田沼意知が江戸城内で刺殺され、1786年に将軍の家治が死ぬと、意次は老中をやめさせられた。",
+      "yearStart": 1786,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1774年に、前野良沢や杉田玄白らが、オランダ語の解剖書を翻訳して出版した書物は何か。",
+      "answer": "解体新書",
+      "reading": "かいたいしんしょ",
+      "alternatives": [],
+      "explanation": "原書は『ターヘル=アナトミア』と呼ばれる。蘭学が発展するきっかけとなった。",
+      "yearStart": 1774,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1002-02",
+      "subject": "nihonshi-tankyu",
+      "question": "前野良沢らとともに『解体新書』を翻訳し、のちにその苦心を回想して『蘭学事始』を著した医者は誰か。",
+      "answer": "杉田玄白",
+      "reading": "すぎたげんぱく",
+      "alternatives": [],
+      "explanation": "小浜藩の医者。",
+      "yearStart": 1774,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1002-03",
+      "subject": "nihonshi-tankyu",
+      "question": "杉田玄白と前野良沢に学び、蘭学の入門書『蘭学階梯』を著し、江戸に私塾の芝蘭堂をひらいた人物は誰か。",
+      "answer": "大槻玄沢",
+      "reading": "おおつきげんたく",
+      "alternatives": [],
+      "explanation": "多くの門人を育てた。",
+      "yearStart": 1788,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-04",
+      "subject": "nihonshi-tankyu",
+      "question": "大槻玄沢の門人で、最初の蘭日辞書『ハルマ和解』をつくった人物は誰か。",
+      "answer": "稲村三伯",
+      "reading": "いなむらさんぱく",
+      "alternatives": [],
+      "explanation": "蘭学を学ぶ人々の助けとなった。",
+      "yearStart": 1796,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-05",
+      "subject": "nihonshi-tankyu",
+      "question": "摩擦で電気をおこす装置であるエレキテルの実験をおこなうなど、さまざまな分野で才能を発揮した人物は誰か。",
+      "answer": "平賀源内",
+      "reading": "ひらがげんない",
+      "alternatives": [],
+      "explanation": "寒暖計や燃えない布（火浣布）をつくり、西洋画もえがいた。",
+      "yearStart": 1776,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1002-06",
+      "subject": "nihonshi-tankyu",
+      "question": "日本の古典を研究して、儒教や仏教が伝わる前の日本人の考え方を明らかにしようとした学問を何というか。",
+      "answer": "国学",
+      "reading": "こくがく",
+      "alternatives": [],
+      "explanation": "荷田春満や賀茂真淵らによって発展した。",
+      "yearStart": 1750,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1002-07",
+      "subject": "nihonshi-tankyu",
+      "question": "『万葉集』などを研究して日本の古代の精神を明らかにしようとし、『国意考』を著した国学者は誰か。",
+      "answer": "賀茂真淵",
+      "reading": "かものまぶち",
+      "alternatives": [],
+      "explanation": "荷田春満に学んだ。儒教や仏教の影響を受けない古代の精神への復帰を説いた。",
+      "yearStart": 1765,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-08",
+      "subject": "nihonshi-tankyu",
+      "question": "『古事記』を研究して『古事記伝』を著し、国学を大成した伊勢松坂の医者は誰か。",
+      "answer": "本居宣長",
+      "reading": "もとおりのりなが",
+      "alternatives": [],
+      "explanation": "日本古来の精神に立ち返ることを説いた。『源氏物語』の本質を「もののあはれ」にあるとした。",
+      "yearStart": 1798,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1002-09",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府の援助を受けて和学講談所をもうけ、日本の古典を集めた『群書類従』を編纂した盲目の国学者は誰か。",
+      "answer": "塙保己一",
+      "reading": "はなわほきいち",
+      "alternatives": [],
+      "explanation": "国史や古典の研究のもとをきずいた。",
+      "yearStart": 1793,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-10",
+      "subject": "nihonshi-tankyu",
+      "question": "1758年に、京都で公家たちに尊王論を説いた竹内式部が、追放された事件を何というか。",
+      "answer": "宝暦事件",
+      "reading": "ほうれきじけん",
+      "alternatives": [],
+      "explanation": "天皇を尊ぶ尊王論は、儒学の考えと結びついて広まった。",
+      "yearStart": 1758,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-11",
+      "subject": "nihonshi-tankyu",
+      "question": "1767年に、江戸で尊王論を説き、幕府の政治を批判した山県大弐が、死刑となった事件を何というか。",
+      "answer": "明和事件",
+      "reading": "めいわじけん",
+      "alternatives": [],
+      "explanation": "著書に『柳子新論』がある。",
+      "yearStart": 1767,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-12",
+      "subject": "nihonshi-tankyu",
+      "question": "18世紀の初めに京都で心学をおこし、儒教の考えをもとに、町人の道徳をわかりやすく説いた人物は誰か。",
+      "answer": "石田梅岩",
+      "reading": "いしだばいがん",
+      "alternatives": [],
+      "explanation": "商人の利益は武士の俸禄と同じく正当であるとして、正直と倹約を説いた。門人の手島堵庵・中沢道二らが全国に広めた。",
+      "yearStart": 1729,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1002-13",
+      "subject": "nihonshi-tankyu",
+      "question": "陸奥の八戸の医者で、『自然真営道』を著し、すべての人がみずから耕して生活する社会を理想として、身分の差別を批判した人物は誰か。",
+      "answer": "安藤昌益",
+      "reading": "あんどうしょうえき",
+      "alternatives": [],
+      "explanation": "武士が農民から年貢を取り立てる社会をきびしく批判した。",
+      "yearStart": 1753,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1002-14",
+      "subject": "nihonshi-tankyu",
+      "question": "18世紀前半に、大坂の町人たちが出資して設立した学問所を何というか。",
+      "answer": "懐徳堂",
+      "reading": "かいとくどう",
+      "alternatives": [],
+      "explanation": "富永仲基や山片蟠桃らの、合理的な考えをもつ町人の学者が出た。",
+      "yearStart": 1724,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-15",
+      "subject": "nihonshi-tankyu",
+      "question": "懐徳堂で学び、『出定後語』を著して、仏教の経典を歴史的に批判した大坂の町人学者は誰か。",
+      "answer": "富永仲基",
+      "reading": "とみながなかもと",
+      "alternatives": [],
+      "explanation": "儒教・仏教・神道のいずれにも批判を加えた。",
+      "yearStart": 1745,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "j-1002-16",
+      "subject": "nihonshi-tankyu",
+      "question": "懐徳堂で学び、『夢の代』を著して、霊魂の存在を否定する無鬼論などの合理的な考えを説いた大坂の町人学者は誰か。",
+      "answer": "山片蟠桃",
+      "reading": "やまがたばんとう",
+      "alternatives": [],
+      "explanation": "大坂の両替商の番頭だった。",
+      "yearStart": 1820,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-17",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、藩が、藩士の子弟を教育するために設立した学校を何というか。",
+      "answer": "藩校",
+      "reading": "はんこう",
+      "alternatives": [
+        "藩学"
+      ],
+      "explanation": "熊本藩の時習館、米沢藩の興譲館、秋田藩の明徳館などがある。",
+      "yearStart": 1780,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1002-18",
+      "subject": "nihonshi-tankyu",
+      "question": "1719年に長州藩が萩に設立した藩校を何というか。",
+      "answer": "明倫館",
+      "reading": "めいりんかん",
+      "alternatives": [],
+      "explanation": "18世紀後半から、各地の藩で藩校の設立があいついだ。",
+      "yearStart": 1719,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-19",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、庶民の子どもに、読み・書き・そろばんなどを教えた教育施設を何というか。",
+      "answer": "寺子屋",
+      "reading": "てらこや",
+      "alternatives": [],
+      "explanation": "村役人・僧・神職・牢人などが教えた。19世紀には全国に広まった。",
+      "yearStart": 1780,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1002-20",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸の遊里を舞台に、会話を中心に、遊びに通じた人々の姿をえがいた短編の小説を何というか。",
+      "answer": "洒落本",
+      "reading": "しゃれぼん",
+      "alternatives": [],
+      "explanation": "山東京伝の『仕懸文庫』などがある。",
+      "yearStart": 1780,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-21",
+      "subject": "nihonshi-tankyu",
+      "question": "さし絵を多く入れて、世の中を風刺した、大人向けの絵入りの小説を何というか。",
+      "answer": "黄表紙",
+      "reading": "きびょうし",
+      "alternatives": [],
+      "explanation": "恋川春町の『金々先生栄花夢』が最初とされる。",
+      "yearStart": 1775,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-22",
+      "subject": "nihonshi-tankyu",
+      "question": "洒落本や黄表紙の作者で、寛政の改革で処罰された人物は誰か。",
+      "answer": "山東京伝",
+      "reading": "さんとうきょうでん",
+      "alternatives": [],
+      "explanation": "洒落本の『仕懸文庫』、黄表紙の『江戸生艶気樺焼』がある。",
+      "yearStart": 1791,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-23",
+      "subject": "nihonshi-tankyu",
+      "question": "山東京伝の作品や、喜多川歌麿・東洲斎写楽の浮世絵を出版した、江戸の版元は誰か。",
+      "answer": "蔦屋重三郎",
+      "reading": "つたやじゅうざぶろう",
+      "alternatives": [],
+      "explanation": "寛政の改革で、財産の半分を没収された。",
+      "yearStart": 1791,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-24",
+      "subject": "nihonshi-tankyu",
+      "question": "『雨月物語』を著した、大坂の読本の作者は誰か。",
+      "answer": "上田秋成",
+      "reading": "うえだあきなり",
+      "alternatives": [],
+      "explanation": "読本は、文章を中心とする、歴史や伝説を題材にした小説。",
+      "yearStart": 1776,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-25",
+      "subject": "nihonshi-tankyu",
+      "question": "画家としても活躍し、絵画のような印象のあざやかな句をよんだ、18世紀後半の俳人は誰か。",
+      "answer": "与謝蕪村",
+      "reading": "よさぶそん",
+      "alternatives": [],
+      "explanation": "池大雅との合作「十便十宜図」でも知られる。",
+      "yearStart": 1770,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-26",
+      "subject": "nihonshi-tankyu",
+      "question": "俳諧と同じ五・七・五の形式で、世の中や人々の生活を、風刺やこっけいをまじえてよんだ文芸を、始めた人物の名から何というか。",
+      "answer": "川柳",
+      "reading": "せんりゅう",
+      "alternatives": [],
+      "explanation": "柄井川柳が選んだ句をまとめた『誹風柳多留』がある。",
+      "yearStart": 1765,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1002-27",
+      "subject": "nihonshi-tankyu",
+      "question": "和歌と同じ五・七・五・七・七の形式で、政治や世の中を風刺した文芸を何というか。",
+      "answer": "狂歌",
+      "reading": "きょうか",
+      "alternatives": [],
+      "explanation": "大田南畝（蜀山人）や石川雅望（宿屋飯盛）が知られる。",
+      "yearStart": 1780,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1002-28",
+      "subject": "nihonshi-tankyu",
+      "question": "赤穂事件を題材にした『仮名手本忠臣蔵』などを書いた、人形浄瑠璃の作者は誰か。",
+      "answer": "竹田出雲",
+      "reading": "たけだいずも",
+      "alternatives": [
+        "2世竹田出雲"
+      ],
+      "explanation": "『菅原伝授手習鑑』などもある。",
+      "yearStart": 1748,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-29",
+      "subject": "nihonshi-tankyu",
+      "question": "1765年に、多色刷りの浮世絵版画である錦絵を始めた絵師は誰か。",
+      "answer": "鈴木春信",
+      "reading": "すずきはるのぶ",
+      "alternatives": [],
+      "explanation": "浮世絵が広く人々に親しまれるきっかけとなった。",
+      "yearStart": 1765,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1002-30",
+      "subject": "nihonshi-tankyu",
+      "question": "寛政期に、上半身を大きくえがく大首絵の手法で、美人画にすぐれた作品を残した浮世絵師は誰か。",
+      "answer": "喜多川歌麿",
+      "reading": "きたがわうたまろ",
+      "alternatives": [],
+      "explanation": "「婦女人相十品」などがある。",
+      "yearStart": 1793,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1002-31",
+      "subject": "nihonshi-tankyu",
+      "question": "寛政期に、個性的な役者絵や相撲絵を、短い期間に数多くえがいた浮世絵師は誰か。",
+      "answer": "東洲斎写楽",
+      "reading": "とうしゅうさいしゃらく",
+      "alternatives": [],
+      "explanation": "「市川鰕蔵」などがある。",
+      "yearStart": 1794,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1002-32",
+      "subject": "nihonshi-tankyu",
+      "question": "西洋画の遠近法や陰影法をとり入れて、写生を重んじる画風をひらいた京都の画家は誰か。",
+      "answer": "円山応挙",
+      "reading": "まるやまおうきょ",
+      "alternatives": [],
+      "explanation": "「雪松図屛風」などがある。",
+      "yearStart": 1780,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-33",
+      "subject": "nihonshi-tankyu",
+      "question": "明や清の絵画の影響を受けて、学者や文人がえがいた絵画を何というか。",
+      "answer": "文人画",
+      "reading": "ぶんじんが",
+      "alternatives": [
+        "南画"
+      ],
+      "explanation": "池大雅と与謝蕪村が大成した。",
+      "yearStart": 1770,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1002-34",
+      "subject": "nihonshi-tankyu",
+      "question": "平賀源内に学び、日本で最初に銅版画を始めた洋風画家は誰か。",
+      "answer": "司馬江漢",
+      "reading": "しばこうかん",
+      "alternatives": [],
+      "explanation": "「不忍池図」などがある。",
+      "yearStart": 1783,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1787年に老中となり、祖父の徳川吉宗の政治を理想として改革を進めた、白河藩主は誰か。",
+      "answer": "松平定信",
+      "reading": "まつだいらさだのぶ",
+      "alternatives": [],
+      "explanation": "第11代将軍の徳川家斉を補佐した。",
+      "yearStart": 1787,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-02",
+      "subject": "nihonshi-tankyu",
+      "question": "松平定信が進めた改革を何というか。",
+      "answer": "寛政の改革",
+      "reading": "かんせいのかいかく",
+      "alternatives": [],
+      "explanation": "天明の飢饉であれた農村の復興と、都市の秩序の立て直しをめざした。",
+      "yearStart": 1787,
+      "yearEnd": 1793,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-03",
+      "subject": "nihonshi-tankyu",
+      "question": "寛政の改革で、飢饉にそなえて、大名に米をたくわえさせたことを何というか。",
+      "answer": "囲米",
+      "reading": "かこいまい",
+      "alternatives": [],
+      "explanation": "各地に社倉や義倉をつくらせた。",
+      "yearStart": 1789,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-04",
+      "subject": "nihonshi-tankyu",
+      "question": "寛政の改革で、江戸に出てきた百姓に、資金を与えて村に帰ることをすすめた法令を何というか。",
+      "answer": "旧里帰農令",
+      "reading": "きゅうりきのうれい",
+      "alternatives": [],
+      "explanation": "農村の人口をふやして、復興させようとした。",
+      "yearStart": 1790,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-05",
+      "subject": "nihonshi-tankyu",
+      "question": "寛政の改革で、江戸の石川島にもうけられた、無宿人に職業の技術を身につけさせる施設を何というか。",
+      "answer": "人足寄場",
+      "reading": "にんそくよせば",
+      "alternatives": [],
+      "explanation": "治安の対策をかねていた。",
+      "yearStart": 1790,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-06",
+      "subject": "nihonshi-tankyu",
+      "question": "寛政の改革で、江戸の町々に、町の運営の費用を節約させ、節約した分の7割を積み立てさせた制度を何というか。",
+      "answer": "七分積金",
+      "reading": "しちぶつみきん",
+      "alternatives": [
+        "七分金積立"
+      ],
+      "explanation": "町会所で運用し、飢饉や災害のときに貧しい人々を救う資金にした。",
+      "yearStart": 1791,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-07",
+      "subject": "nihonshi-tankyu",
+      "question": "1789年に、松平定信が、生活に苦しむ旗本や御家人を救うために、札差からの借金を帳消しにさせた法令は何か。",
+      "answer": "棄捐令",
+      "reading": "きえんれい",
+      "alternatives": [],
+      "explanation": "6年以前の借金を帳消しにした。",
+      "yearStart": 1789,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-08",
+      "subject": "nihonshi-tankyu",
+      "question": "1790年に、松平定信が、湯島聖堂の学問所で、朱子学以外の学問を教えることを禁じたことを何というか。",
+      "answer": "寛政異学の禁",
+      "reading": "かんせいいがくのきん",
+      "alternatives": [],
+      "explanation": "朱子学を正学とした。学問所はのちに幕府の直轄の昌平坂学問所となった。",
+      "yearStart": 1790,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-09",
+      "subject": "nihonshi-tankyu",
+      "question": "『海国兵談』を著して海岸の防備の必要を説いたが、幕府を批判したとして、寛政の改革で処罰された人物は誰か。",
+      "answer": "林子平",
+      "reading": "はやししへい",
+      "alternatives": [],
+      "explanation": "『三国通覧図説』も著した。",
+      "yearStart": 1792,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-10",
+      "subject": "nihonshi-tankyu",
+      "question": "光格天皇が、実の父である閑院宮典仁親王に太上天皇の称号をおくろうとして、松平定信に反対された事件を何というか。",
+      "answer": "尊号一件",
+      "reading": "そんごういっけん",
+      "alternatives": [
+        "尊号事件"
+      ],
+      "explanation": "幕府と朝廷の協調した関係がくずれるきっかけとなった。",
+      "yearStart": 1789,
+      "yearEnd": 1793,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-11",
+      "subject": "nihonshi-tankyu",
+      "question": "18世紀後半に、藩校の興譲館を再興し、産業をさかんにして藩の財政を立て直した、米沢藩主は誰か。",
+      "answer": "上杉治憲",
+      "reading": "うえすぎはるのり",
+      "alternatives": [
+        "上杉鷹山"
+      ],
+      "explanation": "熊本藩の細川重賢、秋田藩の佐竹義和とともに、名君と呼ばれた。",
+      "yearStart": 1770,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-12",
+      "subject": "nihonshi-tankyu",
+      "question": "藩が、領内の特産物の生産や販売を独占して、利益をえるしくみを何というか。",
+      "answer": "専売制",
+      "reading": "せんばいせい",
+      "alternatives": [
+        "専売制度",
+        "藩専売制"
+      ],
+      "explanation": "藩の財政を立て直すために、多くの藩でおこなわれた。",
+      "yearStart": 1780,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-13",
+      "subject": "nihonshi-tankyu",
+      "question": "1792年に、漂流民の大黒屋光太夫を送りとどけて根室に来航し、通商を求めたロシアの使節は誰か。",
+      "answer": "ラクスマン",
+      "alternatives": [
+        "ラックスマン"
+      ],
+      "explanation": "幕府は通商をことわり、長崎に入港する許可証を与えた。",
+      "yearStart": 1792,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-14",
+      "subject": "nihonshi-tankyu",
+      "question": "1804年に、ラクスマンのもち帰った入港の許可証をもって長崎に来航し、通商を求めたロシアの使節は誰か。",
+      "answer": "レザノフ",
+      "alternatives": [],
+      "explanation": "幕府がつめたい態度でことわったため、ロシアの船が樺太や択捉島をおそった。",
+      "yearStart": 1804,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-15",
+      "subject": "nihonshi-tankyu",
+      "question": "1798年に、最上徳内とともに択捉島を探査し、「大日本恵登呂府」の標柱を立てた幕府の役人は誰か。",
+      "answer": "近藤重蔵",
+      "reading": "こんどうじゅうぞう",
+      "alternatives": [],
+      "explanation": "幕府は、1799年に東蝦夷地を、1807年にすべての蝦夷地を直轄地とした。",
+      "yearStart": 1798,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-16",
+      "subject": "nihonshi-tankyu",
+      "question": "1808年に、樺太とその対岸を探査して、樺太が島であることを確認した人物は誰か。",
+      "answer": "間宮林蔵",
+      "reading": "まみやりんぞう",
+      "alternatives": [],
+      "explanation": "樺太と大陸のあいだの海峡は、間宮海峡と名づけられた。",
+      "yearStart": 1808,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-17",
+      "subject": "nihonshi-tankyu",
+      "question": "1808年に、イギリスの軍艦が、オランダ船を追って長崎の港に侵入し、薪や水、食料を強要した事件を、軍艦の名から何というか。",
+      "answer": "フェートン号事件",
+      "alternatives": [],
+      "explanation": "長崎奉行の松平康英は、責任をとって自害した。",
+      "yearStart": 1808,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-18",
+      "subject": "nihonshi-tankyu",
+      "question": "1811年に、国後島に上陸したロシアの軍艦の艦長が、日本の警備兵に捕らえられた事件を、艦長の名から何というか。",
+      "answer": "ゴローウニン事件",
+      "alternatives": [
+        "ゴローニン事件"
+      ],
+      "explanation": "ロシアに捕らえられた商人の高田屋嘉兵衛の努力もあって解決し、ロシアとの関係は改善された。",
+      "yearStart": 1811,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-19",
+      "subject": "nihonshi-tankyu",
+      "question": "1825年に、幕府が、日本の沿岸に近づく外国船を、ためらうことなく撃退するよう命じた法令は何か。",
+      "answer": "異国船打払令",
+      "reading": "いこくせんうちはらいれい",
+      "alternatives": [
+        "無二念打払令"
+      ],
+      "explanation": "清とオランダの船以外は、すべて撃退することとした。",
+      "yearStart": 1825,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-20",
+      "subject": "nihonshi-tankyu",
+      "question": "1837年に、日本人の漂流民を送りとどけて通商をひらこうとしたアメリカの商船が、浦賀と山川で砲撃された事件を、船の名から何というか。",
+      "answer": "モリソン号事件",
+      "alternatives": [],
+      "explanation": "異国船打払令にもとづいて撃退した。",
+      "yearStart": 1837,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-21",
+      "subject": "nihonshi-tankyu",
+      "question": "1839年に、モリソン号事件での幕府の対応を批判した蘭学者たちが、きびしく処罰された事件を何というか。",
+      "answer": "蛮社の獄",
+      "reading": "ばんしゃのごく",
+      "alternatives": [],
+      "explanation": "渡辺崋山は『慎機論』を、高野長英は『戊戌夢物語』を著していた。",
+      "yearStart": 1839,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-22",
+      "subject": "nihonshi-tankyu",
+      "question": "『戊戌夢物語』を著して幕府の対外政策を批判し、蛮社の獄で処罰された蘭学者は誰か。",
+      "answer": "高野長英",
+      "reading": "たかのちょうえい",
+      "alternatives": [],
+      "explanation": "シーボルトの鳴滝塾で学んだ医者。",
+      "yearStart": 1839,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-23",
+      "subject": "nihonshi-tankyu",
+      "question": "松平定信が老中をやめたのち、19世紀の初めの文化・文政期を中心に、約50年間にわたって政治の実権をにぎった第11代将軍は誰か。",
+      "answer": "徳川家斉",
+      "reading": "とくがわいえなり",
+      "alternatives": [],
+      "explanation": "将軍職をゆずったあとも大御所として実権をにぎり続けたので、大御所時代とも呼ばれる。",
+      "yearStart": 1793,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-24",
+      "subject": "nihonshi-tankyu",
+      "question": "1805年に、幕府が、関東の農村の治安を守るために設置した役職を何というか。",
+      "answer": "関東取締出役",
+      "reading": "かんとうとりしまりしゅつやく",
+      "alternatives": [],
+      "explanation": "幕領・私領の区別なく、犯罪者を取りしまった。",
+      "yearStart": 1805,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-25",
+      "subject": "nihonshi-tankyu",
+      "question": "1830年代に、全国的な凶作によっておこった大きな飢饉を何というか。",
+      "answer": "天保の飢饉",
+      "reading": "てんぽうのききん",
+      "alternatives": [
+        "天保の大飢饉"
+      ],
+      "explanation": "各地で大規模な百姓一揆や打ちこわしがおこった。",
+      "yearStart": 1833,
+      "yearEnd": 1839,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-26",
+      "subject": "nihonshi-tankyu",
+      "question": "1837年に、大坂町奉行所の元与力で、陽明学者の人物が、貧しい人々を救おうとして、大坂でおこした武装蜂起を何というか。",
+      "answer": "大塩の乱",
+      "reading": "おおしおのらん",
+      "alternatives": [
+        "大塩平八郎の乱"
+      ],
+      "explanation": "幕府の元役人が、幕府の直轄地でおこした反乱として、社会に大きな衝撃を与えた。",
+      "yearStart": 1837,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-27",
+      "subject": "nihonshi-tankyu",
+      "question": "大塩の乱の影響を受けて、1837年に、国学者の生田万が越後の柏崎で代官所をおそった事件を何というか。",
+      "answer": "生田万の乱",
+      "reading": "いくたよろずのらん",
+      "alternatives": [],
+      "explanation": "大塩の門弟と称した。",
+      "yearStart": 1837,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-28",
+      "subject": "nihonshi-tankyu",
+      "question": "1841年に、大御所の徳川家斉が死んだのち、老中として改革を始めた人物は誰か。",
+      "answer": "水野忠邦",
+      "reading": "みずのただくに",
+      "alternatives": [],
+      "explanation": "第12代将軍の徳川家慶のもとで、幕府の権力の強化をめざした。",
+      "yearStart": 1841,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-29",
+      "subject": "nihonshi-tankyu",
+      "question": "水野忠邦が進めた改革を何というか。",
+      "answer": "天保の改革",
+      "reading": "てんぽうのかいかく",
+      "alternatives": [],
+      "explanation": "享保・寛政の改革を手本として、きびしい倹約と風俗の取りしまりをおこなった。",
+      "yearStart": 1841,
+      "yearEnd": 1843,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-30",
+      "subject": "nihonshi-tankyu",
+      "question": "天保の改革で、物価が上がる原因であるとして、解散を命じられた商工業者の組合は何か。",
+      "answer": "株仲間",
+      "reading": "かぶなかま",
+      "alternatives": [],
+      "explanation": "かえって商品の流通が混乱し、効果はなかった。",
+      "yearStart": 1841,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-31",
+      "subject": "nihonshi-tankyu",
+      "question": "天保の改革で、江戸に流入した貧しい人々を、強制的に農村に帰らせた法令を何というか。",
+      "answer": "人返しの法",
+      "reading": "ひとがえしのほう",
+      "alternatives": [
+        "人返し令"
+      ],
+      "explanation": "農村の再建をめざした。",
+      "yearStart": 1843,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-32",
+      "subject": "nihonshi-tankyu",
+      "question": "1843年に、水野忠邦が、江戸と大坂の周辺の大名や旗本の領地を、幕府の直轄地にしようとした法令は何か。",
+      "answer": "上知令",
+      "reading": "じょうちれい",
+      "alternatives": [
+        "上地令"
+      ],
+      "explanation": "大名や旗本の強い反対にあって実施できず、水野は老中をやめさせられた。「あげちれい」とも読む。",
+      "yearStart": 1843,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-33",
+      "subject": "nihonshi-tankyu",
+      "question": "1842年に、アヘン戦争で清が敗れたことを知った幕府が、異国船打払令をゆるめて、外国船に燃料や水、食料を与えることとした法令を何というか。",
+      "answer": "薪水給与令",
+      "reading": "しんすいきゅうよれい",
+      "alternatives": [
+        "天保の薪水給与令"
+      ],
+      "explanation": "外国との戦争をさけようとした。",
+      "yearStart": 1842,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-34",
+      "subject": "nihonshi-tankyu",
+      "question": "天保の改革で処罰された、人情本『春色梅児誉美』の作者は誰か。",
+      "answer": "為永春水",
+      "reading": "ためながしゅんすい",
+      "alternatives": [],
+      "explanation": "合巻の作者の柳亭種彦も処罰された。",
+      "yearStart": 1842,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-35",
+      "subject": "nihonshi-tankyu",
+      "question": "19世紀に、地主や問屋が工場をもうけ、働き手を集めて、分業と協業によって手工業の生産をおこなったしくみを何というか。",
+      "answer": "マニュファクチュア",
+      "alternatives": [
+        "工場制手工業"
+      ],
+      "explanation": "尾張の綿織物業や、桐生・足利の絹織物業などでおこなわれた。",
+      "yearStart": 1830,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-36",
+      "subject": "nihonshi-tankyu",
+      "question": "問屋や商人が、農民に原料や道具を貸して製品をつくらせ、それを買い取るしくみを何というか。",
+      "answer": "問屋制家内工業",
+      "reading": "といやせいかないこうぎょう",
+      "alternatives": [],
+      "explanation": "18世紀から各地の農村に広まった。",
+      "yearStart": 1780,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-37",
+      "subject": "nihonshi-tankyu",
+      "question": "農村を拠点に、商品の生産や流通をになって成長した商人を何というか。",
+      "answer": "在郷商人",
+      "reading": "ざいごうしょうにん",
+      "alternatives": [
+        "在方商人"
+      ],
+      "explanation": "都市の問屋や株仲間の独占に対抗した。",
+      "yearStart": 1800,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-38",
+      "subject": "nihonshi-tankyu",
+      "question": "1823年に、摂津・河内・和泉の1000をこえる村々が、綿や菜種の自由な売買を求めておこした合法的な訴えを何というか。",
+      "answer": "国訴",
+      "reading": "こくそ",
+      "alternatives": [],
+      "explanation": "株仲間による流通の独占に反対した。「くにそ」とも読む。",
+      "yearStart": 1823,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-39",
+      "subject": "nihonshi-tankyu",
+      "question": "勤労と倹約を中心とする報徳仕法によって、あれた農村の復興につとめた人物は誰か。",
+      "answer": "二宮尊徳",
+      "reading": "にのみやそんとく",
+      "alternatives": [
+        "二宮金次郎"
+      ],
+      "explanation": "下総では、大原幽学が農村の復興を指導した。",
+      "yearStart": 1830,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-40",
+      "subject": "nihonshi-tankyu",
+      "question": "下級武士の調所広郷を登用し、多額の借金を事実上たな上げし、黒砂糖の専売や琉球との貿易によって財政を立て直した藩はどこか。",
+      "answer": "薩摩藩",
+      "reading": "さつまはん",
+      "alternatives": [
+        "鹿児島藩"
+      ],
+      "explanation": "のちに藩主の島津斉彬が、反射炉や洋式の工場（集成館）を建設した。",
+      "yearStart": 1827,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-41",
+      "subject": "nihonshi-tankyu",
+      "question": "村田清風を登用し、借金を整理するとともに、下関に越荷方をおいて、他国の船への資金の貸付や委託販売で利益をあげた藩はどこか。",
+      "answer": "長州藩",
+      "reading": "ちょうしゅうはん",
+      "alternatives": [
+        "萩藩"
+      ],
+      "explanation": "改革に成功して力をつけた藩は、雄藩と呼ばれた。",
+      "yearStart": 1838,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1003-42",
+      "subject": "nihonshi-tankyu",
+      "question": "藩主の鍋島直正が、均田制を実施して本百姓の体制の再建をはかり、陶磁器の専売を進め、反射炉をきずいて大砲を製造した藩はどこか。",
+      "answer": "佐賀藩",
+      "reading": "さがはん",
+      "alternatives": [
+        "肥前藩"
+      ],
+      "explanation": "日本で最初に反射炉をきずいた。",
+      "yearStart": 1850,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1003-43",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府の代官で、伊豆の韮山に反射炉をきずいた人物は誰か。",
+      "answer": "江川太郎左衛門",
+      "reading": "えがわたろうざえもん",
+      "alternatives": [
+        "江川英竜",
+        "江川坦庵"
+      ],
+      "explanation": "高島秋帆に西洋の砲術を学んだ。",
+      "yearStart": 1854,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-01",
+      "subject": "nihonshi-tankyu",
+      "question": "19世紀の初めの文化・文政期を中心に、江戸の町人を担い手として栄えた文化を何というか。",
+      "answer": "化政文化",
+      "reading": "かせいぶんか",
+      "alternatives": [],
+      "explanation": "都市の発展や交通の発達によって、文化が全国の庶民に広まった。",
+      "yearStart": 1820,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1004-02",
+      "subject": "nihonshi-tankyu",
+      "question": "『西域物語』や『経世秘策』を著して、外国との貿易や蝦夷地の開発による富国の策を説いた経世家は誰か。",
+      "answer": "本多利明",
+      "reading": "ほんだとしあき",
+      "alternatives": [],
+      "explanation": "海保青陵は『稽古談』で、藩が商業をおこなうことを説いた。",
+      "yearStart": 1798,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-03",
+      "subject": "nihonshi-tankyu",
+      "question": "『経済要録』などを著して、産業の国営化と貿易の振興を説いた経世家は誰か。",
+      "answer": "佐藤信淵",
+      "reading": "さとうのぶひろ",
+      "alternatives": [],
+      "explanation": "『農政本論』なども著した。",
+      "yearStart": 1827,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-04",
+      "subject": "nihonshi-tankyu",
+      "question": "19世紀前半の水戸藩で、藤田東湖や会沢安らが説いた、尊王攘夷論を中心とする学問を何というか。",
+      "answer": "水戸学",
+      "reading": "みとがく",
+      "alternatives": [
+        "後期水戸学"
+      ],
+      "explanation": "会沢安（正志斎）の『新論』は、幕末の尊王攘夷運動に大きな影響を与えた。",
+      "yearStart": 1825,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-05",
+      "subject": "nihonshi-tankyu",
+      "question": "源平の時代から徳川氏までの武家の歴史を記した『日本外史』を著し、尊王論に影響を与えた人物は誰か。",
+      "answer": "頼山陽",
+      "reading": "らいさんよう",
+      "alternatives": [],
+      "explanation": "幕末の志士たちに広く読まれた。",
+      "yearStart": 1827,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-06",
+      "subject": "nihonshi-tankyu",
+      "question": "本居宣長の死後の門人を名のり、日本古来の純粋な信仰を尊ぶ復古神道をとなえた国学者は誰か。",
+      "answer": "平田篤胤",
+      "reading": "ひらたあつたね",
+      "alternatives": [],
+      "explanation": "その教えは、各地の豪農や神職に広まり、幕末の尊王攘夷運動に影響を与えた。",
+      "yearStart": 1820,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1004-07",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府の命令で全国の沿岸を測量し、正確な日本地図である『大日本沿海輿地全図』の作成にあたった人物は誰か。",
+      "answer": "伊能忠敬",
+      "reading": "いのうただたか",
+      "alternatives": [],
+      "explanation": "下総佐原の商人で、50歳をすぎてから測量と天文を学んだ。地図は死後の1821年に完成した。",
+      "yearStart": 1800,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1004-08",
+      "subject": "nihonshi-tankyu",
+      "question": "西洋の暦法をとり入れた寛政暦をつくった、幕府の天文方は誰か。",
+      "answer": "高橋至時",
+      "reading": "たかはしよしとき",
+      "alternatives": [],
+      "explanation": "伊能忠敬に測量と天文を教えた。",
+      "yearStart": 1797,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1811年に、幕府が天文方に設置した、洋書の翻訳にあたる機関を何というか。",
+      "answer": "蛮書和解御用",
+      "reading": "ばんしょわげごよう",
+      "alternatives": [],
+      "explanation": "高橋景保の提案で設置された。のちの蕃書調所のもとになった。",
+      "yearStart": 1811,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-10",
+      "subject": "nihonshi-tankyu",
+      "question": "『暦象新書』を著して、ニュートンの万有引力の説や、コペルニクスの地動説を紹介した、元オランダ通詞は誰か。",
+      "answer": "志筑忠雄",
+      "reading": "しづきただお",
+      "alternatives": [],
+      "explanation": "ケンペルの『日本誌』の一部を訳して、「鎖国」という言葉を初めて使った。",
+      "yearStart": 1802,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-11",
+      "subject": "nihonshi-tankyu",
+      "question": "オランダ商館の医者として来日し、長崎の郊外に鳴滝塾をひらいて、医学などを教えたドイツ人は誰か。",
+      "answer": "シーボルト",
+      "alternatives": [],
+      "explanation": "高野長英らの人材を育てた。",
+      "yearStart": 1824,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1004-12",
+      "subject": "nihonshi-tankyu",
+      "question": "1828年に、帰国するシーボルトが、国外へのもち出しが禁じられていた日本地図をもっていたことがわかって、国外追放となった事件を何というか。",
+      "answer": "シーボルト事件",
+      "alternatives": [],
+      "explanation": "地図をわたした天文方の高橋景保らも処罰された。",
+      "yearStart": 1828,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-13",
+      "subject": "nihonshi-tankyu",
+      "question": "大坂に適塾（適々斎塾）をひらいて、福沢諭吉や大村益次郎らの人材を育てた蘭学者は誰か。",
+      "answer": "緒方洪庵",
+      "reading": "おがたこうあん",
+      "alternatives": [],
+      "explanation": "医者として種痘の普及にもつとめた。",
+      "yearStart": 1838,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1004-14",
+      "subject": "nihonshi-tankyu",
+      "question": "豊後の日田に私塾の咸宜園をひらいて、身分を問わず多くの門人を教えた儒学者は誰か。",
+      "answer": "広瀬淡窓",
+      "reading": "ひろせたんそう",
+      "alternatives": [],
+      "explanation": "高野長英や大村益次郎も学んだ。",
+      "yearStart": 1817,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-15",
+      "subject": "nihonshi-tankyu",
+      "question": "長州の萩で、叔父のひらいた松下村塾を受けついで、高杉晋作や伊藤博文らを教えた人物は誰か。",
+      "answer": "吉田松陰",
+      "reading": "よしだしょういん",
+      "alternatives": [],
+      "explanation": "安政の大獄で処刑された。",
+      "yearStart": 1857,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1004-16",
+      "subject": "nihonshi-tankyu",
+      "question": "庶民の旅を、こっけいにえがいた『東海道中膝栗毛』の作者は誰か。",
+      "answer": "十返舎一九",
+      "reading": "じっぺんしゃいっく",
+      "alternatives": [],
+      "explanation": "庶民の生活をこっけいにえがいた小説を、滑稽本という。",
+      "yearStart": 1802,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1004-17",
+      "subject": "nihonshi-tankyu",
+      "question": "銭湯や床屋に集まる庶民の会話をえがいた『浮世風呂』『浮世床』の作者は誰か。",
+      "answer": "式亭三馬",
+      "reading": "しきていさんば",
+      "alternatives": [],
+      "explanation": "滑稽本の代表的な作者。",
+      "yearStart": 1809,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-18",
+      "subject": "nihonshi-tankyu",
+      "question": "勧善懲悪の考えにもとづいた長編の読本『南総里見八犬伝』の作者は誰か。",
+      "answer": "曲亭馬琴",
+      "reading": "きょくていばきん",
+      "alternatives": [
+        "滝沢馬琴"
+      ],
+      "explanation": "ほかに『椿説弓張月』がある。",
+      "yearStart": 1814,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1004-19",
+      "subject": "nihonshi-tankyu",
+      "question": "天保の改革で処罰された、合巻『偐紫田舎源氏』の作者は誰か。",
+      "answer": "柳亭種彦",
+      "reading": "りゅうていたねひこ",
+      "alternatives": [],
+      "explanation": "合巻は、黄表紙を数冊とじ合わせた長編の絵入り小説。",
+      "yearStart": 1829,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-20",
+      "subject": "nihonshi-tankyu",
+      "question": "信濃の農村で、農民の生活に根ざした、人間味のある句をよんだ俳人は誰か。",
+      "answer": "小林一茶",
+      "reading": "こばやしいっさ",
+      "alternatives": [],
+      "explanation": "句文集に『おらが春』がある。",
+      "yearStart": 1819,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1004-21",
+      "subject": "nihonshi-tankyu",
+      "question": "越後の雪国の自然や生活を紹介した『北越雪譜』を著した人物は誰か。",
+      "answer": "鈴木牧之",
+      "reading": "すずきぼくし",
+      "alternatives": [],
+      "explanation": "地方の文化人の活動を示す。",
+      "yearStart": 1837,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-22",
+      "subject": "nihonshi-tankyu",
+      "question": "「富嶽三十六景」をえがいた浮世絵師は誰か。",
+      "answer": "葛飾北斎",
+      "reading": "かつしかほくさい",
+      "alternatives": [],
+      "explanation": "風景をえがく錦絵で人気を集めた。ヨーロッパの印象派の画家にも影響を与えた。",
+      "yearStart": 1831,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1004-23",
+      "subject": "nihonshi-tankyu",
+      "question": "「東海道五十三次」をえがいた浮世絵師は誰か。",
+      "answer": "歌川広重",
+      "reading": "うたがわひろしげ",
+      "alternatives": [
+        "安藤広重"
+      ],
+      "explanation": "旅への関心の高まりを背景に、人気を集めた。",
+      "yearStart": 1833,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1004-24",
+      "subject": "nihonshi-tankyu",
+      "question": "「鷹見泉石像」をえがいた、三河の田原藩の家老でもあった文人画家は誰か。",
+      "answer": "渡辺崋山",
+      "reading": "わたなべかざん",
+      "alternatives": [],
+      "explanation": "蛮社の獄で処罰された。",
+      "yearStart": 1837,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-25",
+      "subject": "nihonshi-tankyu",
+      "question": "円山派から出て、文人画の味わいを加えた四条派をひらいた画家は誰か。",
+      "answer": "呉春",
+      "reading": "ごしゅん",
+      "alternatives": [
+        "松村月溪",
+        "松村呉春"
+      ],
+      "explanation": "京都を中心に流行した。",
+      "yearStart": 1790,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-26",
+      "subject": "nihonshi-tankyu",
+      "question": "『東海道四谷怪談』などを書いた、文化・文政期の歌舞伎の脚本の作者は誰か。",
+      "answer": "鶴屋南北",
+      "reading": "つるやなんぼく",
+      "alternatives": [
+        "4世鶴屋南北"
+      ],
+      "explanation": "庶民の生活をなまなましくえがく生世話物にすぐれた。",
+      "yearStart": 1825,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-27",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、都市の庶民が、落語や講談などを楽しんだ演芸場を何というか。",
+      "answer": "寄席",
+      "reading": "よせ",
+      "alternatives": [],
+      "explanation": "歌舞伎をみせる芝居小屋とともに、庶民の娯楽の場となった。",
+      "yearStart": 1820,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-28",
+      "subject": "nihonshi-tankyu",
+      "question": "江戸時代に、約60年ごとに、多くの庶民が集団で伊勢神宮に参詣した現象を何というか。",
+      "answer": "御蔭参り",
+      "reading": "おかげまいり",
+      "alternatives": [
+        "お蔭参り",
+        "おかげ参り"
+      ],
+      "explanation": "1830年には、数百万人が参詣したといわれる。",
+      "yearStart": 1830,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1004-29",
+      "subject": "nihonshi-tankyu",
+      "question": "寺社が、修理の費用などを集めるために、ふだんは公開しない秘仏などを人々に公開した催しを何というか。",
+      "answer": "開帳",
+      "reading": "かいちょう",
+      "alternatives": [],
+      "explanation": "富突（富くじ）や縁日とともに、庶民の楽しみとなった。",
+      "yearStart": 1820,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1004-30",
+      "subject": "nihonshi-tankyu",
+      "question": "干支が庚申にあたる日の夜に、人々が集まって、眠らずに夜をすごした行事を何というか。",
+      "answer": "庚申講",
+      "reading": "こうしんこう",
+      "alternatives": [
+        "庚申待"
+      ],
+      "explanation": "日待や月待とともに、人々の交流と娯楽の場となった。",
+      "yearStart": 1820,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

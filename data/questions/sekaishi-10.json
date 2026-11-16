@@ -1,0 +1,1352 @@
+{
+  "generatedFrom": "sekaishi-10.csv",
+  "_note": "このファイルは sekaishi-10.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "w-1001-01",
+      "subject": "sekaishi-tankyu",
+      "question": "13世紀末にアナトリア西北部におこり、バルカン半島にも進出して大帝国に発展したトルコ系のイスラーム国家は何か。",
+      "answer": "オスマン帝国",
+      "alternatives": [
+        "オスマン朝"
+      ],
+      "explanation": "建国者はオスマン1世。14世紀にはバルカン半島のアドリアノープル（エディルネ）を都とした。",
+      "yearStart": 1300,
+      "yearApprox": true,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1001-02",
+      "subject": "sekaishi-tankyu",
+      "question": "1396年に、オスマン帝国のバヤジット1世が、ハンガリー王の率いるヨーロッパ諸国の連合軍を破った戦いは何か。",
+      "answer": "ニコポリスの戦い",
+      "alternatives": [],
+      "explanation": "ドナウ川下流での戦い。バルカン半島の支配を固めた。",
+      "yearStart": 1396,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1001-03",
+      "subject": "sekaishi-tankyu",
+      "question": "1453年にコンスタンティノープルを攻め落として、ビザンツ帝国を滅ぼしたオスマン帝国のスルタンは誰か。",
+      "answer": "メフメト2世",
+      "alternatives": [],
+      "explanation": "この都市を新しい都とした。のちにイスタンブルと呼ばれるようになった。",
+      "yearStart": 1453,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1001-04",
+      "subject": "sekaishi-tankyu",
+      "question": "オスマン帝国の都となったコンスタンティノープルは、のちに何と呼ばれるようになったか。",
+      "answer": "イスタンブル",
+      "alternatives": [
+        "イスタンブール"
+      ],
+      "explanation": "スルタンの住まいとしてトプカプ宮殿が建てられた。",
+      "yearStart": 1453,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1001-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1517年にマムルーク朝を滅ぼしてシリア・エジプトをあわせ、メッカとメディナの保護権を手に入れたオスマン帝国のスルタンは誰か。",
+      "answer": "セリム1世",
+      "alternatives": [],
+      "explanation": "1514年にはサファヴィー朝も破った。",
+      "yearStart": 1517,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1001-06",
+      "subject": "sekaishi-tankyu",
+      "question": "16世紀にオスマン帝国の最盛期をきずき、ハンガリーを征服してウィーンを包囲したスルタンは誰か。",
+      "answer": "スレイマン1世",
+      "alternatives": [
+        "スレイマン大帝"
+      ],
+      "explanation": "フランスと結んで神聖ローマ皇帝カール5世と対立した。",
+      "yearStart": 1520,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1001-07",
+      "subject": "sekaishi-tankyu",
+      "question": "1529年に、スレイマン1世がオーストリアの都を攻めて、ヨーロッパ諸国に大きな脅威を与えた出来事を何というか。",
+      "answer": "ウィーン包囲",
+      "reading": "うぃーんほうい",
+      "alternatives": [
+        "第1次ウィーン包囲"
+      ],
+      "explanation": "1526年のモハーチの戦いでハンガリーを破ったのちにおこなわれた。",
+      "yearStart": 1529,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1001-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1538年に、オスマン帝国の海軍がスペイン・ヴェネツィアなどの連合艦隊を破り、地中海の制海権をにぎった戦いは何か。",
+      "answer": "プレヴェザの海戦",
+      "alternatives": [],
+      "explanation": "オスマン帝国は東地中海から北アフリカにおよぶ海域を支配した。",
+      "yearStart": 1538,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1001-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1571年に、オスマン帝国の海軍がスペインなどの連合艦隊に敗れた戦いは何か。",
+      "answer": "レパントの海戦",
+      "alternatives": [],
+      "explanation": "ただし、オスマン帝国はすぐに艦隊を再建し、東地中海での優位を保った。",
+      "yearStart": 1571,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1001-10",
+      "subject": "sekaishi-tankyu",
+      "question": "オスマン帝国が、バルカン半島のキリスト教徒の少年を集めてイスラーム教に改宗させ、訓練してつくった、スルタン直属の常備歩兵軍団を何というか。",
+      "answer": "イェニチェリ",
+      "alternatives": [],
+      "explanation": "鉄砲などの火器をそなえ、帝国の軍事力の中心となった。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1001-11",
+      "subject": "sekaishi-tankyu",
+      "question": "オスマン帝国で、騎士（シパーヒー）に軍事奉仕の見返りとして、一定の土地から税をとる権利を与えた制度を何というか。",
+      "answer": "ティマール制",
+      "alternatives": [],
+      "explanation": "イクター制を受けついだ制度。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1001-12",
+      "subject": "sekaishi-tankyu",
+      "question": "オスマン帝国で、キリスト教徒やユダヤ教徒などの宗教ごとの共同体に、納税を条件として自治を認めた制度（共同体）を何というか。",
+      "answer": "ミッレト",
+      "alternatives": [],
+      "explanation": "異なる宗教の人々の共存がはかられた。",
+      "yearStart": 1500,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "社会",
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1001-13",
+      "subject": "sekaishi-tankyu",
+      "question": "オスマン帝国のスルタンが、フランスなどのヨーロッパの国の商人に与えた、領内での居住や通商の自由などの特権を何というか。",
+      "answer": "カピチュレーション",
+      "alternatives": [],
+      "explanation": "はじめは恩恵として与えられたが、のちにヨーロッパ諸国の進出の足がかりとなった。",
+      "yearStart": 1569,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1001-14",
+      "subject": "sekaishi-tankyu",
+      "question": "スレイマン=モスクなどを設計した、オスマン帝国を代表する建築家は誰か。",
+      "answer": "シナン",
+      "alternatives": [
+        "スィナン",
+        "ミマール=シナン"
+      ],
+      "explanation": "ビザンツ様式をとり入れた大きなドームをもつモスクを数多く建てた。",
+      "yearStart": 1557,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1001-15",
+      "subject": "sekaishi-tankyu",
+      "question": "1501年に、神秘主義教団の教主イスマーイールがイランに建てた王朝は何か。",
+      "answer": "サファヴィー朝",
+      "alternatives": [],
+      "explanation": "都はタブリーズ。君主はイランの伝統的な王の称号であるシャーを名乗った。",
+      "yearStart": 1501,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1001-16",
+      "subject": "sekaishi-tankyu",
+      "question": "サファヴィー朝が国教とした、シーア派の一派は何か。",
+      "answer": "十二イマーム派",
+      "reading": "じゅうにいまーむは",
+      "alternatives": [],
+      "explanation": "スンナ派のオスマン帝国と対立した。現在のイランでも多数派を占める。",
+      "yearStart": 1501,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1001-17",
+      "subject": "sekaishi-tankyu",
+      "question": "サファヴィー朝を建てた人物は誰か。",
+      "answer": "イスマーイール",
+      "alternatives": [
+        "イスマーイール1世"
+      ],
+      "explanation": "トルコ系遊牧民の騎兵（キジルバシュ）の軍事力にささえられた。",
+      "yearStart": 1501,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1001-18",
+      "subject": "sekaishi-tankyu",
+      "question": "16世紀末から17世紀初めにサファヴィー朝の最盛期をきずいた王は誰か。",
+      "answer": "アッバース1世",
+      "alternatives": [],
+      "explanation": "常備軍を整えてオスマン帝国から領土を取りもどし、ポルトガル人をホルムズ島から追い出した。",
+      "yearStart": 1587,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1001-19",
+      "subject": "sekaishi-tankyu",
+      "question": "アッバース1世が新しく都とし、「世界の半分」とたたえられるほど栄えた都市はどこか。",
+      "answer": "イスファハーン",
+      "alternatives": [
+        "イスファハン"
+      ],
+      "explanation": "「王の広場」を中心に、美しいモスクや学院、庭園が建てられた。",
+      "yearStart": 1597,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1002-01",
+      "subject": "sekaishi-tankyu",
+      "question": "ティムールの子孫で、1526年にデリー=スルタン朝のロディー朝を破ってムガル帝国を建てた人物は誰か。",
+      "answer": "バーブル",
+      "alternatives": [],
+      "explanation": "中央アジアを追われてアフガニスタンのカーブルを本拠とし、北インドに進出した。",
+      "yearStart": 1526,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1002-02",
+      "subject": "sekaishi-tankyu",
+      "question": "1526年に、バーブルがロディー朝の軍を破った戦いは何か。",
+      "answer": "パーニーパットの戦い",
+      "alternatives": [],
+      "explanation": "鉄砲や大砲を使って勝利した。",
+      "yearStart": 1526,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1002-03",
+      "subject": "sekaishi-tankyu",
+      "question": "16世紀後半にムガル帝国の支配の基礎を固めた、第3代の皇帝は誰か。",
+      "answer": "アクバル",
+      "alternatives": [],
+      "explanation": "都をアグラに移し、中央集権的な支配のしくみを整えた。",
+      "yearStart": 1556,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1002-04",
+      "subject": "sekaishi-tankyu",
+      "question": "アクバルが定めた、支配層の人々に位階を与え、それに応じて維持する騎兵・騎馬の数と給与を決めた制度を何というか。",
+      "answer": "マンサブダール制",
+      "alternatives": [],
+      "explanation": "全国の土地を測量して、税の徴収のしくみも整えた。",
+      "yearStart": 1574,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1002-05",
+      "subject": "sekaishi-tankyu",
+      "question": "アクバルが、ヒンドゥー教徒との融和をはかるために廃止した、非イスラーム教徒への税は何か。",
+      "answer": "ジズヤ",
+      "alternatives": [
+        "人頭税"
+      ],
+      "explanation": "ヒンドゥー教徒のラージプートの諸勢力とも結びついた。",
+      "yearStart": 1564,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1002-06",
+      "subject": "sekaishi-tankyu",
+      "question": "16世紀初めにナーナクが始めた、イスラーム教の影響を受けてカーストによる差別を否定した宗教は何か。",
+      "answer": "シク教",
+      "alternatives": [],
+      "explanation": "パンジャーブ地方に広まり、のちにムガル帝国と対立した。",
+      "yearStart": 1500,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1002-07",
+      "subject": "sekaishi-tankyu",
+      "question": "シク教を始めた人物は誰か。",
+      "answer": "ナーナク",
+      "alternatives": [],
+      "explanation": "唯一の神への信仰を説き、偶像の崇拝やカーストによる差別を否定した。",
+      "yearStart": 1500,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1002-08",
+      "subject": "sekaishi-tankyu",
+      "question": "15世紀に、神の前では人はみな平等であると説いて、カースト制度を批判したインドの宗教改革者は誰か。",
+      "answer": "カビール",
+      "alternatives": [],
+      "explanation": "織工の出身。ヒンドゥー教とイスラーム教のちがいをこえた信仰を説いた。",
+      "yearStart": 1450,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1002-09",
+      "subject": "sekaishi-tankyu",
+      "question": "ムガル帝国の公用語であったペルシア語と、北インドの地方の言語がまじって生まれた言語は何か。",
+      "answer": "ウルドゥー語",
+      "alternatives": [],
+      "explanation": "アラビア文字で書かれる。現在のパキスタンの国語。",
+      "yearStart": 1600,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1002-10",
+      "subject": "sekaishi-tankyu",
+      "question": "第5代皇帝シャー=ジャハーンが、亡くなった妃のためにアグラに建てた、インド=イスラーム建築を代表する墓廟は何か。",
+      "answer": "タージ=マハル",
+      "alternatives": [],
+      "explanation": "白い大理石でつくられている。",
+      "yearStart": 1653,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1002-11",
+      "subject": "sekaishi-tankyu",
+      "question": "タージ=マハルを建てた、ムガル帝国の第5代皇帝は誰か。",
+      "answer": "シャー=ジャハーン",
+      "alternatives": [],
+      "explanation": "この時代にインド=イスラーム文化は最盛期をむかえた。",
+      "yearStart": 1628,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1002-12",
+      "subject": "sekaishi-tankyu",
+      "question": "17世紀後半にムガル帝国の領土を最大にしたが、きびしいイスラーム教の政策をとって各地の反乱をまねいた第6代の皇帝は誰か。",
+      "answer": "アウラングゼーブ",
+      "alternatives": [],
+      "explanation": "ジズヤを復活させ、ヒンドゥー教の寺院を破壊した。",
+      "yearStart": 1658,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1002-13",
+      "subject": "sekaishi-tankyu",
+      "question": "17世紀後半に、シヴァージーがデカン高原の西部に建てたヒンドゥー教徒の国は何か。",
+      "answer": "マラーター王国",
+      "alternatives": [],
+      "explanation": "ムガル帝国に抵抗し、18世紀にはマラーター同盟が大きな勢力となった。",
+      "yearStart": 1674,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1002-14",
+      "subject": "sekaishi-tankyu",
+      "question": "14世紀前半に南インドに成立し、インド洋の交易で栄えたヒンドゥー教の王国は何か。",
+      "answer": "ヴィジャヤナガル王国",
+      "alternatives": [],
+      "explanation": "綿布や香辛料を輸出し、西アジアから軍事用の馬を輸入した。",
+      "yearStart": 1336,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-01",
+      "subject": "sekaishi-tankyu",
+      "question": "明の武将で、清に降伏して山海関をひらき、清軍の北京入城をみちびいた人物は誰か。",
+      "answer": "呉三桂",
+      "reading": "ごさんけい",
+      "alternatives": [],
+      "explanation": "のちに雲南の藩王となり、三藩の乱をおこした。",
+      "yearStart": 1644,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-02",
+      "subject": "sekaishi-tankyu",
+      "question": "オランダ人を追い出して台湾を占領し、ここを拠点に清に抵抗した人物は誰か。",
+      "answer": "鄭成功",
+      "reading": "ていせいこう",
+      "alternatives": [],
+      "explanation": "父は中国人の海上商人、母は日本人。一族は1683年まで清に抵抗した。",
+      "yearStart": 1661,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-03",
+      "subject": "sekaishi-tankyu",
+      "question": "1673年に、雲南の呉三桂ら3人の漢人の藩王がおこした反乱は何か。",
+      "answer": "三藩の乱",
+      "reading": "さんぱんのらん",
+      "alternatives": [],
+      "explanation": "康熙帝によってしずめられ、清の中国支配が安定した。",
+      "yearStart": 1673,
+      "yearEnd": 1681,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-04",
+      "subject": "sekaishi-tankyu",
+      "question": "三藩の乱をしずめ、台湾を領有して清の統治の基礎を固めた、17世紀後半から18世紀初めの皇帝は誰か。",
+      "answer": "康熙帝",
+      "reading": "こうきてい",
+      "alternatives": [],
+      "explanation": "ロシアとネルチンスク条約を結び、ジュンガルを破って外モンゴルを支配下に入れた。",
+      "yearStart": 1661,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1689年に、清の康熙帝とロシアのピョートル1世のあいだで結ばれた、両国の国境を定めた条約は何か。",
+      "answer": "ネルチンスク条約",
+      "alternatives": [],
+      "explanation": "アルグン川とスタノヴォイ山脈（外興安嶺）を国境とした。清がヨーロッパの国と結んだ最初の対等な条約。",
+      "yearStart": 1689,
+      "regions": [
+        "中国",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-06",
+      "subject": "sekaishi-tankyu",
+      "question": "18世紀前半に、皇帝の独裁をささえる機関として軍機処をおいた清の皇帝は誰か。",
+      "answer": "雍正帝",
+      "reading": "ようせいてい",
+      "alternatives": [],
+      "explanation": "ロシアとキャフタ条約を結び、キリスト教の布教を全面的に禁じた。",
+      "yearStart": 1722,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-07",
+      "subject": "sekaishi-tankyu",
+      "question": "雍正帝のときにおかれ、やがて内閣にかわって政治の最高機関となった、皇帝直属の機関は何か。",
+      "answer": "軍機処",
+      "reading": "ぐんきしょ",
+      "alternatives": [],
+      "explanation": "はじめはジュンガルとの戦いにあたって軍事の機密を守るためにおかれた。",
+      "yearStart": 1730,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1727年に清とロシアが結んだ、モンゴル方面の国境などを定めた条約は何か。",
+      "answer": "キャフタ条約",
+      "alternatives": [],
+      "explanation": "国境での交易についても定めた。",
+      "yearStart": 1727,
+      "regions": [
+        "中国",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-09",
+      "subject": "sekaishi-tankyu",
+      "question": "18世紀後半にジュンガルを滅ぼして東トルキスタンを支配下に入れ、清の領土を最大にした皇帝は誰か。",
+      "answer": "乾隆帝",
+      "reading": "けんりゅうてい",
+      "alternatives": [],
+      "explanation": "東トルキスタンは「新疆」（新しい領土）と名づけられた。",
+      "yearStart": 1735,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-10",
+      "subject": "sekaishi-tankyu",
+      "question": "清が、モンゴル・青海・チベット・新疆をまとめて呼んだ呼び名は何か。",
+      "answer": "藩部",
+      "reading": "はんぶ",
+      "alternatives": [],
+      "explanation": "現地の有力者による支配を認め、理藩院が監督した。",
+      "yearStart": 1760,
+      "yearApprox": true,
+      "regions": [
+        "中国",
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-11",
+      "subject": "sekaishi-tankyu",
+      "question": "清が藩部を監督するためにおいた中央の役所は何か。",
+      "answer": "理藩院",
+      "reading": "りはんいん",
+      "alternatives": [],
+      "explanation": "それぞれの地域の習慣や宗教にはほとんど干渉しなかった。",
+      "yearStart": 1638,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-12",
+      "subject": "sekaishi-tankyu",
+      "question": "清が中央の重要な役職で、満洲人と漢人を同じ数ずつ任命した制度を何というか。",
+      "answer": "満漢併用制",
+      "reading": "まんかんへいようせい",
+      "alternatives": [
+        "満漢偶数官制"
+      ],
+      "explanation": "科挙もおこない、中国の伝統的な制度を受けついだ。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-13",
+      "subject": "sekaishi-tankyu",
+      "question": "清が漢人の男性に強制した、満洲人の髪型を何というか。",
+      "answer": "辮髪",
+      "reading": "べんぱつ",
+      "alternatives": [],
+      "explanation": "頭髪の一部を残してそり、残りを長く編んでたらす。清への服従のしるしとされた。",
+      "yearStart": 1645,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-14",
+      "subject": "sekaishi-tankyu",
+      "question": "清がおこなった、反満・反清的な内容の文章を書いた者をきびしく罰する思想の弾圧を何というか。",
+      "answer": "文字の獄",
+      "reading": "もんじのごく",
+      "alternatives": [],
+      "explanation": "反清的な書物は禁書とされた。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-15",
+      "subject": "sekaishi-tankyu",
+      "question": "八旗とは別に、清が漢人で組織した正規軍を何というか。",
+      "answer": "緑営",
+      "reading": "りょくえい",
+      "alternatives": [],
+      "explanation": "おもに地方の治安の維持にあたった。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-16",
+      "subject": "sekaishi-tankyu",
+      "question": "18世紀初めから清で広まった、人頭税を土地税にくり入れて、一本にまとめて銀で納めさせる税制は何か。",
+      "answer": "地丁銀制",
+      "reading": "ちていぎんせい",
+      "alternatives": [
+        "地丁銀"
+      ],
+      "explanation": "土地をもたない人々の負担が軽くなり、人口の急増の一因になったともいわれる。",
+      "yearStart": 1716,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-17",
+      "subject": "sekaishi-tankyu",
+      "question": "1757年に乾隆帝が、ヨーロッパ船の来航を1つの港に限ったが、その港はどこか。",
+      "answer": "広州",
+      "reading": "こうしゅう",
+      "alternatives": [],
+      "explanation": "貿易は、公行と呼ばれる特許商人の組合に独占させた。",
+      "yearStart": 1757,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-18",
+      "subject": "sekaishi-tankyu",
+      "question": "清代の広州で、ヨーロッパの商人との貿易を独占した特許商人の組合を何というか。",
+      "answer": "公行",
+      "reading": "こうこう",
+      "alternatives": [],
+      "explanation": "貿易の管理や税の徴収も請け負った。",
+      "yearStart": 1757,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-19",
+      "subject": "sekaishi-tankyu",
+      "question": "清代に、禁令をおかして東南アジアなどに移り住んだ中国人とその子孫を何というか。",
+      "answer": "華僑",
+      "reading": "かきょう",
+      "alternatives": [],
+      "explanation": "福建や広東の出身者が多く、商業などで活躍した。",
+      "yearStart": 1750,
+      "yearApprox": true,
+      "regions": [
+        "中国",
+        "東南アジア"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-20",
+      "subject": "sekaishi-tankyu",
+      "question": "明末清初の顧炎武や黄宗羲に始まる、儒学の古典を文献にもとづいて実証的に研究する清代の学問を何というか。",
+      "answer": "考証学",
+      "reading": "こうしょうがく",
+      "alternatives": [],
+      "explanation": "きびしい思想の統制のもとで、政治からはなれた研究がさかんになった。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-21",
+      "subject": "sekaishi-tankyu",
+      "question": "考証学の先がけとなった明末清初の学者で、社会に役立つ実践的な学問をとなえて『日知録』を著した人物は誰か。",
+      "answer": "顧炎武",
+      "reading": "こえんぶ",
+      "alternatives": [],
+      "explanation": "黄宗羲とともに、清に仕えることをこばんだ。",
+      "yearStart": 1670,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-22",
+      "subject": "sekaishi-tankyu",
+      "question": "乾隆帝の命令でつくられた、中国の古今の書物を集めて分類した大叢書は何か。",
+      "answer": "四庫全書",
+      "reading": "しこぜんしょ",
+      "alternatives": [],
+      "explanation": "編集のとちゅうで、反清的な書物の取りしまりもおこなわれた。",
+      "yearStart": 1782,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-23",
+      "subject": "sekaishi-tankyu",
+      "question": "康熙帝の命令でつくられた、漢字約4万7000字をおさめた字書は何か。",
+      "answer": "康熙字典",
+      "reading": "こうきじてん",
+      "alternatives": [],
+      "explanation": "現在の漢和辞典の部首の配列のもとになった。",
+      "yearStart": 1716,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-24",
+      "subject": "sekaishi-tankyu",
+      "question": "没落していく上流の貴族の一家をえがいた、曹雪芹の作とされる清代の長編小説は何か。",
+      "answer": "紅楼夢",
+      "reading": "こうろうむ",
+      "alternatives": [],
+      "explanation": "中国の小説の最高傑作の一つとされる。",
+      "yearStart": 1760,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-25",
+      "subject": "sekaishi-tankyu",
+      "question": "科挙や官僚の世界の腐敗を風刺した、呉敬梓の作とされる清代の小説は何か。",
+      "answer": "儒林外史",
+      "reading": "じゅりんがいし",
+      "alternatives": [],
+      "explanation": "口語で書かれた。",
+      "yearStart": 1750,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-26",
+      "subject": "sekaishi-tankyu",
+      "question": "清の宮廷に仕えて西洋画の技法を伝え、離宮の円明園の設計にも加わったイタリア人のイエズス会宣教師は誰か。",
+      "answer": "カスティリオーネ",
+      "alternatives": [
+        "郎世寧"
+      ],
+      "explanation": "康熙帝・雍正帝・乾隆帝の3代に仕えた。",
+      "yearStart": 1715,
+      "regions": [
+        "中国",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-27",
+      "subject": "sekaishi-tankyu",
+      "question": "康熙帝に仕えて暦の作成や大砲の鋳造にあたった、ベルギー人のイエズス会宣教師は誰か。",
+      "answer": "フェルビースト",
+      "alternatives": [
+        "南懐仁"
+      ],
+      "explanation": "アダム=シャールを補佐した。",
+      "yearStart": 1669,
+      "yearApprox": true,
+      "regions": [
+        "中国",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-28",
+      "subject": "sekaishi-tankyu",
+      "question": "康熙帝の命令で、中国で最初の実測による全国地図「皇輿全覧図」の作成にあたったフランス人のイエズス会宣教師は誰か。",
+      "answer": "ブーヴェ",
+      "alternatives": [
+        "白進"
+      ],
+      "explanation": "ルイ14世が派遣した宣教師の一人。",
+      "yearStart": 1708,
+      "regions": [
+        "中国",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-29",
+      "subject": "sekaishi-tankyu",
+      "question": "イエズス会が、中国人の信者に孔子の崇拝や祖先の祭りを認めていたことをめぐっておこった、カトリック教会内の論争を何というか。",
+      "answer": "典礼問題",
+      "reading": "てんれいもんだい",
+      "alternatives": [],
+      "explanation": "教皇がこれを禁止したため、康熙帝はイエズス会以外の布教を禁じ、雍正帝は布教を全面的に禁じた。",
+      "yearStart": 1704,
+      "regions": [
+        "中国",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-30",
+      "subject": "sekaishi-tankyu",
+      "question": "17〜18世紀のヨーロッパで、中国の陶磁器や庭園などにあこがれて広まった中国趣味を何というか。",
+      "answer": "シノワズリ",
+      "alternatives": [],
+      "explanation": "宣教師が伝えた中国の情報は、ヨーロッパの啓蒙思想家にも影響を与えた。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ",
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-31",
+      "subject": "sekaishi-tankyu",
+      "question": "チベット仏教の黄帽派（ゲルク派）の教主で、チベットの政治と宗教の最高指導者となった者の称号は何か。",
+      "answer": "ダライ=ラマ",
+      "alternatives": [],
+      "explanation": "ラサにポタラ宮殿が建てられた。清はチベット仏教を手あつく保護した。",
+      "yearStart": 1642,
+      "yearApprox": true,
+      "regions": [
+        "内陸アジア",
+        "中国"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-32",
+      "subject": "sekaishi-tankyu",
+      "question": "15世紀初めにチベット仏教を改革し、黄帽派（ゲルク派）をひらいた人物は誰か。",
+      "answer": "ツォンカパ",
+      "alternatives": [],
+      "explanation": "きびしい戒律を重んじた。",
+      "yearStart": 1409,
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-33",
+      "subject": "sekaishi-tankyu",
+      "question": "14世紀半ばにタイで成立し、米や鹿皮などの輸出で栄えたが、1767年にビルマに滅ぼされた王朝は何か。",
+      "answer": "アユタヤ朝",
+      "alternatives": [],
+      "explanation": "日本町もつくられ、山田長政が活躍した。",
+      "yearStart": 1351,
+      "yearEnd": 1767,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-34",
+      "subject": "sekaishi-tankyu",
+      "question": "1782年にタイで成立し、バンコクを都として現在まで続いている王朝は何か。",
+      "answer": "ラタナコーシン朝",
+      "alternatives": [
+        "チャクリ朝",
+        "バンコク朝"
+      ],
+      "explanation": "建国者はラーマ1世。",
+      "yearStart": 1782,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-35",
+      "subject": "sekaishi-tankyu",
+      "question": "18世紀半ばにビルマを統一し、アユタヤ朝を滅ぼした王朝は何か。",
+      "answer": "コンバウン朝",
+      "alternatives": [
+        "アラウンパヤー朝"
+      ],
+      "explanation": "19世紀にイギリスとの戦争に敗れて滅んだ。",
+      "yearStart": 1752,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-36",
+      "subject": "sekaishi-tankyu",
+      "question": "1802年に阮福暎が西山（タイソン）の勢力を倒してベトナムを統一し、建てた王朝は何か。",
+      "answer": "阮朝",
+      "reading": "げんちょう",
+      "alternatives": [],
+      "explanation": "フランス人の宣教師ピニョーらの援助を受けた。清から「越南国王」に封じられた。",
+      "yearStart": 1802,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1003-37",
+      "subject": "sekaishi-tankyu",
+      "question": "13世紀にタイで成立した、タイ人の最初の王朝は何か。",
+      "answer": "スコータイ朝",
+      "alternatives": [],
+      "explanation": "上座部仏教を保護し、タイ文字をつくった。",
+      "yearStart": 1257,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-38",
+      "subject": "sekaishi-tankyu",
+      "question": "江戸時代の日本に、将軍の代がわりごとなどに朝鮮から派遣された使節を何というか。",
+      "answer": "朝鮮通信使",
+      "reading": "ちょうせんつうしんし",
+      "alternatives": [
+        "通信使"
+      ],
+      "explanation": "対馬の宗氏を通じて交流がおこなわれた。",
+      "yearStart": 1607,
+      "regions": [
+        "日本",
+        "朝鮮"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1003-39",
+      "subject": "sekaishi-tankyu",
+      "question": "1609年に薩摩の島津氏に征服されたのちも、中国との朝貢関係を続けた国はどこか。",
+      "answer": "琉球",
+      "reading": "りゅうきゅう",
+      "alternatives": [
+        "琉球王国"
+      ],
+      "explanation": "日本と中国の両方に従う「両属」の状態となった。",
+      "yearStart": 1609,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

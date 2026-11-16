@@ -1,0 +1,231 @@
+---
+// 教科書ページ：章の一覧と「テスト範囲を選んで問題を作る」フォーム（src/client/range-builder.ts）
+import AdSlot from '../../../components/AdSlot.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { jsonForScript } from '../../../lib/json-script';
+import { chapterLabel, sectionLabel } from '../../../lib/range';
+import { getSubject, levelSummary, textbooks, toClientTextbook, type ResolvedTextbook } from '../../../lib/site-data';
+import { LEVEL_LABELS, LEVELS } from '../../../lib/types';
+import { joinBase, paths } from '../../../lib/url';
+
+export function getStaticPaths() {
+  return textbooks.map((tb) => ({ params: { subject: tb.subject, textbook: tb.id }, props: { tb } }));
+}
+
+interface Props {
+  tb: ResolvedTextbook;
+}
+
+const { tb } = Astro.props;
+const subject = getSubject(tb.subject);
+const href = (p: string) => joinBase(import.meta.env.BASE_URL, p);
+const selectableChapters = tb.chapters.filter((ch) => ch.questions.length > 0);
+const title = `${tb.name} 一問一答`;
+const description = `${tb.name}（${subject.name}）の章・節に対応した一問一答。定期テストの範囲の章・節を選ぶと、その範囲だけの問題セットを作れます。全${tb.questions.length}問。`;
+---
+
+<BaseLayout title={title} description={description} subjectId={subject.id} path={paths.textbook(subject.id, tb.id)} noindex={tb.questions.length === 0}>
+  <Breadcrumbs items={[{ label: subject.name, path: paths.subject(subject.id) }, { label: tb.name }]} />
+  <h1>{title}</h1>
+  <p class="lead">{subject.name}・{tb.questions.length}問{tb.publisher ? `（${tb.publisher}）` : ''}</p>
+  {
+    tb.sample ? (
+      <div class="notice notice-sample">
+        <p>{tb.description ?? '開発用のサンプル教科書です。'}</p>
+      </div>
+    ) : (
+      tb.description && <p>{tb.description}</p>
+    )
+  }
+
+  {
+    selectableChapters.length === 0 ? (
+      <p class="notice">この教科書の問題は準備中です。</p>
+    ) : (
+      <section aria-labelledby="range-heading">
+        <h2 id="range-heading">テスト範囲を選んで問題を作る</h2>
+        <form id="range-form" class="range-form" action={href(paths.practice())} method="get">
+          <input type="hidden" name="tb" value={tb.id} />
+          <div class="tabs" role="tablist" aria-label="範囲の選び方">
+            <button type="button" class="tab" role="tab" id="tab-tree" aria-selected="true" aria-controls="panel-tree">章・節にチェック</button>
+            <button type="button" class="tab" role="tab" id="tab-span" aria-selected="false" aria-controls="panel-span">第◯章〜第◯章</button>
+          </div>
+
+          <div id="panel-tree" role="tabpanel" aria-labelledby="tab-tree">
+            <div class="tree-tools">
+              <button type="button" class="link-button" data-select="all">すべて選ぶ</button>
+              <button type="button" class="link-button" data-select="none">すべて外す</button>
+            </div>
+            <ul class="tree">
+              {tb.chapters.map((ch, i) => {
+                const showPart = ch.part && ch.part !== tb.chapters[i - 1]?.part;
+                const empty = ch.questions.length === 0;
+                return (
+                  <>
+                    {showPart && <li class="tree-part">{ch.part}</li>}
+                    <li class="tree-chapter">
+                      <div class="tree-row">
+                        <label class="check">
+                          <input type="checkbox" class="chk-chapter" data-chapter={String(ch.no)} disabled={empty} />
+                          <span class="check-text">{chapterLabel(ch)} {ch.title}</span>
+                        </label>
+                        <span class="count">{empty ? '準備中' : `${ch.questions.length}問`}</span>
+                        <button type="button" class="tree-toggle" aria-expanded="false" aria-controls={`secs-${ch.no}`} aria-label={`${chapterLabel(ch)}の節を表示`}>
+                          節
+                        </button>
+                      </div>
+                      <ul class="tree-sections" id={`secs-${ch.no}`} hidden>
+                        {ch.sections.map((s) => (
+                          <li class:list={{ 'is-empty': s.questions.length === 0 }}>
+                            <label class="check">
+                              <input type="checkbox" class="chk-section" name="sec" value={`${ch.no}.${s.no}`} disabled={s.questions.length === 0} />
+                              <span class="check-text">
+                                {sectionLabel(s)} {s.title}
+                                {s.pages && <span class="check-sub">{s.pages}</span>}
+                              </span>
+                            </label>
+                            <span class="count">{s.questions.length > 0 ? `${s.questions.length}問` : '準備中'}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </li>
+                  </>
+                );
+              })}
+            </ul>
+          </div>
+
+          <div id="panel-span" role="tabpanel" aria-labelledby="tab-span" hidden>
+            <div class="span-picker">
+              <label class="visually-hidden" for="span-from">はじめの章</label>
+              <select id="span-from">
+                {selectableChapters.map((ch, i) => (
+                  <option value={String(ch.no)} selected={i === 0}>
+                    {chapterLabel(ch)} {ch.title}
+                  </option>
+                ))}
+              </select>
+              <span>〜</span>
+              <label class="visually-hidden" for="span-to">おわりの章</label>
+              <select id="span-to">
+                {selectableChapters.map((ch, i) => (
+                  <option value={String(ch.no)} selected={i === selectableChapters.length - 1}>
+                    {chapterLabel(ch)} {ch.title}
+                  </option>
+                ))}
+              </select>
+            </div>
+          </div>
+
+          <div class="options">
+            <fieldset class="option-group">
+              <legend>出題数</legend>
+              <div class="chips">
+                {[10, 20, 30, 50, 0].map((n) => (
+                  <label class="chip">
+                    <input type="radio" name="n" value={String(n)} checked={n === 20} />
+                    <span>{n === 0 ? 'すべて' : `${n}問`}</span>
+                  </label>
+                ))}
+              </div>
+            </fieldset>
+            <fieldset class="option-group">
+              <legend>出題順</legend>
+              <div class="chips">
+                <label class="chip">
+                  <input type="radio" name="order" value="textbook" checked />
+                  <span>教科書順</span>
+                </label>
+                <label class="chip">
+                  <input type="radio" name="order" value="random" />
+                  <span>ランダム</span>
+                </label>
+              </div>
+            </fieldset>
+            <fieldset class="option-group">
+              <legend>重要度</legend>
+              <div class="chips">
+                {LEVELS.map((l) => (
+                  <label class="chip">
+                    <input type="checkbox" name="lv" value={l} checked />
+                    <span>{LEVEL_LABELS[l]}</span>
+                  </label>
+                ))}
+              </div>
+            </fieldset>
+            <label class="toggle-line">
+              <input type="checkbox" name="weak" value="1" />
+              苦手な問題だけ（前回まちがえた問題）
+            </label>
+          </div>
+
+          <div class="range-summary" aria-live="polite">
+            <p class="range-name" id="summary-range">範囲を選んでください</p>
+            <p class="small" id="summary-count">章・節にチェックを入れると、問題数がここに出ます。</p>
+          </div>
+          <div class="range-actions">
+            <button type="submit" class="btn btn-primary btn-block" id="btn-start" disabled>この範囲で始める</button>
+            <a class="btn btn-secondary" id="btn-quick" href={href(paths.practice())} aria-disabled="true">テスト直前モード（基本だけ）</a>
+            <div class="btn-row">
+              <button type="button" class="btn btn-ghost btn-small" id="btn-share">URLで共有</button>
+              <button type="button" class="btn btn-ghost btn-small" id="btn-save">マイ範囲に保存</button>
+            </div>
+          </div>
+          <noscript><p class="notice">問題を解くには JavaScript を有効にしてください。下の章ページでは、JavaScript なしでも問題と答えを確認できます。</p></noscript>
+        </form>
+      </section>
+    )
+  }
+
+  <section id="my-ranges-section" hidden aria-labelledby="my-ranges-heading">
+    <h2 id="my-ranges-heading">マイ範囲（この教科書）</h2>
+    <ul class="row-list saved-list" id="my-ranges"></ul>
+  </section>
+
+  <section aria-labelledby="chapters-heading">
+    <h2 id="chapters-heading">章ごとの一問一答</h2>
+    <p class="small muted">章のページでは、問題と答えを一覧で確認できます（答えはタップで表示）。</p>
+    <ul class="row-list">
+      {
+        tb.chapters.map((ch) =>
+          ch.questions.length > 0 ? (
+            <li>
+              <a class="row-link" href={href(paths.chapter(subject.id, tb.id, ch.no))}>
+                <span class="row-main">
+                  <span class="row-title">{chapterLabel(ch)} {ch.title}</span>
+                  <span class="row-sub">{levelSummary(ch.questions)}</span>
+                </span>
+                <span class="row-end">
+                  {ch.questions.length}問
+                  <br />
+                  <span class="progress-chip" data-progress-chapter={String(ch.no)} />
+                </span>
+              </a>
+            </li>
+          ) : (
+            <li class="row-static">
+              <span class="row-main">{chapterLabel(ch)} {ch.title}</span>
+              <span class="badge badge-soon">準備中</span>
+            </li>
+          ),
+        )
+      }
+    </ul>
+  </section>
+
+  <section aria-labelledby="about-tb-heading">
+    <h2 id="about-tb-heading">この教科書の一問一答について</h2>
+    <p>{tb.name}の章・節に合わせて問題を並べています。定期テストの範囲表を見ながら章・節を選ぶと、その範囲だけで問題セットを作れます。作った範囲はURLで友達と共有したり、「マイ範囲」に保存したりできます。</p>
+    {tb.source && <p class="small muted">章・節の構成とページは、{tb.source}をもとにしています。お使いの教科書の版によっては異なる場合があります。</p>}
+    <p class="small muted">問題の章・節への割り当ては当サイトが独自に行ったものです。教科書の内容や表記と異なる場合があります。</p>
+  </section>
+
+  <AdSlot name="textbook-bottom" />
+
+  <script type="application/json" id="textbook-data" set:html={jsonForScript(toClientTextbook(tb))} />
+  <script>
+    import { initRangeBuilder } from '../../../client/range-builder';
+    initRangeBuilder();
+  </script>
+</BaseLayout>

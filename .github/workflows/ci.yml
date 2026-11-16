@@ -1,0 +1,43 @@
+# プルリクエストの確認（公開はしない）。
+# サブディレクトリでの公開（GitHub Pages のプロジェクトサイト）でもリンクが切れないことを確かめるため、
+# ベースパスを付けてビルドする。
+name: CI
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - run: npm ci
+
+      - name: Convert CSV and validate data
+        run: npm run data
+
+      - run: npm test
+
+      - name: Type check
+        run: npm run check
+
+      - name: Build
+        run: npm run build
+        env:
+          SITE_URL: https://example.github.io
+          BASE_PATH: /rekishi-ichimon
+
+      - name: Check build output
+        run: npm run check:dist
+        env:
+          BASE_PATH: /rekishi-ichimon

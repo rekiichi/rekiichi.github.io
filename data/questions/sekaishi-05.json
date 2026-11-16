@@ -1,0 +1,1588 @@
+{
+  "generatedFrom": "sekaishi-05.csv",
+  "_note": "このファイルは sekaishi-05.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "w-0501-01",
+      "subject": "sekaishi-tankyu",
+      "question": "イスラーム教が生まれた、アラビア半島西部の商業都市はどこか。",
+      "answer": "メッカ",
+      "alternatives": [
+        "マッカ"
+      ],
+      "explanation": "多神教の神殿であったカーバ神殿があり、クライシュ族が支配していた。",
+      "yearStart": 610,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-02",
+      "subject": "sekaishi-tankyu",
+      "question": "610年頃に唯一神アッラーのことばをあずかったとして、イスラーム教をとなえた人物は誰か。",
+      "answer": "ムハンマド",
+      "alternatives": [
+        "マホメット"
+      ],
+      "explanation": "メッカのクライシュ族の商人。自分を神のことばを伝える預言者であるとした。",
+      "yearStart": 610,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-03",
+      "subject": "sekaishi-tankyu",
+      "question": "イスラーム教で信仰される唯一神を何というか。",
+      "answer": "アッラー",
+      "alternatives": [
+        "アッラーフ"
+      ],
+      "explanation": "偶像の崇拝はきびしく禁じられた。",
+      "yearStart": 610,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-04",
+      "subject": "sekaishi-tankyu",
+      "question": "622年に、迫害を受けたムハンマドが信者とともにメッカからメディナに移住した出来事を何というか。",
+      "answer": "ヒジュラ",
+      "alternatives": [
+        "聖遷"
+      ],
+      "explanation": "この年がイスラーム暦の元年とされる。",
+      "yearStart": 622,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-05",
+      "subject": "sekaishi-tankyu",
+      "question": "ムハンマドがメディナでつくった、イスラーム教徒（ムスリム）の共同体を何というか。",
+      "answer": "ウンマ",
+      "alternatives": [],
+      "explanation": "部族のつながりをこえた信者の集まり。",
+      "yearStart": 622,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0501-06",
+      "subject": "sekaishi-tankyu",
+      "question": "630年にムハンマドがメッカを征服したのち、イスラーム教の聖殿とされた神殿は何か。",
+      "answer": "カーバ神殿",
+      "alternatives": [
+        "カーバ聖殿",
+        "カーバ"
+      ],
+      "explanation": "世界中のムスリムがこの方向にむかって礼拝する。",
+      "yearStart": 630,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-07",
+      "subject": "sekaishi-tankyu",
+      "question": "ムハンマドにくだされた神のことばを集めた、イスラーム教の聖典は何か。",
+      "answer": "コーラン",
+      "alternatives": [
+        "クルアーン"
+      ],
+      "explanation": "アラビア語で書かれ、信仰だけでなく生活の決まりも定めている。",
+      "yearStart": 650,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-08",
+      "subject": "sekaishi-tankyu",
+      "question": "イスラーム教徒の義務とされる5つのおこない（信仰告白・礼拝・喜捨・断食・巡礼）をまとめて何というか。",
+      "answer": "五行",
+      "reading": "ごぎょう",
+      "alternatives": [],
+      "explanation": "信じるべき6つのこと（六信）とあわせて六信五行という。",
+      "yearStart": 630,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0501-09",
+      "subject": "sekaishi-tankyu",
+      "question": "『コーラン』やムハンマドの言行にもとづいて、法学者たちがまとめたイスラームの法を何というか。",
+      "answer": "シャリーア",
+      "alternatives": [
+        "イスラーム法"
+      ],
+      "explanation": "信仰から日常生活までを定めている。",
+      "yearStart": 800,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0501-10",
+      "subject": "sekaishi-tankyu",
+      "question": "ムハンマドの死後、イスラーム教徒の共同体の指導者として選ばれた「後継者」を何というか。",
+      "answer": "カリフ",
+      "alternatives": [],
+      "explanation": "初代はアブー=バクル。",
+      "yearStart": 632,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-11",
+      "subject": "sekaishi-tankyu",
+      "question": "アブー=バクルからアリーまでの、信者のなかから選ばれた4人のカリフが治めた時代を何というか。",
+      "answer": "正統カリフ時代",
+      "reading": "せいとうかりふじだい",
+      "alternatives": [
+        "正統カリフの時代"
+      ],
+      "explanation": "この時代にアラブ人の大規模な征服活動がおこなわれた。",
+      "yearStart": 632,
+      "yearEnd": 661,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-12",
+      "subject": "sekaishi-tankyu",
+      "question": "イスラーム教徒が、信仰を広め守るためにおこなう異教徒との戦いを何というか。",
+      "answer": "ジハード",
+      "alternatives": [
+        "聖戦"
+      ],
+      "explanation": "正統カリフ時代には、ササン朝を滅ぼし、ビザンツ帝国からシリアとエジプトを奪った。",
+      "yearStart": 634,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-13",
+      "subject": "sekaishi-tankyu",
+      "question": "アラブ人が征服地の各地に建設した軍営都市を何というか。",
+      "answer": "ミスル",
+      "alternatives": [],
+      "explanation": "バスラ・クーファ・フスタートなどがある。",
+      "yearStart": 640,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0501-14",
+      "subject": "sekaishi-tankyu",
+      "question": "661年に、シリア総督のムアーウィヤがダマスクスを都としてひらいた王朝は何か。",
+      "answer": "ウマイヤ朝",
+      "alternatives": [],
+      "explanation": "カリフの位は世襲されるようになった。",
+      "yearStart": 661,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-15",
+      "subject": "sekaishi-tankyu",
+      "question": "ウマイヤ朝をひらき、カリフの位を世襲とした人物は誰か。",
+      "answer": "ムアーウィヤ",
+      "alternatives": [],
+      "explanation": "第4代カリフのアリーと対立した。",
+      "yearStart": 661,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0501-16",
+      "subject": "sekaishi-tankyu",
+      "question": "第4代カリフのアリーとその子孫だけを、共同体の正しい指導者と考えるイスラーム教の一派を何というか。",
+      "answer": "シーア派",
+      "alternatives": [],
+      "explanation": "「シーア」は「党派」の意味。",
+      "yearStart": 661,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-17",
+      "subject": "sekaishi-tankyu",
+      "question": "ムハンマドの言行（スンナ）に従うことを重んじる、イスラーム教徒の多数派を何というか。",
+      "answer": "スンナ派",
+      "alternatives": [
+        "スンニー派",
+        "スンニ派"
+      ],
+      "explanation": "代々のカリフを正統と認める。",
+      "yearStart": 661,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-18",
+      "subject": "sekaishi-tankyu",
+      "question": "711年に、ウマイヤ朝が滅ぼしたイベリア半島のゲルマン人の王国は何か。",
+      "answer": "西ゴート王国",
+      "reading": "にしごーとおうこく",
+      "alternatives": [],
+      "explanation": "ウマイヤ朝の領土は中央アジアからイベリア半島にまで広がった。",
+      "yearStart": 711,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0501-19",
+      "subject": "sekaishi-tankyu",
+      "question": "イスラーム世界で、征服地の異教徒に課された人頭税を何というか。",
+      "answer": "ジズヤ",
+      "alternatives": [],
+      "explanation": "ウマイヤ朝では、イスラーム教に改宗した非アラブ人にも課された。",
+      "yearStart": 700,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-20",
+      "subject": "sekaishi-tankyu",
+      "question": "イスラーム世界で、征服地の住民に課された地租（土地税）を何というか。",
+      "answer": "ハラージュ",
+      "alternatives": [],
+      "explanation": "アッバース朝では、民族に関係なく土地をもつ者すべてに課された。",
+      "yearStart": 700,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-21",
+      "subject": "sekaishi-tankyu",
+      "question": "ウマイヤ朝の時代に不平等なあつかいを受けた、イスラーム教に改宗した非アラブ人を何というか。",
+      "answer": "マワーリー",
+      "alternatives": [],
+      "explanation": "アラブ人だけが特権をもつことに不満を強めた。",
+      "yearStart": 700,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0501-22",
+      "subject": "sekaishi-tankyu",
+      "question": "750年に、ウマイヤ朝に不満をもつ人々の協力をえて、ムハンマドの叔父の子孫が建てた王朝は何か。",
+      "answer": "アッバース朝",
+      "alternatives": [],
+      "explanation": "イスラーム教徒であれば民族による差別がなくなり、「イスラーム帝国」と呼ばれる。",
+      "yearStart": 750,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-23",
+      "subject": "sekaishi-tankyu",
+      "question": "751年に、アッバース朝の軍が中央アジアで唐の軍を破った戦いは何か。",
+      "answer": "タラス河畔の戦い",
+      "reading": "たらすかはんのたたかい",
+      "alternatives": [],
+      "explanation": "捕虜になった唐の兵士から、製紙法がイスラーム世界に伝わったとされる。",
+      "yearStart": 751,
+      "regions": [
+        "西アジア",
+        "内陸アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-24",
+      "subject": "sekaishi-tankyu",
+      "question": "アッバース朝の第2代カリフのマンスールが建設した、ティグリス川のほとりの都はどこか。",
+      "answer": "バグダード",
+      "alternatives": [],
+      "explanation": "円形の城壁をもち、国際的な商業・文化の中心として栄えた。",
+      "yearStart": 762,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-25",
+      "subject": "sekaishi-tankyu",
+      "question": "バグダードを建設した、アッバース朝の第2代カリフは誰か。",
+      "answer": "マンスール",
+      "alternatives": [],
+      "explanation": "イラン人を官僚に登用して中央集権化を進めた。",
+      "yearStart": 762,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0501-26",
+      "subject": "sekaishi-tankyu",
+      "question": "8世紀末から9世紀初めの、アッバース朝の最盛期のカリフは誰か。",
+      "answer": "ハールーン=アッラシード",
+      "alternatives": [],
+      "explanation": "『千夜一夜物語』にも登場する。",
+      "yearStart": 786,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-27",
+      "subject": "sekaishi-tankyu",
+      "question": "756年に、ウマイヤ朝の一族がイベリア半島に建てた王朝は何か。",
+      "answer": "後ウマイヤ朝",
+      "reading": "こううまいやちょう",
+      "alternatives": [],
+      "explanation": "都のコルドバは、西方イスラーム世界の文化の中心として栄えた。",
+      "yearStart": 756,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-28",
+      "subject": "sekaishi-tankyu",
+      "question": "10世紀初めに北アフリカのチュニジアにおこり、アッバース朝に対抗してカリフを名乗ったシーア派の王朝は何か。",
+      "answer": "ファーティマ朝",
+      "alternatives": [],
+      "explanation": "969年にエジプトを征服し、都カイロを建設した。",
+      "yearStart": 909,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-29",
+      "subject": "sekaishi-tankyu",
+      "question": "ファーティマ朝が建設した、エジプトの都はどこか。",
+      "answer": "カイロ",
+      "alternatives": [],
+      "explanation": "アズハル学院がつくられ、のちにイスラーム世界の学問の中心となった。",
+      "yearStart": 969,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0501-30",
+      "subject": "sekaishi-tankyu",
+      "question": "9世紀前半にバグダードにつくられ、ギリシア語の文献がさかんにアラビア語に翻訳された研究機関は何か。",
+      "answer": "知恵の館",
+      "reading": "ちえのやかた",
+      "alternatives": [
+        "バイト=アルヒクマ"
+      ],
+      "explanation": "アリストテレスの哲学や、医学・天文学・数学などが研究された。",
+      "yearStart": 830,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0501-31",
+      "subject": "sekaishi-tankyu",
+      "question": "インドから伝わった数字や計算法を用いて、代数学を発展させた9世紀の数学者は誰か。",
+      "answer": "フワーリズミー",
+      "alternatives": [],
+      "explanation": "インド数字やゼロの考え方は、アラビア数字としてヨーロッパに伝わった。",
+      "yearStart": 820,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0501-32",
+      "subject": "sekaishi-tankyu",
+      "question": "年代記の形式で世界史『預言者たちと諸王の歴史』を著した、アッバース朝時代の歴史家は誰か。",
+      "answer": "タバリー",
+      "alternatives": [],
+      "explanation": "『コーラン』の注釈でも知られる。",
+      "yearStart": 915,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0501-33",
+      "subject": "sekaishi-tankyu",
+      "question": "インド・イラン・アラビアなどの説話を集めた、アラビア語の物語集は何か。",
+      "answer": "千夜一夜物語",
+      "reading": "せんやいちやものがたり",
+      "alternatives": [
+        "アラビアン=ナイト"
+      ],
+      "explanation": "16世紀頃までに、カイロで現在の形にまとめられた。",
+      "yearStart": 900,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-34",
+      "subject": "sekaishi-tankyu",
+      "question": "イスラーム教の礼拝堂を何というか。",
+      "answer": "モスク",
+      "alternatives": [],
+      "explanation": "礼拝の時刻を知らせる塔（ミナレット）がそなえられた。",
+      "yearStart": 700,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0501-35",
+      "subject": "sekaishi-tankyu",
+      "question": "イスラーム世界で発達した、植物のつるや文字などを図案化した幾何学的な装飾文様を何というか。",
+      "answer": "アラベスク",
+      "alternatives": [],
+      "explanation": "偶像の崇拝が禁じられたため、モスクなどの装飾に使われた。",
+      "yearStart": 900,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-01",
+      "subject": "sekaishi-tankyu",
+      "question": "ゲルマン人が進出する前から、アルプス以北のヨーロッパに広く住んでいたインド=ヨーロッパ語系の人々は何人か。",
+      "answer": "ケルト人",
+      "alternatives": [],
+      "explanation": "ローマやゲルマン人の進出におされ、ブリテン島の西部やアイルランドなどに残った。",
+      "yearStart": -500,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-02",
+      "subject": "sekaishi-tankyu",
+      "question": "バルト海沿岸を原住地とし、ローマ帝国の北方に住んでいたインド=ヨーロッパ語系の人々は何人か。",
+      "answer": "ゲルマン人",
+      "alternatives": [],
+      "explanation": "数十の部族に分かれ、重要なことは民会で決めた。",
+      "yearStart": 100,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-03",
+      "subject": "sekaishi-tankyu",
+      "question": "4世紀後半に西へ進み、ゲルマン人の大移動のきっかけをつくったアジア系の遊牧民は何人か。",
+      "answer": "フン人",
+      "alternatives": [],
+      "explanation": "5世紀前半にアッティラ王のもとで大帝国をつくった。",
+      "yearStart": 375,
+      "regions": [
+        "ヨーロッパ",
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-04",
+      "subject": "sekaishi-tankyu",
+      "question": "375年に始まり、約200年にわたって続いた、ゲルマン諸部族のローマ帝国領内への移住を何というか。",
+      "answer": "ゲルマン人の大移動",
+      "reading": "げるまんじんのだいいどう",
+      "alternatives": [],
+      "explanation": "フン人におされた西ゴート人がドナウ川をこえたことから始まった。",
+      "yearStart": 375,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-05",
+      "subject": "sekaishi-tankyu",
+      "question": "375年に移動を開始し、410年にローマを略奪したのち、イベリア半島に王国を建てたゲルマン人の一派は何人か。",
+      "answer": "西ゴート人",
+      "reading": "にしごーとじん",
+      "alternatives": [],
+      "explanation": "王国は711年にウマイヤ朝に滅ぼされた。",
+      "yearStart": 375,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-06",
+      "subject": "sekaishi-tankyu",
+      "question": "北アフリカに王国を建てた、ゲルマン人の一派は何人か。",
+      "answer": "ヴァンダル人",
+      "alternatives": [],
+      "explanation": "王国は534年にビザンツ帝国に滅ぼされた。",
+      "yearStart": 429,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-07",
+      "subject": "sekaishi-tankyu",
+      "question": "5世紀にブリタニア（大ブリテン島）にわたり、7つの王国を建てたゲルマン人の一派は何人か。",
+      "answer": "アングロ=サクソン人",
+      "alternatives": [],
+      "explanation": "7つの王国は七王国（ヘプターキー）と呼ばれる。",
+      "yearStart": 449,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-08",
+      "subject": "sekaishi-tankyu",
+      "question": "451年のカタラウヌムの戦いで、西ローマとゲルマン人の連合軍に敗れたフン人の王は誰か。",
+      "answer": "アッティラ",
+      "alternatives": [
+        "アッティラ王"
+      ],
+      "explanation": "王の死後、フン人の帝国はくずれた。",
+      "yearStart": 451,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-09",
+      "subject": "sekaishi-tankyu",
+      "question": "5世紀末に、テオドリック大王に率いられてイタリアに王国を建てたゲルマン人の一派は何人か。",
+      "answer": "東ゴート人",
+      "reading": "ひがしごーとじん",
+      "alternatives": [],
+      "explanation": "オドアケルの王国を倒した。王国は555年にビザンツ帝国に滅ぼされた。",
+      "yearStart": 493,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-10",
+      "subject": "sekaishi-tankyu",
+      "question": "568年に北イタリアに王国を建てた、ゲルマン人の一派は何人か。",
+      "answer": "ランゴバルド人",
+      "alternatives": [],
+      "explanation": "王国は774年にカール大帝に征服された。",
+      "yearStart": 568,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-11",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマ帝国の東西分裂ののち、コンスタンティノープルを都として1453年まで続いた帝国を何というか。",
+      "answer": "ビザンツ帝国",
+      "alternatives": [
+        "東ローマ帝国"
+      ],
+      "explanation": "ゲルマン人の大移動の影響が少なく、商業と貨幣経済が栄えた。",
+      "yearStart": 395,
+      "yearEnd": 1453,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-12",
+      "subject": "sekaishi-tankyu",
+      "question": "6世紀に、ヴァンダル王国と東ゴート王国を滅ぼして地中海のほぼ全域にローマ帝国を復活させたビザンツ皇帝は誰か。",
+      "answer": "ユスティニアヌス大帝",
+      "alternatives": [
+        "ユスティニアヌス",
+        "ユスティニアヌス帝",
+        "ユスティニアヌス1世"
+      ],
+      "explanation": "『ローマ法大全』を編集させ、養蚕の技術をとり入れた。",
+      "yearStart": 527,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-13",
+      "subject": "sekaishi-tankyu",
+      "question": "ユスティニアヌス大帝がコンスタンティノープルに建てた、ビザンツ様式の代表的な聖堂は何か。",
+      "answer": "ハギア=ソフィア聖堂",
+      "alternatives": [
+        "聖ソフィア聖堂",
+        "ハギア=ソフィア",
+        "アヤ=ソフィア"
+      ],
+      "explanation": "大きな円屋根（ドーム）とモザイク壁画に特色がある。",
+      "yearStart": 537,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-14",
+      "subject": "sekaishi-tankyu",
+      "question": "ビザンツ帝国で、皇帝と結びついて発展したキリスト教会を何というか。",
+      "answer": "ギリシア正教会",
+      "alternatives": [
+        "ギリシア正教",
+        "正教会",
+        "東方正教会"
+      ],
+      "explanation": "皇帝がコンスタンティノープル総主教の任命権をにぎり、教会を支配した。",
+      "yearStart": 500,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-15",
+      "subject": "sekaishi-tankyu",
+      "question": "481年にフランク人を統一して、フランク王国（メロヴィング朝）を建てた王は誰か。",
+      "answer": "クローヴィス",
+      "alternatives": [],
+      "explanation": "正統派のアタナシウス派に改宗して、ローマ人貴族の支持をえた。",
+      "yearStart": 481,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-16",
+      "subject": "sekaishi-tankyu",
+      "question": "クローヴィスが始めた、フランク王国の最初の王朝は何か。",
+      "answer": "メロヴィング朝",
+      "alternatives": [],
+      "explanation": "8世紀には、王にかわって宮宰が実権をにぎった。",
+      "yearStart": 481,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-17",
+      "subject": "sekaishi-tankyu",
+      "question": "メロヴィング朝で王にかわって実権をにぎった、王家の家政をとりしきる最高の官職を何というか。",
+      "answer": "宮宰",
+      "reading": "きゅうさい",
+      "alternatives": [
+        "マヨル=ドムス"
+      ],
+      "explanation": "カロリング家がこの職を代々ついだ。",
+      "yearStart": 700,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-18",
+      "subject": "sekaishi-tankyu",
+      "question": "732年に、フランク王国の宮宰カール=マルテルがイスラーム軍を破った戦いは何か。",
+      "answer": "トゥール・ポワティエ間の戦い",
+      "alternatives": [
+        "トゥール・ポワティエの戦い"
+      ],
+      "explanation": "ウマイヤ朝の軍が西ヨーロッパに進出するのをくいとめた。",
+      "yearStart": 732,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-19",
+      "subject": "sekaishi-tankyu",
+      "question": "トゥール・ポワティエ間の戦いでイスラーム軍を破った、フランク王国の宮宰は誰か。",
+      "answer": "カール=マルテル",
+      "alternatives": [],
+      "explanation": "カロリング家の出身。",
+      "yearStart": 732,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-20",
+      "subject": "sekaishi-tankyu",
+      "question": "751年に、ローマ教皇の支持をえてメロヴィング朝を廃し、カロリング朝をひらいた人物は誰か。",
+      "answer": "ピピン",
+      "alternatives": [
+        "小ピピン",
+        "ピピン3世"
+      ],
+      "explanation": "カール=マルテルの子。",
+      "yearStart": 751,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-21",
+      "subject": "sekaishi-tankyu",
+      "question": "ピピンがランゴバルド王国から奪ったラヴェンナ地方をローマ教皇におくったことで始まった、教皇の領土を何というか。",
+      "answer": "教皇領",
+      "reading": "きょうこうりょう",
+      "alternatives": [],
+      "explanation": "この出来事を「ピピンの寄進」という。",
+      "yearStart": 756,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-22",
+      "subject": "sekaishi-tankyu",
+      "question": "ペテロの後継者を自任するローマ教会の司教で、西方のキリスト教会の最高指導者を何というか。",
+      "answer": "教皇",
+      "reading": "きょうこう",
+      "alternatives": [
+        "ローマ教皇",
+        "法王"
+      ],
+      "explanation": "6世紀末のグレゴリウス1世は、ゲルマン人への布教を進めた。",
+      "yearStart": 600,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-23",
+      "subject": "sekaishi-tankyu",
+      "question": "6世紀にイタリアのモンテ=カシノに修道院をひらき、きびしい戒律を定めた人物は誰か。",
+      "answer": "ベネディクトゥス",
+      "alternatives": [],
+      "explanation": "「祈り、働け」をモットーとし、清貧・純潔・服従を修道士に課した。",
+      "yearStart": 529,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-24",
+      "subject": "sekaishi-tankyu",
+      "question": "726年にビザンツ皇帝レオン3世が出した、キリストや聖人の像の崇拝を禁じる命令を何というか。",
+      "answer": "聖像禁止令",
+      "reading": "せいぞうきんしれい",
+      "alternatives": [],
+      "explanation": "ゲルマン人への布教に聖像を使っていたローマ教会が反発し、東西の教会の対立が深まった。",
+      "yearStart": 726,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-25",
+      "subject": "sekaishi-tankyu",
+      "question": "フランク王国の最盛期をきずき、西ヨーロッパの主要部分を統一したカロリング朝の王は誰か。",
+      "answer": "カール大帝",
+      "reading": "かーるたいてい",
+      "alternatives": [
+        "シャルルマーニュ",
+        "カール1世"
+      ],
+      "explanation": "ランゴバルド王国を征服し、ザクセン人を服属させ、アヴァール人を撃退した。",
+      "yearStart": 768,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-26",
+      "subject": "sekaishi-tankyu",
+      "question": "800年に、ローマ教皇レオ3世がカール大帝にローマ皇帝の冠を与えた出来事を何というか。",
+      "answer": "カールの戴冠",
+      "reading": "かーるのたいかん",
+      "alternatives": [],
+      "explanation": "ローマ文化・キリスト教・ゲルマン人が結びついた西ヨーロッパ世界が生まれた。",
+      "yearStart": 800,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-27",
+      "subject": "sekaishi-tankyu",
+      "question": "カール大帝が、地方の役人である伯を監督するために派遣した役人を何というか。",
+      "answer": "巡察使",
+      "reading": "じゅんさつし",
+      "alternatives": [],
+      "explanation": "全国を州に分け、有力者を伯に任命して治めさせた。",
+      "yearStart": 800,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-28",
+      "subject": "sekaishi-tankyu",
+      "question": "カール大帝がアルクインらの学者をまねいたことから始まった、古典文化の復興運動を何というか。",
+      "answer": "カロリング=ルネサンス",
+      "alternatives": [],
+      "explanation": "ラテン語による学問がさかんになった。",
+      "yearStart": 800,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-29",
+      "subject": "sekaishi-tankyu",
+      "question": "843年に結ばれた、フランク王国を3つに分けた条約は何か。",
+      "answer": "ヴェルダン条約",
+      "alternatives": [],
+      "explanation": "カール大帝の孫たちが、東フランク・西フランク・中部フランクを分けあった。",
+      "yearStart": 843,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-30",
+      "subject": "sekaishi-tankyu",
+      "question": "870年に結ばれ、中部フランクの一部を東西フランクが分けあって、ドイツ・フランス・イタリアのもとをつくった条約は何か。",
+      "answer": "メルセン条約",
+      "alternatives": [],
+      "explanation": "3国はそれぞれ別の歴史を歩むことになった。",
+      "yearStart": 870,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-31",
+      "subject": "sekaishi-tankyu",
+      "question": "マジャール人を撃退し、962年に教皇からローマ皇帝の位を与えられた東フランク（ドイツ）の王は誰か。",
+      "answer": "オットー1世",
+      "alternatives": [],
+      "explanation": "ザクセン家の出身。",
+      "yearStart": 962,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-32",
+      "subject": "sekaishi-tankyu",
+      "question": "オットー1世の戴冠を起源とし、ドイツ王がローマ皇帝の位をかねた国家を何というか。",
+      "answer": "神聖ローマ帝国",
+      "reading": "しんせいろーまていこく",
+      "alternatives": [],
+      "explanation": "皇帝はイタリア政策に熱心で、国内の統一はおろそかになった。",
+      "yearStart": 962,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-33",
+      "subject": "sekaishi-tankyu",
+      "question": "987年に西フランク（フランス）でカロリング家の血筋が絶えたのち、パリ伯ユーグ=カペーがひらいた王朝は何か。",
+      "answer": "カペー朝",
+      "alternatives": [],
+      "explanation": "王権は弱く、パリ周辺を支配するだけだった。",
+      "yearStart": 987,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-34",
+      "subject": "sekaishi-tankyu",
+      "question": "8世紀後半から、スカンディナヴィア半島やユトランド半島からヨーロッパ各地に進出したゲルマン人の一派を何というか。",
+      "answer": "ノルマン人",
+      "alternatives": [
+        "ヴァイキング"
+      ],
+      "explanation": "すぐれた造船と航海の技術をもち、略奪や交易をおこなった。",
+      "yearStart": 790,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-35",
+      "subject": "sekaishi-tankyu",
+      "question": "10世紀初めに、ノルマン人の首長ロロが北フランスに建てた国は何か。",
+      "answer": "ノルマンディー公国",
+      "alternatives": [],
+      "explanation": "西フランク王から領地として認められた。",
+      "yearStart": 911,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-36",
+      "subject": "sekaishi-tankyu",
+      "question": "9世紀末に、デーン人（ノルマン人の一派）の侵入を撃退したアングロ=サクソンの王は誰か。",
+      "answer": "アルフレッド大王",
+      "alternatives": [
+        "アルフレッド"
+      ],
+      "explanation": "イングランドの統一を守った。",
+      "yearStart": 878,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-37",
+      "subject": "sekaishi-tankyu",
+      "question": "1016年にイングランドを征服して王となった、デーン人の王は誰か。",
+      "answer": "クヌート",
+      "alternatives": [
+        "カヌート"
+      ],
+      "explanation": "デンマーク・ノルウェーもあわせて支配した。",
+      "yearStart": 1016,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-38",
+      "subject": "sekaishi-tankyu",
+      "question": "1066年に、ノルマンディー公ウィリアムがイングランドを征服して王朝をひらいた出来事を何というか。",
+      "answer": "ノルマン=コンクェスト",
+      "alternatives": [
+        "ノルマン征服"
+      ],
+      "explanation": "ウィリアム1世として即位し、ノルマン朝をひらいた。",
+      "yearStart": 1066,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-39",
+      "subject": "sekaishi-tankyu",
+      "question": "12世紀前半に、ノルマン人が南イタリアとシチリア島に建てた王国は何か。",
+      "answer": "両シチリア王国",
+      "reading": "りょうしちりあおうこく",
+      "alternatives": [
+        "シチリア王国"
+      ],
+      "explanation": "イスラーム・ビザンツ・ラテンの文化がまじりあった。",
+      "yearStart": 1130,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-40",
+      "subject": "sekaishi-tankyu",
+      "question": "9世紀に、リューリクに率いられたノルマン人の一派（ルーシ）がスラヴ人の地に建てた、ロシアの起源とされる国は何か。",
+      "answer": "ノヴゴロド国",
+      "alternatives": [],
+      "explanation": "その一族はさらに南下してキエフ公国を建てた。",
+      "yearStart": 862,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-41",
+      "subject": "sekaishi-tankyu",
+      "question": "9世紀末に、ノヴゴロド国の一族がドニエプル川の中流域に建てた国は何か。",
+      "answer": "キエフ公国",
+      "alternatives": [],
+      "explanation": "10世紀末にギリシア正教を受け入れた。",
+      "yearStart": 882,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-42",
+      "subject": "sekaishi-tankyu",
+      "question": "9〜10世紀に東方から侵入し、のちにパンノニア平原に定住してハンガリー王国を建てた人々は何人か。",
+      "answer": "マジャール人",
+      "alternatives": [],
+      "explanation": "オットー1世に撃退された。",
+      "yearStart": 955,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-43",
+      "subject": "sekaishi-tankyu",
+      "question": "主君が家臣に領地（封土）を与えて保護し、家臣が主君に忠誠をちかって軍事奉仕をおこなう関係を何というか。",
+      "answer": "封建的主従関係",
+      "reading": "ほうけんてきしゅじゅうかんけい",
+      "alternatives": [
+        "封建制",
+        "封建制度"
+      ],
+      "explanation": "おたがいが義務を負う契約の関係で、一人が複数の主君をもつこともあった。",
+      "yearStart": 900,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-44",
+      "subject": "sekaishi-tankyu",
+      "question": "封建的主従関係のもとになった、ローマ帝国末期の、土地を有力者に献上してあらためて借り受ける制度は何か。",
+      "answer": "恩貸地制度",
+      "reading": "おんたいちせいど",
+      "alternatives": [],
+      "explanation": "ゲルマン人の従士制と結びついて封建的主従関係が生まれた。",
+      "yearStart": 400,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-45",
+      "subject": "sekaishi-tankyu",
+      "question": "封建的主従関係のもとになった、ゲルマン人の、有力者に忠誠をちかってその従者となる制度は何か。",
+      "answer": "従士制",
+      "reading": "じゅうしせい",
+      "alternatives": [],
+      "explanation": "ローマの恩貸地制度と結びついた。",
+      "yearStart": 100,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0502-46",
+      "subject": "sekaishi-tankyu",
+      "question": "中世ヨーロッパで、領主が所有し、農民を支配した土地（所領）を何というか。",
+      "answer": "荘園",
+      "reading": "しょうえん",
+      "alternatives": [],
+      "explanation": "領主直営地、農民保有地、共同利用地などからなっていた。",
+      "yearStart": 900,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-47",
+      "subject": "sekaishi-tankyu",
+      "question": "荘園で領主に支配された、移動の自由のない農民を何というか。",
+      "answer": "農奴",
+      "reading": "のうど",
+      "alternatives": [],
+      "explanation": "結婚税や死亡税も課された。",
+      "yearStart": 900,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-48",
+      "subject": "sekaishi-tankyu",
+      "question": "農奴が領主の直営地で働く、労働による負担を何というか。",
+      "answer": "賦役",
+      "reading": "ふえき",
+      "alternatives": [],
+      "explanation": "自分の保有地でとれた生産物を納める負担は貢納という。",
+      "yearStart": 900,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0502-49",
+      "subject": "sekaishi-tankyu",
+      "question": "領主が、国王の役人が荘園に立ち入ることや、国王が荘園に税を課すことをこばむ権利を何というか。",
+      "answer": "不輸不入権",
+      "reading": "ふゆふにゅうけん",
+      "alternatives": [
+        "インムニテート"
+      ],
+      "explanation": "領主は荘園の農民を裁く領主裁判権ももっていた。",
+      "yearStart": 900,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

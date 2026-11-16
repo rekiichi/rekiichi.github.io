@@ -1,0 +1,114 @@
+{
+  "generatedFrom": "sample-nihonshi-tankyu.csv",
+  "_note": "このファイルは sample-nihonshi-tankyu.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "id": "sample-nihonshi-tankyu",
+  "subject": "nihonshi-tankyu",
+  "name": "サンプル日本史探究",
+  "description": "開発用のサンプル教科書です。実在の教科書とは関係ありません。章立てと問題はすべてサンプルです。",
+  "order": 90,
+  "chapters": [
+    {
+      "no": 1,
+      "title": "律令国家の成立",
+      "part": "第1部 原始・古代",
+      "sections": [
+        {
+          "no": 1,
+          "title": "律令国家への歩み",
+          "pages": "p.30〜41",
+          "questionIds": [
+            "sample-j-01",
+            "sample-j-02"
+          ]
+        },
+        {
+          "no": 2,
+          "title": "平城京の時代",
+          "pages": "p.42〜53",
+          "questionIds": [
+            "sample-j-03",
+            "sample-j-04"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "貴族政治の展開",
+      "sections": [
+        {
+          "no": 1,
+          "title": "摂関政治と院政",
+          "pages": "p.60〜75",
+          "questionIds": [
+            "sample-j-05",
+            "sample-j-06"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "武家政権の成立",
+      "part": "第2部 中世",
+      "sections": [
+        {
+          "no": 1,
+          "title": "鎌倉幕府の成立",
+          "pages": "p.90〜103",
+          "questionIds": [
+            "sample-j-07",
+            "sample-j-08"
+          ]
+        },
+        {
+          "no": 2,
+          "title": "蒙古襲来と室町幕府",
+          "pages": "p.104〜121",
+          "questionIds": [
+            "sample-j-09",
+            "sample-j-10"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "幕藩体制",
+      "part": "第3部 近世・近代",
+      "sections": [
+        {
+          "no": 1,
+          "title": "江戸幕府の成立",
+          "pages": "p.150〜163",
+          "questionIds": [
+            "sample-j-11"
+          ]
+        },
+        {
+          "no": 2,
+          "title": "幕政の改革と対外関係",
+          "pages": "p.164〜181",
+          "questionIds": [
+            "sample-j-12",
+            "sample-j-13"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "明治維新",
+      "sections": [
+        {
+          "no": 1,
+          "title": "江戸幕府の滅亡",
+          "pages": "p.200〜211",
+          "questionIds": [
+            "sample-j-14"
+          ]
+        }
+      ]
+    }
+  ]
+}

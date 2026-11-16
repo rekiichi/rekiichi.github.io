@@ -1,0 +1,90 @@
+---
+// 受験復習モードの入口：縦割り（地域別／テーマ別）と横割り（時代別）のまとまりの一覧
+import AdSlot from '../../../components/AdSlot.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { AXIS_LABELS } from '../../../lib/review';
+import { reviewOf, subjects } from '../../../lib/site-data';
+import { joinBase, paths } from '../../../lib/url';
+import { formatPeriodRange } from '../../../lib/years';
+
+export function getStaticPaths() {
+  return subjects.map((s) => ({ params: { subject: s.id } }));
+}
+
+const review = reviewOf(Astro.params.subject!);
+const { subject } = review;
+const href = (p: string) => joinBase(import.meta.env.BASE_URL, p);
+const axisLabel = AXIS_LABELS[subject.verticalAxis];
+const hasAny = review.all.length > 0;
+const title = `${subject.name} 受験復習モード（縦割り・横割り）`;
+const description = `${subject.name}の一問一答を、${axisLabel}の「縦割り」と時代別の「横割り」にまとめ直して復習できます。教科書の章をまたいだ受験対策に。`;
+---
+
+<BaseLayout title={title} description={description} subjectId={subject.id} path={paths.review(subject.id)} noindex={!hasAny}>
+  <Breadcrumbs items={[{ label: subject.name, path: paths.subject(subject.id) }, { label: '受験復習モード' }]} />
+  <h1>{subject.name} 受験復習モード</h1>
+  <p class="lead">教科書の章立てにとらわれず、{subject.name}の問題をまとめ直して復習します。</p>
+  <ul>
+    <li><strong>縦割り（{axisLabel}）</strong>：{subject.verticalAxis === 'region' ? '地域' : 'テーマ'}ごとに、古い順（年代順）に並べます。流れをつかむのに向いています。</li>
+    <li><strong>横割り（時代別）</strong>：同じ時代の{subject.verticalAxis === 'region' ? '各地域' : '各分野'}をまとめて並べます。「そのころ、ほかでは何が起きていたか」を整理できます。</li>
+  </ul>
+
+  <section aria-labelledby="vertical" id="vertical-section">
+    <h2 id="vertical">縦割り（{axisLabel}）</h2>
+    <ul class="row-list">
+      {
+        review.vertical.map((g) =>
+          g.questions.length > 0 ? (
+            <li>
+              <a class="row-link" href={href(paths.reviewGroup(subject.id, subject.verticalAxis, g.tag.slug))}>
+                <span class="row-main">
+                  <span class="row-title">{g.tag.name}</span>
+                  {g.tag.note && <span class="row-sub">{g.tag.note}</span>}
+                </span>
+                <span class="row-end">{g.questions.length}問</span>
+              </a>
+            </li>
+          ) : (
+            <li class="row-static">
+              <span class="row-main">{g.tag.name}</span>
+              <span class="badge badge-soon">準備中</span>
+            </li>
+          ),
+        )
+      }
+    </ul>
+  </section>
+
+  <section aria-labelledby="periods" id="periods-section">
+    <h2 id="periods">横割り（時代別）</h2>
+    <ul class="row-list">
+      {
+        review.periods.map((g) =>
+          g.questions.length > 0 ? (
+            <li>
+              <a class="row-link" href={href(paths.reviewGroup(subject.id, 'period', g.period.slug))}>
+                <span class="row-main">
+                  <span class="row-title">{g.period.name}</span>
+                  <span class="row-sub">{formatPeriodRange(g.period)}</span>
+                </span>
+                <span class="row-end">{g.questions.length}問</span>
+              </a>
+            </li>
+          ) : (
+            <li class="row-static">
+              <span class="row-main">
+                {g.period.name}
+                <span class="row-sub">{formatPeriodRange(g.period)}</span>
+              </span>
+              <span class="badge badge-soon">準備中</span>
+            </li>
+          ),
+        )
+      }
+    </ul>
+    <p class="small muted">横割りでは、問題の開始年で時代を決めています。地域（テーマ）が複数ある問題は、最初に書かれた地域（テーマ）にまとめています。</p>
+  </section>
+
+  <AdSlot name="review-index-bottom" />
+</BaseLayout>

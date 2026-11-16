@@ -1,0 +1,11 @@
+---
+import { LEVEL_LABELS, type Level } from '../lib/types';
+
+interface Props {
+  level: Level;
+}
+
+const { level } = Astro.props;
+---
+
+<span class={`badge level-${level}`}>{LEVEL_LABELS[level]}</span>

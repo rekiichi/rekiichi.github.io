@@ -1,0 +1,77 @@
+{
+  "generatedFrom": "sample-rekishi-sogo.csv",
+  "_note": "このファイルは sample-rekishi-sogo.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "id": "sample-rekishi-sogo",
+  "subject": "rekishi-sogo",
+  "name": "サンプル歴史総合",
+  "description": "開発用のサンプル教科書です。実在の教科書とは関係ありません。章立てと問題はすべてサンプルです。",
+  "order": 90,
+  "chapters": [
+    {
+      "no": 1,
+      "title": "近代化の時代",
+      "sections": [
+        {
+          "no": 1,
+          "title": "工業化と開国",
+          "pages": "p.10〜25",
+          "questionIds": [
+            "sample-r-01",
+            "sample-r-02",
+            "sample-r-03"
+          ]
+        },
+        {
+          "no": 2,
+          "title": "明治の国づくり",
+          "pages": "p.26〜41",
+          "questionIds": [
+            "sample-r-04",
+            "sample-r-05"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "世界大戦の時代",
+      "sections": [
+        {
+          "no": 1,
+          "title": "第一次世界大戦と国際協調",
+          "pages": "p.50〜63",
+          "questionIds": [
+            "sample-r-06",
+            "sample-r-07"
+          ]
+        },
+        {
+          "no": 2,
+          "title": "世界恐慌と第二次世界大戦",
+          "pages": "p.64〜79",
+          "questionIds": [
+            "sample-r-08",
+            "sample-r-09"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "冷戦と現代",
+      "sections": [
+        {
+          "no": 1,
+          "title": "冷戦と脱植民地化",
+          "pages": "p.90〜105",
+          "questionIds": [
+            "sample-r-10",
+            "sample-r-11",
+            "sample-r-12",
+            "sample-r-13"
+          ]
+        }
+      ]
+    }
+  ]
+}

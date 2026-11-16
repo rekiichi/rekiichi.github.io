@@ -1,0 +1,2047 @@
+{
+  "generatedFrom": "sekaishi-01.csv",
+  "_note": "このファイルは sekaishi-01.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "w-0101-01",
+      "subject": "sekaishi-tankyu",
+      "question": "狩猟・採集にたよる獲得経済に対して、農耕・牧畜によって食料を生み出す経済を何というか。",
+      "answer": "生産経済",
+      "reading": "せいさんけいざい",
+      "alternatives": [],
+      "explanation": "約9000年前の西アジアで、麦の栽培とヤギ・羊・牛などの飼育が始まった。",
+      "yearStart": -7000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0101-02",
+      "subject": "sekaishi-tankyu",
+      "question": "狩猟・採集によって自然の動植物をとって生活する経済を何というか。",
+      "answer": "獲得経済",
+      "reading": "かくとくけいざい",
+      "alternatives": [],
+      "explanation": "人類は長いあいだこの経済のもとで暮らした。",
+      "yearStart": -7000,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0101-03",
+      "subject": "sekaishi-tankyu",
+      "question": "石の表面をみがいて仕上げた石器を何というか。",
+      "answer": "磨製石器",
+      "reading": "ませいせっき",
+      "alternatives": [],
+      "explanation": "石斧や石臼などがつくられた。",
+      "yearStart": -7000,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0101-04",
+      "subject": "sekaishi-tankyu",
+      "question": "磨製石器や土器を使い、農耕・牧畜をおこなった時代を何というか。",
+      "answer": "新石器時代",
+      "reading": "しんせっきじだい",
+      "alternatives": [],
+      "explanation": "織物もつくられ、定住の集落が生まれた。",
+      "yearStart": -7000,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0101-05",
+      "subject": "sekaishi-tankyu",
+      "question": "初期の農耕でおこなわれた、雨水だけにたよる農法を何というか。",
+      "answer": "乾地農法",
+      "reading": "かんちのうほう",
+      "alternatives": [],
+      "explanation": "肥料を使わない略奪農法でもあったため、収穫は不安定だった。",
+      "yearStart": -7000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0101-06",
+      "subject": "sekaishi-tankyu",
+      "question": "川などの水を人工的に耕地に引いておこなう農業を何というか。",
+      "answer": "灌漑農業",
+      "reading": "かんがいのうぎょう",
+      "alternatives": [],
+      "explanation": "メソポタミアで始まり、食料生産が増えて多くの人口を養えるようになった。",
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0101-07",
+      "subject": "sekaishi-tankyu",
+      "question": "銅と錫の合金でつくられた金属器を何というか。",
+      "answer": "青銅器",
+      "reading": "せいどうき",
+      "alternatives": [],
+      "explanation": "文明の誕生した頃に使われ始め、武器や祭器がつくられた。",
+      "yearStart": -3000,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0101-08",
+      "subject": "sekaishi-tankyu",
+      "question": "文字が発明されて記録が残るようになる前の時代を何というか。",
+      "answer": "先史時代",
+      "reading": "せんしじだい",
+      "alternatives": [],
+      "explanation": "文字による記録が残る時代は歴史時代という。",
+      "yearStart": -3000,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-01",
+      "subject": "sekaishi-tankyu",
+      "question": "ティグリス川とユーフラテス川の流域を指す、「川のあいだの土地」を意味する地域名は何か。",
+      "answer": "メソポタミア",
+      "alternatives": [],
+      "explanation": "現在のイラクを中心とする地域。",
+      "yearStart": -3000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-02",
+      "subject": "sekaishi-tankyu",
+      "question": "メソポタミアからシリア・パレスチナにかけての、農耕に適した弓形の地帯を何というか。",
+      "answer": "肥沃な三日月地帯",
+      "reading": "ひよくなみかづきちたい",
+      "alternatives": [],
+      "explanation": "早くから農耕・牧畜がおこなわれた。",
+      "yearStart": -7000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-03",
+      "subject": "sekaishi-tankyu",
+      "question": "前3000年頃からメソポタミア南部にウル・ウルクなどの都市国家を建てた、民族系統不明の人々は何人か。",
+      "answer": "シュメール人",
+      "alternatives": [],
+      "explanation": "王を中心に、神官・役人・戦士が政治や経済を支配した。",
+      "yearStart": -3000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-04",
+      "subject": "sekaishi-tankyu",
+      "question": "メソポタミアの都市の中心に建てられた、階段状の聖塔を何というか。",
+      "answer": "ジッグラト",
+      "alternatives": [],
+      "explanation": "頂上に神殿がおかれた。",
+      "yearStart": -3000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-05",
+      "subject": "sekaishi-tankyu",
+      "question": "シュメール人が粘土板に刻んで使い始めた文字を何というか。",
+      "answer": "楔形文字",
+      "reading": "くさびがたもじ",
+      "alternatives": [],
+      "explanation": "多くの民族に受けつがれ、オリエントで広く使われた。",
+      "yearStart": -3000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-06",
+      "subject": "sekaishi-tankyu",
+      "question": "前24世紀にメソポタミアの都市国家を初めて統一した、セム語系の人々は何人か。",
+      "answer": "アッカド人",
+      "alternatives": [],
+      "explanation": "サルゴン1世が統一した。",
+      "yearStart": -2350,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-07",
+      "subject": "sekaishi-tankyu",
+      "question": "前19世紀初めにセム語系のアムル人がおこした、バビロンを都とする王朝は何か。",
+      "answer": "バビロン第1王朝",
+      "alternatives": [
+        "古バビロニア王国"
+      ],
+      "explanation": "ハンムラビ王のときに全メソポタミアを支配した。",
+      "yearStart": -1900,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-08",
+      "subject": "sekaishi-tankyu",
+      "question": "前18世紀頃に全メソポタミアを支配し、法典を定めたバビロン第1王朝の王は誰か。",
+      "answer": "ハンムラビ王",
+      "alternatives": [
+        "ハンムラビ"
+      ],
+      "explanation": "運河の大工事をおこない、治水・灌漑を進めた。",
+      "yearStart": -1750,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-09",
+      "subject": "sekaishi-tankyu",
+      "question": "「目には目を、歯には歯を」という復讐法の原則で知られる、バビロン第1王朝の法典は何か。",
+      "answer": "ハンムラビ法典",
+      "alternatives": [],
+      "explanation": "刑罰は被害者の身分によって違っていた。",
+      "yearStart": -1750,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-10",
+      "subject": "sekaishi-tankyu",
+      "question": "前17世紀半ば頃にアナトリア（小アジア）に王国を建て、早くから鉄製の武器を使った人々は何人か。",
+      "answer": "ヒッタイト人",
+      "alternatives": [],
+      "explanation": "バビロン第1王朝を滅ぼし、シリアでエジプトと戦った。",
+      "yearStart": -1650,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-11",
+      "subject": "sekaishi-tankyu",
+      "question": "バビロン第1王朝が滅んだあとのバビロニアを支配した人々は何人か。",
+      "answer": "カッシート人",
+      "alternatives": [],
+      "explanation": "ザグロス山脈方面から南メソポタミアに侵入した。",
+      "yearStart": -1500,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0102-12",
+      "subject": "sekaishi-tankyu",
+      "question": "前2千年紀半ばに、メソポタミア北部からシリアにかけて栄えた王国は何か。",
+      "answer": "ミタンニ王国",
+      "alternatives": [
+        "ミタンニ"
+      ],
+      "explanation": "のちにヒッタイトに服属した。",
+      "yearStart": -1500,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0102-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1時間を60分とする数え方のもとになった、メソポタミアの記数法を何というか。",
+      "answer": "六十進法",
+      "reading": "ろくじっしんほう",
+      "alternatives": [],
+      "explanation": "時間や角度の単位として今も使われている。",
+      "yearStart": -2000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-14",
+      "subject": "sekaishi-tankyu",
+      "question": "月の満ち欠けの周期をもとにした暦を何というか。",
+      "answer": "太陰暦",
+      "reading": "たいいんれき",
+      "alternatives": [],
+      "explanation": "メソポタミアでは、閏月をおいて季節とのずれを補う太陰太陽暦も生まれた。",
+      "yearStart": -2000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-15",
+      "subject": "sekaishi-tankyu",
+      "question": "シュメール人の英雄を主人公とし、洪水の伝説をふくむメソポタミアの叙事詩は何か。",
+      "answer": "ギルガメシュ叙事詩",
+      "alternatives": [],
+      "explanation": "『旧約聖書』の洪水伝説に影響を与えたとされる。",
+      "yearStart": -2000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0102-16",
+      "subject": "sekaishi-tankyu",
+      "question": "「エジプトはナイルのたまもの」と述べた古代ギリシアの歴史家は誰か。",
+      "answer": "ヘロドトス",
+      "alternatives": [],
+      "explanation": "ナイル川の定期的な増水が、肥えた土を運んで豊かな収穫をもたらした。",
+      "yearStart": -450,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-17",
+      "subject": "sekaishi-tankyu",
+      "question": "古代エジプトで、太陽神ラーの子として専制的な権力をふるった王の称号は何か。",
+      "answer": "ファラオ",
+      "alternatives": [],
+      "explanation": "前3000年頃、エジプトは王による統一国家となった。",
+      "yearStart": -3000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-18",
+      "subject": "sekaishi-tankyu",
+      "question": "ナイル川流域に生まれ、のちに王国の行政単位となったエジプトの小国家（村落の集まり）を何というか。",
+      "answer": "ノモス",
+      "alternatives": [],
+      "explanation": "やがて上エジプトと下エジプトの2つの王国にまとまった。",
+      "yearStart": -3500,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-19",
+      "subject": "sekaishi-tankyu",
+      "question": "メンフィスを都とし、ギザに巨大なピラミッドがきずかれたエジプトの時代を何というか。",
+      "answer": "古王国",
+      "reading": "こおうこく",
+      "alternatives": [],
+      "explanation": "前27世紀から前22世紀まで続いた。",
+      "yearStart": -2650,
+      "yearEnd": -2180,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-20",
+      "subject": "sekaishi-tankyu",
+      "question": "ギザに最大のピラミッドをきずいた古王国の王は誰か。",
+      "answer": "クフ王",
+      "alternatives": [
+        "クフ"
+      ],
+      "explanation": "ピラミッドは王の権力の大きさを示している。",
+      "yearStart": -2550,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-21",
+      "subject": "sekaishi-tankyu",
+      "question": "中王国の末期にシリア方面からエジプトに入りこみ、馬と戦車を伝えた人々を何というか。",
+      "answer": "ヒクソス",
+      "alternatives": [],
+      "explanation": "前16世紀に新王国によって追放された。",
+      "yearStart": -1700,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-22",
+      "subject": "sekaishi-tankyu",
+      "question": "前14世紀に、アテン（アトン）神だけを信仰する改革をおこなった新王国の王は誰か。",
+      "answer": "アメンヘテプ4世",
+      "alternatives": [
+        "アメンホテプ4世",
+        "アクエンアテン",
+        "イクナートン"
+      ],
+      "explanation": "テーベの神官団をおさえるための改革だったが、王の死後に廃止された。",
+      "yearStart": -1350,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-23",
+      "subject": "sekaishi-tankyu",
+      "question": "アメンヘテプ4世が新しく都を定めた地はどこか。",
+      "answer": "テル=エル=アマルナ",
+      "alternatives": [
+        "アマルナ"
+      ],
+      "explanation": "この時代には写実的なアマルナ美術が生まれた。",
+      "yearStart": -1350,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-24",
+      "subject": "sekaishi-tankyu",
+      "question": "古代エジプトで神殿や墓などに刻まれた象形文字を何というか。",
+      "answer": "神聖文字",
+      "reading": "しんせいもじ",
+      "alternatives": [
+        "ヒエログリフ"
+      ],
+      "explanation": "19世紀にシャンポリオンがロゼッタ=ストーンをもとに解読した。",
+      "yearStart": -3000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-25",
+      "subject": "sekaishi-tankyu",
+      "question": "古代エジプトで、カヤツリグサ科の植物の茎からつくられた紙に似た書写材料を何というか。",
+      "answer": "パピルス",
+      "alternatives": [],
+      "explanation": "英語の paper の語源となった。",
+      "yearStart": -3000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-26",
+      "subject": "sekaishi-tankyu",
+      "question": "古代エジプトで、死後の世界の案内として死者とともにほうむられた絵文書を何というか。",
+      "answer": "死者の書",
+      "reading": "ししゃのしょ",
+      "alternatives": [],
+      "explanation": "エジプト人は霊魂の不滅を信じ、ミイラをつくった。",
+      "yearStart": -1500,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-27",
+      "subject": "sekaishi-tankyu",
+      "question": "古代エジプトで、ナイル川の増水の時期を知るためにつくられた、1年を365日とする暦を何というか。",
+      "answer": "太陽暦",
+      "reading": "たいようれき",
+      "alternatives": [],
+      "explanation": "のちにローマで採用され、ユリウス暦となった。",
+      "yearStart": -3000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-28",
+      "subject": "sekaishi-tankyu",
+      "question": "エジプトで、ナイル川の氾濫のあとに土地を測り直す必要から発達した技術は何か。",
+      "answer": "測地術",
+      "reading": "そくちじゅつ",
+      "alternatives": [],
+      "explanation": "ギリシアの幾何学のもとになった。",
+      "yearStart": -2500,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0102-29",
+      "subject": "sekaishi-tankyu",
+      "question": "前13世紀末から前12世紀初めにかけて東地中海一帯をおそい、ヒッタイトの滅亡などをまねいた人々を何というか。",
+      "answer": "海の民",
+      "reading": "うみのたみ",
+      "alternatives": [],
+      "explanation": "エジプト新王国も攻撃を受けておとろえた。",
+      "yearStart": -1200,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-30",
+      "subject": "sekaishi-tankyu",
+      "question": "ダマスクスを中心に、内陸の中継貿易で活躍したセム語系の人々は何人か。",
+      "answer": "アラム人",
+      "alternatives": [],
+      "explanation": "アラム語は国際商業語として西アジアに広まった。",
+      "yearStart": -1200,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-31",
+      "subject": "sekaishi-tankyu",
+      "question": "シドン・ティルスなどの都市国家を拠点に、地中海貿易で活躍したセム語系の人々は何人か。",
+      "answer": "フェニキア人",
+      "alternatives": [],
+      "explanation": "北アフリカのカルタゴなど、多くの植民市を建設した。",
+      "yearStart": -1200,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-32",
+      "subject": "sekaishi-tankyu",
+      "question": "フェニキア人がつくり、ギリシアに伝わってアルファベットのもとになった文字は何か。",
+      "answer": "フェニキア文字",
+      "alternatives": [],
+      "explanation": "カナーン人の表音文字から発達した。",
+      "yearStart": -1100,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-33",
+      "subject": "sekaishi-tankyu",
+      "question": "前13世紀頃、エジプトで苦しい生活を送っていたヘブライ人を率いて脱出したと伝えられる指導者は誰か。",
+      "answer": "モーセ",
+      "alternatives": [],
+      "explanation": "この脱出を「出エジプト」という。",
+      "yearStart": -1250,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-34",
+      "subject": "sekaishi-tankyu",
+      "question": "前10世紀頃、ダヴィデ王のあとをついでヘブライ人の王国の最盛期を築いた王は誰か。",
+      "answer": "ソロモン王",
+      "alternatives": [
+        "ソロモン"
+      ],
+      "explanation": "王の死後、王国は北のイスラエル王国と南のユダ王国に分裂した。",
+      "yearStart": -960,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-35",
+      "subject": "sekaishi-tankyu",
+      "question": "前586年にユダ王国が新バビロニアに滅ぼされ、住民の多くがバビロンに連れ去られた出来事を何というか。",
+      "answer": "バビロン捕囚",
+      "reading": "ばびろんほしゅう",
+      "alternatives": [],
+      "explanation": "約50年後、アケメネス朝のキュロス2世によって解放された。",
+      "yearStart": -586,
+      "yearEnd": -538,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-36",
+      "subject": "sekaishi-tankyu",
+      "question": "唯一神ヤハウェを信仰し、選民思想や救世主（メシア）の出現を待ち望む信仰を特色とするヘブライ人の宗教は何か。",
+      "answer": "ユダヤ教",
+      "alternatives": [],
+      "explanation": "バビロン捕囚から帰国したのちに確立した。教典はのちに『旧約聖書』と呼ばれる。",
+      "yearStart": -538,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-37",
+      "subject": "sekaishi-tankyu",
+      "question": "前2000年頃からエーゲ海のクレタ島で栄えた、明るく開放的な青銅器文明を何というか。",
+      "answer": "クレタ文明",
+      "alternatives": [
+        "ミノア文明"
+      ],
+      "explanation": "宮殿は城壁をもたず、壁画には海の生物などが描かれた。",
+      "yearStart": -2000,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-38",
+      "subject": "sekaishi-tankyu",
+      "question": "クレタ文明の中心となった宮殿があった地はどこか。",
+      "answer": "クノッソス",
+      "alternatives": [],
+      "explanation": "20世紀初めにイギリスのエヴァンズが発掘した。",
+      "yearStart": -2000,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-39",
+      "subject": "sekaishi-tankyu",
+      "question": "前16世紀頃からギリシア本土で栄えた、巨石でつくった城塞をもつ戦闘的な青銅器文明を何というか。",
+      "answer": "ミケーネ文明",
+      "alternatives": [],
+      "explanation": "ミケーネやティリンスなどに小王国がつくられた。",
+      "yearStart": -1600,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-40",
+      "subject": "sekaishi-tankyu",
+      "question": "ホメロスの詩を信じて、トロイア（トロヤ）やミケーネの遺跡を発掘したドイツ人は誰か。",
+      "answer": "シュリーマン",
+      "alternatives": [],
+      "explanation": "19世紀後半に発掘し、エーゲ文明の存在を明らかにした。",
+      "yearStart": 1870,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-41",
+      "subject": "sekaishi-tankyu",
+      "question": "ミケーネ文明で使われ、20世紀半ばにイギリスのヴェントリスらが解読した文字は何か。",
+      "answer": "線文字B",
+      "alternatives": [],
+      "explanation": "粘土板に記され、王が農民から貢納を集めていたことがわかった。",
+      "yearStart": -1400,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0102-42",
+      "subject": "sekaishi-tankyu",
+      "question": "前7世紀前半に、初めて全オリエントを統一した王国は何か。",
+      "answer": "アッシリア王国",
+      "alternatives": [
+        "アッシリア"
+      ],
+      "explanation": "重税や強制移住などの強圧的な支配のため、前612年に滅んだ。",
+      "yearStart": -670,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-43",
+      "subject": "sekaishi-tankyu",
+      "question": "アッシュルバニパル王が大図書館を建てた、アッシリア王国の都はどこか。",
+      "answer": "ニネヴェ",
+      "alternatives": [],
+      "explanation": "図書館の跡から大量の粘土板文書が出土した。",
+      "yearStart": -650,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-44",
+      "subject": "sekaishi-tankyu",
+      "question": "アッシリアの滅亡後に分立した4王国のうち、アナトリアにあって世界で最初に金属貨幣をつくった国は何か。",
+      "answer": "リディア",
+      "alternatives": [
+        "リュディア"
+      ],
+      "explanation": "ほかの3国はエジプト・新バビロニア・メディア。",
+      "yearStart": -600,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0102-45",
+      "subject": "sekaishi-tankyu",
+      "question": "アッシリアの滅亡後に分立した4王国のうち、ユダ王国を滅ぼしてバビロン捕囚をおこなった国は何か。",
+      "answer": "新バビロニア",
+      "alternatives": [
+        "カルデア",
+        "新バビロニア王国"
+      ],
+      "explanation": "ネブカドネザル2世のときに最盛期をむかえた。",
+      "yearStart": -586,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0102-46",
+      "subject": "sekaishi-tankyu",
+      "question": "アッシリアの滅亡後に分立した4王国のうち、イラン高原を支配した国は何か。",
+      "answer": "メディア",
+      "alternatives": [
+        "メディア王国"
+      ],
+      "explanation": "のちにアケメネス朝に滅ぼされた。",
+      "yearStart": -600,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0103-01",
+      "subject": "sekaishi-tankyu",
+      "question": "前2600年頃からインダス川の流域に栄えた青銅器文明を何というか。",
+      "answer": "インダス文明",
+      "alternatives": [],
+      "explanation": "ドラヴィダ系の人々がつくったと考えられている。",
+      "yearStart": -2600,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0103-02",
+      "subject": "sekaishi-tankyu",
+      "question": "インダス川下流域のシンド地方にある、インダス文明の代表的な都市遺跡は何か。",
+      "answer": "モエンジョ=ダーロ",
+      "alternatives": [
+        "モヘンジョ=ダロ",
+        "モヘンジョダロ"
+      ],
+      "explanation": "沐浴場や穀物倉をもち、煉瓦で計画的につくられた。",
+      "yearStart": -2600,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0103-03",
+      "subject": "sekaishi-tankyu",
+      "question": "インダス川中流域のパンジャーブ地方にある、インダス文明の代表的な都市遺跡は何か。",
+      "answer": "ハラッパー",
+      "alternatives": [],
+      "explanation": "排水設備のととのった都市であった。",
+      "yearStart": -2600,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0103-04",
+      "subject": "sekaishi-tankyu",
+      "question": "インダス文明の印章などに刻まれた、まだ解読されていない文字を何というか。",
+      "answer": "インダス文字",
+      "alternatives": [],
+      "explanation": "印章には牛などの動物の像も刻まれた。",
+      "yearStart": -2600,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0103-05",
+      "subject": "sekaishi-tankyu",
+      "question": "前1500年頃、中央アジアからカイバル峠をこえてインド西北部に進入した、インド=ヨーロッパ語系の人々は何人か。",
+      "answer": "アーリヤ人",
+      "alternatives": [
+        "アーリア人"
+      ],
+      "explanation": "パンジャーブ地方に定住し、自然神を崇拝した。",
+      "yearStart": -1500,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0103-06",
+      "subject": "sekaishi-tankyu",
+      "question": "アーリヤ人が自然神にささげた賛歌を集めた、インド最古の聖典は何か。",
+      "answer": "リグ=ヴェーダ",
+      "alternatives": [],
+      "explanation": "「ヴェーダ」は、バラモン教の聖典をまとめた呼び名。",
+      "yearStart": -1200,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0103-07",
+      "subject": "sekaishi-tankyu",
+      "question": "前1000年頃からアーリヤ人が進出し、稲作がさかんになった川の流域はどこか。",
+      "answer": "ガンジス川",
+      "alternatives": [],
+      "explanation": "鉄製の道具が使われるようになり、森林の開墾が進んだ。",
+      "yearStart": -1000,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0103-08",
+      "subject": "sekaishi-tankyu",
+      "question": "バラモン・クシャトリヤ・ヴァイシャ・シュードラの4つの身分に分ける、インドの身分的な上下観念を何というか。",
+      "answer": "ヴァルナ制",
+      "alternatives": [
+        "ヴァルナ"
+      ],
+      "explanation": "「ヴァルナ」はもともと「色」を意味する。",
+      "yearStart": -1000,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0103-09",
+      "subject": "sekaishi-tankyu",
+      "question": "ヴァルナ制で最上位におかれた、祭りをとりおこなう司祭の身分を何というか。",
+      "answer": "バラモン",
+      "alternatives": [],
+      "explanation": "その下に武士（クシャトリヤ）、農民・商人（ヴァイシャ）、隷属民（シュードラ）がおかれた。",
+      "yearStart": -1000,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0103-10",
+      "subject": "sekaishi-tankyu",
+      "question": "バラモンがつかさどる複雑な祭式を中心とし、ヴェーダを聖典とするインドの宗教は何か。",
+      "answer": "バラモン教",
+      "alternatives": [],
+      "explanation": "のちのヒンドゥー教のもとになった。",
+      "yearStart": -1000,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0103-11",
+      "subject": "sekaishi-tankyu",
+      "question": "特定の信仰や職業と結びつき、結婚や食事を仲間のなかでおこなうインドの集団を何というか。",
+      "answer": "ジャーティ",
+      "alternatives": [
+        "カースト",
+        "カースト集団"
+      ],
+      "explanation": "ヴァルナ制と結びついて、カースト制度が形づくられた。",
+      "yearStart": -500,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0104-01",
+      "subject": "sekaishi-tankyu",
+      "question": "前5000年頃から黄河中流域に栄えた、彩文土器（彩陶）を特色とする新石器文化は何か。",
+      "answer": "仰韶文化",
+      "reading": "ぎょうしょうぶんか",
+      "alternatives": [
+        "ヤンシャオ文化"
+      ],
+      "explanation": "アワなどの雑穀を栽培した。",
+      "yearStart": -5000,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-02",
+      "subject": "sekaishi-tankyu",
+      "question": "前3000年頃から黄河下流域を中心に広がった、黒陶を特色とする新石器文化は何か。",
+      "answer": "竜山文化",
+      "reading": "りゅうざんぶんか",
+      "alternatives": [
+        "龍山文化",
+        "ロンシャン文化"
+      ],
+      "explanation": "黒陶のほかに、日用の灰陶も使われた。",
+      "yearStart": -3000,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-03",
+      "subject": "sekaishi-tankyu",
+      "question": "前5000年頃の稲作の跡が見つかった、長江下流域の遺跡は何か。",
+      "answer": "河姆渡遺跡",
+      "reading": "かぼといせき",
+      "alternatives": [
+        "河姆渡"
+      ],
+      "explanation": "長江流域では早くから稲作がおこなわれていた。",
+      "yearStart": -5000,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0104-04",
+      "subject": "sekaishi-tankyu",
+      "question": "中国古代の、城壁で囲まれた集落（都市）を何というか。",
+      "answer": "邑",
+      "reading": "ゆう",
+      "alternatives": [],
+      "explanation": "殷や周は、多くの邑がゆるやかにまとまった国家だった。",
+      "yearStart": -1600,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0104-05",
+      "subject": "sekaishi-tankyu",
+      "question": "前16世紀頃に成立した、実在が確かめられる中国最古の王朝は何か。",
+      "answer": "殷",
+      "reading": "いん",
+      "alternatives": [
+        "商"
+      ],
+      "explanation": "王が占いによって神の意志を問い、政治をおこなった。",
+      "yearStart": -1600,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-06",
+      "subject": "sekaishi-tankyu",
+      "question": "河南省で発見された、殷の後期の都の遺跡を何というか。",
+      "answer": "殷墟",
+      "reading": "いんきょ",
+      "alternatives": [],
+      "explanation": "大きな王墓や多数の甲骨・青銅器が見つかった。",
+      "yearStart": -1300,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-07",
+      "subject": "sekaishi-tankyu",
+      "question": "亀の甲や牛の骨に刻まれ、漢字のもとになった殷の文字は何か。",
+      "answer": "甲骨文字",
+      "reading": "こうこつもじ",
+      "alternatives": [],
+      "explanation": "占いの内容や結果を記録するのに使われた。",
+      "yearStart": -1300,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-08",
+      "subject": "sekaishi-tankyu",
+      "question": "前11世紀頃に殷を滅ぼして華北を支配した、渭水流域におこった王朝は何か。",
+      "answer": "周",
+      "reading": "しゅう",
+      "alternatives": [],
+      "explanation": "はじめ鎬京を都とした。",
+      "yearStart": -1050,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-09",
+      "subject": "sekaishi-tankyu",
+      "question": "現在の西安付近におかれた、周のはじめの都はどこか。",
+      "answer": "鎬京",
+      "reading": "こうけい",
+      "alternatives": [],
+      "explanation": "前770年に都が洛邑に移るまでを西周という。",
+      "yearStart": -1050,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0104-10",
+      "subject": "sekaishi-tankyu",
+      "question": "周の王が一族や功臣などを諸侯とし、領地を与えるかわりに貢納や軍役の義務を負わせたしくみを何というか。",
+      "answer": "封建",
+      "reading": "ほうけん",
+      "alternatives": [
+        "封建制"
+      ],
+      "explanation": "諸侯の下には卿・大夫・士と呼ばれる家臣がいた。",
+      "yearStart": -1050,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-11",
+      "subject": "sekaishi-tankyu",
+      "question": "周の時代に、同じ祖先をもつ父系の親族集団（宗族）がまとまるために守った決まりを何というか。",
+      "answer": "宗法",
+      "reading": "そうほう",
+      "alternatives": [],
+      "explanation": "祖先の祭りや相続の決まりなどを定めた。",
+      "yearStart": -1050,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0104-12",
+      "subject": "sekaishi-tankyu",
+      "question": "天命を失った王朝は、別の姓の徳のある者の王朝に交替するという、中国の王朝交替の考え方を何というか。",
+      "answer": "易姓革命",
+      "reading": "えきせいかくめい",
+      "alternatives": [],
+      "explanation": "戦国時代の孟子がとなえた。",
+      "yearStart": -1050,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0104-13",
+      "subject": "sekaishi-tankyu",
+      "question": "前770年に周が都を移した、現在の洛陽にあたる都市はどこか。",
+      "answer": "洛邑",
+      "reading": "らくゆう",
+      "alternatives": [],
+      "explanation": "これ以後の周を東周という。",
+      "yearStart": -770,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-14",
+      "subject": "sekaishi-tankyu",
+      "question": "周が都を東に移した前770年から、前5世紀末までの時代を何というか。",
+      "answer": "春秋時代",
+      "reading": "しゅんじゅうじだい",
+      "alternatives": [],
+      "explanation": "孔子がまとめたとされる魯の国の年代記『春秋』から名づけられた。",
+      "yearStart": -770,
+      "yearEnd": -403,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-15",
+      "subject": "sekaishi-tankyu",
+      "question": "春秋時代に、周王を尊ぶ立場をとって諸侯の同盟を指導した有力な諸侯を何というか。",
+      "answer": "覇者",
+      "reading": "はしゃ",
+      "alternatives": [],
+      "explanation": "斉の桓公や晋の文公が有名。",
+      "yearStart": -650,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0104-16",
+      "subject": "sekaishi-tankyu",
+      "question": "前5世紀末から、秦が中国を統一する前221年までの時代を何というか。",
+      "answer": "戦国時代",
+      "reading": "せんごくじだい",
+      "alternatives": [],
+      "explanation": "諸侯は周王を無視して王を名乗り、たがいに争った。",
+      "yearStart": -403,
+      "yearEnd": -221,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-17",
+      "subject": "sekaishi-tankyu",
+      "question": "戦国時代に有力だった、秦・楚・斉・燕・韓・魏・趙の7つの国を何というか。",
+      "answer": "戦国の七雄",
+      "reading": "せんごくのしちゆう",
+      "alternatives": [
+        "七雄"
+      ],
+      "explanation": "西方の秦がしだいに強大となった。",
+      "yearStart": -350,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-18",
+      "subject": "sekaishi-tankyu",
+      "question": "春秋時代の末頃から、牛に犂を引かせる牛耕とともに普及して農業生産を高めた農具は何か。",
+      "answer": "鉄製農具",
+      "reading": "てつせいのうぐ",
+      "alternatives": [],
+      "explanation": "農業生産が高まり、小家族による農業経営が広まった。",
+      "yearStart": -500,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-19",
+      "subject": "sekaishi-tankyu",
+      "question": "戦国時代に斉や燕などで使われた、刀の形をした青銅貨幣は何か。",
+      "answer": "刀銭",
+      "reading": "とうせん",
+      "alternatives": [],
+      "explanation": "ほかに布銭・円銭（環銭）・蟻鼻銭があった。",
+      "yearStart": -350,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0104-20",
+      "subject": "sekaishi-tankyu",
+      "question": "春秋・戦国時代に現れた、多くの思想家や学派をまとめて何というか。",
+      "answer": "諸子百家",
+      "reading": "しょしひゃっか",
+      "alternatives": [],
+      "explanation": "諸国が有能な人材を求めたことが背景にある。",
+      "yearStart": -400,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-21",
+      "subject": "sekaishi-tankyu",
+      "question": "家族道徳を社会の秩序の基本とし、「仁」を説いた儒家の祖は誰か。",
+      "answer": "孔子",
+      "reading": "こうし",
+      "alternatives": [],
+      "explanation": "弟子たちとの言行は『論語』にまとめられた。",
+      "yearStart": -500,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-22",
+      "subject": "sekaishi-tankyu",
+      "question": "人の本性は善であるとする性善説をとなえ、徳による王道政治を説いた戦国時代の儒家は誰か。",
+      "answer": "孟子",
+      "reading": "もうし",
+      "alternatives": [],
+      "explanation": "武力による覇道政治を批判した。",
+      "yearStart": -320,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-23",
+      "subject": "sekaishi-tankyu",
+      "question": "人の本性は悪であるとする性悪説をとなえ、礼による教育を重んじた戦国時代の儒家は誰か。",
+      "answer": "荀子",
+      "reading": "じゅんし",
+      "alternatives": [],
+      "explanation": "弟子から法家の韓非や李斯が出た。",
+      "yearStart": -280,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0104-24",
+      "subject": "sekaishi-tankyu",
+      "question": "血縁をこえた無差別の愛（兼愛）や、侵略戦争の否定（非攻）を説いた思想家は誰か。",
+      "answer": "墨子",
+      "reading": "ぼくし",
+      "alternatives": [],
+      "explanation": "墨家の祖。儒家の説く愛を、家族をえこひいきする差別的なものと批判した。",
+      "yearStart": -450,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0104-25",
+      "subject": "sekaishi-tankyu",
+      "question": "あるがままの状態にさからわず生きる「無為自然」を説いた、老子や荘子の学派を何というか。",
+      "answer": "道家",
+      "reading": "どうか",
+      "alternatives": [],
+      "explanation": "のちの道教のみなもとの一つとなった。",
+      "yearStart": -400,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-26",
+      "subject": "sekaishi-tankyu",
+      "question": "法や刑罰によって人民を治めることを主張した、商鞅・韓非・李斯らの学派を何というか。",
+      "answer": "法家",
+      "reading": "ほうか",
+      "alternatives": [],
+      "explanation": "秦の政治にとり入れられた。",
+      "yearStart": -350,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0104-27",
+      "subject": "sekaishi-tankyu",
+      "question": "前4世紀に秦の孝公に仕え、改革（変法）をおこなって秦を強国にした法家の政治家は誰か。",
+      "answer": "商鞅",
+      "reading": "しょうおう",
+      "alternatives": [],
+      "explanation": "秦が中国を統一する基礎をつくった。",
+      "yearStart": -350,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0104-28",
+      "subject": "sekaishi-tankyu",
+      "question": "法家の思想を大成した、戦国時代末期の思想家は誰か。",
+      "answer": "韓非",
+      "reading": "かんぴ",
+      "alternatives": [
+        "韓非子"
+      ],
+      "explanation": "荀子に学び、その著作は秦王の政（のちの始皇帝）にも読まれた。",
+      "yearStart": -240,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0104-29",
+      "subject": "sekaishi-tankyu",
+      "question": "諸国のあいだの外交のかけひきを説いた、蘇秦や張儀らの学派を何というか。",
+      "answer": "縦横家",
+      "reading": "じゅうおうか",
+      "alternatives": [],
+      "explanation": "蘇秦は合従策を、張儀は連衡策を説いた。",
+      "yearStart": -320,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化",
+        "外交"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0104-30",
+      "subject": "sekaishi-tankyu",
+      "question": "戦いに勝つための兵法や戦略を説いた、孫子や呉子らの学派を何というか。",
+      "answer": "兵家",
+      "reading": "へいか",
+      "alternatives": [],
+      "explanation": "『孫子』は兵法書として後世まで広く読まれた。",
+      "yearStart": -500,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0104-31",
+      "subject": "sekaishi-tankyu",
+      "question": "黄河流域の歌謡などを集めた、中国最古の詩集は何か。",
+      "answer": "詩経",
+      "reading": "しきょう",
+      "alternatives": [],
+      "explanation": "のちに儒学の経典（五経）の一つとされた。",
+      "yearStart": -600,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0104-32",
+      "subject": "sekaishi-tankyu",
+      "question": "戦国時代の楚の屈原らの作品を集めた、長江流域の詩歌集は何か。",
+      "answer": "楚辞",
+      "reading": "そじ",
+      "alternatives": [],
+      "explanation": "屈原は楚の王族で、政治に失望して身を投げたと伝えられる。",
+      "yearStart": -300,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0105-01",
+      "subject": "sekaishi-tankyu",
+      "question": "アメリカ大陸の先住民が栽培し、古代文明の主食となった穀物は何か。",
+      "answer": "トウモロコシ",
+      "alternatives": [],
+      "explanation": "アンデス地方ではジャガイモも栽培された。",
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0105-02",
+      "subject": "sekaishi-tankyu",
+      "question": "前1200年頃までにメキシコ湾岸に成立した、巨大な石の人頭像で知られる文明は何か。",
+      "answer": "オルメカ文明",
+      "alternatives": [],
+      "explanation": "中米（メソアメリカ）の文明のもとになった。",
+      "yearStart": -1200,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0105-03",
+      "subject": "sekaishi-tankyu",
+      "question": "前1世紀頃からメキシコ高原に栄え、「太陽のピラミッド」で知られる文明は何か。",
+      "answer": "テオティワカン文明",
+      "alternatives": [],
+      "explanation": "6世紀頃まで栄えた。",
+      "yearStart": -100,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0105-04",
+      "subject": "sekaishi-tankyu",
+      "question": "ユカタン半島で4〜9世紀に最も栄え、二十進法や精密な暦、独自の文字をもった文明は何か。",
+      "answer": "マヤ文明",
+      "alternatives": [],
+      "explanation": "ピラミッド状の神殿をもつ都市が各地につくられた。",
+      "yearStart": 300,
+      "yearEnd": 900,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0105-05",
+      "subject": "sekaishi-tankyu",
+      "question": "14世紀にメキシコ高原に成立した、テノチティトランを都とする王国は何か。",
+      "answer": "アステカ王国",
+      "alternatives": [
+        "アステカ帝国"
+      ],
+      "explanation": "1521年にスペイン人のコルテスに征服された。",
+      "yearStart": 1350,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0105-06",
+      "subject": "sekaishi-tankyu",
+      "question": "湖の上の島にきずかれた、アステカ王国の都はどこか。",
+      "answer": "テノチティトラン",
+      "alternatives": [],
+      "explanation": "現在のメキシコシティにあたる。",
+      "yearStart": 1350,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0105-07",
+      "subject": "sekaishi-tankyu",
+      "question": "前1000年頃にアンデス高地の北部に成立した、アンデス文明の初期の文化は何か。",
+      "answer": "チャビン文化",
+      "alternatives": [],
+      "explanation": "その後、アンデスの各地にさまざまな王国が生まれた。",
+      "yearStart": -1000,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0105-08",
+      "subject": "sekaishi-tankyu",
+      "question": "15世紀半ばにアンデス一帯を広く支配した、クスコを都とする帝国は何か。",
+      "answer": "インカ帝国",
+      "alternatives": [],
+      "explanation": "1533年にスペイン人のピサロに征服された。",
+      "yearStart": 1450,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0105-09",
+      "subject": "sekaishi-tankyu",
+      "question": "インカ帝国で、数量などを記録するのに使われた縄の結び方を何というか。",
+      "answer": "キープ",
+      "alternatives": [
+        "結縄"
+      ],
+      "explanation": "インカ帝国は文字をもたなかった。",
+      "yearStart": 1450,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0105-10",
+      "subject": "sekaishi-tankyu",
+      "question": "アンデス山中の尾根にきずかれた、インカ帝国の都市遺跡は何か。",
+      "answer": "マチュ=ピチュ",
+      "alternatives": [],
+      "explanation": "すぐれた石づくりの建築技術を示している。",
+      "yearStart": 1450,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,1769 @@
+{
+  "generatedFrom": "nihonshi-13.csv",
+  "_note": "このファイルは nihonshi-13.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "j-1301-01",
+      "subject": "nihonshi-tankyu",
+      "question": "条約改正の交渉を進めるために、外務卿（のち外務大臣）の井上馨が、東京の日比谷に建てて、外国人をまねいて舞踏会などをひらいた洋風の建物を何というか。",
+      "answer": "鹿鳴館",
+      "reading": "ろくめいかん",
+      "alternatives": [],
+      "explanation": "極端な欧化政策は、国内の強い反発をまねいた。",
+      "yearStart": 1883,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1886年に、紀伊半島の沖でイギリスの貨物船が沈没し、日本人の乗客が全員水死したが、イギリス人の船長が領事裁判で軽い罰しか受けなかった事件を何というか。",
+      "answer": "ノルマントン号事件",
+      "alternatives": [],
+      "explanation": "領事裁判権の撤廃を求める世論が高まった。",
+      "yearStart": 1886,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-03",
+      "subject": "nihonshi-tankyu",
+      "question": "1887年に、外国人を裁判官に任用する条約改正の案や、極端な欧化政策が批判されて、外務大臣をやめた人物は誰か。",
+      "answer": "井上馨",
+      "reading": "いのうえかおる",
+      "alternatives": [],
+      "explanation": "法律顧問のボアソナードも、この案に反対した。",
+      "yearStart": 1887,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-04",
+      "subject": "nihonshi-tankyu",
+      "question": "外務大臣として国別に条約改正の交渉を進めたが、大審院に外国人の裁判官を任用する案が批判され、1889年に爆弾を投げられて負傷した人物は誰か。",
+      "answer": "大隈重信",
+      "reading": "おおくましげのぶ",
+      "alternatives": [],
+      "explanation": "国家主義の団体である玄洋社の青年におそわれた。",
+      "yearStart": 1889,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-05",
+      "subject": "nihonshi-tankyu",
+      "question": "1891年に、日本を訪問していたロシアの皇太子が、滋賀県で警備の巡査に切りつけられて負傷した事件を何というか。",
+      "answer": "大津事件",
+      "reading": "おおつじけん",
+      "alternatives": [],
+      "explanation": "イギリスとの交渉を進めていた外務大臣の青木周蔵が辞任した。",
+      "yearStart": 1891,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-06",
+      "subject": "nihonshi-tankyu",
+      "question": "大津事件で、犯人を死刑にするよう求める政府の圧力に対して、法律にもとづく無期徒刑の判決をみちびき、司法権の独立を守った大審院長は誰か。",
+      "answer": "児島惟謙",
+      "reading": "こじまこれかた",
+      "alternatives": [],
+      "explanation": "近代的な法治国家としての姿勢を示した。",
+      "yearStart": 1891,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-07",
+      "subject": "nihonshi-tankyu",
+      "question": "1894年に、イギリスとの交渉に成功して、領事裁判権の撤廃を実現した外務大臣は誰か。",
+      "answer": "陸奥宗光",
+      "reading": "むつむねみつ",
+      "alternatives": [],
+      "explanation": "日英通商航海条約を結んだ。日清戦争が始まる直前のことだった。",
+      "yearStart": 1894,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-08",
+      "subject": "nihonshi-tankyu",
+      "question": "1911年に、関税自主権の完全な回復を実現した外務大臣は誰か。",
+      "answer": "小村寿太郎",
+      "reading": "こむらじゅたろう",
+      "alternatives": [],
+      "explanation": "開国から約半世紀をへて、条約のうえで欧米の国々と対等な地位をえた。",
+      "yearStart": 1911,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1882年に、朝鮮の首都の漢城で、改革に不満をもつ軍隊が、日本公使館をおそった事件を何というか。",
+      "answer": "壬午軍乱",
+      "reading": "じんごぐんらん",
+      "alternatives": [
+        "壬午事変"
+      ],
+      "explanation": "国王の父の大院君を支持する勢力がおこした。清がしずめ、閔氏の政権は清にたよるようになった。",
+      "yearStart": 1882,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-10",
+      "subject": "nihonshi-tankyu",
+      "question": "1884年に、日本と結んで朝鮮の近代化をはかろうとした金玉均らが、日本公使館の援助をえておこしたクーデタを何というか。",
+      "answer": "甲申事変",
+      "reading": "こうしんじへん",
+      "alternatives": [
+        "甲申政変"
+      ],
+      "explanation": "清の軍隊が出動して、失敗に終わった。",
+      "yearStart": 1884,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-11",
+      "subject": "nihonshi-tankyu",
+      "question": "1885年に、甲申事変で悪化した日清関係を打開するために、伊藤博文と李鴻章のあいだで結ばれた条約は何か。",
+      "answer": "天津条約",
+      "reading": "てんしんじょうやく",
+      "alternatives": [],
+      "explanation": "日清両国の軍の朝鮮からの撤退と、今後出兵するときにはたがいに事前に通告することを定めた。",
+      "yearStart": 1885,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-12",
+      "subject": "nihonshi-tankyu",
+      "question": "1885年に、福沢諭吉が発表した、日本はアジアの連帯からはなれて、欧米の国々と同じように行動すべきだとする論説を何というか。",
+      "answer": "脱亜論",
+      "reading": "だつあろん",
+      "alternatives": [],
+      "explanation": "甲申事変の失敗が背景にある。",
+      "yearStart": 1885,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-13",
+      "subject": "nihonshi-tankyu",
+      "question": "1894年に、朝鮮で、民間宗教の東学の信徒を中心に、減税と外国勢力の排除を求める農民がおこした反乱を何というか。",
+      "answer": "甲午農民戦争",
+      "reading": "こうごのうみんせんそう",
+      "alternatives": [
+        "東学の乱",
+        "東学党の乱"
+      ],
+      "explanation": "朝鮮政府は清に出兵を求め、日本もこれに対抗して出兵した。",
+      "yearStart": 1894,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-14",
+      "subject": "nihonshi-tankyu",
+      "question": "1894年に、朝鮮をめぐって日本と清のあいだで始まった戦争を何というか。",
+      "answer": "日清戦争",
+      "reading": "にっしんせんそう",
+      "alternatives": [],
+      "explanation": "近代的な軍備を整えた日本が勝利した。開戦と同時に、議会は政府への批判をやめて、戦争のための予算を承認した。",
+      "yearStart": 1894,
+      "yearEnd": 1895,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-15",
+      "subject": "nihonshi-tankyu",
+      "question": "1895年に、伊藤博文・陸奥宗光と、清の李鴻章とのあいだで結ばれた、日清戦争の講和条約は何か。",
+      "answer": "下関条約",
+      "reading": "しものせきじょうやく",
+      "alternatives": [],
+      "explanation": "清は、朝鮮の独立を認め、遼東半島・台湾・澎湖諸島をゆずり、賠償金2億両を支払うことなどを約束した。",
+      "yearStart": 1895,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-16",
+      "subject": "nihonshi-tankyu",
+      "question": "下関条約の調印の直後に、ロシア・フランス・ドイツが、日本に遼東半島を清に返すように求めたことを何というか。",
+      "answer": "三国干渉",
+      "reading": "さんごくかんしょう",
+      "alternatives": [],
+      "explanation": "日本はこれを受け入れた。国民のあいだには「臥薪嘗胆」の合言葉とともに、ロシアへの対抗心が高まった。",
+      "yearStart": 1895,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-17",
+      "subject": "nihonshi-tankyu",
+      "question": "下関条約でえた台湾を統治するために、日本が1895年に設置した機関は何か。",
+      "answer": "台湾総督府",
+      "reading": "たいわんそうとくふ",
+      "alternatives": [],
+      "explanation": "住民の抵抗を武力でおさえて、植民地としての支配を進めた。",
+      "yearStart": 1895,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-18",
+      "subject": "nihonshi-tankyu",
+      "question": "1898年に、自由党と進歩党が合同して結成した政党は何か。",
+      "answer": "憲政党",
+      "reading": "けんせいとう",
+      "alternatives": [],
+      "explanation": "地租を引き上げようとする第3次伊藤博文内閣に対抗した。",
+      "yearStart": 1898,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-19",
+      "subject": "nihonshi-tankyu",
+      "question": "1898年に、憲政党を基盤として成立した、日本で最初の政党内閣を、首相と内務大臣の名から何というか。",
+      "answer": "隈板内閣",
+      "reading": "わいはんないかく",
+      "alternatives": [
+        "第1次大隈重信内閣",
+        "第1次大隈内閣"
+      ],
+      "explanation": "首相は大隈重信、内務大臣は板垣退助。文部大臣の尾崎行雄の演説をきっかけに党が分裂し、4か月で退陣した。",
+      "yearStart": 1898,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-20",
+      "subject": "nihonshi-tankyu",
+      "question": "第2次山県有朋内閣が、政党の力が軍部におよぶのを防ぐために、1900年に定めた、陸軍大臣と海軍大臣は現役の大将・中将に限るとする制度を何というか。",
+      "answer": "軍部大臣現役武官制",
+      "reading": "ぐんぶだいじんげんえきぶかんせい",
+      "alternatives": [],
+      "explanation": "文官任用令を改正して、政党員が高級官僚になる道も制限した。",
+      "yearStart": 1900,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-21",
+      "subject": "nihonshi-tankyu",
+      "question": "1900年に、第2次山県有朋内閣が、政治運動や労働運動を取りしまるために定めた法律は何か。",
+      "answer": "治安警察法",
+      "reading": "ちあんけいさつほう",
+      "alternatives": [],
+      "explanation": "労働者の団結やストライキを制限し、女性の政治運動も禁止した。",
+      "yearStart": 1900,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-22",
+      "subject": "nihonshi-tankyu",
+      "question": "1900年に、伊藤博文が、憲政党（旧自由党系）と結んで結成した政党は何か。",
+      "answer": "立憲政友会",
+      "reading": "りっけんせいゆうかい",
+      "alternatives": [],
+      "explanation": "伊藤が総裁となって、第4次伊藤内閣を組織した。",
+      "yearStart": 1900,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-23",
+      "subject": "nihonshi-tankyu",
+      "question": "20世紀の初めに、伊藤博文や山県有朋らの第一線を退いた政治家たちは、首相の推薦など重要な問題で天皇を補佐する立場となった。こうした政治家を何というか。",
+      "answer": "元老",
+      "reading": "げんろう",
+      "alternatives": [],
+      "explanation": "憲法に定めのない存在だったが、大きな力をもった。",
+      "yearStart": 1901,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-24",
+      "subject": "nihonshi-tankyu",
+      "question": "20世紀の初めに、山県有朋のあとをつぐ長州出身の軍人と、伊藤博文のあとをつぐ立憲政友会の総裁とが、交互に内閣を組織した時代を何というか。",
+      "answer": "桂園時代",
+      "reading": "けいえんじだい",
+      "alternatives": [],
+      "explanation": "桂太郎と西園寺公望の名からこう呼ばれる。",
+      "yearStart": 1901,
+      "yearEnd": 1913,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-25",
+      "subject": "nihonshi-tankyu",
+      "question": "1900年に、清で、「扶清滅洋」をとなえる排外的な団体が、北京の列国の公使館を包囲し、清の政府も列国に宣戦を布告した事件を何というか。",
+      "answer": "北清事変",
+      "reading": "ほくしんじへん",
+      "alternatives": [
+        "義和団戦争",
+        "義和団事件"
+      ],
+      "explanation": "日本をふくむ8か国の連合軍がしずめた。ロシアは事変ののちも満州を占領し続けた。",
+      "yearStart": 1900,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-26",
+      "subject": "nihonshi-tankyu",
+      "question": "1902年に、ロシアの南下に対抗するために、日本がイギリスと結んだ同盟を何というか。",
+      "answer": "日英同盟",
+      "reading": "にちえいどうめい",
+      "alternatives": [
+        "日英同盟協約"
+      ],
+      "explanation": "同盟国の一方が他の1国と戦争をするときは中立を守り、2国以上と戦うときは参戦することを定めた。",
+      "yearStart": 1902,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-27",
+      "subject": "nihonshi-tankyu",
+      "question": "日露戦争の前に、キリスト教徒の立場から、戦争に反対する非戦論をとなえた人物は誰か。",
+      "answer": "内村鑑三",
+      "reading": "うちむらかんぞう",
+      "alternatives": [],
+      "explanation": "社会主義の立場からは、幸徳秋水や堺利彦が、平民社をおこして『平民新聞』で戦争に反対した。",
+      "yearStart": 1903,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-28",
+      "subject": "nihonshi-tankyu",
+      "question": "日露戦争に従軍した弟を思って、「君死にたまふこと勿れ」という詩を発表した歌人は誰か。",
+      "answer": "与謝野晶子",
+      "reading": "よさのあきこ",
+      "alternatives": [],
+      "explanation": "雑誌『明星』に発表した。",
+      "yearStart": 1904,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-29",
+      "subject": "nihonshi-tankyu",
+      "question": "1904年に、満州と韓国の支配をめぐって、日本とロシアのあいだで始まった戦争を何というか。",
+      "answer": "日露戦争",
+      "reading": "にちろせんそう",
+      "alternatives": [],
+      "explanation": "日本は、旅順の占領、奉天会戦、日本海海戦で勝利したが、戦う力は限界に達した。ロシアでも革命運動がおこった。",
+      "yearStart": 1904,
+      "yearEnd": 1905,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-30",
+      "subject": "nihonshi-tankyu",
+      "question": "1905年に、東郷平八郎の率いる日本の連合艦隊が、ロシアのバルチック艦隊を破った戦いを何というか。",
+      "answer": "日本海海戦",
+      "reading": "にほんかいかいせん",
+      "alternatives": [],
+      "explanation": "その後、アメリカ大統領セオドア=ローズヴェルトが講和の仲介に乗り出した。",
+      "yearStart": 1905,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-31",
+      "subject": "nihonshi-tankyu",
+      "question": "1905年に、アメリカで、日本の小村寿太郎とロシアのウィッテが調印した、日露戦争の講和条約は何か。",
+      "answer": "ポーツマス条約",
+      "reading": "ぽーつますじょうやく",
+      "alternatives": [],
+      "explanation": "ロシアは、韓国に対する日本の指導権を認め、旅順・大連の租借権、長春以南の鉄道の利権、北緯50度以南の樺太などを日本にゆずった。",
+      "yearStart": 1905,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-32",
+      "subject": "nihonshi-tankyu",
+      "question": "1905年に、ポーツマス条約で賠償金がとれなかったことに不満をもつ民衆が、東京で、講和に反対する集会をひらいて暴動をおこした事件を何というか。",
+      "answer": "日比谷焼打ち事件",
+      "reading": "ひびややきうちじけん",
+      "alternatives": [],
+      "explanation": "国民は、増税にたえて戦争を支えていた。政府は戒厳令を出してしずめた。",
+      "yearStart": 1905,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-33",
+      "subject": "nihonshi-tankyu",
+      "question": "1905年に、日本が韓国の外交権をうばい、漢城に統監府をおくことを定めた協約は何か。",
+      "answer": "第2次日韓協約",
+      "reading": "だいにじにっかんきょうやく",
+      "alternatives": [
+        "第二次日韓協約",
+        "韓国保護条約",
+        "乙巳条約"
+      ],
+      "explanation": "初代の統監には伊藤博文が就任した。",
+      "yearStart": 1905,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-34",
+      "subject": "nihonshi-tankyu",
+      "question": "1907年に、韓国の皇帝の高宗が、オランダでひらかれた万国平和会議に使者を送って、日本の支配の不当をうったえた事件を何というか。",
+      "answer": "ハーグ密使事件",
+      "reading": "はーぐみっしじけん",
+      "alternatives": [],
+      "explanation": "日本は高宗を退位させ、第3次日韓協約を結んで、韓国の内政権をうばい、軍隊を解散させた。",
+      "yearStart": 1907,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-35",
+      "subject": "nihonshi-tankyu",
+      "question": "韓国の軍隊が解散させられたのち、もと兵士らも加わって本格化した、日本の支配に武力で抵抗する運動を何というか。",
+      "answer": "義兵運動",
+      "reading": "ぎへいうんどう",
+      "alternatives": [
+        "義兵闘争"
+      ],
+      "explanation": "日本は軍隊を増派してしずめた。",
+      "yearStart": 1907,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-36",
+      "subject": "nihonshi-tankyu",
+      "question": "1909年に、初代の韓国統監であった伊藤博文を、ハルビン駅で暗殺した韓国の民族運動家は誰か。",
+      "answer": "安重根",
+      "reading": "あんじゅうこん",
+      "alternatives": [
+        "アンジュングン"
+      ],
+      "explanation": "翌年、日本は韓国を併合した。",
+      "yearStart": 1909,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-37",
+      "subject": "nihonshi-tankyu",
+      "question": "1910年に、日本が韓国に条約を結ばせて、植民地としたことを何というか。",
+      "answer": "韓国併合",
+      "reading": "かんこくへいごう",
+      "alternatives": [],
+      "explanation": "漢城を京城と改めて、朝鮮総督府をおいた。初代の総督には寺内正毅が就任した。",
+      "yearStart": 1910,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-38",
+      "subject": "nihonshi-tankyu",
+      "question": "朝鮮総督府がおこなった、土地の所有権を確認する事業のなかで、所有権がはっきりしないなどの理由で、多くの農民が土地を失った。この事業を何というか。",
+      "answer": "土地調査事業",
+      "reading": "とちちょうさじぎょう",
+      "alternatives": [],
+      "explanation": "土地の一部は、東洋拓殖会社や日本人の地主のものとなった。",
+      "yearStart": 1910,
+      "yearEnd": 1918,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-39",
+      "subject": "nihonshi-tankyu",
+      "question": "1906年に、ポーツマス条約でえた長春・旅順間の鉄道と、その沿線の炭鉱などを経営するために、大連に設立された半官半民の会社は何か。",
+      "answer": "南満州鉄道株式会社",
+      "reading": "みなみまんしゅうてつどうかぶしきがいしゃ",
+      "alternatives": [
+        "満鉄",
+        "南満州鉄道"
+      ],
+      "explanation": "遼東半島の南部の租借地（関東州）を統治する関東都督府が、旅順におかれた。",
+      "yearStart": 1906,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-40",
+      "subject": "nihonshi-tankyu",
+      "question": "日露戦争ののち、アメリカで、日本人の移民を排斥する運動がおこった。1906年に日本人の学童の入学拒否事件がおこった都市はどこか。",
+      "answer": "サンフランシスコ",
+      "alternatives": [],
+      "explanation": "満州の市場をめぐっても、日本とアメリカの関係は悪化した。",
+      "yearStart": 1906,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-41",
+      "subject": "nihonshi-tankyu",
+      "question": "1908年に、第2次桂太郎内閣が、日露戦争ののちの国民に、勤勉と節約を求めるために出した詔書を何というか。",
+      "answer": "戊申詔書",
+      "reading": "ぼしんしょうしょ",
+      "alternatives": [],
+      "explanation": "内務省を中心に、町村の財政の立て直しなどをはかる地方改良運動が進められた。",
+      "yearStart": 1908,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-42",
+      "subject": "nihonshi-tankyu",
+      "question": "1906年に結成され、第1次西園寺公望内閣が存続を認めた、日本で最初の合法的な社会主義の政党は何か。",
+      "answer": "日本社会党",
+      "reading": "にほんしゃかいとう",
+      "alternatives": [],
+      "explanation": "翌年、解散を命じられた。1901年に結成された社会民主党は、治安警察法によって、結成の直後に解散を命じられていた。",
+      "yearStart": 1906,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1301-43",
+      "subject": "nihonshi-tankyu",
+      "question": "1910年に、天皇の暗殺を計画したという理由で、多くの社会主義者や無政府主義者が検挙され、翌年、幸徳秋水らが死刑となった事件を何というか。",
+      "answer": "大逆事件",
+      "reading": "たいぎゃくじけん",
+      "alternatives": [],
+      "explanation": "以後、社会主義運動はきびしく取りしまられ、「冬の時代」をむかえた。警視庁に特別高等課（特高）がおかれた。",
+      "yearStart": 1910,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1301-44",
+      "subject": "nihonshi-tankyu",
+      "question": "1911年に制定された、日本で最初の労働者を保護する法律は何か。",
+      "answer": "工場法",
+      "reading": "こうじょうほう",
+      "alternatives": [],
+      "explanation": "少年・女性の労働時間の制限や、深夜の労働の禁止を定めたが、不十分な内容で、資本家の反対によって施行は1916年にのびた。",
+      "yearStart": 1911,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1302-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1912年に、陸軍が要求した2個師団の増設を、第2次西園寺公望内閣が財政の苦しさを理由にことわると、単独で辞表を天皇に提出して、内閣を総辞職に追いこんだ陸軍大臣は誰か。",
+      "answer": "上原勇作",
+      "reading": "うえはらゆうさく",
+      "alternatives": [],
+      "explanation": "陸軍が後任の大臣を出さなかったため、内閣は続けられなくなった。",
+      "yearStart": 1912,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1302-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1912年末に、長州出身の陸軍の長老で、内大臣であった桂太郎が首相になると、政党の一部や新聞記者、商工業者らが「閥族打破・憲政擁護」をかかげておこした運動を何というか。",
+      "answer": "第一次護憲運動",
+      "reading": "だいいちじごけんうんどう",
+      "alternatives": [
+        "第1次護憲運動",
+        "憲政擁護運動"
+      ],
+      "explanation": "立憲政友会の尾崎行雄と、立憲国民党の犬養毅が先頭に立った。",
+      "yearStart": 1912,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1302-03",
+      "subject": "nihonshi-tankyu",
+      "question": "1913年に、第3次桂太郎内閣が、民衆の運動によって、成立から50日あまりで退陣した事件を何というか。",
+      "answer": "大正政変",
+      "reading": "たいしょうせいへん",
+      "alternatives": [],
+      "explanation": "民衆の運動が、初めて内閣を倒した。",
+      "yearStart": 1913,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1302-04",
+      "subject": "nihonshi-tankyu",
+      "question": "大正政変ののち、立憲政友会を与党として成立し、軍部大臣現役武官制を改めて、予備役・後備役の大将・中将にも資格を広げた内閣の首相は誰か。",
+      "answer": "山本権兵衛",
+      "reading": "やまもとごんべえ",
+      "alternatives": [],
+      "explanation": "薩摩出身の海軍大将。文官任用令も改正して、政党員が高級官僚になる道を広げた。",
+      "yearStart": 1913,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1302-05",
+      "subject": "nihonshi-tankyu",
+      "question": "1914年に発覚して、第1次山本権兵衛内閣が退陣する原因となった、海軍の高官が、軍艦などの購入をめぐって外国の会社からわいろを受け取っていた事件を何というか。",
+      "answer": "シーメンス事件",
+      "alternatives": [
+        "ジーメンス事件"
+      ],
+      "explanation": "かわって、第2次大隈重信内閣が成立した。",
+      "yearStart": 1914,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1302-06",
+      "subject": "nihonshi-tankyu",
+      "question": "1914年に第一次世界大戦が始まると、日本が、ドイツに宣戦を布告する理由としたものは何か。",
+      "answer": "日英同盟",
+      "reading": "にちえいどうめい",
+      "alternatives": [
+        "日英同盟協約"
+      ],
+      "explanation": "外務大臣の加藤高明が主導した。中国の山東省の青島と、赤道以北のドイツ領の南洋諸島を占領した。",
+      "yearStart": 1914,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1302-07",
+      "subject": "nihonshi-tankyu",
+      "question": "1915年に、第2次大隈重信内閣が、中国の袁世凱の政府に対しておこなった要求を何というか。",
+      "answer": "二十一カ条の要求",
+      "reading": "にじゅういっかじょうのようきゅう",
+      "alternatives": [
+        "二十一か条の要求",
+        "二十一カ条要求",
+        "21カ条の要求"
+      ],
+      "explanation": "山東省のドイツの権益の継承、南満州と東部内蒙古の権益の強化などを求め、最後通牒を出して大部分を認めさせた。",
+      "yearStart": 1915,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1302-08",
+      "subject": "nihonshi-tankyu",
+      "question": "寺内正毅内閣が、中国での権益を広げるために、段祺瑞の政権に対しておこなった、巨額の資金の貸付を何というか。",
+      "answer": "西原借款",
+      "reading": "にしはらしゃっかん",
+      "alternatives": [],
+      "explanation": "寺内の秘書の西原亀三を通じておこなわれた。",
+      "yearStart": 1917,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1302-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1917年に、日本とアメリカが、中国の領土保全・門戸開放と、中国における日本の特殊な権益を、たがいに認めあった協定を何というか。",
+      "answer": "石井・ランシング協定",
+      "reading": "いしい・らんしんぐきょうてい",
+      "alternatives": [],
+      "explanation": "ワシントン会議での九カ国条約の成立によって、1923年に廃棄された。",
+      "yearStart": 1917,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1302-10",
+      "subject": "nihonshi-tankyu",
+      "question": "1918年に、日本が、アメリカ・イギリス・フランスとともに、ロシア革命に干渉するために軍を送ったことを何というか。",
+      "answer": "シベリア出兵",
+      "reading": "しべりあしゅっぺい",
+      "alternatives": [],
+      "explanation": "チェコスロヴァキア軍の救援を名目とした。日本は、他国が撤退したのちも、1922年まで軍をとどめた。",
+      "yearStart": 1918,
+      "yearEnd": 1922,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1302-11",
+      "subject": "nihonshi-tankyu",
+      "question": "第一次世界大戦によって、日本の経済が、かつてない好況となったことを何というか。",
+      "answer": "大戦景気",
+      "reading": "たいせんけいき",
+      "alternatives": [],
+      "explanation": "ヨーロッパの国々が退いたアジアの市場へ綿織物などを、好況のアメリカへ生糸を輸出して、大はばな輸出超過となった。",
+      "yearStart": 1915,
+      "yearEnd": 1918,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1302-12",
+      "subject": "nihonshi-tankyu",
+      "question": "大戦景気のなかで、世界的な船の不足を背景に、海運業や造船業で急に大きな富をえた人々は、何と呼ばれたか。",
+      "answer": "船成金",
+      "reading": "ふななりきん",
+      "alternatives": [],
+      "explanation": "日本は、イギリス・アメリカにつぐ世界第3位の海運国となった。",
+      "yearStart": 1917,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1302-13",
+      "subject": "nihonshi-tankyu",
+      "question": "第一次世界大戦で、ドイツからの輸入がとだえたために、日本で急速に発展した工業の分野は何か。",
+      "answer": "化学工業",
+      "reading": "かがくこうぎょう",
+      "alternatives": [],
+      "explanation": "薬品・染料・肥料などの国産化が進んだ。",
+      "yearStart": 1916,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1302-14",
+      "subject": "nihonshi-tankyu",
+      "question": "大戦景気の時期に、工業の動力は、蒸気力から何にかわっていったか。",
+      "answer": "電力",
+      "reading": "でんりょく",
+      "alternatives": [
+        "電気"
+      ],
+      "explanation": "1915年に、猪苗代の水力発電所から東京への長距離の送電が始まった。農村にも電灯が広まった。",
+      "yearStart": 1915,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1302-15",
+      "subject": "nihonshi-tankyu",
+      "question": "大戦景気によって、日本は、外国に対して、借金のある国から、資金を貸している国へとかわった。資金を貸している国を何というか。",
+      "answer": "債権国",
+      "reading": "さいけんこく",
+      "alternatives": [],
+      "explanation": "1914年に11億円の債務国だった日本は、1920年には27億円以上の債権国となった。工業の生産額は、農業の生産額をこえた。",
+      "yearStart": 1920,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1302-16",
+      "subject": "nihonshi-tankyu",
+      "question": "1918年に、シベリア出兵を見こした米の買い占めなどで米の値段が急に上がり、富山県の漁村の女性たちの行動をきっかけに、全国に広がった騒動を何というか。",
+      "answer": "米騒動",
+      "reading": "こめそうどう",
+      "alternatives": [],
+      "explanation": "政府は軍隊を出してしずめたが、寺内正毅内閣は責任をとって総辞職した。",
+      "yearStart": 1918,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1302-17",
+      "subject": "nihonshi-tankyu",
+      "question": "1918年に、米騒動ののち、立憲政友会の総裁として首相となり、日本で最初の本格的な政党内閣を組織した人物は誰か。",
+      "answer": "原敬",
+      "reading": "はらたかし",
+      "alternatives": [],
+      "explanation": "華族でも藩閥の出身でもなく、衆議院に議席をもつ首相だったので、「平民宰相」と呼ばれた。",
+      "yearStart": 1918,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1302-18",
+      "subject": "nihonshi-tankyu",
+      "question": "原敬内閣は、1919年に選挙法を改正して、選挙権に必要な直接国税の納税額を、10円以上から何円以上に引き下げたか。",
+      "answer": "3円以上",
+      "alternatives": [
+        "3円",
+        "三円以上"
+      ],
+      "explanation": "小選挙区制もとり入れた。普通選挙の導入には、時期が早いとして反対した。",
+      "yearStart": 1919,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1302-19",
+      "subject": "nihonshi-tankyu",
+      "question": "1916年に、雑誌『中央公論』で民本主義をとなえて、政党内閣の実現と普通選挙を説いた、東京帝国大学の教授は誰か。",
+      "answer": "吉野作造",
+      "reading": "よしのさくぞう",
+      "alternatives": [],
+      "explanation": "大正デモクラシーを代表する思想となった。",
+      "yearStart": 1916,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1302-20",
+      "subject": "nihonshi-tankyu",
+      "question": "吉野作造がとなえた、主権がどこにあるかは問わず、政治の目的は民衆の幸福にあり、政策の決定は民衆の意向によるべきだとする考えを何というか。",
+      "answer": "民本主義",
+      "reading": "みんぽんしゅぎ",
+      "alternatives": [],
+      "explanation": "天皇主権を定めた大日本帝国憲法のもとで、民主主義の長所をとり入れようとした。",
+      "yearStart": 1916,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1302-21",
+      "subject": "nihonshi-tankyu",
+      "question": "憲法学者の美濃部達吉がとなえた、統治権は法人としての国家にあり、天皇は国家の最高の機関として、憲法に従って統治権を行使するという学説を何というか。",
+      "answer": "天皇機関説",
+      "reading": "てんのうきかんせつ",
+      "alternatives": [
+        "国家法人説"
+      ],
+      "explanation": "政党内閣を支える理論となった。",
+      "yearStart": 1912,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1919年に、第一次世界大戦の講和のために、パリでひらかれた会議で結ばれた、ドイツとの講和条約は何か。",
+      "answer": "ヴェルサイユ条約",
+      "alternatives": [
+        "ベルサイユ条約"
+      ],
+      "explanation": "日本は、山東省の旧ドイツの権益を引きつぎ、赤道以北の旧ドイツ領の南洋諸島を委任統治する権利をえた。全権は西園寺公望ら。",
+      "yearStart": 1919,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1920年に、アメリカ大統領ウィルソンの提案によって設立された、世界平和の維持のための国際機関は何か。",
+      "answer": "国際連盟",
+      "reading": "こくさいれんめい",
+      "alternatives": [],
+      "explanation": "日本は、イギリス・フランス・イタリアとともに常任理事国となった。新渡戸稲造が事務局次長をつとめた。",
+      "yearStart": 1920,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-03",
+      "subject": "nihonshi-tankyu",
+      "question": "1919年3月1日に、朝鮮の京城で独立宣言が発表され、朝鮮の全土に広がった、日本からの独立を求める運動を何というか。",
+      "answer": "三・一独立運動",
+      "reading": "さん・いちどくりつうんどう",
+      "alternatives": [
+        "三・一運動",
+        "万歳事件"
+      ],
+      "explanation": "朝鮮総督府は、軍隊と警察によってきびしく弾圧した。その後、統治の方針を一部ゆるめた。",
+      "yearStart": 1919,
+      "regions": [
+        "日本",
+        "朝鮮"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-04",
+      "subject": "nihonshi-tankyu",
+      "question": "1919年5月4日に、北京の学生のデモをきっかけに、中国の各地に広がった、山東省の権益の返還などを求める運動を何というか。",
+      "answer": "五・四運動",
+      "reading": "ご・しうんどう",
+      "alternatives": [],
+      "explanation": "パリ講和会議で、山東省の旧ドイツの権益を日本が引きつぐことが認められたことに抗議した。",
+      "yearStart": 1919,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-05",
+      "subject": "nihonshi-tankyu",
+      "question": "1921年から翌年にかけて、アメリカの提案で、海軍の軍備の縮小と、太平洋・東アジアの問題を話しあうためにひらかれた国際会議を何というか。",
+      "answer": "ワシントン会議",
+      "reading": "わしんとんかいぎ",
+      "alternatives": [],
+      "explanation": "日本は、海軍大臣の加藤友三郎らを全権として派遣した。",
+      "yearStart": 1921,
+      "yearEnd": 1922,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-06",
+      "subject": "nihonshi-tankyu",
+      "question": "ワシントン会議で、アメリカ・イギリス・日本・フランスが、太平洋の島々の現状維持を約束した条約は何か。",
+      "answer": "四カ国条約",
+      "reading": "よんかこくじょうやく",
+      "alternatives": [
+        "四か国条約",
+        "4カ国条約"
+      ],
+      "explanation": "これによって、日英同盟は廃棄された。",
+      "yearStart": 1921,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-07",
+      "subject": "nihonshi-tankyu",
+      "question": "ワシントン会議で、中国の主権の尊重、門戸開放、機会均等を約束した条約は何か。",
+      "answer": "九カ国条約",
+      "reading": "きゅうかこくじょうやく",
+      "alternatives": [
+        "九か国条約",
+        "9カ国条約"
+      ],
+      "explanation": "日本は、山東省の旧ドイツの権益を中国に返した。",
+      "yearStart": 1922,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-08",
+      "subject": "nihonshi-tankyu",
+      "question": "ワシントン会議で結ばれた、アメリカ・イギリス・日本・フランス・イタリアの主力艦の保有量を制限した条約は何か。",
+      "answer": "ワシントン海軍軍縮条約",
+      "reading": "わしんとんかいぐんぐんしゅくじょうやく",
+      "alternatives": [
+        "ワシントン海軍軍備制限条約"
+      ],
+      "explanation": "主力艦の保有量の比率は、アメリカ・イギリス各5、日本3、フランス・イタリア各1.67とされた。",
+      "yearStart": 1922,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-09",
+      "subject": "nihonshi-tankyu",
+      "question": "ワシントン会議でできあがった、アジア・太平洋地域の新しい国際秩序を何というか。",
+      "answer": "ワシントン体制",
+      "reading": "わしんとんたいせい",
+      "alternatives": [],
+      "explanation": "日本は、これを受け入れて、協調外交を進めた。",
+      "yearStart": 1922,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1303-10",
+      "subject": "nihonshi-tankyu",
+      "question": "1920年代に、外務大臣として、アメリカやイギリスとの協調と、中国への内政不干渉を方針とする外交を進めた人物は誰か。",
+      "answer": "幣原喜重郎",
+      "reading": "しではらきじゅうろう",
+      "alternatives": [],
+      "explanation": "その外交は、協調外交（幣原外交）と呼ばれた。",
+      "yearStart": 1924,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-11",
+      "subject": "nihonshi-tankyu",
+      "question": "1912年に、鈴木文治が、労働者の地位の向上をめざして結成した団体は何か。",
+      "answer": "友愛会",
+      "reading": "ゆうあいかい",
+      "alternatives": [],
+      "explanation": "はじめは労資協調の立場に立ったが、1921年には日本労働総同盟と名を改めて、階級闘争の方針に転じた。",
+      "yearStart": 1912,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-12",
+      "subject": "nihonshi-tankyu",
+      "question": "1920年に日本で初めてひらかれた、労働者の祭典を何というか。",
+      "answer": "メーデー",
+      "alternatives": [],
+      "explanation": "労働者の権利の拡大をうったえた。",
+      "yearStart": 1920,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1303-13",
+      "subject": "nihonshi-tankyu",
+      "question": "農村で、小作人が、地主に対して小作料の引き下げなどを求めた争いを何というか。",
+      "answer": "小作争議",
+      "reading": "こさくそうぎ",
+      "alternatives": [],
+      "explanation": "1922年には、全国的な組織として、賀川豊彦・杉山元治郎らによって日本農民組合が結成された。",
+      "yearStart": 1922,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-14",
+      "subject": "nihonshi-tankyu",
+      "question": "1911年に、平塚らいてうらが結成した、女性の解放をめざす文学者の団体は何か。",
+      "answer": "青鞜社",
+      "reading": "せいとうしゃ",
+      "alternatives": [],
+      "explanation": "雑誌『青鞜』の創刊号に、平塚は「元始、女性は実に太陽であった」と記した。",
+      "yearStart": 1911,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-15",
+      "subject": "nihonshi-tankyu",
+      "question": "1920年に、平塚らいてうと市川房枝らが、女性の参政権などを求めて結成した団体は何か。",
+      "answer": "新婦人協会",
+      "reading": "しんふじんきょうかい",
+      "alternatives": [],
+      "explanation": "その運動によって、1922年に治安警察法が改正され、女性が政治演説会に参加できるようになった。",
+      "yearStart": 1920,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-16",
+      "subject": "nihonshi-tankyu",
+      "question": "1921年に、山川菊栄・伊藤野枝らが結成した、女性の社会主義者の団体は何か。",
+      "answer": "赤瀾会",
+      "reading": "せきらんかい",
+      "alternatives": [],
+      "explanation": "その年のメーデーに参加した。",
+      "yearStart": 1921,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1303-17",
+      "subject": "nihonshi-tankyu",
+      "question": "1922年に、被差別部落の人々が、みずからの力で差別からの解放をめざして結成した団体は何か。",
+      "answer": "全国水平社",
+      "reading": "ぜんこくすいへいしゃ",
+      "alternatives": [],
+      "explanation": "創立大会で発表された宣言は、「人の世に熱あれ、人間に光あれ」と結ばれている。",
+      "yearStart": 1922,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-18",
+      "subject": "nihonshi-tankyu",
+      "question": "1922年に、堺利彦や山川均らが、コミンテルンの日本支部として、非合法のうちに結成した政党は何か。",
+      "answer": "日本共産党",
+      "reading": "にほんきょうさんとう",
+      "alternatives": [],
+      "explanation": "ロシア革命の影響を受けて、社会主義運動のなかで共産主義の勢力が強まった。",
+      "yearStart": 1922,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-19",
+      "subject": "nihonshi-tankyu",
+      "question": "1920年に、ロシアの無政府主義者クロポトキンについての研究を発表した東京帝国大学の助教授が、休職の処分を受けた事件を、助教授の名から何というか。",
+      "answer": "森戸事件",
+      "reading": "もりとじけん",
+      "alternatives": [],
+      "explanation": "助教授の森戸辰男は、危険な思想を広めたとして処罰された。",
+      "yearStart": 1920,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1303-20",
+      "subject": "nihonshi-tankyu",
+      "question": "1923年9月1日に、関東地方をおそって、東京や横浜に大きな被害を与えた地震の災害を何というか。",
+      "answer": "関東大震災",
+      "reading": "かんとうだいしんさい",
+      "alternatives": [],
+      "explanation": "死者・行方不明者は10万人以上にのぼった。混乱のなかで、「朝鮮人が暴動をおこした」などの流言が広まり、多くの朝鮮人や中国人が、自警団や軍隊・警察によって殺害された。",
+      "yearStart": 1923,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-21",
+      "subject": "nihonshi-tankyu",
+      "question": "関東大震災の混乱のなかで、無政府主義者の大杉栄と伊藤野枝らが、憲兵によって殺害された事件を、憲兵大尉の名から何というか。",
+      "answer": "甘粕事件",
+      "reading": "あまかすじけん",
+      "alternatives": [],
+      "explanation": "東京の亀戸では、労働運動の指導者たちが軍隊に殺害された（亀戸事件）。",
+      "yearStart": 1923,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1303-22",
+      "subject": "nihonshi-tankyu",
+      "question": "1923年末に、無政府主義の青年が、摂政であった皇太子（のちの昭和天皇）を狙撃した事件を何というか。",
+      "answer": "虎の門事件",
+      "reading": "とらのもんじけん",
+      "alternatives": [],
+      "explanation": "第2次山本権兵衛内閣は、責任をとって総辞職した。",
+      "yearStart": 1923,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1303-23",
+      "subject": "nihonshi-tankyu",
+      "question": "1924年に、貴族院を基盤とする清浦奎吾内閣が成立すると、憲政会・立憲政友会・革新倶楽部の3つの政党が、政党内閣の実現をめざしておこした運動を何というか。",
+      "answer": "第二次護憲運動",
+      "reading": "だいにじごけんうんどう",
+      "alternatives": [
+        "第2次護憲運動"
+      ],
+      "explanation": "総選挙で3つの政党（護憲三派）が圧勝し、清浦内閣は総辞職した。",
+      "yearStart": 1924,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-24",
+      "subject": "nihonshi-tankyu",
+      "question": "1924年に、第二次護憲運動の結果、護憲三派の連立内閣の首相となった、憲政会の総裁は誰か。",
+      "answer": "加藤高明",
+      "reading": "かとうたかあき",
+      "alternatives": [],
+      "explanation": "以後、1932年の五・一五事件まで、衆議院の多数党の総裁が内閣を組織することが続いた。",
+      "yearStart": 1924,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-25",
+      "subject": "nihonshi-tankyu",
+      "question": "1925年に成立した、満25歳以上のすべての男性に、衆議院議員の選挙権を与えた法律を、一般に何というか。",
+      "answer": "普通選挙法",
+      "reading": "ふつうせんきょほう",
+      "alternatives": [],
+      "explanation": "納税額による制限がなくなり、有権者はそれまでの4倍にふえた。女性の選挙権は認められなかった。",
+      "yearStart": 1925,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-26",
+      "subject": "nihonshi-tankyu",
+      "question": "1925年に、普通選挙法とともに成立した、「国体」の変革や私有財産制度の否認をめざす結社を取りしまる法律は何か。",
+      "answer": "治安維持法",
+      "reading": "ちあんいじほう",
+      "alternatives": [],
+      "explanation": "普通選挙の実施や、ソ連との国交の樹立によって、共産主義の影響が広がることを防ごうとした。",
+      "yearStart": 1925,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1303-27",
+      "subject": "nihonshi-tankyu",
+      "question": "1925年に、日本がソ連と結んで、国交を樹立した条約は何か。",
+      "answer": "日ソ基本条約",
+      "reading": "にっそきほんじょうやく",
+      "alternatives": [],
+      "explanation": "日本軍は、北樺太から撤退した。",
+      "yearStart": 1925,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1303-28",
+      "subject": "nihonshi-tankyu",
+      "question": "1924年から1932年まで続いた、衆議院で多数を占める政党の総裁が内閣を組織する慣例を何というか。",
+      "answer": "憲政の常道",
+      "reading": "けんせいのじょうどう",
+      "alternatives": [],
+      "explanation": "立憲政友会と、憲政会（のち立憲民政党）が、交互に内閣を組織した。",
+      "yearStart": 1924,
+      "yearEnd": 1932,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    }
+  ]
+}

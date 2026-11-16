@@ -1,0 +1,35 @@
+---
+import { getCollection, render, type CollectionEntry } from 'astro:content';
+import AdSlot from '../../components/AdSlot.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { paths } from '../../lib/url';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map((article) => ({ params: { slug: article.id }, props: { article } }));
+}
+
+interface Props {
+  article: CollectionEntry<'articles'>;
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+const { title, description, publishedAt, updatedAt, draft } = article.data;
+const date = (d: Date) => d.toLocaleDateString('ja-JP', { timeZone: 'Asia/Tokyo' });
+---
+
+<BaseLayout title={title} description={description} path={paths.article(article.id)} noindex={draft} ogType="article">
+  <Breadcrumbs items={[{ label: '記事一覧', path: paths.articles() }, { label: title }]} />
+  <article class="prose">
+    <h1>{title}</h1>
+    <p class="small muted">
+      公開日 {date(publishedAt)}
+      {updatedAt && `・更新日 ${date(updatedAt)}`}
+    </p>
+    {draft && <p class="notice draft-banner">この記事は下書きです（検索結果には表示されません）。</p>}
+    <Content />
+  </article>
+  <AdSlot name="article-bottom" />
+</BaseLayout>

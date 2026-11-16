@@ -1,0 +1,3314 @@
+{
+  "generatedFrom": "sekaishi-04.csv",
+  "_note": "このファイルは sekaishi-04.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "w-0401-01",
+      "subject": "sekaishi-tankyu",
+      "question": "前550年にメディアを滅ぼして建国し、のちに全オリエントを統一したイラン人（ペルシア人）の王朝は何か。",
+      "answer": "アケメネス朝",
+      "alternatives": [
+        "アカイメネス朝",
+        "アケメネス朝ペルシア"
+      ],
+      "explanation": "前330年にアレクサンドロス大王に滅ぼされた。",
+      "yearStart": -550,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0401-02",
+      "subject": "sekaishi-tankyu",
+      "question": "アケメネス朝を建国し、新バビロニアを征服してユダヤ人をバビロン捕囚から解放した王は誰か。",
+      "answer": "キュロス2世",
+      "alternatives": [],
+      "explanation": "メディア・リディア・新バビロニアをつぎつぎに征服した。",
+      "yearStart": -550,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0401-03",
+      "subject": "sekaishi-tankyu",
+      "question": "エーゲ海からインダス川にいたる大帝国を治めた、アケメネス朝の最盛期の王は誰か。",
+      "answer": "ダレイオス1世",
+      "alternatives": [
+        "ダリウス1世"
+      ],
+      "explanation": "中央集権のしくみを整え、ギリシアに遠征した。",
+      "yearStart": -522,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0401-04",
+      "subject": "sekaishi-tankyu",
+      "question": "ダレイオス1世が全国を約20の州に分け、それぞれの州においた知事を何というか。",
+      "answer": "サトラップ",
+      "alternatives": [],
+      "explanation": "税の徴収や治安の維持にあたった。",
+      "yearStart": -520,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0401-05",
+      "subject": "sekaishi-tankyu",
+      "question": "サトラップを監視するために各地に送られた、アケメネス朝の王直属の監察官は何と呼ばれたか。",
+      "answer": "王の目・王の耳",
+      "alternatives": [
+        "王の目",
+        "王の耳"
+      ],
+      "explanation": "王は各地の情報をつかみ、反乱を防ごうとした。",
+      "yearStart": -520,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0401-06",
+      "subject": "sekaishi-tankyu",
+      "question": "アケメネス朝が整備した、都のスサと小アジアのサルデスを結ぶ国道を何というか。",
+      "answer": "王の道",
+      "reading": "おうのみち",
+      "alternatives": [],
+      "explanation": "宿駅をおく駅伝制が整えられ、命令や情報がすばやく伝えられた。",
+      "yearStart": -500,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0401-07",
+      "subject": "sekaishi-tankyu",
+      "question": "ダレイオス1世が建設を始めた、壮大な宮殿のあるアケメネス朝の都はどこか。",
+      "answer": "ペルセポリス",
+      "alternatives": [],
+      "explanation": "のちにアレクサンドロス大王に焼かれた。",
+      "yearStart": -518,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0401-08",
+      "subject": "sekaishi-tankyu",
+      "question": "ダレイオス1世の業績を3種類の楔形文字で刻んだ、イラン西部の碑文は何か。",
+      "answer": "ベヒストゥーン碑文",
+      "alternatives": [],
+      "explanation": "19世紀にローリンソンが楔形文字を解読する手がかりとなった。",
+      "yearStart": -520,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0401-09",
+      "subject": "sekaishi-tankyu",
+      "question": "善（光明）の神と悪（暗黒）の神の対立を説き、火を神聖なものとするイランの宗教は何か。",
+      "answer": "ゾロアスター教",
+      "alternatives": [
+        "拝火教"
+      ],
+      "explanation": "最後の審判の考え方は、ユダヤ教やキリスト教にも影響を与えた。",
+      "yearStart": -600,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0401-10",
+      "subject": "sekaishi-tankyu",
+      "question": "ゾロアスター教で最高神とされる、善（光明）の神の名は何か。",
+      "answer": "アフラ=マズダ",
+      "alternatives": [],
+      "explanation": "悪（暗黒）の神アーリマンと対立するとされた。",
+      "yearStart": -600,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0401-11",
+      "subject": "sekaishi-tankyu",
+      "question": "前3世紀半ばに、アム川上流域でギリシア人がセレウコス朝から自立して建てた国は何か。",
+      "answer": "バクトリア",
+      "alternatives": [],
+      "explanation": "ギリシア風の文化を中央アジアやインド西北部に伝えた。",
+      "yearStart": -255,
+      "yearApprox": true,
+      "regions": [
+        "内陸アジア",
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0401-12",
+      "subject": "sekaishi-tankyu",
+      "question": "前3世紀半ばに、イラン系の遊牧民がカスピ海の東南に建てた国は何か。",
+      "answer": "パルティア",
+      "alternatives": [
+        "アルサケス朝",
+        "安息"
+      ],
+      "explanation": "「絹の道」の交易で栄え、ローマと争った。中国では「安息」と呼ばれた。",
+      "yearStart": -248,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0401-13",
+      "subject": "sekaishi-tankyu",
+      "question": "ティグリス川の中流域にあった、パルティアとササン朝の都はどこか。",
+      "answer": "クテシフォン",
+      "alternatives": [],
+      "explanation": "現在のバグダードの近くにあった。",
+      "yearStart": -150,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0401-14",
+      "subject": "sekaishi-tankyu",
+      "question": "224年にパルティアを倒して建国した、イラン人の王朝は何か。",
+      "answer": "ササン朝",
+      "alternatives": [
+        "ササン朝ペルシア"
+      ],
+      "explanation": "ゾロアスター教を国教とし、651年まで続いた。",
+      "yearStart": 224,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0401-15",
+      "subject": "sekaishi-tankyu",
+      "question": "ササン朝を建国した王は誰か。",
+      "answer": "アルダシール1世",
+      "alternatives": [],
+      "explanation": "都をクテシフォンにおいた。",
+      "yearStart": 224,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0401-16",
+      "subject": "sekaishi-tankyu",
+      "question": "3世紀にローマ軍を破り、皇帝ウァレリアヌスを捕虜にしたササン朝の王は誰か。",
+      "answer": "シャープール1世",
+      "alternatives": [],
+      "explanation": "東方ではクシャーナ朝を破って領土を広げた。",
+      "yearStart": 260,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0401-17",
+      "subject": "sekaishi-tankyu",
+      "question": "6世紀にササン朝の最盛期をきずき、突厥と結んでエフタルを滅ぼした王は誰か。",
+      "answer": "ホスロー1世",
+      "alternatives": [],
+      "explanation": "西方ではビザンツ帝国のユスティニアヌス帝と戦った。",
+      "yearStart": 531,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0401-18",
+      "subject": "sekaishi-tankyu",
+      "question": "ササン朝の時代に編集された、ゾロアスター教の教典は何か。",
+      "answer": "アヴェスター",
+      "alternatives": [],
+      "explanation": "ゾロアスター教はササン朝で国教とされた。",
+      "yearStart": 250,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0401-19",
+      "subject": "sekaishi-tankyu",
+      "question": "3世紀にマニが、ゾロアスター教・キリスト教・仏教などをとり入れて始めた宗教は何か。",
+      "answer": "マニ教",
+      "alternatives": [],
+      "explanation": "ササン朝では弾圧されたが、北アフリカや中央アジア、中国に伝わった。",
+      "yearStart": 240,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0401-20",
+      "subject": "sekaishi-tankyu",
+      "question": "642年にササン朝がイスラーム勢力に敗れ、事実上くずれることになった戦いは何か。",
+      "answer": "ニハーヴァンドの戦い",
+      "alternatives": [],
+      "explanation": "ササン朝は651年に滅んだ。",
+      "yearStart": 642,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0401-21",
+      "subject": "sekaishi-tankyu",
+      "question": "ササン朝美術の図柄が伝わったことを示す、日本の法隆寺に伝わる織物は何か。",
+      "answer": "獅子狩文錦",
+      "reading": "ししかりもんきん",
+      "alternatives": [],
+      "explanation": "ササン朝の工芸は、ガラス器や銀器なども東西に伝わった。",
+      "yearStart": 650,
+      "yearApprox": true,
+      "regions": [
+        "西アジア",
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0402-01",
+      "subject": "sekaishi-tankyu",
+      "question": "前8世紀頃にギリシア人が、有力者の指導のもとで集まり住んでつくった都市国家を何というか。",
+      "answer": "ポリス",
+      "alternatives": [],
+      "explanation": "城山と広場を中心とする市域と、まわりの農村からなっていた。",
+      "yearStart": -750,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-02",
+      "subject": "sekaishi-tankyu",
+      "question": "ポリスができるときに、人々が城山のふもとに移り住んだことを何というか。",
+      "answer": "集住",
+      "reading": "しゅうじゅう",
+      "alternatives": [
+        "シノイキスモス"
+      ],
+      "explanation": "有力な貴族の指導のもとでおこなわれた。",
+      "yearStart": -750,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-03",
+      "subject": "sekaishi-tankyu",
+      "question": "ポリスの中心にあり、守護神をまつる神殿が建てられた城山を何というか。",
+      "answer": "アクロポリス",
+      "alternatives": [],
+      "explanation": "いざというときの砦でもあった。",
+      "yearStart": -750,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-04",
+      "subject": "sekaishi-tankyu",
+      "question": "ポリスの市民が集会や取引をおこなった広場を何というか。",
+      "answer": "アゴラ",
+      "alternatives": [],
+      "explanation": "アクロポリスのふもとにあった。",
+      "yearStart": -750,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-05",
+      "subject": "sekaishi-tankyu",
+      "question": "前8世紀半ばから、ギリシア人が地中海や黒海の沿岸に各地に建設した都市を何というか。",
+      "answer": "植民市",
+      "reading": "しょくみんし",
+      "alternatives": [],
+      "explanation": "マッサリア（マルセイユ）、ネアポリス（ナポリ）、ビザンティオン（イスタンブル）などがある。",
+      "yearStart": -750,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-06",
+      "subject": "sekaishi-tankyu",
+      "question": "ギリシア人が、同じ言語と神話をもつ自分たちをさして呼んだ名は何か。",
+      "answer": "ヘレネス",
+      "alternatives": [],
+      "explanation": "ポリスに分かれていても、同じ民族としての意識をもっていた。",
+      "yearStart": -750,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-07",
+      "subject": "sekaishi-tankyu",
+      "question": "ギリシア人が、異民族をさして呼んだ名は何か。",
+      "answer": "バルバロイ",
+      "alternatives": [],
+      "explanation": "「わけのわからないことばを話す者」という意味。",
+      "yearStart": -750,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-08",
+      "subject": "sekaishi-tankyu",
+      "question": "ゼウスの神殿のある地で4年に1度開かれ、ギリシア人の同胞意識を高めた競技会を何というか。",
+      "answer": "オリンピアの祭典",
+      "alternatives": [
+        "古代オリンピック",
+        "オリンピア競技会"
+      ],
+      "explanation": "競技会の期間中は、ポリスどうしの戦いも中止された。",
+      "yearStart": -776,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-09",
+      "subject": "sekaishi-tankyu",
+      "question": "ポリスの市民が、よろい・かぶと・盾・槍を自分で用意して参加した歩兵を何というか。",
+      "answer": "重装歩兵",
+      "reading": "じゅうそうほへい",
+      "alternatives": [],
+      "explanation": "密集隊形（ファランクス）で戦って国防の主力となり、平民の発言力が高まった。",
+      "yearStart": -650,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-10",
+      "subject": "sekaishi-tankyu",
+      "question": "ドーリア人が先住民を征服して建てた、きびしい軍国主義的な規律で知られるポリスはどこか。",
+      "answer": "スパルタ",
+      "alternatives": [],
+      "explanation": "少数の市民が多数の隷属農民や周辺民を支配した。",
+      "yearStart": -700,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-11",
+      "subject": "sekaishi-tankyu",
+      "question": "スパルタで、市民に支配されて農業に従事した隷属農民を何というか。",
+      "answer": "ヘイロータイ",
+      "alternatives": [
+        "ヘロット",
+        "ヘロータイ"
+      ],
+      "explanation": "市民は彼らの反乱を防ぐため、つねに軍事訓練をおこなった。",
+      "yearStart": -700,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-12",
+      "subject": "sekaishi-tankyu",
+      "question": "スパルタで、商工業に従事し、従軍の義務はあるが参政権のなかった人々を何というか。",
+      "answer": "ペリオイコイ",
+      "alternatives": [],
+      "explanation": "「周辺に住む人々」という意味。",
+      "yearStart": -700,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-13",
+      "subject": "sekaishi-tankyu",
+      "question": "前7世紀後半のアテネで、それまでの慣習法を文章にまとめた人物は誰か。",
+      "answer": "ドラコン",
+      "alternatives": [],
+      "explanation": "貴族が法を独占することができなくなった。",
+      "yearStart": -621,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-14",
+      "subject": "sekaishi-tankyu",
+      "question": "前594年にアテネで、債務奴隷を禁止し、財産の額によって市民の参政権を定める改革をおこなった人物は誰か。",
+      "answer": "ソロン",
+      "alternatives": [],
+      "explanation": "貴族と平民の対立を調停しようとした。",
+      "yearStart": -594,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-15",
+      "subject": "sekaishi-tankyu",
+      "question": "ソロンの改革で定められた、財産の額によって参政権に差をつける政治を何というか。",
+      "answer": "財産政治",
+      "reading": "ざいさんせいじ",
+      "alternatives": [],
+      "explanation": "家柄ではなく財産が基準になった。",
+      "yearStart": -594,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-16",
+      "subject": "sekaishi-tankyu",
+      "question": "古代ギリシアで、非合法な手段で政権をにぎった独裁者を何というか。",
+      "answer": "僭主",
+      "reading": "せんしゅ",
+      "alternatives": [],
+      "explanation": "平民の不満を利用して権力をにぎった。",
+      "yearStart": -561,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-17",
+      "subject": "sekaishi-tankyu",
+      "question": "前6世紀半ばにアテネで僭主となり、中小農民を保護して支持をえた人物は誰か。",
+      "answer": "ペイシストラトス",
+      "alternatives": [],
+      "explanation": "平民の力が高まるきっかけとなった。",
+      "yearStart": -561,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-18",
+      "subject": "sekaishi-tankyu",
+      "question": "前508年にアテネで、血縁にもとづく部族制を地域にもとづく部族制に改め、民主政の基礎をきずいた人物は誰か。",
+      "answer": "クレイステネス",
+      "alternatives": [],
+      "explanation": "僭主が現れるのを防ぐため、陶片追放の制度をつくった。",
+      "yearStart": -508,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-19",
+      "subject": "sekaishi-tankyu",
+      "question": "僭主になるおそれのある人物の名を陶器のかけらに書いて投票し、国外に追放する制度を何というか。",
+      "answer": "陶片追放",
+      "reading": "とうへんついほう",
+      "alternatives": [
+        "オストラキスモス",
+        "オストラシズム"
+      ],
+      "explanation": "クレイステネスが定めた。",
+      "yearStart": -508,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-20",
+      "subject": "sekaishi-tankyu",
+      "question": "前500年に、ミレトスを中心とするイオニア地方のギリシア人植民市の反乱をきっかけに始まった戦争は何か。",
+      "answer": "ペルシア戦争",
+      "alternatives": [],
+      "explanation": "ギリシアのポリスがアケメネス朝の大軍をしりぞけた。",
+      "yearStart": -500,
+      "yearEnd": -449,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-21",
+      "subject": "sekaishi-tankyu",
+      "question": "前490年に、アテネの重装歩兵軍がペルシア軍を破った戦いは何か。",
+      "answer": "マラトンの戦い",
+      "alternatives": [],
+      "explanation": "アテネの北東の海岸でおこなわれた。",
+      "yearStart": -490,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-22",
+      "subject": "sekaishi-tankyu",
+      "question": "前480年に、テミストクレスの率いるアテネ海軍を主力とするギリシア艦隊がペルシア艦隊を破った海戦は何か。",
+      "answer": "サラミスの海戦",
+      "alternatives": [],
+      "explanation": "軍船のこぎ手として活躍した無産市民の発言力が高まった。",
+      "yearStart": -480,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-23",
+      "subject": "sekaishi-tankyu",
+      "question": "サラミスの海戦でアテネ海軍を指揮した政治家は誰か。",
+      "answer": "テミストクレス",
+      "alternatives": [],
+      "explanation": "海軍の拡張を進めた。のちに陶片追放された。",
+      "yearStart": -480,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-24",
+      "subject": "sekaishi-tankyu",
+      "question": "前479年に、アテネ・スパルタなどの連合軍がペルシア陸軍を破った戦いは何か。",
+      "answer": "プラタイアの戦い",
+      "alternatives": [],
+      "explanation": "ギリシア側の勝利が決定的となった。",
+      "yearStart": -479,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-25",
+      "subject": "sekaishi-tankyu",
+      "question": "ペルシアの再攻撃にそなえて、前478年頃にアテネを盟主として結ばれた軍事同盟は何か。",
+      "answer": "デロス同盟",
+      "alternatives": [],
+      "explanation": "アテネは同盟の資金を流用するなど、ほかのポリスへの支配を強めた。",
+      "yearStart": -478,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-26",
+      "subject": "sekaishi-tankyu",
+      "question": "前5世紀半ばにアテネの民主政を完成させ、全盛期を指導した政治家は誰か。",
+      "answer": "ペリクレス",
+      "alternatives": [],
+      "explanation": "将軍職に毎年のように選ばれて政治を指導した。",
+      "yearStart": -443,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-27",
+      "subject": "sekaishi-tankyu",
+      "question": "アテネ民主政の最高議決機関で、成年男性市民の全員が参加できた集会を何というか。",
+      "answer": "民会",
+      "reading": "みんかい",
+      "alternatives": [],
+      "explanation": "多数決で国の政策を決めた。",
+      "yearStart": -450,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-28",
+      "subject": "sekaishi-tankyu",
+      "question": "市民が代表を選ばずに、全員で直接政治に参加するアテネの政治のしくみを何というか。",
+      "answer": "直接民主政",
+      "reading": "ちょくせつみんしゅせい",
+      "alternatives": [],
+      "explanation": "女性・在留外人・奴隷には参政権がなかった。",
+      "yearStart": -450,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-29",
+      "subject": "sekaishi-tankyu",
+      "question": "アテネで、抽選で選ばれた市民が陪審員となって裁判をおこなった機関は何か。",
+      "answer": "民衆裁判所",
+      "reading": "みんしゅうさいばんしょ",
+      "alternatives": [],
+      "explanation": "将軍などをのぞく役人の多くも抽選で選ばれた。",
+      "yearStart": -450,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-30",
+      "subject": "sekaishi-tankyu",
+      "question": "ペリクレスの時代に再建された、アテネのアクロポリスにあるドーリア式の神殿は何か。",
+      "answer": "パルテノン神殿",
+      "alternatives": [],
+      "explanation": "守護神アテナをまつる。",
+      "yearStart": -438,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-31",
+      "subject": "sekaishi-tankyu",
+      "question": "前431年に始まった、アテネを中心とするデロス同盟と、スパルタを中心とする同盟との戦争は何か。",
+      "answer": "ペロポネソス戦争",
+      "alternatives": [],
+      "explanation": "アテネは疫病でペリクレスを失い、前404年に降伏した。",
+      "yearStart": -431,
+      "yearEnd": -404,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-32",
+      "subject": "sekaishi-tankyu",
+      "question": "ペロポネソス戦争中のアテネに現れた、民衆をあおって政治をあやまらせた政治家を何というか。",
+      "answer": "デマゴーゴス",
+      "alternatives": [
+        "扇動政治家",
+        "デマゴーグ"
+      ],
+      "explanation": "アテネの民主政は混乱した。",
+      "yearStart": -420,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-33",
+      "subject": "sekaishi-tankyu",
+      "question": "前371年にスパルタを破り、一時ギリシアの主導権をにぎったポリスはどこか。",
+      "answer": "テーベ",
+      "alternatives": [
+        "テーバイ"
+      ],
+      "explanation": "その後もポリスどうしの争いが続き、ギリシアはおとろえた。",
+      "yearStart": -371,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-34",
+      "subject": "sekaishi-tankyu",
+      "question": "前4世紀半ばに、ギリシア北方の王国マケドニアを強国にした王は誰か。",
+      "answer": "フィリッポス2世",
+      "alternatives": [],
+      "explanation": "アレクサンドロス大王の父。",
+      "yearStart": -359,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-35",
+      "subject": "sekaishi-tankyu",
+      "question": "前338年に、マケドニアがアテネ・テーベの連合軍を破った戦いは何か。",
+      "answer": "カイロネイアの戦い",
+      "alternatives": [],
+      "explanation": "ギリシアのポリスはマケドニアの支配下に入った。",
+      "yearStart": -338,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-36",
+      "subject": "sekaishi-tankyu",
+      "question": "カイロネイアの戦いのあと、フィリッポス2世がスパルタをのぞく全ギリシアのポリスに結ばせた同盟は何か。",
+      "answer": "コリントス同盟",
+      "alternatives": [
+        "ヘラス同盟"
+      ],
+      "explanation": "マケドニアが盟主となった。",
+      "yearStart": -337,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-37",
+      "subject": "sekaishi-tankyu",
+      "question": "前334年に東方遠征を始め、アケメネス朝を滅ぼして大帝国をきずいたマケドニアの王は誰か。",
+      "answer": "アレクサンドロス大王",
+      "alternatives": [
+        "アレクサンドロス",
+        "アレクサンドロス3世",
+        "アレクサンダー大王"
+      ],
+      "explanation": "インダス川流域まで進んだが、前323年にバビロンで急死した。",
+      "yearStart": -334,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-38",
+      "subject": "sekaishi-tankyu",
+      "question": "前333年に、アレクサンドロス大王がダレイオス3世の率いるペルシア軍を破った戦いは何か。",
+      "answer": "イッソスの戦い",
+      "alternatives": [],
+      "explanation": "前331年のアルベラの戦いでもペルシア軍を破った。",
+      "yearStart": -333,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-39",
+      "subject": "sekaishi-tankyu",
+      "question": "アレクサンドロス大王の死後、後継者を名乗って領土を争った部下の将軍たちを何というか。",
+      "answer": "ディアドコイ",
+      "alternatives": [],
+      "explanation": "「後継者」を意味するギリシア語。",
+      "yearStart": -323,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-40",
+      "subject": "sekaishi-tankyu",
+      "question": "ディアドコイの争いのなかで成立した国のうち、エジプトを支配した王朝は何か。",
+      "answer": "プトレマイオス朝",
+      "alternatives": [
+        "プトレマイオス朝エジプト"
+      ],
+      "explanation": "都はアレクサンドリア。前30年にローマに滅ぼされた。",
+      "yearStart": -304,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-41",
+      "subject": "sekaishi-tankyu",
+      "question": "ディアドコイの争いのなかで成立した国のうち、シリアを中心に西アジアを支配した王朝は何か。",
+      "answer": "セレウコス朝",
+      "alternatives": [
+        "セレウコス朝シリア"
+      ],
+      "explanation": "やがてバクトリアやパルティアが自立した。",
+      "yearStart": -312,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-42",
+      "subject": "sekaishi-tankyu",
+      "question": "アレクサンドロス大王の東方遠征から、プトレマイオス朝が滅びるまでの約300年間を何時代というか。",
+      "answer": "ヘレニズム時代",
+      "alternatives": [],
+      "explanation": "ギリシア文化がオリエントに広まり、各地の文化と結びついた。",
+      "yearStart": -334,
+      "yearEnd": -30,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-43",
+      "subject": "sekaishi-tankyu",
+      "question": "トロイア戦争を題材にした叙事詩『イリアス』『オデュッセイア』の作者とされる詩人は誰か。",
+      "answer": "ホメロス",
+      "alternatives": [],
+      "explanation": "ギリシア最古の文学作品とされる。",
+      "yearStart": -750,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-44",
+      "subject": "sekaishi-tankyu",
+      "question": "『労働と日々』で、農民が働くことの尊さをうたった詩人は誰か。",
+      "answer": "ヘシオドス",
+      "alternatives": [],
+      "explanation": "『神統記』では神々の系譜をまとめた。",
+      "yearStart": -700,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-45",
+      "subject": "sekaishi-tankyu",
+      "question": "レスボス島出身の、恋愛などをうたった女性の叙情詩人は誰か。",
+      "answer": "サッフォー",
+      "alternatives": [],
+      "explanation": "前7世紀末から前6世紀に活躍した。",
+      "yearStart": -600,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-46",
+      "subject": "sekaishi-tankyu",
+      "question": "『アガメムノン』で知られる、アテネの三大悲劇詩人の一人は誰か。",
+      "answer": "アイスキュロス",
+      "alternatives": [],
+      "explanation": "ほかの2人はソフォクレスとエウリピデス。",
+      "yearStart": -458,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-47",
+      "subject": "sekaishi-tankyu",
+      "question": "『オイディプス王』で知られる、アテネの三大悲劇詩人の一人は誰か。",
+      "answer": "ソフォクレス",
+      "alternatives": [],
+      "explanation": "ペリクレスの時代に活躍した。",
+      "yearStart": -430,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-48",
+      "subject": "sekaishi-tankyu",
+      "question": "『女の平和』などで、戦争や政治を風刺したアテネの喜劇作家は誰か。",
+      "answer": "アリストファネス",
+      "alternatives": [],
+      "explanation": "ペロポネソス戦争の時代に活躍した。",
+      "yearStart": -411,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-49",
+      "subject": "sekaishi-tankyu",
+      "question": "「万物の根源は水である」と考えた、イオニア自然哲学の祖とされる人物は誰か。",
+      "answer": "タレス",
+      "alternatives": [],
+      "explanation": "ミレトス出身。神話によらずに世界を説明しようとした。",
+      "yearStart": -585,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-50",
+      "subject": "sekaishi-tankyu",
+      "question": "万物の根源を「数」と考え、数学の定理でも知られる人物は誰か。",
+      "answer": "ピタゴラス",
+      "alternatives": [
+        "ピュタゴラス"
+      ],
+      "explanation": "南イタリアで教団をつくった。",
+      "yearStart": -530,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-51",
+      "subject": "sekaishi-tankyu",
+      "question": "万物の根源を、それ以上分けられない「原子（アトム）」と考えた人物は誰か。",
+      "answer": "デモクリトス",
+      "alternatives": [],
+      "explanation": "この考え方は原子論と呼ばれる。",
+      "yearStart": -420,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-52",
+      "subject": "sekaishi-tankyu",
+      "question": "民主政のさかんなアテネなどで、市民に弁論術を教えた職業教師を何というか。",
+      "answer": "ソフィスト",
+      "alternatives": [],
+      "explanation": "民会や裁判で人を説得する技術が求められた。",
+      "yearStart": -450,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-53",
+      "subject": "sekaishi-tankyu",
+      "question": "「人間は万物の尺度である」と主張した、代表的なソフィストは誰か。",
+      "answer": "プロタゴラス",
+      "alternatives": [],
+      "explanation": "絶対的な真理はないと考えた。",
+      "yearStart": -450,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-54",
+      "subject": "sekaishi-tankyu",
+      "question": "「無知の知」を説き、客観的な真理があると主張したアテネの哲学者は誰か。",
+      "answer": "ソクラテス",
+      "alternatives": [],
+      "explanation": "民衆裁判で死刑の判決を受け、毒を飲んで死んだ。",
+      "yearStart": -399,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-55",
+      "subject": "sekaishi-tankyu",
+      "question": "ソクラテスの弟子で、ものごとの本質であるイデアを説き、『国家』で哲学者による政治を理想とした哲学者は誰か。",
+      "answer": "プラトン",
+      "alternatives": [],
+      "explanation": "アテネの郊外に学園アカデメイアをひらいた。",
+      "yearStart": -387,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-56",
+      "subject": "sekaishi-tankyu",
+      "question": "プラトンの弟子で、さまざまな学問を体系化し、「万学の祖」と呼ばれる哲学者は誰か。",
+      "answer": "アリストテレス",
+      "alternatives": [],
+      "explanation": "アレクサンドロス大王の教師をつとめた。イスラームの学問や中世ヨーロッパのスコラ学に大きな影響を与えた。",
+      "yearStart": -335,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-57",
+      "subject": "sekaishi-tankyu",
+      "question": "ペルシア戦争の歴史を物語風にえがいた『歴史』を著し、「歴史の父」と呼ばれる人物は誰か。",
+      "answer": "ヘロドトス",
+      "alternatives": [],
+      "explanation": "各地を旅行して集めた伝承も記した。",
+      "yearStart": -430,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-58",
+      "subject": "sekaishi-tankyu",
+      "question": "ペロポネソス戦争の歴史を、史料をきびしく検討して記した歴史家は誰か。",
+      "answer": "トゥキディデス",
+      "alternatives": [
+        "トゥキュディデス"
+      ],
+      "explanation": "自分もアテネの将軍として参戦した。",
+      "yearStart": -400,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-59",
+      "subject": "sekaishi-tankyu",
+      "question": "病気の原因を合理的に探究し、「医学の父」と呼ばれるギリシアの医者は誰か。",
+      "answer": "ヒッポクラテス",
+      "alternatives": [],
+      "explanation": "病気を神の罰や呪いによるものとは考えなかった。",
+      "yearStart": -400,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-60",
+      "subject": "sekaishi-tankyu",
+      "question": "パルテノン神殿の再建工事を監督し、アテナ女神像をつくった彫刻家は誰か。",
+      "answer": "フェイディアス",
+      "alternatives": [],
+      "explanation": "ペリクレスの友人。",
+      "yearStart": -438,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-61",
+      "subject": "sekaishi-tankyu",
+      "question": "ギリシア建築の柱の3つの様式のうち、パルテノン神殿に代表される、かざりが少なく力強い様式は何か。",
+      "answer": "ドーリア式",
+      "alternatives": [],
+      "explanation": "ほかに優美なイオニア式、はなやかなコリント式がある。",
+      "yearStart": -438,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-62",
+      "subject": "sekaishi-tankyu",
+      "question": "ヘレニズム時代に広まった、ポリスの枠にとらわれず、世界を一つの共同体とみなす考え方を何というか。",
+      "answer": "世界市民主義",
+      "reading": "せかいしみんしゅぎ",
+      "alternatives": [
+        "コスモポリタニズム"
+      ],
+      "explanation": "個人の心の平安を求める哲学がさかんになった。",
+      "yearStart": -300,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-63",
+      "subject": "sekaishi-tankyu",
+      "question": "ヘレニズム世界の共通語となったギリシア語を何というか。",
+      "answer": "コイネー",
+      "alternatives": [],
+      "explanation": "のちに『新約聖書』もこのことばで書かれた。",
+      "yearStart": -300,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-64",
+      "subject": "sekaishi-tankyu",
+      "question": "ゼノンが始めた、理性によって欲望をおさえる禁欲を説く哲学の学派は何か。",
+      "answer": "ストア派",
+      "alternatives": [],
+      "explanation": "ローマの上流階級にも広まった。",
+      "yearStart": -300,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-65",
+      "subject": "sekaishi-tankyu",
+      "question": "精神的な快楽を最高の善と考える、ヘレニズム時代の哲学の学派は何か。",
+      "answer": "エピクロス派",
+      "alternatives": [],
+      "explanation": "心の平静を求めた。",
+      "yearStart": -300,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-66",
+      "subject": "sekaishi-tankyu",
+      "question": "プトレマイオス朝の都アレクサンドリアにつくられた、王立の研究所を何というか。",
+      "answer": "ムセイオン",
+      "alternatives": [],
+      "explanation": "大図書館をそなえ、自然科学の研究の中心となった。",
+      "yearStart": -290,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-67",
+      "subject": "sekaishi-tankyu",
+      "question": "平面幾何学を大成し、『原論』を著した数学者は誰か。",
+      "answer": "エウクレイデス",
+      "alternatives": [
+        "ユークリッド"
+      ],
+      "explanation": "アレクサンドリアで活躍した。",
+      "yearStart": -300,
+      "yearApprox": true,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-68",
+      "subject": "sekaishi-tankyu",
+      "question": "浮力の原理やてこの原理を発見した、シチリア島のシラクサ出身の科学者は誰か。",
+      "answer": "アルキメデス",
+      "alternatives": [],
+      "explanation": "ローマ軍がシラクサを攻めたときに殺された。",
+      "yearStart": -250,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0402-69",
+      "subject": "sekaishi-tankyu",
+      "question": "地球を球体と考えてその周囲の長さを計算した、ムセイオンの館長は誰か。",
+      "answer": "エラトステネス",
+      "alternatives": [],
+      "explanation": "計算の結果は実際の値にかなり近かった。",
+      "yearStart": -240,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-70",
+      "subject": "sekaishi-tankyu",
+      "question": "地球は太陽のまわりを回っているという説をとなえた、ヘレニズム時代の天文学者は誰か。",
+      "answer": "アリスタルコス",
+      "alternatives": [],
+      "explanation": "当時は受け入れられなかった。",
+      "yearStart": -270,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0402-71",
+      "subject": "sekaishi-tankyu",
+      "question": "エーゲ海のミロス島で発見された、ヘレニズム彫刻を代表する女神像は何か。",
+      "answer": "ミロのヴィーナス",
+      "alternatives": [],
+      "explanation": "現在はフランスのルーヴル美術館にある。",
+      "yearStart": -130,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-01",
+      "subject": "sekaishi-tankyu",
+      "question": "前509年にエトルリア人の王を追放して始まった、ローマの政治体制を何というか。",
+      "answer": "共和政",
+      "reading": "きょうわせい",
+      "alternatives": [],
+      "explanation": "はじめは貴族が政治の実権をにぎった。",
+      "yearStart": -509,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-02",
+      "subject": "sekaishi-tankyu",
+      "question": "共和政ローマで政治を指導した、貴族の会議を何というか。",
+      "answer": "元老院",
+      "reading": "げんろういん",
+      "alternatives": [],
+      "explanation": "任期が終身の議員からなり、大きな権威をもった。",
+      "yearStart": -509,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-03",
+      "subject": "sekaishi-tankyu",
+      "question": "共和政ローマの最高官職で、任期1年・定員2名の官職を何というか。",
+      "answer": "コンスル",
+      "alternatives": [
+        "執政官"
+      ],
+      "explanation": "軍事と行政の最高責任者。",
+      "yearStart": -509,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-04",
+      "subject": "sekaishi-tankyu",
+      "question": "共和政ローマで、非常のときに1名だけ任命され、全権をゆだねられた任期半年の官職を何というか。",
+      "answer": "ディクタトル",
+      "alternatives": [
+        "独裁官"
+      ],
+      "explanation": "ふだんはおかれなかった。",
+      "yearStart": -509,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-05",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマの貴族を何というか。",
+      "answer": "パトリキ",
+      "alternatives": [],
+      "explanation": "元老院議員やコンスルなどの官職を独占した。",
+      "yearStart": -509,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-06",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマの平民を何というか。",
+      "answer": "プレブス",
+      "alternatives": [],
+      "explanation": "重装歩兵として国防に活躍し、参政権を求めて貴族と争った。",
+      "yearStart": -509,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-07",
+      "subject": "sekaishi-tankyu",
+      "question": "前5世紀初めにおかれた、平民の権利を守るための官職は何か。",
+      "answer": "護民官",
+      "reading": "ごみんかん",
+      "alternatives": [],
+      "explanation": "コンスルや元老院の決定に拒否権をもった。",
+      "yearStart": -494,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-08",
+      "subject": "sekaishi-tankyu",
+      "question": "護民官と同じ頃におかれた、平民だけで構成される民会を何というか。",
+      "answer": "平民会",
+      "reading": "へいみんかい",
+      "alternatives": [],
+      "explanation": "護民官が議長をつとめた。",
+      "yearStart": -494,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-09",
+      "subject": "sekaishi-tankyu",
+      "question": "前5世紀半ばに、それまでの慣習法を文章にまとめたローマ最古の成文法は何か。",
+      "answer": "十二表法",
+      "reading": "じゅうにひょうほう",
+      "alternatives": [],
+      "explanation": "貴族が法を独占することができなくなった。",
+      "yearStart": -450,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-10",
+      "subject": "sekaishi-tankyu",
+      "question": "前367年に制定され、コンスルのうち1名を平民から選ぶことなどを定めた法律は何か。",
+      "answer": "リキニウス・セクスティウス法",
+      "alternatives": [
+        "リキニウス法"
+      ],
+      "explanation": "公有地の占有を制限することも定めた。",
+      "yearStart": -367,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-11",
+      "subject": "sekaishi-tankyu",
+      "question": "前287年に制定され、平民会の決議が元老院の承認なしに国の法律となることを定めた法律は何か。",
+      "answer": "ホルテンシウス法",
+      "alternatives": [],
+      "explanation": "平民と貴族の法の上での平等が実現した。",
+      "yearStart": -287,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-12",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマが、征服した都市にそれぞれちがう権利や義務を与えて、団結して反抗するのを防いだ統治の方法を何というか。",
+      "answer": "分割統治",
+      "reading": "ぶんかつとうち",
+      "alternatives": [],
+      "explanation": "ローマは前3世紀前半にイタリア半島を統一した。",
+      "yearStart": -272,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-13",
+      "subject": "sekaishi-tankyu",
+      "question": "前264年から3回にわたっておこなわれた、ローマとフェニキア人の植民市カルタゴとの戦争は何か。",
+      "answer": "ポエニ戦争",
+      "alternatives": [],
+      "explanation": "ローマが勝利して西地中海の支配権をにぎった。",
+      "yearStart": -264,
+      "yearEnd": -146,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-14",
+      "subject": "sekaishi-tankyu",
+      "question": "第2回ポエニ戦争でイタリアに攻めこみ、ローマを危機におとしいれたカルタゴの将軍は誰か。",
+      "answer": "ハンニバル",
+      "alternatives": [],
+      "explanation": "前216年のカンネーの戦いでローマ軍に大勝した。",
+      "yearStart": -218,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-15",
+      "subject": "sekaishi-tankyu",
+      "question": "前202年に、ローマの将軍スキピオがハンニバルを破った戦いは何か。",
+      "answer": "ザマの戦い",
+      "alternatives": [],
+      "explanation": "カルタゴの近くでおこなわれた。",
+      "yearStart": -202,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-16",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマがイタリア半島の外に獲得した領土を何というか。",
+      "answer": "属州",
+      "reading": "ぞくしゅう",
+      "alternatives": [],
+      "explanation": "シチリア島が最初。総督が送られ、税がとりたてられた。",
+      "yearStart": -241,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-17",
+      "subject": "sekaishi-tankyu",
+      "question": "ポエニ戦争後のローマで広まった、奴隷を使った大土地所有制（大農場経営）を何というか。",
+      "answer": "ラティフンディア",
+      "alternatives": [
+        "ラティフンディウム"
+      ],
+      "explanation": "長い従軍や属州からの安い穀物の流入で没落した農民の土地を、有力者が買い集めた。",
+      "yearStart": -150,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-18",
+      "subject": "sekaishi-tankyu",
+      "question": "属州での徴税の請負などで富をたくわえた、元老院議員につぐローマの新しい階層を何というか。",
+      "answer": "騎士",
+      "reading": "きし",
+      "alternatives": [
+        "エクイテス"
+      ],
+      "explanation": "経済活動で力をのばした。",
+      "yearStart": -150,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-19",
+      "subject": "sekaishi-tankyu",
+      "question": "前133年以降、あいついで護民官となり、大土地所有を制限して無産市民に土地を分け与えようとした兄弟を何というか。",
+      "answer": "グラックス兄弟",
+      "alternatives": [],
+      "explanation": "有力者の反対にあって失敗した。",
+      "yearStart": -133,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-20",
+      "subject": "sekaishi-tankyu",
+      "question": "前1世紀のローマで、元老院の伝統的な支配を守ろうとした党派を何というか。",
+      "answer": "閥族派",
+      "reading": "ばつぞくは",
+      "alternatives": [],
+      "explanation": "スラが代表。",
+      "yearStart": -88,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-21",
+      "subject": "sekaishi-tankyu",
+      "question": "前1世紀のローマで、無産市民や騎士の支持をえて元老院と対立した党派を何というか。",
+      "answer": "平民派",
+      "reading": "へいみんは",
+      "alternatives": [],
+      "explanation": "マリウスが代表。",
+      "yearStart": -88,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-22",
+      "subject": "sekaishi-tankyu",
+      "question": "前91年に、イタリア半島の同盟市がローマ市民権を求めておこした戦争は何か。",
+      "answer": "同盟市戦争",
+      "reading": "どうめいしせんそう",
+      "alternatives": [],
+      "explanation": "その結果、イタリア半島の自由人にローマ市民権が与えられた。",
+      "yearStart": -91,
+      "yearEnd": -88,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-23",
+      "subject": "sekaishi-tankyu",
+      "question": "前73年に、剣闘士（剣奴）が指導者となっておこした大規模な奴隷の反乱は何か。",
+      "answer": "スパルタクスの反乱",
+      "alternatives": [
+        "スパルタクスの乱"
+      ],
+      "explanation": "クラッススやポンペイウスによってしずめられた。",
+      "yearStart": -73,
+      "yearEnd": -71,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-24",
+      "subject": "sekaishi-tankyu",
+      "question": "前60年に、ポンペイウス・カエサル・クラッススが元老院に対抗して結んだ私的な政治同盟を何というか。",
+      "answer": "第1回三頭政治",
+      "reading": "だいいっかいさんとうせいじ",
+      "alternatives": [],
+      "explanation": "クラッススの死後、カエサルとポンペイウスが対立した。",
+      "yearStart": -60,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-25",
+      "subject": "sekaishi-tankyu",
+      "question": "ガリア遠征で名声をえて、ポンペイウスを倒して独裁官となったが、前44年に暗殺された人物は誰か。",
+      "answer": "カエサル",
+      "alternatives": [
+        "ユリウス=カエサル"
+      ],
+      "explanation": "共和政を守ろうとするブルートゥスらに暗殺された。",
+      "yearStart": -46,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-26",
+      "subject": "sekaishi-tankyu",
+      "question": "カエサルが、自分のガリア遠征の経過を記した著作は何か。",
+      "answer": "ガリア戦記",
+      "reading": "がりあせんき",
+      "alternatives": [],
+      "explanation": "ゲルマン人についての貴重な記録でもある。",
+      "yearStart": -51,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-27",
+      "subject": "sekaishi-tankyu",
+      "question": "カエサルの部下で、第2回三頭政治に加わり、のちにプトレマイオス朝の女王クレオパトラと結んだ人物は誰か。",
+      "answer": "アントニウス",
+      "alternatives": [],
+      "explanation": "オクタウィアヌスと対立した。",
+      "yearStart": -43,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-28",
+      "subject": "sekaishi-tankyu",
+      "question": "前31年に、オクタウィアヌスがアントニウスとクレオパトラの連合軍を破った海戦は何か。",
+      "answer": "アクティウムの海戦",
+      "alternatives": [],
+      "explanation": "翌年プトレマイオス朝が滅び、地中海世界が統一された。",
+      "yearStart": -31,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-29",
+      "subject": "sekaishi-tankyu",
+      "question": "前27年に元老院から「尊厳者」を意味する称号をおくられ、事実上の最初のローマ皇帝となった人物は誰か。",
+      "answer": "オクタウィアヌス",
+      "alternatives": [
+        "アウグストゥス",
+        "オクタヴィアヌス"
+      ],
+      "explanation": "カエサルの養子。",
+      "yearStart": -27,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-30",
+      "subject": "sekaishi-tankyu",
+      "question": "共和政の形を尊重しながら、実際には一人の「第一人者」がすべての権力をにぎった、ローマ帝政前半の政治体制を何というか。",
+      "answer": "元首政",
+      "reading": "げんしゅせい",
+      "alternatives": [
+        "プリンキパトゥス"
+      ],
+      "explanation": "オクタウィアヌスは「市民のなかの第一人者（プリンケプス）」と自称した。",
+      "yearStart": -27,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-31",
+      "subject": "sekaishi-tankyu",
+      "question": "アウグストゥスの時代から約200年間続いた、ローマ帝国の平和と繁栄の時代を何というか。",
+      "answer": "ローマの平和",
+      "alternatives": [
+        "パクス=ロマーナ"
+      ],
+      "explanation": "地中海一帯が統一され、交通や商業が発展した。",
+      "yearStart": -27,
+      "yearEnd": 180,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-32",
+      "subject": "sekaishi-tankyu",
+      "question": "96年から180年までの、ローマ帝国の最盛期を治めた5人の皇帝をまとめて何というか。",
+      "answer": "五賢帝",
+      "reading": "ごけんてい",
+      "alternatives": [],
+      "explanation": "ネルウァ・トラヤヌス・ハドリアヌス・アントニヌス=ピウス・マルクス=アウレリウス=アントニヌス。",
+      "yearStart": 96,
+      "yearEnd": 180,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-33",
+      "subject": "sekaishi-tankyu",
+      "question": "五賢帝の一人で、ローマ帝国の領土が最大になったときの皇帝は誰か。",
+      "answer": "トラヤヌス帝",
+      "alternatives": [
+        "トラヤヌス"
+      ],
+      "explanation": "ダキア（現在のルーマニア）などを征服した。",
+      "yearStart": 98,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-34",
+      "subject": "sekaishi-tankyu",
+      "question": "五賢帝の一人で、ブリタニアに長城をきずくなど帝国の防衛につとめた皇帝は誰か。",
+      "answer": "ハドリアヌス帝",
+      "alternatives": [
+        "ハドリアヌス"
+      ],
+      "explanation": "帝国の各地を視察した。",
+      "yearStart": 117,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-35",
+      "subject": "sekaishi-tankyu",
+      "question": "五賢帝の最後の皇帝で、ストア派の哲学者として『自省録』を著した皇帝は誰か。",
+      "answer": "マルクス=アウレリウス=アントニヌス帝",
+      "alternatives": [
+        "マルクス=アウレリウス=アントニヌス",
+        "マルクス=アウレリウス"
+      ],
+      "explanation": "「哲人皇帝」と呼ばれた。",
+      "yearStart": 161,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-36",
+      "subject": "sekaishi-tankyu",
+      "question": "212年に、帝国内のすべての自由人にローマ市民権を与えた皇帝は誰か。",
+      "answer": "カラカラ帝",
+      "alternatives": [
+        "カラカラ"
+      ],
+      "explanation": "ローマは都市国家の性格を失い、世界帝国となった。",
+      "yearStart": 212,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-37",
+      "subject": "sekaishi-tankyu",
+      "question": "3世紀に、各地の軍団がそれぞれ皇帝を立てて争った時代を何というか。",
+      "answer": "軍人皇帝の時代",
+      "reading": "ぐんじんこうていのじだい",
+      "alternatives": [
+        "軍人皇帝時代"
+      ],
+      "explanation": "ゲルマン人やササン朝の侵入もあって、帝国は混乱した。",
+      "yearStart": 235,
+      "yearEnd": 284,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-38",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマ帝政の後期に広まった、土地にしばりつけられた小作人を何というか。",
+      "answer": "コロヌス",
+      "alternatives": [],
+      "explanation": "奴隷にかわる労働力として使われた。この小作制をコロナトゥスという。",
+      "yearStart": 250,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-39",
+      "subject": "sekaishi-tankyu",
+      "question": "284年に即位して帝国の混乱をおさめ、皇帝を神として礼拝させた皇帝は誰か。",
+      "answer": "ディオクレティアヌス帝",
+      "alternatives": [
+        "ディオクレティアヌス"
+      ],
+      "explanation": "皇帝の礼拝をこばんだキリスト教徒を大迫害した。",
+      "yearStart": 284,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-40",
+      "subject": "sekaishi-tankyu",
+      "question": "ディオクレティアヌス帝が始めた、皇帝が官僚を使って専制的に支配する政治体制を何というか。",
+      "answer": "専制君主政",
+      "reading": "せんせいくんしゅせい",
+      "alternatives": [
+        "ドミナトゥス"
+      ],
+      "explanation": "皇帝は市民の第一人者ではなく、絶対的な主人となった。",
+      "yearStart": 284,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-41",
+      "subject": "sekaishi-tankyu",
+      "question": "ディオクレティアヌス帝が始めた、帝国を東西に分けてそれぞれに正帝と副帝をおく制度を何というか。",
+      "answer": "四帝分治制",
+      "reading": "していぶんちせい",
+      "alternatives": [
+        "テトラルキア",
+        "四分統治"
+      ],
+      "explanation": "広い帝国を分担して治め、外敵にそなえた。",
+      "yearStart": 293,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-42",
+      "subject": "sekaishi-tankyu",
+      "question": "313年にキリスト教を公認し、330年に都をビザンティウムに移した皇帝は誰か。",
+      "answer": "コンスタンティヌス帝",
+      "alternatives": [
+        "コンスタンティヌス"
+      ],
+      "explanation": "コロヌスの移動を禁じ、身分や職業を固定した。",
+      "yearStart": 313,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-43",
+      "subject": "sekaishi-tankyu",
+      "question": "コンスタンティヌス帝が都を移し、自分の名にちなんで改称した都市はどこか。",
+      "answer": "コンスタンティノープル",
+      "alternatives": [
+        "コンスタンティノポリス"
+      ],
+      "explanation": "現在のイスタンブル。",
+      "yearStart": 330,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-44",
+      "subject": "sekaishi-tankyu",
+      "question": "コンスタンティヌス帝が発行し、地中海交易で長く信用された金貨は何か。",
+      "answer": "ソリドゥス金貨",
+      "alternatives": [
+        "ソリドゥス",
+        "ノミスマ"
+      ],
+      "explanation": "純度の高い金貨で、経済の安定をはかった。",
+      "yearStart": 310,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0403-45",
+      "subject": "sekaishi-tankyu",
+      "question": "392年にキリスト教を国教とし、395年に死ぬときに帝国を東西に分けて2人の子に与えた皇帝は誰か。",
+      "answer": "テオドシウス帝",
+      "alternatives": [
+        "テオドシウス"
+      ],
+      "explanation": "これ以後、帝国は東西に分かれたままとなった。",
+      "yearStart": 392,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-46",
+      "subject": "sekaishi-tankyu",
+      "question": "476年に西ローマ帝国を滅ぼした、ゲルマン人の傭兵隊長は誰か。",
+      "answer": "オドアケル",
+      "alternatives": [],
+      "explanation": "西ローマ皇帝を退位させた。",
+      "yearStart": 476,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-47",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマの無産市民が有力者に求めた、食料と娯楽の提供を表すことばは何か。",
+      "answer": "パンと見世物",
+      "reading": "ぱんとみせもの",
+      "alternatives": [
+        "パンとサーカス"
+      ],
+      "explanation": "有力者は市民の人気をえるために、穀物の配給や見世物の提供をおこなった。",
+      "yearStart": -100,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-48",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマ市に建てられた、剣闘士の試合などがおこなわれた円形闘技場は何か。",
+      "answer": "コロッセウム",
+      "alternatives": [
+        "コロッセオ"
+      ],
+      "explanation": "約5万人を収容できたといわれる。",
+      "yearStart": 80,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-49",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマ市にある、すべての神々をまつる、大きな円屋根（ドーム）をもつ神殿は何か。",
+      "answer": "パンテオン",
+      "alternatives": [],
+      "explanation": "ローマの高い建築技術を示している。",
+      "yearStart": 125,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-50",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマが最初に建設した軍用道路で、ローマから南イタリアにいたる街道は何か。",
+      "answer": "アッピア街道",
+      "alternatives": [],
+      "explanation": "「すべての道はローマに通ず」といわれるほど、道路網が整備された。",
+      "yearStart": -312,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-51",
+      "subject": "sekaishi-tankyu",
+      "question": "南フランスに残る、ローマ時代の水道橋は何か。",
+      "answer": "ガール水道橋",
+      "alternatives": [
+        "ガール橋",
+        "ポン=デュ=ガール"
+      ],
+      "explanation": "アーチを重ねた3層のつくり。",
+      "yearStart": 50,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-52",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマの建国の伝説をうたった叙事詩『アエネイス』の作者は誰か。",
+      "answer": "ウェルギリウス",
+      "alternatives": [
+        "ヴェルギリウス"
+      ],
+      "explanation": "アウグストゥスの時代のラテン文学を代表する詩人。",
+      "yearStart": -19,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-53",
+      "subject": "sekaishi-tankyu",
+      "question": "ラテン語の散文の手本とされる文章を書いた、共和政末期の政治家・弁論家は誰か。",
+      "answer": "キケロ",
+      "alternatives": [],
+      "explanation": "『国家論』などを著した。",
+      "yearStart": -51,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-54",
+      "subject": "sekaishi-tankyu",
+      "question": "『ローマ建国史』（『ローマ建国以来の歴史』）を著した、アウグストゥス時代の歴史家は誰か。",
+      "answer": "リウィウス",
+      "alternatives": [],
+      "explanation": "ローマの建国からの歴史を記した。",
+      "yearStart": -10,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-55",
+      "subject": "sekaishi-tankyu",
+      "question": "ゲルマン人の社会を記した『ゲルマニア』や、『年代記』を著した歴史家は誰か。",
+      "answer": "タキトゥス",
+      "alternatives": [],
+      "explanation": "質素なゲルマン人とくらべて、ローマ人の堕落を批判した。",
+      "yearStart": 98,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-56",
+      "subject": "sekaishi-tankyu",
+      "question": "ギリシアとローマの英雄を比べた『対比列伝』（『英雄伝』）を著したギリシア人は誰か。",
+      "answer": "プルタルコス",
+      "alternatives": [],
+      "explanation": "五賢帝の時代に活躍した。",
+      "yearStart": 100,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-57",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマが発展した理由を、政治体制は循環するという考え方から論じた『歴史』の著者であるギリシア人は誰か。",
+      "answer": "ポリビオス",
+      "alternatives": [],
+      "explanation": "ローマの国制が王政・貴族政・民主政の長所をかねそなえていると考えた。",
+      "yearStart": -150,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0403-58",
+      "subject": "sekaishi-tankyu",
+      "question": "地中海各地の地理や歴史を記した『地理誌』を著したギリシア人は誰か。",
+      "answer": "ストラボン",
+      "alternatives": [],
+      "explanation": "アウグストゥスの時代に活躍した。",
+      "yearStart": 10,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0403-59",
+      "subject": "sekaishi-tankyu",
+      "question": "自然に関する知識を集めた百科事典『博物誌』を著した人物は誰か。",
+      "answer": "プリニウス",
+      "alternatives": [],
+      "explanation": "79年のヴェスヴィオ火山の噴火のさいに死亡した。",
+      "yearStart": 77,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-60",
+      "subject": "sekaishi-tankyu",
+      "question": "地球が宇宙の中心にあるとする天動説を体系づけた、2世紀のアレクサンドリアの天文学者は誰か。",
+      "answer": "プトレマイオス",
+      "alternatives": [],
+      "explanation": "その説は、中世のヨーロッパやイスラーム世界で長く信じられた。",
+      "yearStart": 150,
+      "yearApprox": true,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-61",
+      "subject": "sekaishi-tankyu",
+      "question": "ネロ帝の師でもあった、ローマのストア派の哲学者は誰か。",
+      "answer": "セネカ",
+      "alternatives": [],
+      "explanation": "『幸福論』などを著した。",
+      "yearStart": 50,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0403-62",
+      "subject": "sekaishi-tankyu",
+      "question": "奴隷の出身であった、ローマのストア派の哲学者は誰か。",
+      "answer": "エピクテトス",
+      "alternatives": [],
+      "explanation": "その教えは弟子によって記録された。",
+      "yearStart": 100,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0403-63",
+      "subject": "sekaishi-tankyu",
+      "question": "前46年にカエサルが定めた、エジプトの太陽暦をもとにした暦は何か。",
+      "answer": "ユリウス暦",
+      "reading": "ゆりうすれき",
+      "alternatives": [],
+      "explanation": "16世紀にグレゴリウス暦に改められるまで、ヨーロッパで使われた。",
+      "yearStart": -46,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-64",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマ市民だけに適用されていた市民法が、帝国の広がりとともに、帝国内のすべての人々に適用される法に発展したものを何というか。",
+      "answer": "万民法",
+      "reading": "ばんみんほう",
+      "alternatives": [],
+      "explanation": "ヘレニズム思想の影響を受けて成立した。",
+      "yearStart": 212,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0403-65",
+      "subject": "sekaishi-tankyu",
+      "question": "6世紀に、東ローマ皇帝ユスティニアヌスが法学者トリボニアヌスらに編集させたローマ法の集大成は何か。",
+      "answer": "ローマ法大全",
+      "reading": "ろーまほうたいぜん",
+      "alternatives": [],
+      "explanation": "近代ヨーロッパの法にも大きな影響を与えた。",
+      "yearStart": 534,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0404-01",
+      "subject": "sekaishi-tankyu",
+      "question": "ユダヤ教の指導者たちの形式主義を批判し、神の絶対的な愛と隣人への愛を説いた人物は誰か。",
+      "answer": "イエス",
+      "alternatives": [
+        "イエス=キリスト"
+      ],
+      "explanation": "30年頃、ローマに対する反逆者として十字架にかけられた。",
+      "yearStart": 30,
+      "yearApprox": true,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0404-02",
+      "subject": "sekaishi-tankyu",
+      "question": "律法をきびしく守ることを重んじ、イエスから形式主義と批判されたユダヤ教の一派は何か。",
+      "answer": "パリサイ派",
+      "alternatives": [
+        "ファリサイ派"
+      ],
+      "explanation": "祭司とともにイエスをローマの総督に訴えた。",
+      "yearStart": 30,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0404-03",
+      "subject": "sekaishi-tankyu",
+      "question": "イエスを処刑したローマのユダヤ総督は誰か。",
+      "answer": "ピラト",
+      "alternatives": [
+        "ピラトゥス",
+        "ポンティオ=ピラト"
+      ],
+      "explanation": "イエスは、その後復活したと信じられ、キリスト教が成立した。",
+      "yearStart": 30,
+      "yearApprox": true,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0404-04",
+      "subject": "sekaishi-tankyu",
+      "question": "イエスの弟子のなかの第一の使徒とされ、ローマで殉教したと伝えられる人物は誰か。",
+      "answer": "ペテロ",
+      "alternatives": [
+        "ペトロ"
+      ],
+      "explanation": "ローマ教会はこの人物を初代の司教とする。",
+      "yearStart": 64,
+      "yearApprox": true,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0404-05",
+      "subject": "sekaishi-tankyu",
+      "question": "ユダヤ人以外の人々（異邦人）への伝道につとめ、キリスト教をローマ帝国の各地に広めた使徒は誰か。",
+      "answer": "パウロ",
+      "alternatives": [],
+      "explanation": "神の愛は異邦人にもおよぶと説いた。",
+      "yearStart": 50,
+      "yearApprox": true,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0404-06",
+      "subject": "sekaishi-tankyu",
+      "question": "イエスの教えや行いを記した福音書や、使徒の手紙などからなるキリスト教の教典は何か。",
+      "answer": "新約聖書",
+      "reading": "しんやくせいしょ",
+      "alternatives": [],
+      "explanation": "ギリシア語のコイネーで書かれた。",
+      "yearStart": 100,
+      "yearApprox": true,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0404-07",
+      "subject": "sekaishi-tankyu",
+      "question": "64年のローマの大火をきっかけに、キリスト教徒を迫害した皇帝は誰か。",
+      "answer": "ネロ帝",
+      "alternatives": [
+        "ネロ"
+      ],
+      "explanation": "ペテロやパウロはこのときに殉教したと伝えられる。",
+      "yearStart": 64,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0404-08",
+      "subject": "sekaishi-tankyu",
+      "question": "迫害を受けたキリスト教徒が礼拝にも使った、地下の墓所を何というか。",
+      "answer": "カタコンベ",
+      "alternatives": [
+        "カタコーム"
+      ],
+      "explanation": "ローマなどに残っている。",
+      "yearStart": 200,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0404-09",
+      "subject": "sekaishi-tankyu",
+      "question": "313年にコンスタンティヌス帝がキリスト教を公認した勅令は何か。",
+      "answer": "ミラノ勅令",
+      "reading": "みらのちょくれい",
+      "alternatives": [],
+      "explanation": "帝国の統一を保つために、信者のふえたキリスト教を公認した。",
+      "yearStart": 313,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0404-10",
+      "subject": "sekaishi-tankyu",
+      "question": "325年にコンスタンティヌス帝が、キリスト教の教義を統一するためにひらいた公会議は何か。",
+      "answer": "ニケーア公会議",
+      "alternatives": [
+        "ニカイア公会議"
+      ],
+      "explanation": "アタナシウス派が正統、アリウス派が異端とされた。",
+      "yearStart": 325,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0404-11",
+      "subject": "sekaishi-tankyu",
+      "question": "ニケーア公会議で正統とされた、キリストを神と同じ性質をもつとする派は何か。",
+      "answer": "アタナシウス派",
+      "alternatives": [],
+      "explanation": "のちに三位一体説として確立された。",
+      "yearStart": 325,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0404-12",
+      "subject": "sekaishi-tankyu",
+      "question": "ニケーア公会議で異端とされ、その後ゲルマン人のあいだに広まった、キリストを人間であるとする派は何か。",
+      "answer": "アリウス派",
+      "alternatives": [],
+      "explanation": "北方のゲルマン人に伝道された。",
+      "yearStart": 325,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0404-13",
+      "subject": "sekaishi-tankyu",
+      "question": "父なる神・子なるキリスト・聖霊の3つは、同じ1つの神の3つのすがたであるとする、キリスト教の正統な教えを何というか。",
+      "answer": "三位一体説",
+      "reading": "さんみいったいせつ",
+      "alternatives": [],
+      "explanation": "アタナシウス派の説をもとに確立された。",
+      "yearStart": 381,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0404-14",
+      "subject": "sekaishi-tankyu",
+      "question": "4世紀後半にキリスト教の優遇をやめ、古くからの多神教の復興をはかって「背教者」と呼ばれた皇帝は誰か。",
+      "answer": "ユリアヌス帝",
+      "alternatives": [
+        "ユリアヌス"
+      ],
+      "explanation": "在位は短く、その政策は続かなかった。",
+      "yearStart": 361,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0404-15",
+      "subject": "sekaishi-tankyu",
+      "question": "431年のエフェソス公会議で異端とされ、のちにササン朝をへて中国に伝わった、キリストの神性と人性を分けて考える派は何か。",
+      "answer": "ネストリウス派",
+      "alternatives": [],
+      "explanation": "中国では景教と呼ばれた。",
+      "yearStart": 431,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0404-16",
+      "subject": "sekaishi-tankyu",
+      "question": "451年にひらかれ、キリストに神性だけを認める単性論を異端とした公会議は何か。",
+      "answer": "カルケドン公会議",
+      "alternatives": [],
+      "explanation": "単性論は、エジプトのコプト教会などに受けつがれた。",
+      "yearStart": 451,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0404-17",
+      "subject": "sekaishi-tankyu",
+      "question": "正統な教義の確立につとめ、のちの神学の発展に貢献した、古代のキリスト教の思想家たちを何というか。",
+      "answer": "教父",
+      "reading": "きょうふ",
+      "alternatives": [],
+      "explanation": "エウセビオスやアウグスティヌスが有名。",
+      "yearStart": 400,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0404-18",
+      "subject": "sekaishi-tankyu",
+      "question": "『神の国』（『神国論』）や『告白録』を著した、古代のキリスト教最大の教父は誰か。",
+      "answer": "アウグスティヌス",
+      "alternatives": [],
+      "explanation": "北アフリカのヒッポの司教。若い頃はマニ教を信じていた。",
+      "yearStart": 426,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0404-19",
+      "subject": "sekaishi-tankyu",
+      "question": "『教会史』を著し、皇帝の位は神の恵みによるものだと主張した教父は誰か。",
+      "answer": "エウセビオス",
+      "alternatives": [],
+      "explanation": "コンスタンティヌス帝に重んじられた。",
+      "yearStart": 324,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0404-20",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマ帝国の末期に重要とされた、ローマ・コンスタンティノープル・アンティオキア・イェルサレム・アレクサンドリアの5つの教会を何というか。",
+      "answer": "五本山",
+      "reading": "ごほんざん",
+      "alternatives": [],
+      "explanation": "ローマ教会とコンスタンティノープル教会がとくに有力となった。",
+      "yearStart": 450,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

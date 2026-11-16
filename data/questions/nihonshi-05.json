@@ -1,0 +1,634 @@
+{
+  "generatedFrom": "nihonshi-05.csv",
+  "_note": "このファイルは nihonshi-05.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "j-0501-01",
+      "subject": "nihonshi-tankyu",
+      "question": "藤原氏を外戚としない天皇として、1068年に即位し、みずから政治改革を進めた天皇は誰か。",
+      "answer": "後三条天皇",
+      "reading": "ごさんじょうてんのう",
+      "alternatives": [],
+      "explanation": "大江匡房らの学識のある人材を用いた。",
+      "yearStart": 1068,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0501-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1069年に後三条天皇が出した、基準に合わない荘園を停止する法令は何か。",
+      "answer": "延久の荘園整理令",
+      "reading": "えんきゅうのしょうえんせいりれい",
+      "alternatives": [],
+      "explanation": "摂関家の荘園も例外とせず、きびしく実施された。",
+      "yearStart": 1069,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0501-03",
+      "subject": "nihonshi-tankyu",
+      "question": "延久の荘園整理令を実施するために、荘園の証拠書類を審査する機関としてもうけられた役所は何か。",
+      "answer": "記録荘園券契所",
+      "reading": "きろくしょうえんけんけいじょ",
+      "alternatives": [
+        "記録所"
+      ],
+      "explanation": "それまで国司にまかせていた審査を、中央でおこなった。",
+      "yearStart": 1069,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0501-04",
+      "subject": "nihonshi-tankyu",
+      "question": "後三条天皇が定めた、公定の枡を何というか。",
+      "answer": "宣旨枡",
+      "reading": "せんじます",
+      "alternatives": [],
+      "explanation": "枡の大きさを統一した。",
+      "yearStart": 1072,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0501-05",
+      "subject": "nihonshi-tankyu",
+      "question": "荘園と、国司の支配する公領（国衙領）とで構成される、中世の土地の制度を何というか。",
+      "answer": "荘園公領制",
+      "reading": "しょうえんこうりょうせい",
+      "alternatives": [],
+      "explanation": "公領も、郡・郷・保などの単位に再編成され、荘園と同じような性格をもつようになった。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0501-06",
+      "subject": "nihonshi-tankyu",
+      "question": "荘園や公領で、田地の耕作を請け負い、年貢・公事・夫役を負担した有力な農民を何というか。",
+      "answer": "名主",
+      "reading": "みょうしゅ",
+      "alternatives": [],
+      "explanation": "田堵が、土地への権利を強めて成長した。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0501-07",
+      "subject": "nihonshi-tankyu",
+      "question": "1086年に、幼い堀河天皇に位をゆずったのちも、上皇として政治の実権をにぎった人物は誰か。",
+      "answer": "白河上皇",
+      "reading": "しらかわじょうこう",
+      "alternatives": [
+        "白河天皇",
+        "白河法皇"
+      ],
+      "explanation": "これが院政の始まりである。",
+      "yearStart": 1086,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0501-08",
+      "subject": "nihonshi-tankyu",
+      "question": "上皇が、天皇を後見しながら政治の実権をにぎる政治の形を何というか。",
+      "answer": "院政",
+      "reading": "いんせい",
+      "alternatives": [],
+      "explanation": "白河・鳥羽・後白河の3人の上皇の時代に、約100年間続いた。",
+      "yearStart": 1086,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0501-09",
+      "subject": "nihonshi-tankyu",
+      "question": "院政をおこなう上皇の役所を何というか。",
+      "answer": "院庁",
+      "reading": "いんのちょう",
+      "alternatives": [],
+      "explanation": "そこから出される文書（院庁下文）や、上皇の命令を伝える院宣が、国の政治を左右するようになった。",
+      "yearStart": 1086,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0501-10",
+      "subject": "nihonshi-tankyu",
+      "question": "上皇の側近として権勢をふるった、中・下級の貴族たちを何というか。",
+      "answer": "院近臣",
+      "reading": "いんのきんしん",
+      "alternatives": [],
+      "explanation": "豊かな国の受領などをつとめた者が多かった。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0501-11",
+      "subject": "nihonshi-tankyu",
+      "question": "白河上皇が、院の警備のためにもうけた武士の組織を何というか。",
+      "answer": "北面の武士",
+      "reading": "ほくめんのぶし",
+      "alternatives": [],
+      "explanation": "源氏や平氏の武士が登用され、中央政界への進出のきっかけとなった。",
+      "yearStart": 1095,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0501-12",
+      "subject": "nihonshi-tankyu",
+      "question": "院政の時代に広まった、上級の貴族などに1国の支配権を与えて、その国からの収益を得させる制度を何というか。",
+      "answer": "知行国の制度",
+      "reading": "ちぎょうこくのせいど",
+      "alternatives": [
+        "知行国制",
+        "知行国"
+      ],
+      "explanation": "支配権を与えられた者（知行国主）は、近親者を国司に任命した。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0501-13",
+      "subject": "nihonshi-tankyu",
+      "question": "院政の時代に、大寺院が、下級の僧侶などを武装させて組織したものを何というか。",
+      "answer": "僧兵",
+      "reading": "そうへい",
+      "alternatives": [],
+      "explanation": "興福寺や延暦寺の僧兵は、神木や神輿をかついで朝廷に要求をおしつけた（強訴）。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0501-14",
+      "subject": "nihonshi-tankyu",
+      "question": "後三年合戦ののち、平泉を根拠地として、東北地方で約100年にわたって栄えた一族を何というか。",
+      "answer": "奥州藤原氏",
+      "reading": "おうしゅうふじわらし",
+      "alternatives": [],
+      "explanation": "清衡・基衡・秀衡の3代。金や馬などの産物と、北方との交易で富をたくわえた。",
+      "yearStart": 1087,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0501-15",
+      "subject": "nihonshi-tankyu",
+      "question": "奥州藤原氏の藤原清衡が、平泉に建てた阿弥陀堂は何か。",
+      "answer": "中尊寺金色堂",
+      "reading": "ちゅうそんじこんじきどう",
+      "alternatives": [],
+      "explanation": "内部と外部に金箔をはり、螺鈿などでかざった。",
+      "yearStart": 1124,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0502-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1156年に、皇位をめぐる崇徳上皇と後白河天皇の対立に、摂関家の内部の争いが結びついておこった戦いを何というか。",
+      "answer": "保元の乱",
+      "reading": "ほうげんのらん",
+      "alternatives": [],
+      "explanation": "平清盛や源義朝を味方につけた後白河天皇の側が勝利した。",
+      "yearStart": 1156,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0502-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1159年に、院近臣どうしの対立に、平清盛と源義朝の対立が結びついておこった戦いを何というか。",
+      "answer": "平治の乱",
+      "reading": "へいじのらん",
+      "alternatives": [],
+      "explanation": "平清盛が勝利し、源義朝は敗死した。その子の頼朝は伊豆に流された。",
+      "yearStart": 1159,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0502-03",
+      "subject": "nihonshi-tankyu",
+      "question": "保元の乱・平治の乱に勝利して力をのばし、1167年に武士として初めて太政大臣となった人物は誰か。",
+      "answer": "平清盛",
+      "reading": "たいらのきよもり",
+      "alternatives": [],
+      "explanation": "娘の徳子を高倉天皇の中宮とし、その子の安徳天皇の外祖父となった。",
+      "yearStart": 1167,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0502-04",
+      "subject": "nihonshi-tankyu",
+      "question": "保元の乱によって貴族社会の争いも武士の力で解決されるようになったことを、「武者の世」になったと記した歴史書は何か。",
+      "answer": "愚管抄",
+      "reading": "ぐかんしょう",
+      "alternatives": [],
+      "explanation": "慈円が著した。",
+      "yearStart": 1220,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0502-05",
+      "subject": "nihonshi-tankyu",
+      "question": "平清盛が、摂津の大輪田泊を修築して、さかんにおこなった貿易を何というか。",
+      "answer": "日宋貿易",
+      "reading": "にっそうぼうえき",
+      "alternatives": [],
+      "explanation": "宋銭・陶磁器・書籍などが輸入され、金・硫黄・刀剣などが輸出された。",
+      "yearStart": 1170,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0502-06",
+      "subject": "nihonshi-tankyu",
+      "question": "平清盛が修築した、現在の神戸市にあった港を何というか。",
+      "answer": "大輪田泊",
+      "reading": "おおわだのとまり",
+      "alternatives": [],
+      "explanation": "瀬戸内海の航路も整えた。",
+      "yearStart": 1170,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0502-07",
+      "subject": "nihonshi-tankyu",
+      "question": "日宋貿易で大量に輸入され、日本の経済に大きな影響を与えたものは何か。",
+      "answer": "宋銭",
+      "reading": "そうせん",
+      "alternatives": [],
+      "explanation": "国内で貨幣として広く使われるようになった。",
+      "yearStart": 1170,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0502-08",
+      "subject": "nihonshi-tankyu",
+      "question": "平氏が一族の繁栄を祈って信仰し、豪華な装飾の経巻をおさめた、安芸国の神社は何か。",
+      "answer": "厳島神社",
+      "reading": "いつくしまじんじゃ",
+      "alternatives": [],
+      "explanation": "おさめられた経巻は『平家納経』と呼ばれる。",
+      "yearStart": 1164,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0502-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1177年に、後白河法皇の近臣の藤原成親や僧の俊寛らが、平氏を倒そうとくわだてて失敗した事件を何というか。",
+      "answer": "鹿ヶ谷の陰謀",
+      "reading": "ししがたにのいんぼう",
+      "alternatives": [],
+      "explanation": "1179年に、平清盛は後白河法皇を幽閉して院政を停止した。",
+      "yearStart": 1177,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0502-10",
+      "subject": "nihonshi-tankyu",
+      "question": "浄土教の広まりを示す、福島県いわき市にある院政期の阿弥陀堂は何か。",
+      "answer": "白水阿弥陀堂",
+      "reading": "しらみずあみだどう",
+      "alternatives": [],
+      "explanation": "大分県の富貴寺大堂とともに、浄土教が地方に広まったことを示す。",
+      "yearStart": 1160,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0502-11",
+      "subject": "nihonshi-tankyu",
+      "question": "後白河法皇が、当時の流行歌である今様などを集めて編集した歌謡集は何か。",
+      "answer": "梁塵秘抄",
+      "reading": "りょうじんひしょう",
+      "alternatives": [],
+      "explanation": "民衆の歌や踊りが、貴族のあいだでも流行した。",
+      "yearStart": 1180,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0502-12",
+      "subject": "nihonshi-tankyu",
+      "question": "インド・中国・日本の1000あまりの説話を集めた、院政期の説話集は何か。",
+      "answer": "今昔物語集",
+      "reading": "こんじゃくものがたりしゅう",
+      "alternatives": [],
+      "explanation": "武士や庶民の生活をえがいた話も多い。",
+      "yearStart": 1120,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0502-13",
+      "subject": "nihonshi-tankyu",
+      "question": "平将門の乱をえがいた、最初の軍記物語とされる作品は何か。",
+      "answer": "将門記",
+      "reading": "しょうもんき",
+      "alternatives": [],
+      "explanation": "前九年合戦をえがいた『陸奥話記』とともに、初期の軍記物語を代表する。",
+      "yearStart": 940,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0502-14",
+      "subject": "nihonshi-tankyu",
+      "question": "藤原道長の栄華を、批判的な目もまじえてえがいた、院政期の歴史物語は何か。",
+      "answer": "大鏡",
+      "reading": "おおかがみ",
+      "alternatives": [],
+      "explanation": "『栄花物語』は道長をたたえる立場で書かれた。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0502-15",
+      "subject": "nihonshi-tankyu",
+      "question": "院政期に発達した、絵と詞書を交互に書いて物語などを表した巻物を何というか。",
+      "answer": "絵巻物",
+      "reading": "えまきもの",
+      "alternatives": [],
+      "explanation": "『源氏物語絵巻』『伴大納言絵巻』『信貴山縁起絵巻』などがある。",
+      "yearStart": 1150,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0502-16",
+      "subject": "nihonshi-tankyu",
+      "question": "応天門の変を題材とした、院政期の絵巻物は何か。",
+      "answer": "伴大納言絵巻",
+      "reading": "ばんだいなごんえまき",
+      "alternatives": [],
+      "explanation": "群衆の動きが生き生きとえがかれている。",
+      "yearStart": 1170,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0502-17",
+      "subject": "nihonshi-tankyu",
+      "question": "京都の高山寺に伝わる、動物を擬人化して当時の世相を風刺した絵巻物は何か。",
+      "answer": "鳥獣戯画",
+      "reading": "ちょうじゅうぎが",
+      "alternatives": [
+        "鳥獣人物戯画"
+      ],
+      "explanation": "詞書がなく、墨一色でえがかれている。",
+      "yearStart": 1150,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0502-18",
+      "subject": "nihonshi-tankyu",
+      "question": "豊作を祈る農村の芸能から発達し、院政期に貴族のあいだでも流行した芸能は何か。",
+      "answer": "田楽",
+      "reading": "でんがく",
+      "alternatives": [],
+      "explanation": "こっけいな物まねなどの猿楽とともに流行した。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

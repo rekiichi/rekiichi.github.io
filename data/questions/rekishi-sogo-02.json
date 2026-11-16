@@ -1,0 +1,3105 @@
+{
+  "generatedFrom": "rekishi-sogo-02.csv",
+  "_note": "このファイルは rekishi-sogo-02.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "r-0201-01",
+      "subject": "rekishi-sogo",
+      "question": "20世紀の初めに、教育の普及や新聞の発達などを背景に、政治や社会に大きな影響力をもつようになった、多数のふつうの人々を何というか。",
+      "answer": "大衆",
+      "reading": "たいしゅう",
+      "alternatives": [
+        "民衆"
+      ],
+      "explanation": "日本では、日比谷焼打ち事件のように、都市の民衆が政治を動かすようになった。",
+      "yearStart": 1905,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0201-02",
+      "subject": "rekishi-sogo",
+      "question": "1912年に、藩閥の桂太郎が首相になると、「閥族打破・憲政擁護」をかかげて、政党や新聞、民衆がおこした運動を何というか。",
+      "answer": "第一次護憲運動",
+      "reading": "だいいちじごけんうんどう",
+      "alternatives": [
+        "第1次護憲運動",
+        "憲政擁護運動"
+      ],
+      "explanation": "憲法にもとづく政治を守ることをうったえた。",
+      "yearStart": 1912,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0201-03",
+      "subject": "rekishi-sogo",
+      "question": "1913年に、第一次護憲運動によって、桂太郎内閣が、わずか50日あまりで退陣したできごとを何というか。",
+      "answer": "大正政変",
+      "reading": "たいしょうせいへん",
+      "alternatives": [],
+      "explanation": "民衆の運動が、初めて内閣を倒した。",
+      "yearStart": 1913,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0201-04",
+      "subject": "rekishi-sogo",
+      "question": "1910年に、天皇の暗殺を計画したとして、幸徳秋水ら多くの社会主義者が逮捕され、翌年に処刑された事件を何というか。",
+      "answer": "大逆事件",
+      "reading": "たいぎゃくじけん",
+      "alternatives": [],
+      "explanation": "社会主義運動は、きびしく取りしまられた。",
+      "yearStart": 1910,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0201-05",
+      "subject": "rekishi-sogo",
+      "question": "1911年に、女性の解放をめざして青鞜社をつくり、「元始、女性は実に太陽であった」と宣言した人物は誰か。",
+      "answer": "平塚らいてう",
+      "reading": "ひらつからいちょう",
+      "alternatives": [
+        "平塚雷鳥",
+        "平塚明"
+      ],
+      "explanation": "女性の地位の向上をめざす運動の先がけとなった。",
+      "yearStart": 1911,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0201-06",
+      "subject": "rekishi-sogo",
+      "question": "20世紀の初めのイギリスなどで高まった、女性が選挙権を求める運動を何というか。",
+      "answer": "女性参政権運動",
+      "reading": "じょせいさんせいけんうんどう",
+      "alternatives": [
+        "婦人参政権運動"
+      ],
+      "explanation": "第一次世界大戦ののち、多くの国で女性の選挙権が認められた。",
+      "yearStart": 1905,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0201-07",
+      "subject": "rekishi-sogo",
+      "question": "労働者が、賃金の引き上げや労働時間の短縮などを求めて、団結してつくる組織を何というか。",
+      "answer": "労働組合",
+      "reading": "ろうどうくみあい",
+      "alternatives": [],
+      "explanation": "日本では、1912年に友愛会がつくられた。",
+      "yearStart": 1912,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0201-08",
+      "subject": "rekishi-sogo",
+      "question": "1911年に日本で制定された、12歳未満の子どもの就業の禁止や、女性・少年の労働時間の制限を定めた、最初の労働者保護の法律は何か。",
+      "answer": "工場法",
+      "reading": "こうじょうほう",
+      "alternatives": [],
+      "explanation": "小さな工場には適用されないなど、不十分な内容だった。",
+      "yearStart": 1911,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0201-09",
+      "subject": "rekishi-sogo",
+      "question": "1901年に、日本で最初の社会主義の政党として結成されたが、すぐに解散を命じられた政党は何か。",
+      "answer": "社会民主党",
+      "reading": "しゃかいみんしゅとう",
+      "alternatives": [],
+      "explanation": "欧米では、労働者を基盤とする政党が議会で勢力をのばしていた。",
+      "yearStart": 1901,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0202-01",
+      "subject": "rekishi-sogo",
+      "question": "20世紀の初めに、ドイツ・オーストリア・イタリアが結んでいた同盟を何というか。",
+      "answer": "三国同盟",
+      "reading": "さんごくどうめい",
+      "alternatives": [],
+      "explanation": "イギリス・フランス・ロシアの三国協商と対立した。",
+      "yearStart": 1882,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0202-02",
+      "subject": "rekishi-sogo",
+      "question": "20世紀の初めに、イギリス・フランス・ロシアのあいだで成立していた協力の関係を何というか。",
+      "answer": "三国協商",
+      "reading": "さんごくきょうしょう",
+      "alternatives": [],
+      "explanation": "ドイツを包囲する形となった。",
+      "yearStart": 1907,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0202-03",
+      "subject": "rekishi-sogo",
+      "question": "20世紀の初めに、民族や宗教の対立に、列強の利害がからんで、紛争が続いたために、「ヨーロッパの火薬庫」と呼ばれた地域はどこか。",
+      "answer": "バルカン半島",
+      "reading": "ばるかんはんとう",
+      "alternatives": [],
+      "explanation": "オスマン帝国の支配が弱まり、スラヴ系の民族の独立運動がさかんになっていた。",
+      "yearStart": 1910,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0202-04",
+      "subject": "rekishi-sogo",
+      "question": "1914年に、オーストリアの皇位継承者の夫妻が、ボスニアの都市で、セルビア人の青年に暗殺された事件を何というか。",
+      "answer": "サライェヴォ事件",
+      "alternatives": [
+        "サラエボ事件"
+      ],
+      "explanation": "オーストリアがセルビアに宣戦すると、各国がつぎつぎに参戦した。",
+      "yearStart": 1914,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0202-05",
+      "subject": "rekishi-sogo",
+      "question": "1914年から1918年まで続いた、ヨーロッパを主な戦場とする、世界的な規模の戦争を何というか。",
+      "answer": "第一次世界大戦",
+      "reading": "だいいちじせかいたいせん",
+      "alternatives": [],
+      "explanation": "ドイツ・オーストリアなどの同盟国と、イギリス・フランス・ロシアなどの連合国が戦った。",
+      "yearStart": 1914,
+      "yearEnd": 1918,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0202-06",
+      "subject": "rekishi-sogo",
+      "question": "第一次世界大戦のように、軍隊だけでなく、国民や経済、資源、科学技術などのすべてを動員して戦う戦争を何というか。",
+      "answer": "総力戦",
+      "reading": "そうりょくせん",
+      "alternatives": [],
+      "explanation": "女性も工場などで働き、植民地の人々も動員された。",
+      "yearStart": 1914,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0202-07",
+      "subject": "rekishi-sogo",
+      "question": "第一次世界大戦で初めて本格的に使われた、新しい兵器を1つあげよ。",
+      "answer": "戦車",
+      "reading": "せんしゃ",
+      "alternatives": [
+        "毒ガス",
+        "飛行機",
+        "潜水艦"
+      ],
+      "explanation": "戦争の被害は、それまでにない大きさとなった。",
+      "yearStart": 1916,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0202-08",
+      "subject": "rekishi-sogo",
+      "question": "1917年に、ドイツの無制限潜水艦作戦をきっかけに、連合国側に立って参戦した国はどこか。",
+      "answer": "アメリカ",
+      "alternatives": [
+        "アメリカ合衆国"
+      ],
+      "explanation": "これによって、連合国が優勢となった。1918年にドイツが降伏して、戦争は終わった。",
+      "yearStart": 1917,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0202-09",
+      "subject": "rekishi-sogo",
+      "question": "第一次世界大戦では、多くの男性が戦場に行ったために、工場などで働く人がふえて、社会的な地位が高まったのは、どのような人々か。",
+      "answer": "女性",
+      "reading": "じょせい",
+      "alternatives": [],
+      "explanation": "戦後、イギリスやドイツ、アメリカなどで、女性の選挙権が認められた。",
+      "yearStart": 1918,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0203-01",
+      "subject": "rekishi-sogo",
+      "question": "第一次世界大戦が始まると、日本は、何を理由にして、ドイツに宣戦を布告したか。",
+      "answer": "日英同盟",
+      "reading": "にちえいどうめい",
+      "alternatives": [],
+      "explanation": "中国の山東省にあるドイツの拠点の青島や、太平洋のドイツ領の島々を占領した。",
+      "yearStart": 1914,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0203-02",
+      "subject": "rekishi-sogo",
+      "question": "1915年に、日本が、中国に対して、山東省のドイツの権益を引きつぐことなどを求めたものを何というか。",
+      "answer": "二十一カ条の要求",
+      "reading": "にじゅういっかじょうのようきゅう",
+      "alternatives": [
+        "二十一か条の要求",
+        "21カ条の要求"
+      ],
+      "explanation": "軍事力を背景に、大部分を認めさせた。中国では、日本への反発が強まった。",
+      "yearStart": 1915,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0203-03",
+      "subject": "rekishi-sogo",
+      "question": "第一次世界大戦中に、ヨーロッパやアジアへの輸出がふえて、日本の経済がむかえた好景気を何というか。",
+      "answer": "大戦景気",
+      "reading": "たいせんけいき",
+      "alternatives": [],
+      "explanation": "重化学工業が発展し、工業の生産額が農業の生産額を上まわった。",
+      "yearStart": 1915,
+      "yearEnd": 1918,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0203-04",
+      "subject": "rekishi-sogo",
+      "question": "大戦景気のなかで、急に大金持ちになった人々は、何と呼ばれたか。",
+      "answer": "成金",
+      "reading": "なりきん",
+      "alternatives": [],
+      "explanation": "一方で、物価が上がり、庶民の生活は苦しくなった。",
+      "yearStart": 1917,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0203-05",
+      "subject": "rekishi-sogo",
+      "question": "1918年に、ロシア革命に干渉するために、日本がアメリカなどとともに軍を送ったことを何というか。",
+      "answer": "シベリア出兵",
+      "reading": "しべりあしゅっぺい",
+      "alternatives": [],
+      "explanation": "日本は、他国が引きあげたのちも、1922年まで軍をとどめた。",
+      "yearStart": 1918,
+      "yearEnd": 1922,
+      "regions": [
+        "日本",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0203-06",
+      "subject": "rekishi-sogo",
+      "question": "1918年に、米の値段が急に上がったために、富山県から全国に広がった、米の安売りを求める民衆の運動を何というか。",
+      "answer": "米騒動",
+      "reading": "こめそうどう",
+      "alternatives": [],
+      "explanation": "シベリア出兵を見こした米の買い占めが原因だった。政府は、軍隊を出してしずめた。",
+      "yearStart": 1918,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0203-07",
+      "subject": "rekishi-sogo",
+      "question": "1918年に、米騒動ののち、日本で最初の本格的な政党内閣を組織した、立憲政友会の総裁は誰か。",
+      "answer": "原敬",
+      "reading": "はらたかし",
+      "alternatives": [],
+      "explanation": "陸軍・海軍・外務の大臣以外は、すべて立憲政友会の党員だった。「平民宰相」と呼ばれた。",
+      "yearStart": 1918,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0203-08",
+      "subject": "rekishi-sogo",
+      "question": "第一次世界大戦のあいだに、日本は、外国に対して、借金をしている国から、何にかわったか。",
+      "answer": "債権国",
+      "reading": "さいけんこく",
+      "alternatives": [],
+      "explanation": "外国に資金を貸している国のこと。アメリカも、世界最大の債権国となった。",
+      "yearStart": 1920,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0203-09",
+      "subject": "rekishi-sogo",
+      "question": "第一次世界大戦ののち、日本が、国際連盟から統治をまかされた、赤道以北の旧ドイツ領の地域はどこか。",
+      "answer": "南洋諸島",
+      "reading": "なんようしょとう",
+      "alternatives": [
+        "南洋群島"
+      ],
+      "explanation": "委任統治領として支配した。",
+      "yearStart": 1920,
+      "regions": [
+        "日本",
+        "オセアニア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0204-01",
+      "subject": "rekishi-sogo",
+      "question": "1917年に、ロシアで、戦争の長期化と食料の不足に苦しむ民衆がおこして、皇帝を退位させ、ついで社会主義の政権をつくった革命を何というか。",
+      "answer": "ロシア革命",
+      "reading": "ろしあかくめい",
+      "alternatives": [],
+      "explanation": "3月（ロシア暦2月）に皇帝ニコライ2世が退位し、11月（ロシア暦10月）に社会主義の政権が成立した。",
+      "yearStart": 1917,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0204-02",
+      "subject": "rekishi-sogo",
+      "question": "ロシア革命を指導して、世界で最初の社会主義の政権をつくった人物は誰か。",
+      "answer": "レーニン",
+      "alternatives": [],
+      "explanation": "ボリシェヴィキ（のちの共産党）の指導者。",
+      "yearStart": 1917,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0204-03",
+      "subject": "rekishi-sogo",
+      "question": "ロシア革命のときに、各地で、労働者や兵士によってつくられた、代表者の会議を何というか。",
+      "answer": "ソヴィエト",
+      "alternatives": [
+        "ソビエト"
+      ],
+      "explanation": "ロシア語で「会議」を意味する。",
+      "yearStart": 1917,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0204-04",
+      "subject": "rekishi-sogo",
+      "question": "1917年に、レーニンの政権が、すべての交戦国に、無併合・無償金・民族自決の原則による講和を呼びかけた宣言を何というか。",
+      "answer": "平和に関する布告",
+      "reading": "へいわにかんするふこく",
+      "alternatives": [],
+      "explanation": "翌年、ドイツと単独で講和した。",
+      "yearStart": 1917,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0204-05",
+      "subject": "rekishi-sogo",
+      "question": "1919年に、レーニンらが、世界の革命をめざして、モスクワでつくった、各国の共産党の国際的な組織を何というか。",
+      "answer": "コミンテルン",
+      "alternatives": [
+        "共産主義インターナショナル",
+        "第3インターナショナル"
+      ],
+      "explanation": "その影響で、アジアの各地にも共産党がつくられた。",
+      "yearStart": 1919,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0204-06",
+      "subject": "rekishi-sogo",
+      "question": "1922年に成立した、世界で最初の社会主義の国の、正式な名前は何か。",
+      "answer": "ソヴィエト社会主義共和国連邦",
+      "reading": "そゔぃえとしゃかいしゅぎきょうわこくれんぽう",
+      "alternatives": [
+        "ソ連",
+        "ソビエト社会主義共和国連邦",
+        "ソビエト連邦"
+      ],
+      "explanation": "ロシアなど4つの共和国が連合して成立した。",
+      "yearStart": 1922,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0204-07",
+      "subject": "rekishi-sogo",
+      "question": "レーニンの死後に、ソ連の指導者となり、反対派を弾圧して、独裁的な政治をおこなった人物は誰か。",
+      "answer": "スターリン",
+      "alternatives": [],
+      "explanation": "一国だけで社会主義の建設ができると主張した。",
+      "yearStart": 1924,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0204-08",
+      "subject": "rekishi-sogo",
+      "question": "1928年から、ソ連が進めた、重工業の建設と農業の集団化を中心とする経済の計画を何というか。",
+      "answer": "五カ年計画",
+      "reading": "ごかねんけいかく",
+      "alternatives": [
+        "五か年計画",
+        "第1次五カ年計画"
+      ],
+      "explanation": "計画経済によって工業国となったが、農民は大きな犠牲をはらった。",
+      "yearStart": 1928,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0204-09",
+      "subject": "rekishi-sogo",
+      "question": "ロシア革命の影響が広がることをおそれた、イギリス・フランス・アメリカ・日本などが、革命に反対する勢力を助けるために軍を送ったことを何というか。",
+      "answer": "対ソ干渉戦争",
+      "reading": "たいそかんしょうせんそう",
+      "alternatives": [
+        "干渉戦争"
+      ],
+      "explanation": "日本のシベリア出兵も、その1つ。",
+      "yearStart": 1918,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0205-01",
+      "subject": "rekishi-sogo",
+      "question": "大正時代を中心に高まった、政党政治や普通選挙の実現など、民主主義を求める風潮を何というか。",
+      "answer": "大正デモクラシー",
+      "reading": "たいしょうでもくらしー",
+      "alternatives": [],
+      "explanation": "第一次世界大戦ののちの、世界的な民主主義の高まりも背景にある。",
+      "yearStart": 1918,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0205-02",
+      "subject": "rekishi-sogo",
+      "question": "普通選挙によって民衆の意見を政治に反映させることなどを主張する、民本主義をとなえた政治学者は誰か。",
+      "answer": "吉野作造",
+      "reading": "よしのさくぞう",
+      "alternatives": [],
+      "explanation": "大日本帝国憲法のもとで、民衆のための政治を実現することを説いた。",
+      "yearStart": 1916,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0205-03",
+      "subject": "rekishi-sogo",
+      "question": "1922年に、きびしい差別を受けてきた被差別部落の人々が、差別からの解放をめざして結成した団体は何か。",
+      "answer": "全国水平社",
+      "reading": "ぜんこくすいへいしゃ",
+      "alternatives": [],
+      "explanation": "みずからの力で、人間としての平等を求めた。",
+      "yearStart": 1922,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0205-04",
+      "subject": "rekishi-sogo",
+      "question": "1920年に、平塚らいてうや市川房枝らが、女性の政治に参加する権利を求めて結成した団体は何か。",
+      "answer": "新婦人協会",
+      "reading": "しんふじんきょうかい",
+      "alternatives": [],
+      "explanation": "女性の選挙権は、第二次世界大戦ののちに実現した。",
+      "yearStart": 1920,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0205-05",
+      "subject": "rekishi-sogo",
+      "question": "農村で、小作人が、地主に対して、小作料の引き下げなどを求めておこした争いを何というか。",
+      "answer": "小作争議",
+      "reading": "こさくそうぎ",
+      "alternatives": [],
+      "explanation": "1922年には、全国的な組織として日本農民組合がつくられた。都市では労働争議がふえた。",
+      "yearStart": 1922,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0205-06",
+      "subject": "rekishi-sogo",
+      "question": "1923年9月1日に、関東地方でおこった大きな地震による災害を何というか。",
+      "answer": "関東大震災",
+      "reading": "かんとうだいしんさい",
+      "alternatives": [],
+      "explanation": "混乱のなかで、根拠のないうわさが広まり、多くの朝鮮人や中国人、社会主義者が殺害された。",
+      "yearStart": 1923,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0205-07",
+      "subject": "rekishi-sogo",
+      "question": "1925年に成立した、満25歳以上のすべての男性に選挙権を与えた法律を、一般に何というか。",
+      "answer": "普通選挙法",
+      "reading": "ふつうせんきょほう",
+      "alternatives": [],
+      "explanation": "納税額による制限がなくなり、有権者は約4倍にふえた。",
+      "yearStart": 1925,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0205-08",
+      "subject": "rekishi-sogo",
+      "question": "1925年に、普通選挙法と同じ年に制定された、共産主義などの運動を取りしまるための法律は何か。",
+      "answer": "治安維持法",
+      "reading": "ちあんいじほう",
+      "alternatives": [],
+      "explanation": "のちには、社会運動の全体を取りしまるために使われた。",
+      "yearStart": 1925,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0205-09",
+      "subject": "rekishi-sogo",
+      "question": "1924年に、加藤高明内閣が成立してから、1932年に犬養毅内閣が倒れるまで続いた、衆議院の多数党の党首が内閣を組織する慣例を何というか。",
+      "answer": "憲政の常道",
+      "reading": "けんせいのじょうどう",
+      "alternatives": [],
+      "explanation": "2つの大きな政党が、交互に政権を担当した。",
+      "yearStart": 1924,
+      "yearEnd": 1932,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0206-01",
+      "subject": "rekishi-sogo",
+      "question": "1919年に、パリでひらかれた講和会議で、連合国とドイツのあいだで結ばれた条約は何か。",
+      "answer": "ヴェルサイユ条約",
+      "alternatives": [
+        "ベルサイユ条約"
+      ],
+      "explanation": "ドイツは、すべての植民地と本国の領土の一部を失い、軍備を制限され、巨額の賠償金を課された。",
+      "yearStart": 1919,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0206-02",
+      "subject": "rekishi-sogo",
+      "question": "第一次世界大戦の末期に、「十四カ条の平和原則」を発表して、民族自決や、国際平和のための機関の設立をとなえた、アメリカの大統領は誰か。",
+      "answer": "ウィルソン",
+      "alternatives": [],
+      "explanation": "講和会議の基本的な原則とされた。",
+      "yearStart": 1918,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0206-03",
+      "subject": "rekishi-sogo",
+      "question": "それぞれの民族は、自分たちのことを自分たちで決める権利をもつという考えを何というか。",
+      "answer": "民族自決",
+      "reading": "みんぞくじけつ",
+      "alternatives": [],
+      "explanation": "東ヨーロッパでは多くの国が独立したが、アジアやアフリカの植民地には適用されなかった。",
+      "yearStart": 1918,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0206-04",
+      "subject": "rekishi-sogo",
+      "question": "1920年に、世界の平和を守るために設立された、史上初めての国際機関は何か。",
+      "answer": "国際連盟",
+      "reading": "こくさいれんめい",
+      "alternatives": [],
+      "explanation": "本部はスイスのジュネーヴ。提案国のアメリカは、議会の反対で参加しなかった。日本は常任理事国となった。",
+      "yearStart": 1920,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0206-05",
+      "subject": "rekishi-sogo",
+      "question": "1921年から翌年にかけて、アメリカの呼びかけでひらかれた、海軍の軍備の縮小や、太平洋・中国の問題を話しあった国際会議を何というか。",
+      "answer": "ワシントン会議",
+      "reading": "わしんとんかいぎ",
+      "alternatives": [],
+      "explanation": "主力艦の保有を制限する条約や、中国の主権の尊重を約束する条約などが結ばれた。日英同盟は解消された。",
+      "yearStart": 1921,
+      "yearEnd": 1922,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0206-06",
+      "subject": "rekishi-sogo",
+      "question": "1919年にドイツで制定された、男女の普通選挙や、労働者の権利などを定めた、当時最も民主的といわれた憲法は何か。",
+      "answer": "ヴァイマル憲法",
+      "alternatives": [
+        "ワイマール憲法"
+      ],
+      "explanation": "人間らしい生活を保障する社会権を、世界で初めて定めた。",
+      "yearStart": 1919,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0206-07",
+      "subject": "rekishi-sogo",
+      "question": "1925年に、ドイツとフランス・ベルギーなどのあいだで結ばれた、国境の現状維持と不可侵を約束した条約は何か。",
+      "answer": "ロカルノ条約",
+      "alternatives": [],
+      "explanation": "翌年、ドイツは国際連盟に加盟した。",
+      "yearStart": 1925,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0206-08",
+      "subject": "rekishi-sogo",
+      "question": "1928年に、パリで結ばれた、国際紛争を解決する手段として、戦争に訴えないことを約束した条約は何か。",
+      "answer": "不戦条約",
+      "reading": "ふせんじょうやく",
+      "alternatives": [
+        "パリ不戦条約",
+        "ケロッグ・ブリアン条約"
+      ],
+      "explanation": "日本をふくむ多くの国が参加したが、違反した国への制裁の決まりはなかった。",
+      "yearStart": 1928,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0206-09",
+      "subject": "rekishi-sogo",
+      "question": "ワシントン会議で結ばれた、中国の主権と領土を尊重し、中国での各国の経済活動の機会を平等にすることを約束した条約は何か。",
+      "answer": "九カ国条約",
+      "reading": "きゅうかこくじょうやく",
+      "alternatives": [
+        "九か国条約",
+        "9カ国条約"
+      ],
+      "explanation": "日本は、山東省の権益を中国に返した。",
+      "yearStart": 1922,
+      "regions": [
+        "国際",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0207-01",
+      "subject": "rekishi-sogo",
+      "question": "1919年3月1日に、朝鮮の京城（ソウル）で始まり、全土に広がった、日本からの独立を求める運動を何というか。",
+      "answer": "三・一独立運動",
+      "reading": "さん・いちどくりつうんどう",
+      "alternatives": [
+        "三・一運動"
+      ],
+      "explanation": "人々は「独立万歳」をさけんで行進した。日本は、武力でしずめた。",
+      "yearStart": 1919,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0207-02",
+      "subject": "rekishi-sogo",
+      "question": "1919年5月4日に、中国の北京で、学生の抗議の行動から始まり、全国に広がった、日本や列強に反対する運動を何というか。",
+      "answer": "五・四運動",
+      "reading": "ご・しうんどう",
+      "alternatives": [],
+      "explanation": "パリ講和会議で、二十一カ条の要求の取り消しが認められなかったことに抗議した。",
+      "yearStart": 1919,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0207-03",
+      "subject": "rekishi-sogo",
+      "question": "五・四運動ののち、中国国民党をつくって、国民による革命をめざした人物は誰か。",
+      "answer": "孫文",
+      "reading": "そんぶん",
+      "alternatives": [],
+      "explanation": "1921年に結成された中国共産党と協力した。",
+      "yearStart": 1919,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0207-04",
+      "subject": "rekishi-sogo",
+      "question": "孫文の死後に、中国国民党の指導者となり、1927年に南京に国民政府をつくった人物は誰か。",
+      "answer": "蔣介石",
+      "reading": "しょうかいせき",
+      "alternatives": [],
+      "explanation": "各地の軍閥を倒して、中国の統一を進めた。共産党とは対立した。",
+      "yearStart": 1927,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0207-05",
+      "subject": "rekishi-sogo",
+      "question": "インドで、イギリスからの独立をめざして、「非暴力・不服従」の運動を指導した人物は誰か。",
+      "answer": "ガンディー",
+      "alternatives": [
+        "ガンジー"
+      ],
+      "explanation": "イギリスは、第一次世界大戦への協力とひきかえに自治を約束したが、戦後、それを守らなかった。",
+      "yearStart": 1919,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0207-06",
+      "subject": "rekishi-sogo",
+      "question": "第一次世界大戦で敗れたオスマン帝国にかわって、1923年に、アンカラを首都として成立した国は何か。",
+      "answer": "トルコ共和国",
+      "alternatives": [
+        "トルコ"
+      ],
+      "explanation": "政治と宗教を分け、文字をローマ字にかえ、女性に参政権を認めるなどの近代化を進めた。",
+      "yearStart": 1923,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0207-07",
+      "subject": "rekishi-sogo",
+      "question": "トルコ共和国の初代の大統領となって、近代化を進めた人物は誰か。",
+      "answer": "ムスタファ=ケマル",
+      "alternatives": [
+        "ケマル=アタテュルク",
+        "ケマル=パシャ",
+        "ケマル"
+      ],
+      "explanation": "「アタテュルク（トルコの父）」と呼ばれた。",
+      "yearStart": 1923,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0207-08",
+      "subject": "rekishi-sogo",
+      "question": "オランダの植民地であったインドネシアで、独立運動を指導し、のちに初代の大統領となった人物は誰か。",
+      "answer": "スカルノ",
+      "alternatives": [],
+      "explanation": "1927年にインドネシア国民党を結成した。",
+      "yearStart": 1927,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0207-09",
+      "subject": "rekishi-sogo",
+      "question": "第一次世界大戦中に、イギリスが、アラブ人には独立を、ユダヤ人には国家の建設への支援を約束したことが、のちの紛争の原因となった地域はどこか。",
+      "answer": "パレスチナ",
+      "alternatives": [],
+      "explanation": "ユダヤ人への約束を、バルフォア宣言という。",
+      "yearStart": 1917,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0208-01",
+      "subject": "rekishi-sogo",
+      "question": "第一次世界大戦ののち、世界の経済の中心となって、1920年代にかつてない繁栄をむかえた国はどこか。",
+      "answer": "アメリカ",
+      "alternatives": [
+        "アメリカ合衆国"
+      ],
+      "explanation": "ニューヨークのウォール街が、世界の金融の中心となった。",
+      "yearStart": 1925,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0208-02",
+      "subject": "rekishi-sogo",
+      "question": "1920年代のアメリカで確立した、同じ製品を大量につくって、大量に売り買いする社会のあり方を何というか。",
+      "answer": "大量生産・大量消費",
+      "reading": "たいりょうせいさん・たいりょうしょうひ",
+      "alternatives": [],
+      "explanation": "自動車や家庭用の電気製品が広まった。",
+      "yearStart": 1925,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0208-03",
+      "subject": "rekishi-sogo",
+      "question": "流れ作業の方式によって、自動車の大量生産に成功した、アメリカの自動車会社の創業者は誰か。",
+      "answer": "フォード",
+      "alternatives": [
+        "ヘンリー=フォード"
+      ],
+      "explanation": "安い値段の自動車が、ふつうの人々にも広まった。",
+      "yearStart": 1913,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0208-04",
+      "subject": "rekishi-sogo",
+      "question": "新聞・雑誌・ラジオ・映画などを通じて、多くの人々に広く楽しまれる文化を何というか。",
+      "answer": "大衆文化",
+      "reading": "たいしゅうぶんか",
+      "alternatives": [],
+      "explanation": "アメリカでは、映画・ジャズ・プロスポーツなどが人気を集めた。",
+      "yearStart": 1925,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0208-05",
+      "subject": "rekishi-sogo",
+      "question": "日本で、1925年に放送が始まって、ニュースや娯楽を全国の家庭に伝えるようになったメディアは何か。",
+      "answer": "ラジオ",
+      "alternatives": [
+        "ラジオ放送"
+      ],
+      "explanation": "新聞や雑誌の発行部数も大きくのび、1冊1円の全集（円本）も人気を集めた。",
+      "yearStart": 1925,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0208-06",
+      "subject": "rekishi-sogo",
+      "question": "大正時代から昭和の初めの日本で、都市にふえた、会社や役所につとめて給料で生活する人々を何というか。",
+      "answer": "サラリーマン",
+      "alternatives": [
+        "俸給生活者"
+      ],
+      "explanation": "バスの車掌やタイピストなどの仕事につく、「職業婦人」もふえた。",
+      "yearStart": 1925,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0208-07",
+      "subject": "rekishi-sogo",
+      "question": "1924年に、アメリカで制定された、日本人をふくむアジアからの移民を、事実上禁止した法律は何か。",
+      "answer": "移民法",
+      "reading": "いみんほう",
+      "alternatives": [
+        "排日移民法"
+      ],
+      "explanation": "日本では、アメリカへの反発が強まった。",
+      "yearStart": 1924,
+      "regions": [
+        "南北アメリカ",
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0208-08",
+      "subject": "rekishi-sogo",
+      "question": "多数の人々が、政治や経済、文化の中心となって、社会を動かすようになった社会を何というか。",
+      "answer": "大衆社会",
+      "reading": "たいしゅうしゃかい",
+      "alternatives": [],
+      "explanation": "選挙権の拡大、教育の普及、マスメディアの発達などによって成立した。",
+      "yearStart": 1925,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0208-09",
+      "subject": "rekishi-sogo",
+      "question": "1925年に創刊され、発行部数が100万部をこえた、日本の大衆雑誌は何か。",
+      "answer": "キング",
+      "alternatives": [],
+      "explanation": "映画やレコードも、人々の楽しみとなった。",
+      "yearStart": 1925,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0209-01",
+      "subject": "rekishi-sogo",
+      "question": "1929年に、ニューヨークの株式市場で株価が大暴落したことをきっかけに、世界中に広がった深刻な不景気を何というか。",
+      "answer": "世界恐慌",
+      "reading": "せかいきょうこう",
+      "alternatives": [],
+      "explanation": "銀行や企業がつぎつぎに倒産し、失業者があふれた。",
+      "yearStart": 1929,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0209-02",
+      "subject": "rekishi-sogo",
+      "question": "世界恐慌に対して、アメリカのフランクリン=ローズヴェルト大統領がおこなった、政府が経済に積極的にかかわる政策を何というか。",
+      "answer": "ニューディール",
+      "alternatives": [
+        "ニューディール政策",
+        "新規まき直し"
+      ],
+      "explanation": "大規模な公共事業をおこして失業者を救い、労働者の権利を保護した。",
+      "yearStart": 1933,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0209-03",
+      "subject": "rekishi-sogo",
+      "question": "世界恐慌に対して、イギリスやフランスがおこなった、本国と植民地との貿易をさかんにして、他の国の商品に高い関税をかけてしめ出す政策を何というか。",
+      "answer": "ブロック経済",
+      "reading": "ぶろっくけいざい",
+      "alternatives": [
+        "ブロック経済政策"
+      ],
+      "explanation": "植民地の少ないドイツ・イタリア・日本などは、不満を強めた。",
+      "yearStart": 1932,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0209-04",
+      "subject": "rekishi-sogo",
+      "question": "世界恐慌のとき、計画経済をとっていたために、恐慌の影響をほとんど受けなかった国はどこか。",
+      "answer": "ソ連",
+      "reading": "それん",
+      "alternatives": [
+        "ソヴィエト連邦",
+        "ソビエト連邦"
+      ],
+      "explanation": "五カ年計画によって、工業の生産をのばしていた。",
+      "yearStart": 1929,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0209-05",
+      "subject": "rekishi-sogo",
+      "question": "1930年に、世界恐慌の影響が日本におよんでおこった、深刻な不景気を何というか。",
+      "answer": "昭和恐慌",
+      "reading": "しょうわきょうこう",
+      "alternatives": [],
+      "explanation": "アメリカへの生糸の輸出が激減した。都市では失業者がふえ、農村では、娘の身売りや、学校に弁当をもっていけない子どもがふえた。",
+      "yearStart": 1930,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0209-06",
+      "subject": "rekishi-sogo",
+      "question": "1927年に、日本で、銀行の経営への不安から、預金者が銀行におしよせて、多くの銀行が休業した恐慌を何というか。",
+      "answer": "金融恐慌",
+      "reading": "きんゆうきょうこう",
+      "alternatives": [],
+      "explanation": "日本の経済は、世界恐慌の前から不況が続いていた。",
+      "yearStart": 1927,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0209-07",
+      "subject": "rekishi-sogo",
+      "question": "ニューディールの1つとして、アメリカ政府が、テネシー川の流域で、ダムの建設などの大規模な開発をおこなった事業を、略称で何というか。",
+      "answer": "TVA",
+      "alternatives": [
+        "テネシー川流域開発公社"
+      ],
+      "explanation": "多くの失業者に仕事を与えた。",
+      "yearStart": 1933,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0209-08",
+      "subject": "rekishi-sogo",
+      "question": "世界恐慌ののち、各国が自国の経済を守ることを優先したために、おとろえていった国際関係のあり方は何か。",
+      "answer": "国際協調",
+      "reading": "こくさいきょうちょう",
+      "alternatives": [
+        "国際協調体制"
+      ],
+      "explanation": "国どうしの対立が深まり、第二次世界大戦への道がひらかれた。",
+      "yearStart": 1933,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0210-01",
+      "subject": "rekishi-sogo",
+      "question": "第一次世界大戦ののちにヨーロッパで生まれた、民主主義や自由主義を否定し、個人よりも民族や国家を重んじて、独裁的な政治をおこなう体制や運動を何というか。",
+      "answer": "ファシズム",
+      "alternatives": [],
+      "explanation": "軍事力による領土の拡大をめざした。",
+      "yearStart": 1930,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0210-02",
+      "subject": "rekishi-sogo",
+      "question": "1922年に、イタリアで、ファシスト党を率いて政権をにぎった人物は誰か。",
+      "answer": "ムッソリーニ",
+      "alternatives": [],
+      "explanation": "1935年にエチオピアに侵攻して、翌年に併合した。",
+      "yearStart": 1922,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0210-03",
+      "subject": "rekishi-sogo",
+      "question": "1933年に、ドイツで、ナチ党を率いて政権をにぎった人物は誰か。",
+      "answer": "ヒトラー",
+      "alternatives": [],
+      "explanation": "世界恐慌による社会の不安のなかで、ヴェルサイユ条約への不満をうったえて、支持を広げた。",
+      "yearStart": 1933,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0210-04",
+      "subject": "rekishi-sogo",
+      "question": "ヒトラーが率いた、国民社会主義ドイツ労働者党の、略称を何というか。",
+      "answer": "ナチ党",
+      "reading": "なちとう",
+      "alternatives": [
+        "ナチス",
+        "ナチ"
+      ],
+      "explanation": "政権をにぎると、他の政党を禁止して、一党による独裁の体制をつくった。",
+      "yearStart": 1933,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0210-05",
+      "subject": "rekishi-sogo",
+      "question": "ナチ党の政権が、ドイツ民族の優秀さを主張して、きびしく迫害した人々は誰か。",
+      "answer": "ユダヤ人",
+      "alternatives": [],
+      "explanation": "第二次世界大戦中には、強制収容所で大量に殺害された。",
+      "yearStart": 1933,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0210-06",
+      "subject": "rekishi-sogo",
+      "question": "1935年に、ヒトラーの政権が、ヴェルサイユ条約を破って宣言したことは何か。",
+      "answer": "再軍備",
+      "reading": "さいぐんび",
+      "alternatives": [
+        "再軍備宣言"
+      ],
+      "explanation": "徴兵制を復活させた。翌年には、非武装とされていたラインラントに軍を進めた。",
+      "yearStart": 1935,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0210-07",
+      "subject": "rekishi-sogo",
+      "question": "1936年に、スペインで、人民戦線の政府に対して、軍人のフランコが反乱をおこして始まった内戦を何というか。",
+      "answer": "スペイン内戦",
+      "reading": "すぺいんないせん",
+      "alternatives": [
+        "スペイン内乱"
+      ],
+      "explanation": "ドイツとイタリアがフランコを支援し、1939年にフランコが勝利した。",
+      "yearStart": 1936,
+      "yearEnd": 1939,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0210-08",
+      "subject": "rekishi-sogo",
+      "question": "1930年代に、ソ連で、スターリンが、反対派とみなした多くの人々を、処刑したり収容所に送ったりしたことを何というか。",
+      "answer": "粛清",
+      "reading": "しゅくせい",
+      "alternatives": [
+        "大粛清"
+      ],
+      "explanation": "スターリンの独裁の体制がかためられた。",
+      "yearStart": 1937,
+      "yearApprox": true,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0210-09",
+      "subject": "rekishi-sogo",
+      "question": "1936年に、日本が、共産主義の広がりを防ぐことを名目に、ドイツと結んだ協定は何か。",
+      "answer": "日独防共協定",
+      "reading": "にちどくぼうきょうきょうてい",
+      "alternatives": [
+        "防共協定"
+      ],
+      "explanation": "翌年、イタリアも加わった。",
+      "yearStart": 1936,
+      "regions": [
+        "日本",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0211-01",
+      "subject": "rekishi-sogo",
+      "question": "1931年に、日本の関東軍が、奉天の郊外で、南満州鉄道の線路を爆破して、中国軍のしわざとして軍事行動を始め、満州の全域を占領したことを何というか。",
+      "answer": "満州事変",
+      "reading": "まんしゅうじへん",
+      "alternatives": [],
+      "explanation": "きっかけとなった爆破の事件を、柳条湖事件という。",
+      "yearStart": 1931,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0211-02",
+      "subject": "rekishi-sogo",
+      "question": "1932年に、関東軍が、清の最後の皇帝の溥儀を元首として、満州につくった国を何というか。",
+      "answer": "満州国",
+      "reading": "まんしゅうこく",
+      "alternatives": [],
+      "explanation": "政治や軍事、経済の実権は、日本がにぎった。日本からは、多くの農民が開拓団として移住した。",
+      "yearStart": 1932,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0211-03",
+      "subject": "rekishi-sogo",
+      "question": "1932年5月15日に、海軍の青年将校らが、首相の犬養毅を暗殺した事件を何というか。",
+      "answer": "五・一五事件",
+      "reading": "ご・いちごじけん",
+      "alternatives": [],
+      "explanation": "政党内閣の時代が終わった。",
+      "yearStart": 1932,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0211-04",
+      "subject": "rekishi-sogo",
+      "question": "1933年に、国際連盟が、満州国を認めず、日本軍の引きあげを求める勧告を採択すると、日本がおこなったことは何か。",
+      "answer": "国際連盟からの脱退",
+      "reading": "こくさいれんめいからのだったい",
+      "alternatives": [
+        "国際連盟脱退",
+        "国際連盟を脱退",
+        "脱退"
+      ],
+      "explanation": "リットン調査団の報告にもとづく勧告だった。日本は、国際的に孤立していった。",
+      "yearStart": 1933,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0211-05",
+      "subject": "rekishi-sogo",
+      "question": "1936年2月26日に、陸軍の青年将校らが、大臣などを殺害して、東京の中心部を占拠した事件を何というか。",
+      "answer": "二・二六事件",
+      "reading": "に・にろくじけん",
+      "alternatives": [],
+      "explanation": "反乱はしずめられたが、軍部は政治への発言力をいっそう強めた。",
+      "yearStart": 1936,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0211-06",
+      "subject": "rekishi-sogo",
+      "question": "1937年に、北京の郊外でおこった日本軍と中国軍の衝突（盧溝橋事件）をきっかけに始まった戦争を何というか。",
+      "answer": "日中戦争",
+      "reading": "にっちゅうせんそう",
+      "alternatives": [],
+      "explanation": "宣戦布告のないまま、全面的な戦争に広がった。",
+      "yearStart": 1937,
+      "yearEnd": 1945,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0211-07",
+      "subject": "rekishi-sogo",
+      "question": "日中戦争が始まると、中国で、国民党と共産党が、内戦をやめて協力するためにつくった体制を何というか。",
+      "answer": "抗日民族統一戦線",
+      "reading": "こうにちみんぞくとういつせんせん",
+      "alternatives": [],
+      "explanation": "国民政府は、首都を重慶に移して、アメリカやイギリスなどの支援を受けて抵抗を続けた。",
+      "yearStart": 1937,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0211-08",
+      "subject": "rekishi-sogo",
+      "question": "1937年末に、日本軍が中国の首都を占領したさいに、多くの捕虜や住民を殺害した事件を何というか。",
+      "answer": "南京事件",
+      "reading": "なんきんじけん",
+      "alternatives": [
+        "南京大虐殺"
+      ],
+      "explanation": "国際的な非難を受けたが、日本の国民には知らされなかった。",
+      "yearStart": 1937,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0211-09",
+      "subject": "rekishi-sogo",
+      "question": "1938年に制定された、政府が、議会の承認なしに、戦争のために、国民や物資を動員できるようにした法律は何か。",
+      "answer": "国家総動員法",
+      "reading": "こっかそうどういんほう",
+      "alternatives": [],
+      "explanation": "国民の生活は、戦争を優先するものへとかえられていった。1940年には、政党が解散して大政翼賛会がつくられた。",
+      "yearStart": 1938,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0212-01",
+      "subject": "rekishi-sogo",
+      "question": "1938年に、イギリスとフランスが、戦争をさけるために、ドイツの領土の要求を認めた会談を何というか。",
+      "answer": "ミュンヘン会談",
+      "alternatives": [],
+      "explanation": "ドイツに譲歩するこの政策を、宥和政策という。ドイツの侵略をとめることはできなかった。",
+      "yearStart": 1938,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0212-02",
+      "subject": "rekishi-sogo",
+      "question": "1939年8月に、ドイツが、ソ連とのあいだで結んだ条約は何か。",
+      "answer": "独ソ不可侵条約",
+      "reading": "どくそふかしんじょうやく",
+      "alternatives": [],
+      "explanation": "対立していた両国の提携は、世界をおどろかせた。",
+      "yearStart": 1939,
+      "regions": [
+        "ヨーロッパ",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0212-03",
+      "subject": "rekishi-sogo",
+      "question": "1939年9月に、ドイツがポーランドに侵攻し、イギリスとフランスがドイツに宣戦を布告して始まった戦争を何というか。",
+      "answer": "第二次世界大戦",
+      "reading": "だいにじせかいたいせん",
+      "alternatives": [],
+      "explanation": "ドイツは、1940年にフランスを降伏させ、ヨーロッパの大部分を支配した。",
+      "yearStart": 1939,
+      "yearEnd": 1945,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0212-04",
+      "subject": "rekishi-sogo",
+      "question": "1940年に、日本が、ドイツ・イタリアと結んだ軍事同盟を何というか。",
+      "answer": "日独伊三国同盟",
+      "reading": "にちどくいさんごくどうめい",
+      "alternatives": [
+        "三国同盟"
+      ],
+      "explanation": "この3国を中心とする国々を枢軸国、これと戦った国々を連合国という。",
+      "yearStart": 1940,
+      "regions": [
+        "日本",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0212-05",
+      "subject": "rekishi-sogo",
+      "question": "1941年6月に、ドイツが不可侵条約を破って侵攻して始まった、ドイツとソ連の戦争を何というか。",
+      "answer": "独ソ戦",
+      "reading": "どくそせん",
+      "alternatives": [
+        "独ソ戦争"
+      ],
+      "explanation": "ソ連は、多くの犠牲を出しながら、ドイツ軍をおし返した。",
+      "yearStart": 1941,
+      "regions": [
+        "ヨーロッパ",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0212-06",
+      "subject": "rekishi-sogo",
+      "question": "1941年8月に、アメリカのローズヴェルト大統領と、イギリスのチャーチル首相が発表した、戦後の平和についての構想を何というか。",
+      "answer": "大西洋憲章",
+      "reading": "たいせいようけんしょう",
+      "alternatives": [],
+      "explanation": "領土を広げないことや、民族自決などを示した。のちの国際連合の基礎となった。",
+      "yearStart": 1941,
+      "regions": [
+        "南北アメリカ",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0212-07",
+      "subject": "rekishi-sogo",
+      "question": "第二次世界大戦中に、ナチ=ドイツが、ユダヤ人などを強制収容所に送って、組織的に大量に殺害したことを何というか。",
+      "answer": "ホロコースト",
+      "alternatives": [],
+      "explanation": "ポーランドのアウシュヴィッツなどの収容所で、約600万人のユダヤ人が殺害されたといわれる。",
+      "yearStart": 1942,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0212-08",
+      "subject": "rekishi-sogo",
+      "question": "第二次世界大戦中に、ドイツに占領された地域で、人々がおこなった抵抗運動を何というか。",
+      "answer": "レジスタンス",
+      "alternatives": [],
+      "explanation": "フランスなどで、武力による抵抗や、情報の収集などがおこなわれた。",
+      "yearStart": 1942,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0212-09",
+      "subject": "rekishi-sogo",
+      "question": "1944年6月に、アメリカ・イギリスなどの連合軍が、フランスの北部に上陸した作戦を何というか。",
+      "answer": "ノルマンディー上陸作戦",
+      "alternatives": [
+        "ノルマンディー上陸"
+      ],
+      "explanation": "8月にはパリが解放された。ドイツは、東西から攻められることになった。",
+      "yearStart": 1944,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0213-01",
+      "subject": "rekishi-sogo",
+      "question": "日中戦争が長引くなかで、日本が、石油やゴムなどの資源を求めて、軍を進めた地域はどこか。",
+      "answer": "東南アジア",
+      "reading": "とうなんあじあ",
+      "alternatives": [
+        "フランス領インドシナ",
+        "仏印"
+      ],
+      "explanation": "1940年にフランス領インドシナの北部に、翌年に南部に軍を進めた。",
+      "yearStart": 1940,
+      "regions": [
+        "日本",
+        "東南アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0213-02",
+      "subject": "rekishi-sogo",
+      "question": "1941年に、日本が、北方の安全を確保するために、ソ連と結んだ条約は何か。",
+      "answer": "日ソ中立条約",
+      "reading": "にっそちゅうりつじょうやく",
+      "alternatives": [],
+      "explanation": "その後、日本は東南アジアへの進出を強めた。",
+      "yearStart": 1941,
+      "regions": [
+        "日本",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0213-03",
+      "subject": "rekishi-sogo",
+      "question": "日本の東南アジアへの進出に対して、アメリカが、1941年に、日本への輸出を全面的に禁止した資源は何か。",
+      "answer": "石油",
+      "reading": "せきゆ",
+      "alternatives": [],
+      "explanation": "アメリカは、日本軍の中国や東南アジアからの引きあげを求め、交渉はゆきづまった。",
+      "yearStart": 1941,
+      "regions": [
+        "日本",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0213-04",
+      "subject": "rekishi-sogo",
+      "question": "1941年12月8日に、日本軍が、ハワイの真珠湾のアメリカ軍の基地を奇襲攻撃するとともに、イギリス領のマレー半島に上陸して始まった戦争を何というか。",
+      "answer": "太平洋戦争",
+      "reading": "たいへいようせんそう",
+      "alternatives": [
+        "アジア・太平洋戦争"
+      ],
+      "explanation": "第二次世界大戦は、アジア・太平洋にも広がった。",
+      "yearStart": 1941,
+      "yearEnd": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0213-05",
+      "subject": "rekishi-sogo",
+      "question": "太平洋戦争で、日本が、戦争の目的としてかかげた、欧米の植民地支配からアジアを解放して、ともに栄える地域をつくるというスローガンは何か。",
+      "answer": "大東亜共栄圏",
+      "reading": "だいとうあきょうえいけん",
+      "alternatives": [],
+      "explanation": "実際には、占領地で資源や米を取り立て、人々をきびしい労働にかりたてたので、各地で日本への抵抗運動がおこった。",
+      "yearStart": 1940,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0213-06",
+      "subject": "rekishi-sogo",
+      "question": "1942年6月に、日本の海軍がアメリカ軍に敗れて、戦争の流れがかわるきっかけとなった戦いを何というか。",
+      "answer": "ミッドウェー海戦",
+      "reading": "みっどうぇーかいせん",
+      "alternatives": [],
+      "explanation": "以後、日本軍は各地で敗北を重ねた。",
+      "yearStart": 1942,
+      "regions": [
+        "日本",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0213-07",
+      "subject": "rekishi-sogo",
+      "question": "1943年から、それまで徴兵を猶予されていた、文科系の大学生などが、軍隊に召集されたことを何というか。",
+      "answer": "学徒出陣",
+      "reading": "がくとしゅつじん",
+      "alternatives": [],
+      "explanation": "中学生や女学生も、勤労動員によって軍需工場などで働かされた。",
+      "yearStart": 1943,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0213-08",
+      "subject": "rekishi-sogo",
+      "question": "太平洋戦争の末期に、空襲をさけるために、都市の小学生が、集団で農村などに移ったことを何というか。",
+      "answer": "学童疎開",
+      "reading": "がくどうそかい",
+      "alternatives": [
+        "集団疎開"
+      ],
+      "explanation": "食料や生活に必要な品物は、配給制や切符制となり、不足していった。",
+      "yearStart": 1944,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0213-09",
+      "subject": "rekishi-sogo",
+      "question": "日本が、植民地の朝鮮や台湾でおこなった、日本語の使用や、神社への参拝を強制するなど、人々を日本人に同化させようとした政策を何というか。",
+      "answer": "皇民化政策",
+      "reading": "こうみんかせいさく",
+      "alternatives": [],
+      "explanation": "朝鮮では、姓名を日本風に改めさせる創氏改名がおこなわれた。戦争の末期には、徴兵制も実施された。",
+      "yearStart": 1940,
+      "regions": [
+        "日本",
+        "朝鮮"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0214-01",
+      "subject": "rekishi-sogo",
+      "question": "1943年に、連合国に降伏した枢軸国はどこか。",
+      "answer": "イタリア",
+      "alternatives": [],
+      "explanation": "ムッソリーニが失脚して、新しい政府が降伏した。",
+      "yearStart": 1943,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0214-02",
+      "subject": "rekishi-sogo",
+      "question": "1945年2月に、アメリカ・イギリス・ソ連の首脳が、ドイツの戦後の処理や、ソ連の対日参戦などを話しあった会談を何というか。",
+      "answer": "ヤルタ会談",
+      "alternatives": [],
+      "explanation": "ソ連は、ドイツの降伏後に、日本との戦争に加わることを秘密のうちに約束した。",
+      "yearStart": 1945,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0214-03",
+      "subject": "rekishi-sogo",
+      "question": "1945年5月に、連合国に無条件降伏した国はどこか。",
+      "answer": "ドイツ",
+      "alternatives": [],
+      "explanation": "ヒトラーは自殺し、首都のベルリンは陥落した。ヨーロッパでの戦争が終わった。",
+      "yearStart": 1945,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0214-04",
+      "subject": "rekishi-sogo",
+      "question": "1945年3月10日に、アメリカ軍の爆撃機による大規模な空襲を受けて、一夜で約10万人が犠牲となった都市はどこか。",
+      "answer": "東京",
+      "reading": "とうきょう",
+      "alternatives": [],
+      "explanation": "全国の都市が、焼夷弾による無差別の爆撃を受けた。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0214-05",
+      "subject": "rekishi-sogo",
+      "question": "1945年3月から6月にかけて、アメリカ軍が上陸して、多くの住民をまきこむ地上戦がおこなわれた県はどこか。",
+      "answer": "沖縄県",
+      "reading": "おきなわけん",
+      "alternatives": [
+        "沖縄"
+      ],
+      "explanation": "中学生や女学生も動員された。県民の約4人に1人にあたる、12万人以上が犠牲となった。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0214-06",
+      "subject": "rekishi-sogo",
+      "question": "1945年7月に、アメリカ・イギリス・中国の名で発表された、日本に無条件降伏を求める宣言を何というか。",
+      "answer": "ポツダム宣言",
+      "reading": "ぽつだむせんげん",
+      "alternatives": [],
+      "explanation": "日本の軍国主義の排除や、民主主義の実現なども求めた。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0214-07",
+      "subject": "rekishi-sogo",
+      "question": "1945年8月6日に広島に、9日に長崎に、アメリカが投下した新しい兵器は何か。",
+      "answer": "原子爆弾",
+      "reading": "げんしばくだん",
+      "alternatives": [
+        "原爆"
+      ],
+      "explanation": "その年のうちに、広島で約14万人、長崎で約7万人以上が亡くなったと推定されている。現在も、後遺症に苦しむ人々がいる。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0214-08",
+      "subject": "rekishi-sogo",
+      "question": "1945年8月8日に、日ソ中立条約を破って日本に宣戦を布告し、満州や朝鮮、樺太、千島列島に攻めこんだ国はどこか。",
+      "answer": "ソ連",
+      "reading": "それん",
+      "alternatives": [
+        "ソヴィエト連邦",
+        "ソビエト連邦"
+      ],
+      "explanation": "満州にいた多くの日本人が犠牲となった。約60万人の日本兵らが、シベリアなどに連行されて働かされた。",
+      "yearStart": 1945,
+      "regions": [
+        "日本",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0214-09",
+      "subject": "rekishi-sogo",
+      "question": "日本が、ポツダム宣言を受け入れて降伏することを決め、昭和天皇がラジオ放送で国民に知らせたのは、1945年の何月何日か。",
+      "answer": "8月15日",
+      "alternatives": [
+        "八月十五日"
+      ],
+      "explanation": "9月2日に降伏文書に調印した。第二次世界大戦の死者は、世界全体で5000万人をこえるといわれる。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0215-01",
+      "subject": "rekishi-sogo",
+      "question": "1945年10月に、世界の平和と安全を守るために、51か国の参加で発足した国際機関は何か。",
+      "answer": "国際連合",
+      "reading": "こくさいれんごう",
+      "alternatives": [
+        "国連"
+      ],
+      "explanation": "本部はニューヨーク。国際連盟が戦争を防げなかった反省から、武力による制裁ができるようにした。",
+      "yearStart": 1945,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0215-02",
+      "subject": "rekishi-sogo",
+      "question": "国際連合で、世界の平和と安全を守ることに、主な責任をもつ機関を何というか。",
+      "answer": "安全保障理事会",
+      "reading": "あんぜんほしょうりじかい",
+      "alternatives": [
+        "安保理"
+      ],
+      "explanation": "アメリカ・イギリス・フランス・ソ連・中国の5か国が、常任理事国となった。",
+      "yearStart": 1945,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0215-03",
+      "subject": "rekishi-sogo",
+      "question": "安全保障理事会で、常任理事国の1か国でも反対すると、重要な決議が成立しない。常任理事国のもつ、この権利を何というか。",
+      "answer": "拒否権",
+      "reading": "きょひけん",
+      "alternatives": [],
+      "explanation": "大国の協調によって平和を守ろうとしたが、冷戦のもとでは、たびたび行使された。",
+      "yearStart": 1945,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0215-04",
+      "subject": "rekishi-sogo",
+      "question": "1944年に、アメリカでひらかれた会議で決められた、アメリカのドルを中心とする、戦後の国際的な通貨と経済のしくみを何というか。",
+      "answer": "ブレトン=ウッズ体制",
+      "alternatives": [
+        "IMF体制"
+      ],
+      "explanation": "国際通貨基金（IMF）と国際復興開発銀行（世界銀行）がつくられた。ドルと金の交換が保証され、各国の通貨とドルの交換の比率が固定された。",
+      "yearStart": 1944,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0215-05",
+      "subject": "rekishi-sogo",
+      "question": "1947年に調印された、関税を引き下げて、貿易を自由にすることをめざす国際的な取り決めを、略称で何というか。",
+      "answer": "GATT",
+      "reading": "がっと",
+      "alternatives": [
+        "関税と貿易に関する一般協定",
+        "関税及び貿易に関する一般協定"
+      ],
+      "explanation": "世界恐慌ののちに、各国が経済の圏をとざしたことが、戦争につながったという反省から生まれた。",
+      "yearStart": 1947,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0215-06",
+      "subject": "rekishi-sogo",
+      "question": "第二次世界大戦ののち、ドイツで、ナチ党の指導者たちの戦争犯罪を裁いた国際的な裁判を何というか。",
+      "answer": "ニュルンベルク裁判",
+      "alternatives": [
+        "ニュルンベルク国際軍事裁判"
+      ],
+      "explanation": "「平和に対する罪」や「人道に対する罪」が、新しく問われた。",
+      "yearStart": 1945,
+      "yearEnd": 1946,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0215-07",
+      "subject": "rekishi-sogo",
+      "question": "第二次世界大戦ののち、東京で、日本の戦争の指導者たちを裁いた国際的な裁判を何というか。",
+      "answer": "極東国際軍事裁判",
+      "reading": "きょくとうこくさいぐんじさいばん",
+      "alternatives": [
+        "東京裁判"
+      ],
+      "explanation": "東条英機ら7人が死刑となった。",
+      "yearStart": 1946,
+      "yearEnd": 1948,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0215-08",
+      "subject": "rekishi-sogo",
+      "question": "1948年に、国際連合の総会で採択された、すべての人が生まれながらにもつ基本的な権利を示した宣言は何か。",
+      "answer": "世界人権宣言",
+      "reading": "せかいじんけんせんげん",
+      "alternatives": [],
+      "explanation": "人権の尊重が、世界の共通の目標とされた。",
+      "yearStart": 1948,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0215-09",
+      "subject": "rekishi-sogo",
+      "question": "1945年に採択された、国際連合の目的や組織、加盟国の義務などを定めた文書を何というか。",
+      "answer": "国際連合憲章",
+      "reading": "こくさいれんごうけんしょう",
+      "alternatives": [
+        "国連憲章"
+      ],
+      "explanation": "サンフランシスコ会議で、50か国が署名した。",
+      "yearStart": 1945,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0216-01",
+      "subject": "rekishi-sogo",
+      "question": "第二次世界大戦ののちに始まった、アメリカを中心とする資本主義の国々と、ソ連を中心とする社会主義の国々との、直接は戦火をまじえないきびしい対立を何というか。",
+      "answer": "冷戦",
+      "reading": "れいせん",
+      "alternatives": [
+        "冷たい戦争"
+      ],
+      "explanation": "世界は、西側と東側の2つの陣営に分かれた。",
+      "yearStart": 1947,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0216-02",
+      "subject": "rekishi-sogo",
+      "question": "1946年に、イギリスの前の首相チャーチルが、ヨーロッパが東西に分断されているようすをたとえた言葉は何か。",
+      "answer": "鉄のカーテン",
+      "reading": "てつのかーてん",
+      "alternatives": [],
+      "explanation": "ソ連は、東ヨーロッパの国々に、社会主義の政権をつくらせていた。",
+      "yearStart": 1946,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0216-03",
+      "subject": "rekishi-sogo",
+      "question": "1947年に、アメリカのトルーマン大統領が発表した、共産主義の広がりをおさえこむ方針を何というか。",
+      "answer": "トルーマン=ドクトリン",
+      "alternatives": [
+        "封じ込め政策"
+      ],
+      "explanation": "ギリシアとトルコへの援助を表明した。",
+      "yearStart": 1947,
+      "regions": [
+        "南北アメリカ",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0216-04",
+      "subject": "rekishi-sogo",
+      "question": "1947年に、アメリカが発表した、ヨーロッパの経済の復興を援助する計画を、提案した国務長官の名から何というか。",
+      "answer": "マーシャル=プラン",
+      "alternatives": [
+        "ヨーロッパ経済復興援助計画"
+      ],
+      "explanation": "西ヨーロッパの国々は受け入れたが、ソ連と東ヨーロッパの国々は拒否した。",
+      "yearStart": 1947,
+      "regions": [
+        "南北アメリカ",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0216-05",
+      "subject": "rekishi-sogo",
+      "question": "1949年に、アメリカと西ヨーロッパの国々がつくった軍事同盟を、略称で何というか。",
+      "answer": "NATO",
+      "reading": "なとー",
+      "alternatives": [
+        "北大西洋条約機構"
+      ],
+      "explanation": "これに対して、ソ連と東ヨーロッパの国々は、1955年にワルシャワ条約機構をつくった。",
+      "yearStart": 1949,
+      "regions": [
+        "南北アメリカ",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0216-06",
+      "subject": "rekishi-sogo",
+      "question": "1949年に、冷戦の影響で、東西の2つの国に分かれて独立した、ヨーロッパの国はどこか。",
+      "answer": "ドイツ",
+      "alternatives": [],
+      "explanation": "西側のドイツ連邦共和国（西ドイツ）と、東側のドイツ民主共和国（東ドイツ）が成立した。",
+      "yearStart": 1949,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0216-07",
+      "subject": "rekishi-sogo",
+      "question": "1949年に、中国で、国民党との内戦に勝った共産党が建てた国は何か。",
+      "answer": "中華人民共和国",
+      "reading": "ちゅうかじんみんきょうわこく",
+      "alternatives": [],
+      "explanation": "主席は毛沢東。国民党の政府は、台湾に移った。",
+      "yearStart": 1949,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0216-08",
+      "subject": "rekishi-sogo",
+      "question": "1950年に、北朝鮮が韓国に侵攻して始まった戦争を何というか。",
+      "answer": "朝鮮戦争",
+      "reading": "ちょうせんせんそう",
+      "alternatives": [],
+      "explanation": "アメリカ軍を中心とする国連軍が韓国を、中国の義勇軍が北朝鮮を助けた。1953年に休戦したが、南北の分断は現在も続いている。",
+      "yearStart": 1950,
+      "yearEnd": 1953,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0216-09",
+      "subject": "rekishi-sogo",
+      "question": "1949年に、アメリカについで、原子爆弾の開発に成功した国はどこか。",
+      "answer": "ソ連",
+      "reading": "それん",
+      "alternatives": [
+        "ソヴィエト連邦",
+        "ソビエト連邦"
+      ],
+      "explanation": "アメリカとソ連は、核兵器の開発をきそいあった。",
+      "yearStart": 1949,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治",
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0217-01",
+      "subject": "rekishi-sogo",
+      "question": "敗戦ののち、日本を占領した連合国軍の、総司令部の略称を何というか。",
+      "answer": "GHQ",
+      "alternatives": [
+        "連合国軍最高司令官総司令部",
+        "連合国軍総司令部"
+      ],
+      "explanation": "最高司令官はマッカーサー。日本政府に指令を出して、改革を進めさせた。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0217-02",
+      "subject": "rekishi-sogo",
+      "question": "GHQの占領政策の基本の方針は、日本から軍国主義を取りのぞくことと、もう1つは何か。",
+      "answer": "民主化",
+      "reading": "みんしゅか",
+      "alternatives": [],
+      "explanation": "軍隊は解散させられ、戦争の指導者は裁判にかけられた。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0217-03",
+      "subject": "rekishi-sogo",
+      "question": "GHQの指令で、日本の経済を支配して、戦争にも協力した、三井・三菱などの大きな企業の集団が解体されたことを何というか。",
+      "answer": "財閥解体",
+      "reading": "ざいばつかいたい",
+      "alternatives": [],
+      "explanation": "経済の民主化がはかられた。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0217-04",
+      "subject": "rekishi-sogo",
+      "question": "GHQの指令でおこなわれた、政府が地主の土地を買い上げて、小作人に安く売りわたした改革を何というか。",
+      "answer": "農地改革",
+      "reading": "のうちかいかく",
+      "alternatives": [],
+      "explanation": "多くの小作人が、自分の土地をもつ自作農となった。",
+      "yearStart": 1946,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0217-05",
+      "subject": "rekishi-sogo",
+      "question": "1945年に、選挙法が改正されて、選挙権は、どのような人々に与えられたか。",
+      "answer": "満20歳以上の男女",
+      "alternatives": [
+        "20歳以上の男女",
+        "満20歳以上のすべての男女"
+      ],
+      "explanation": "女性の参政権が初めて認められ、翌年の総選挙で、39人の女性の議員が生まれた。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0217-06",
+      "subject": "rekishi-sogo",
+      "question": "1946年11月3日に公布され、翌年の5月3日に施行された憲法は何か。",
+      "answer": "日本国憲法",
+      "reading": "にほんこくけんぽう",
+      "alternatives": [],
+      "explanation": "GHQがつくった草案をもとに、議会での審議と修正をへて成立した。",
+      "yearStart": 1946,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0217-07",
+      "subject": "rekishi-sogo",
+      "question": "日本国憲法の3つの基本原理は、国民主権、基本的人権の尊重と、もう1つは何か。",
+      "answer": "平和主義",
+      "reading": "へいわしゅぎ",
+      "alternatives": [],
+      "explanation": "第9条で、戦争の放棄と、戦力をもたないことを定めた。天皇は、日本国と国民統合の「象徴」とされた。",
+      "yearStart": 1946,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0217-08",
+      "subject": "rekishi-sogo",
+      "question": "1947年に制定された、民主的な教育の基本を示し、義務教育を9年間とすることなどを定めた法律は何か。",
+      "answer": "教育基本法",
+      "reading": "きょういくきほんほう",
+      "alternatives": [],
+      "explanation": "教育勅語は、効力を失った。",
+      "yearStart": 1947,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0217-09",
+      "subject": "rekishi-sogo",
+      "question": "1945年に制定された、労働者が団結する権利や、ストライキをおこなう権利を認めた法律は何か。",
+      "answer": "労働組合法",
+      "reading": "ろうどうくみあいほう",
+      "alternatives": [],
+      "explanation": "1947年には、労働条件の最低の基準を定める労働基準法が制定された。",
+      "yearStart": 1945,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0218-01",
+      "subject": "rekishi-sogo",
+      "question": "冷戦がきびしくなると、アメリカは、日本の占領政策の重点を、民主化から何へと移したか。",
+      "answer": "経済の復興",
+      "reading": "けいざいのふっこう",
+      "alternatives": [
+        "経済復興",
+        "経済の自立"
+      ],
+      "explanation": "日本を、アジアにおける西側陣営の強力な一員にしようとした。",
+      "yearStart": 1948,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0218-02",
+      "subject": "rekishi-sogo",
+      "question": "朝鮮戦争が始まると、日本は、アメリカ軍からの大量の物資の注文を受けて、好景気となった。この好景気を何というか。",
+      "answer": "特需景気",
+      "reading": "とくじゅけいき",
+      "alternatives": [
+        "朝鮮特需",
+        "特需"
+      ],
+      "explanation": "日本の経済が、復興に向かうきっかけとなった。",
+      "yearStart": 1950,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0218-03",
+      "subject": "rekishi-sogo",
+      "question": "1950年に、朝鮮戦争に出動したアメリカ軍にかわって、日本の治安を守るという目的で、GHQの指令によってつくられた組織は何か。",
+      "answer": "警察予備隊",
+      "reading": "けいさつよびたい",
+      "alternatives": [],
+      "explanation": "のちに保安隊となり、1954年に自衛隊となった。",
+      "yearStart": 1950,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0218-04",
+      "subject": "rekishi-sogo",
+      "question": "1951年に、日本が、アメリカなど48か国と結んだ講和条約は何か。",
+      "answer": "サンフランシスコ平和条約",
+      "reading": "さんふらんしすこへいわじょうやく",
+      "alternatives": [
+        "サンフランシスコ講和条約"
+      ],
+      "explanation": "翌年に発効して、日本は独立を回復した。ソ連などは調印せず、中国はまねかれなかった。",
+      "yearStart": 1951,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0218-05",
+      "subject": "rekishi-sogo",
+      "question": "サンフランシスコ平和条約に調印した、日本の首相は誰か。",
+      "answer": "吉田茂",
+      "reading": "よしだしげる",
+      "alternatives": [],
+      "explanation": "経済の復興を優先して、軍備は軽くおさえる方針をとった。",
+      "yearStart": 1951,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0218-06",
+      "subject": "rekishi-sogo",
+      "question": "1951年に、サンフランシスコ平和条約と同じ日に、日本がアメリカと結んだ条約は何か。",
+      "answer": "日米安全保障条約",
+      "reading": "にちべいあんぜんほしょうじょうやく",
+      "alternatives": [
+        "安保条約",
+        "日米安保条約"
+      ],
+      "explanation": "独立ののちも、アメリカ軍が日本に基地をおいて、とどまることを認めた。",
+      "yearStart": 1951,
+      "regions": [
+        "日本",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0218-07",
+      "subject": "rekishi-sogo",
+      "question": "サンフランシスコ平和条約ののちも、1972年までアメリカの統治のもとにおかれた県はどこか。",
+      "answer": "沖縄県",
+      "reading": "おきなわけん",
+      "alternatives": [
+        "沖縄"
+      ],
+      "explanation": "アメリカ軍は、住民の土地を強制的に取り上げて、基地を広げた。",
+      "yearStart": 1951,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0218-08",
+      "subject": "rekishi-sogo",
+      "question": "1956年に、日本が、ソ連と国交を回復した宣言を何というか。",
+      "answer": "日ソ共同宣言",
+      "reading": "にっそきょうどうせんげん",
+      "alternatives": [],
+      "explanation": "北方領土の問題は解決されず、平和条約は現在も結ばれていない。",
+      "yearStart": 1956,
+      "regions": [
+        "日本",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0218-09",
+      "subject": "rekishi-sogo",
+      "question": "1956年に、日ソ共同宣言の調印ののちに実現した、日本の国際社会への復帰を示すできごとは何か。",
+      "answer": "国際連合への加盟",
+      "reading": "こくさいれんごうへのかめい",
+      "alternatives": [
+        "国連加盟",
+        "国際連合加盟",
+        "国連への加盟"
+      ],
+      "explanation": "ソ連の反対がなくなったために実現した。",
+      "yearStart": 1956,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    }
+  ]
+}

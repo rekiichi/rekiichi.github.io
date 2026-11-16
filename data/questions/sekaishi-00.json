@@ -1,0 +1,282 @@
+{
+  "generatedFrom": "sekaishi-00.csv",
+  "_note": "このファイルは sekaishi-00.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "w-0001-01",
+      "subject": "sekaishi-tankyu",
+      "question": "人類をほかの動物から区別する最大の特徴とされる、二本の足で立って歩くことを何というか。",
+      "answer": "直立二足歩行",
+      "reading": "ちょくりつにそくほこう",
+      "alternatives": [],
+      "explanation": "両手が自由になり、道具の使用や脳の発達につながった。",
+      "yearStart": -7000000,
+      "yearApprox": true,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0001-02",
+      "subject": "sekaishi-tankyu",
+      "question": "約700万年前にアフリカに現れた、最初期の化石人類をまとめて何というか。",
+      "answer": "猿人",
+      "reading": "えんじん",
+      "alternatives": [],
+      "explanation": "簡単な打製石器（礫石器）を使った。",
+      "yearStart": -7000000,
+      "yearApprox": true,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0001-03",
+      "subject": "sekaishi-tankyu",
+      "question": "南・東アフリカで化石が発見された、猿人を代表する人類は何か。",
+      "answer": "アウストラロピテクス",
+      "alternatives": [],
+      "explanation": "「南のサル」を意味する。",
+      "yearStart": -4000000,
+      "yearApprox": true,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0001-04",
+      "subject": "sekaishi-tankyu",
+      "question": "約240万年前に現れ、ハンドアックスなどの進んだ打製石器や火を使った化石人類をまとめて何というか。",
+      "answer": "原人",
+      "reading": "げんじん",
+      "alternatives": [],
+      "explanation": "ジャワ原人や北京原人が知られる。",
+      "yearStart": -2400000,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0001-05",
+      "subject": "sekaishi-tankyu",
+      "question": "ジャワ原人や北京原人などの原人は、学名で何と呼ばれるか。",
+      "answer": "ホモ=エレクトゥス",
+      "alternatives": [],
+      "explanation": "「直立する人」を意味する。火や言語を使ったとされる。",
+      "yearStart": -1800000,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0001-06",
+      "subject": "sekaishi-tankyu",
+      "question": "約60万年前に現れた、ネアンデルタール人に代表される化石人類をまとめて何というか。",
+      "answer": "旧人",
+      "reading": "きゅうじん",
+      "alternatives": [],
+      "explanation": "剥片石器を使い、死者を埋葬した。",
+      "yearStart": -600000,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0001-07",
+      "subject": "sekaishi-tankyu",
+      "question": "約20万年前にアフリカに現れた、現在の人類と同じ種に属する人類をまとめて何というか。",
+      "answer": "新人",
+      "reading": "しんじん",
+      "alternatives": [],
+      "explanation": "学名はホモ=サピエンス。クロマニョン人や周口店上洞人が知られる。",
+      "yearStart": -200000,
+      "yearApprox": true,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0001-08",
+      "subject": "sekaishi-tankyu",
+      "question": "フランスで化石が発見された、ヨーロッパの新人を代表する人類は何か。",
+      "answer": "クロマニョン人",
+      "alternatives": [],
+      "explanation": "骨角器を使い、洞穴絵画を残した。",
+      "yearStart": -40000,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0001-09",
+      "subject": "sekaishi-tankyu",
+      "question": "新人がつくった、動物の骨や角を材料とする道具を何というか。",
+      "answer": "骨角器",
+      "reading": "こっかくき",
+      "alternatives": [],
+      "explanation": "釣り針や銛などがつくられ、漁労にも使われた。",
+      "yearStart": -40000,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0001-10",
+      "subject": "sekaishi-tankyu",
+      "question": "新人が描いた洞穴絵画が残る、フランス南西部の遺跡はどこか。",
+      "answer": "ラスコー",
+      "alternatives": [],
+      "explanation": "牛や馬などの動物が生き生きと描かれている。",
+      "yearStart": -20000,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0001-11",
+      "subject": "sekaishi-tankyu",
+      "question": "新人が描いた洞穴絵画が残る、スペイン北部の遺跡はどこか。",
+      "answer": "アルタミラ",
+      "alternatives": [],
+      "explanation": "狩りの成功などを祈って描かれたと考えられている。",
+      "yearStart": -15000,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0001-12",
+      "subject": "sekaishi-tankyu",
+      "question": "石を打ち欠いてつくった打製石器を使い、狩猟・採集によって生活していた時代を何というか。",
+      "answer": "旧石器時代",
+      "reading": "きゅうせっきじだい",
+      "alternatives": [],
+      "explanation": "人類の歴史の大部分を占める。",
+      "yearStart": -2500000,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0001-13",
+      "subject": "sekaishi-tankyu",
+      "question": "約260万年前から約1万年前まで続いた、氷期と間氷期がくり返された地質時代を何というか。",
+      "answer": "更新世",
+      "reading": "こうしんせい",
+      "alternatives": [],
+      "explanation": "その後の温暖な時代は完新世という。",
+      "yearStart": -2600000,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0001-14",
+      "subject": "sekaishi-tankyu",
+      "question": "同じ言語から分かれて発達したと考えられる言語のグループを何というか。",
+      "answer": "語族",
+      "reading": "ごぞく",
+      "alternatives": [],
+      "explanation": "インド=ヨーロッパ語族などがある。",
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0001-15",
+      "subject": "sekaishi-tankyu",
+      "question": "言語・宗教・習慣などの文化的な特徴によって分けた人間の集団を何というか。",
+      "answer": "民族",
+      "reading": "みんぞく",
+      "alternatives": [],
+      "explanation": "身体的な特徴による分類（人種）とは区別される。",
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

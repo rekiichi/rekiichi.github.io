@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { joinBase, paths } from '../../lib/url';
+
+const href = (p: string) => joinBase(import.meta.env.BASE_URL, p);
+const articles = (await getCollection('articles')).sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+const published = articles.filter((a) => !a.data.draft);
+---
+
+<BaseLayout title="記事一覧" description="定期テストや受験に向けた、歴史の一問一答の使い方などの記事です。" path={paths.articles()} noindex={published.length === 0}>
+  <Breadcrumbs items={[{ label: '記事一覧' }]} />
+  <h1>記事一覧</h1>
+  <p class="lead">定期テストや受験に向けた、一問一答の使い方などをまとめています。</p>
+  {
+    articles.length === 0 ? (
+      <p class="muted">記事は準備中です。</p>
+    ) : (
+      <ul class="row-list">
+        {articles.map((a) => (
+          <li>
+            <a class="row-link" href={href(paths.article(a.id))}>
+              <span class="row-main">
+                <span class="row-title">{a.data.title}</span>
+                <span class="row-sub">
+                  {a.data.publishedAt.toLocaleDateString('ja-JP', { timeZone: 'Asia/Tokyo' })}
+                  {a.data.draft && '（下書き）'}
+                </span>
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    )
+  }
+</BaseLayout>

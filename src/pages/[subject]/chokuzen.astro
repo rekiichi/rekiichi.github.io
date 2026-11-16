@@ -1,0 +1,70 @@
+---
+// テスト直前モード：重要度「基本」の問題だけを、章ごと・科目全体ですばやく回す入口
+import AdSlot from '../../components/AdSlot.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { practiceQuery, QUICK_OPTIONS } from '../../lib/params';
+import { chapterLabel } from '../../lib/range';
+import { getSubject, levelCounts, questionsOf, subjects, textbooksOf } from '../../lib/site-data';
+import { joinBase, paths } from '../../lib/url';
+
+export function getStaticPaths() {
+  return subjects.map((s) => ({ params: { subject: s.id } }));
+}
+
+const subject = getSubject(Astro.params.subject!);
+const href = (p: string) => joinBase(import.meta.env.BASE_URL, p);
+const quickHref = (source: Parameters<typeof practiceQuery>[0]) => href(paths.practice(practiceQuery(source, QUICK_OPTIONS)));
+const basicAll = levelCounts(questionsOf(subject.id)).basic;
+const books = textbooksOf(subject.id)
+  .map((tb) => ({ tb, chapters: tb.chapters.map((ch) => ({ ch, basic: levelCounts(ch.questions).basic })).filter((c) => c.basic > 0) }))
+  .filter((b) => b.chapters.length > 0);
+const title = `${subject.name} テスト直前モード（基本問題だけ）`;
+const description = `${subject.name}の重要度「基本」の一問一答だけを、ランダムにすばやく回せます。定期テスト前日・直前の最終確認に。`;
+---
+
+<BaseLayout title={title} description={description} subjectId={subject.id} path={paths.quick(subject.id)} noindex={basicAll === 0}>
+  <Breadcrumbs items={[{ label: subject.name, path: paths.subject(subject.id) }, { label: 'テスト直前モード' }]} />
+  <h1>{subject.name} テスト直前モード</h1>
+  <p class="lead">重要度「基本」の問題だけを、ランダムな順番ですばやく回します。答えを見て○×をつけるだけなので、テスト前日や休み時間の最終確認に向いています。</p>
+  <p class="small muted">パソコンでは、スペースキーで答えを表示、→キー（またはO）で○、←キー（またはX）で×をつけられます。</p>
+
+  {
+    basicAll === 0 ? (
+      <p class="notice">この科目の基本問題は準備中です。</p>
+    ) : (
+      <div class="page-actions">
+        <a class="btn btn-primary" href={quickHref({ kind: 'subject', subjectId: subject.id })}>
+          科目全体の基本{basicAll}問を回す
+        </a>
+      </div>
+    )
+  }
+
+  {
+    books.map(({ tb, chapters }) => (
+      <section>
+        <h2>{tb.name}</h2>
+        <p class="small">
+          <a href={href(paths.textbook(subject.id, tb.id))}>テスト範囲を選んで直前モードにする</a>
+        </p>
+        <ul class="row-list">
+          {chapters.map(({ ch, basic }) => (
+            <li>
+              <a class="row-link" href={quickHref({ kind: 'textbook', textbookId: tb.id, range: String(ch.no) })}>
+                <span class="row-main">
+                  <span class="row-title">{chapterLabel(ch)} {ch.title}</span>
+                </span>
+                <span class="row-end">基本{basic}問</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))
+  }
+
+  <p class="small muted">テスト直前モードは、重要度「基本」の問題だけを出題します。範囲を細かく選びたいときは、教科書のページで範囲を選んでから「テスト直前モード」を押してください。</p>
+
+  <AdSlot name="quick-bottom" />
+</BaseLayout>

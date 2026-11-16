@@ -1,0 +1,62 @@
+---
+import { subjects } from '../lib/site-data';
+import { joinBase, paths } from '../lib/url';
+import { siteConfig } from '../site.config';
+
+interface Props {
+  subjectId?: string;
+}
+
+const { subjectId } = Astro.props;
+const href = (p: string) => joinBase(import.meta.env.BASE_URL, p);
+---
+
+<header class="site-header">
+  <div class="container header-bar">
+    <a class="brand" href={href(paths.home())}>
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
+        <rect x="2" y="2" width="28" height="28" rx="7" fill="#1f5fbf"></rect>
+        <rect x="8" y="9" width="16" height="3" rx="1.5" fill="#fff"></rect>
+        <rect x="8" y="15" width="11" height="3" rx="1.5" fill="#fff"></rect>
+        <rect x="8" y="21" width="14" height="4" rx="1" fill="#e8453c"></rect>
+      </svg>
+      <span class="brand-name">{siteConfig.name}</span>
+      <span class="brand-tagline">{siteConfig.tagline}</span>
+    </a>
+    <div class="header-actions">
+      <a class="icon-button" href={href(paths.my())} aria-label="マイ範囲と学習記録" title="マイ範囲と学習記録">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"></path>
+        </svg>
+      </a>
+      <button type="button" class="icon-button theme-toggle" data-theme-toggle data-mode="auto" aria-label="表示テーマ：自動（押すと切り替え）" title="表示テーマの切り替え">
+        <svg data-icon="auto" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="12" cy="12" r="8"></circle>
+          <path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor"></path>
+        </svg>
+        <svg data-icon="light" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+          <circle cx="12" cy="12" r="4"></circle>
+          <path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path>
+        </svg>
+        <svg data-icon="dark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true">
+          <path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"></path>
+        </svg>
+      </button>
+    </div>
+  </div>
+  <nav class="subject-nav" aria-label="科目">
+    <div class="container subject-nav-inner">
+      {
+        subjects.map((s) => (
+          <a
+            href={href(paths.subject(s.id))}
+            class:list={['subject-tab', `subject-${s.id}`, { current: s.id === subjectId }]}
+            aria-current={s.id === subjectId ? 'true' : undefined}
+          >
+            {s.name}
+          </a>
+        ))
+      }
+    </div>
+  </nav>
+</header>

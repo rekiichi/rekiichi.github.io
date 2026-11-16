@@ -1,0 +1,47 @@
+---
+// 問題と答えの一覧（赤シート方式）。答えは赤い帯で隠し、タップすると表示する。
+// 答えの文字は HTML に含めている（検索エンジンにも読めるように）。表示の切り替えは src/client/redsheet.ts。
+import LevelBadge from './LevelBadge.astro';
+import { isSampleId, type Question } from '../lib/types';
+import { formatYears } from '../lib/years';
+
+interface Props {
+  questions: Question[];
+  /** 最初の問題番号 */
+  start?: number;
+  /** 年代を問題文の上に出す（受験復習モード）。false なら答えと一緒に出す */
+  showYears?: boolean;
+}
+
+const { questions, start = 1, showYears = false } = Astro.props;
+---
+
+<ol class="qa-list">
+  {
+    questions.map((q, i) => {
+      const years = formatYears(q.yearStart, q.yearEnd, q.yearApprox);
+      return (
+        <li class="qa" id={`q-${q.id}`}>
+          <span class="qa-num">{start + i}</span>
+          <div class="qa-body">
+            {showYears && years && <p class="qa-years">{years}</p>}
+            <p class="qa-question">{q.question}</p>
+            <div class="qa-tags">
+              <LevelBadge level={q.level} />
+              {isSampleId(q.id) && <span class="badge badge-sample">サンプル</span>}
+            </div>
+            <button type="button" class="sheet" aria-pressed="false" aria-label="答えを表示">
+              <span class="sheet-answer">{q.answer}</span>
+            </button>
+            <div class="qa-detail" hidden>
+              {q.reading && <p>読み：{q.reading}</p>}
+              {q.alternatives.length > 0 && <p>別解：{q.alternatives.join('／')}</p>}
+              {!showYears && years && <p>年代：{years}</p>}
+              {q.explanation && <p>{q.explanation}</p>}
+            </div>
+          </div>
+        </li>
+      );
+    })
+  }
+</ol>

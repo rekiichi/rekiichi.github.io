@@ -1,0 +1,1870 @@
+{
+  "generatedFrom": "nihonshi-14.csv",
+  "_note": "このファイルは nihonshi-14.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "j-1401-01",
+      "subject": "nihonshi-tankyu",
+      "question": "日本で、1880年代の後半から、機械による生産が急速に広まり、資本主義が確立していった変化を何というか。",
+      "answer": "産業革命",
+      "reading": "さんぎょうかくめい",
+      "alternatives": [],
+      "explanation": "松方財政ののち、鉄道や紡績を中心に会社の設立があいついだ（企業勃興）。",
+      "yearStart": 1890,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1897年に、日清戦争の賠償金の一部を準備金として、日本が採用した貨幣の制度は何か。",
+      "answer": "金本位制",
+      "reading": "きんほんいせい",
+      "alternatives": [],
+      "explanation": "貨幣法を制定した。欧米の国々と同じ制度をとることで、貿易の発展と外国からの資金の導入をはかった。",
+      "yearStart": 1897,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-03",
+      "subject": "nihonshi-tankyu",
+      "question": "1880年に設立され、貿易のための金融を専門とした銀行は何か。",
+      "answer": "横浜正金銀行",
+      "reading": "よこはましょうきんぎんこう",
+      "alternatives": [],
+      "explanation": "日清戦争ののちには、日本勧業銀行や日本興業銀行などの特殊銀行も設立された。",
+      "yearStart": 1880,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1401-04",
+      "subject": "nihonshi-tankyu",
+      "question": "1883年に、渋沢栄一らの設立した会社が操業を始めた、輸入した紡績機械と蒸気機関を使って、大規模な生産に成功した紡績会社は何か。",
+      "answer": "大阪紡績会社",
+      "reading": "おおさかぼうせきがいしゃ",
+      "alternatives": [],
+      "explanation": "昼夜2交代制で操業した。これに刺激されて、大規模な紡績会社がつぎつぎに設立された。",
+      "yearStart": 1883,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-05",
+      "subject": "nihonshi-tankyu",
+      "question": "第一国立銀行や大阪紡績会社など、多くの会社の設立にかかわり、「日本の資本主義の父」と呼ばれる実業家は誰か。",
+      "answer": "渋沢栄一",
+      "reading": "しぶさわえいいち",
+      "alternatives": [],
+      "explanation": "もと幕臣で、大蔵省につとめたのち、実業界に転じた。",
+      "yearStart": 1873,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-06",
+      "subject": "nihonshi-tankyu",
+      "question": "1870年代に、臥雲辰致が発明して、各地に広まった簡単な紡績機を何というか。",
+      "answer": "ガラ紡",
+      "reading": "がらぼう",
+      "alternatives": [],
+      "explanation": "1877年の内国勧業博覧会で最高の賞を受けた。機械制の大規模な紡績業が発展すると、おとろえた。",
+      "yearStart": 1877,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1401-07",
+      "subject": "nihonshi-tankyu",
+      "question": "綿花から綿糸をつくる工業を何というか。",
+      "answer": "紡績業",
+      "reading": "ぼうせきぎょう",
+      "alternatives": [
+        "綿糸紡績業"
+      ],
+      "explanation": "1890年に綿糸の生産量が輸入量を上まわり、1897年には輸出量が輸入量を上まわった。原料の綿花は、中国・インド・アメリカから輸入した。",
+      "yearStart": 1897,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-08",
+      "subject": "nihonshi-tankyu",
+      "question": "1897年に、日本で最初の動力で動く織機（木製の力織機）を発明した人物は誰か。",
+      "answer": "豊田佐吉",
+      "reading": "とよださきち",
+      "alternatives": [],
+      "explanation": "農村の小さな工場に広まり、綿織物業の発展を支えた。",
+      "yearStart": 1897,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1401-09",
+      "subject": "nihonshi-tankyu",
+      "question": "繭から生糸をつくる工業を何というか。",
+      "answer": "製糸業",
+      "reading": "せいしぎょう",
+      "alternatives": [],
+      "explanation": "国産の繭を原料とする、外貨をえるための最も重要な産業だった。おもにアメリカに輸出された。",
+      "yearStart": 1890,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-10",
+      "subject": "nihonshi-tankyu",
+      "question": "幕末以来の簡単な手動の装置による座繰製糸にかわって、日清戦争の頃から生産の中心となった、製糸の方法を何というか。",
+      "answer": "器械製糸",
+      "reading": "きかいせいし",
+      "alternatives": [],
+      "explanation": "長野県や山梨県に、小さな工場が数多くつくられた。1909年には、清をぬいて世界最大の生糸の輸出国となった。",
+      "yearStart": 1894,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-11",
+      "subject": "nihonshi-tankyu",
+      "question": "1881年に、華族の出資を中心に設立された、日本で最初の民営の鉄道会社は何か。",
+      "answer": "日本鉄道会社",
+      "reading": "にほんてつどうがいしゃ",
+      "alternatives": [
+        "日本鉄道"
+      ],
+      "explanation": "政府の保護を受けて成功し、民営鉄道の設立ブームがおこった。1891年に上野・青森間を全通させた。",
+      "yearStart": 1881,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-12",
+      "subject": "nihonshi-tankyu",
+      "question": "1889年に、東京と神戸のあいだが全通した、官営の鉄道の路線は何か。",
+      "answer": "東海道線",
+      "reading": "とうかいどうせん",
+      "alternatives": [
+        "東海道本線"
+      ],
+      "explanation": "同じ年に、民営の鉄道の営業キロ数が、官営を上まわった。",
+      "yearStart": 1889,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-13",
+      "subject": "nihonshi-tankyu",
+      "question": "1906年に、第1次西園寺公望内閣が、軍事や経済の必要から、主要な民営の鉄道を買収するために定めた法律は何か。",
+      "answer": "鉄道国有法",
+      "reading": "てつどうこくゆうほう",
+      "alternatives": [],
+      "explanation": "全国の主要な幹線が国有となった。",
+      "yearStart": 1906,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-14",
+      "subject": "nihonshi-tankyu",
+      "question": "1901年に操業を始めた、北九州の官営の製鉄所は何か。",
+      "answer": "八幡製鉄所",
+      "reading": "やはたせいてつじょ",
+      "alternatives": [
+        "官営八幡製鉄所"
+      ],
+      "explanation": "ドイツの技術をとり入れた。清の大冶鉄山の鉄鉱石と、筑豊炭田の石炭を使った。",
+      "yearStart": 1901,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-15",
+      "subject": "nihonshi-tankyu",
+      "question": "1907年に、北海道の室蘭に設立された、民間で最大の製鋼会社は何か。",
+      "answer": "日本製鋼所",
+      "reading": "にほんせいこうしょ",
+      "alternatives": [],
+      "explanation": "北海道炭礦汽船と、イギリスの兵器会社が出資した。",
+      "yearStart": 1907,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1401-16",
+      "subject": "nihonshi-tankyu",
+      "question": "1905年に、アメリカ式の旋盤の完全な国産化に成功した、工作機械の会社は何か。",
+      "answer": "池貝鉄工所",
+      "reading": "いけがいてっこうじょ",
+      "alternatives": [],
+      "explanation": "機械をつくる機械である工作機械の分野でも、技術が進んだ。",
+      "yearStart": 1905,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1401-17",
+      "subject": "nihonshi-tankyu",
+      "question": "1885年に、三菱の会社と、半官半民の共同運輸会社が合併して設立された海運会社は何か。",
+      "answer": "日本郵船会社",
+      "reading": "にっぽんゆうせんがいしゃ",
+      "alternatives": [
+        "日本郵船"
+      ],
+      "explanation": "1893年にインドへのボンベイ航路をひらき、その後、欧米への航路もひらいた。",
+      "yearStart": 1885,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1401-18",
+      "subject": "nihonshi-tankyu",
+      "question": "1880年代から、政府が、軍事工場などをのぞく官営の工場や鉱山を、民間に売りわたしたことを何というか。",
+      "answer": "官営事業の払下げ",
+      "reading": "かんえいじぎょうのはらいさげ",
+      "alternatives": [
+        "官営事業払下げ",
+        "官業払下げ"
+      ],
+      "explanation": "三井・三菱・古河などの政商に安く払い下げられ、これらの政商が財閥に成長するもとになった。",
+      "yearStart": 1884,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-19",
+      "subject": "nihonshi-tankyu",
+      "question": "官営事業の払下げで、三井に払い下げられた、福岡県と熊本県にまたがる炭鉱は何か。",
+      "answer": "三池炭鉱",
+      "reading": "みいけたんこう",
+      "alternatives": [],
+      "explanation": "三菱には長崎造船所や高島炭鉱が、古河には院内銀山などが払い下げられた。",
+      "yearStart": 1888,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1401-20",
+      "subject": "nihonshi-tankyu",
+      "question": "三井・三菱・住友・安田のように、さまざまな分野の会社を支配して、日本の経済に大きな力をもった企業の集団を何というか。",
+      "answer": "財閥",
+      "reading": "ざいばつ",
+      "alternatives": [],
+      "explanation": "日露戦争ののち、株式をもつことで多くの会社を支配する持株会社を中心に、コンツェルンの形を整えた。",
+      "yearStart": 1909,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-21",
+      "subject": "nihonshi-tankyu",
+      "question": "財閥が、多くの会社を支配するためにもうけた、他の会社の株式をもって、その経営を支配することを目的とする会社を何というか。",
+      "answer": "持株会社",
+      "reading": "もちかぶがいしゃ",
+      "alternatives": [],
+      "explanation": "1909年に設立された三井合名会社が最初。",
+      "yearStart": 1909,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1401-22",
+      "subject": "nihonshi-tankyu",
+      "question": "小作人に土地を貸して高い小作料をとり、自分では耕作をしない地主が、農村を支配するしくみを何というか。",
+      "answer": "寄生地主制",
+      "reading": "きせいじぬしせい",
+      "alternatives": [],
+      "explanation": "小作料は現物で納めたので、米の値段が上がると地主の収入がふえた。地主は、その収入を企業や公債に投資した。",
+      "yearStart": 1900,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-23",
+      "subject": "nihonshi-tankyu",
+      "question": "産業革命の時期に、製糸業や紡績業で、きびしい条件のもとで働いた、農村出身の若い女性の労働者を何というか。",
+      "answer": "工女",
+      "reading": "こうじょ",
+      "alternatives": [
+        "女工"
+      ],
+      "explanation": "家計を助けるための出稼ぎで、安い賃金で長時間働いた。紡績業では昼夜2交代制、製糸業では1日15時間をこえることもあった。",
+      "yearStart": 1900,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-24",
+      "subject": "nihonshi-tankyu",
+      "question": "1899年に、横山源之助が著した、産業革命の時期の労働者や都市の貧しい人々の生活を記録した書物は何か。",
+      "answer": "日本之下層社会",
+      "reading": "にほんのかそうしゃかい",
+      "alternatives": [],
+      "explanation": "農商務省も、工場の労働者の実態を調査して、1903年に『職工事情』をまとめた。",
+      "yearStart": 1899,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1401-25",
+      "subject": "nihonshi-tankyu",
+      "question": "1888年に、雑誌『日本人』が、鉱夫のひどい労働の実態を報道して、社会問題となった長崎県の炭鉱はどこか。",
+      "answer": "高島炭鉱",
+      "reading": "たかしまたんこう",
+      "alternatives": [],
+      "explanation": "三菱が経営していた。",
+      "yearStart": 1888,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1401-26",
+      "subject": "nihonshi-tankyu",
+      "question": "1897年に、アメリカで労働運動を学んだ高野房太郎や、片山潜らが結成した、労働組合の結成をすすめる団体は何か。",
+      "answer": "労働組合期成会",
+      "reading": "ろうどうくみあいきせいかい",
+      "alternatives": [],
+      "explanation": "その指導で、鉄工組合や日本鉄道矯正会などの労働組合がつくられた。",
+      "yearStart": 1897,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-27",
+      "subject": "nihonshi-tankyu",
+      "question": "明治時代に、栃木県の銅山から流れ出た鉱毒が、渡良瀬川の流域の農業や漁業に大きな被害を与えた、日本の公害の原点とされる事件を何というか。",
+      "answer": "足尾鉱毒事件",
+      "reading": "あしおこうどくじけん",
+      "alternatives": [
+        "足尾銅山鉱毒事件"
+      ],
+      "explanation": "古河が経営する銅山だった。政府は、谷中村を廃村にして遊水地とした。",
+      "yearStart": 1891,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-28",
+      "subject": "nihonshi-tankyu",
+      "question": "足尾鉱毒事件で、被害を受けた農民とともに銅山の操業の停止を求め、1901年には衆議院議員をやめて、天皇に直訴しようとした人物は誰か。",
+      "answer": "田中正造",
+      "reading": "たなかしょうぞう",
+      "alternatives": [],
+      "explanation": "栃木県選出の衆議院議員だった。その後も谷中村に住んで、反対運動を続けた。",
+      "yearStart": 1901,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1401-29",
+      "subject": "nihonshi-tankyu",
+      "question": "1901年に、安部磯雄・片山潜・幸徳秋水・木下尚江らが結成した、日本で最初の社会主義の政党は何か。",
+      "answer": "社会民主党",
+      "reading": "しゃかいみんしゅとう",
+      "alternatives": [],
+      "explanation": "治安警察法によって、結成の直後に解散を命じられた。",
+      "yearStart": 1901,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1401-30",
+      "subject": "nihonshi-tankyu",
+      "question": "1900年に制定され、農民が、資金の借り入れや、肥料の共同での購入、農産物の共同での販売をおこなう組合をつくることを認めた法律は何か。",
+      "answer": "産業組合法",
+      "reading": "さんぎょうくみあいほう",
+      "alternatives": [],
+      "explanation": "農業の商品化が進むなかで、中小の農民を保護しようとした。",
+      "yearStart": 1900,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1887年に民友社をつくって雑誌『国民之友』を創刊し、政府の進める欧化政策を貴族的であると批判して、平民的欧化主義（平民主義）をとなえた人物は誰か。",
+      "answer": "徳富蘇峰",
+      "reading": "とくとみそほう",
+      "alternatives": [],
+      "explanation": "日清戦争の頃から、国家の対外的な発展を重んじる国家主義に転じた。",
+      "yearStart": 1887,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1888年に政教社をつくって雑誌『日本人』を創刊し、日本の伝統や国民性を重んじる国粋主義（国粋保存主義）をとなえた人物を1人あげよ。",
+      "answer": "三宅雪嶺",
+      "reading": "みやけせつれい",
+      "alternatives": [
+        "志賀重昂",
+        "杉浦重剛"
+      ],
+      "explanation": "欧化政策を批判した。",
+      "yearStart": 1888,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-03",
+      "subject": "nihonshi-tankyu",
+      "question": "1889年に新聞『日本』を創刊し、国家の独立と国民の統一を重んじる国民主義をとなえた人物は誰か。",
+      "answer": "陸羯南",
+      "reading": "くがかつなん",
+      "alternatives": [],
+      "explanation": "政府の条約改正の交渉を批判した。",
+      "yearStart": 1889,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-04",
+      "subject": "nihonshi-tankyu",
+      "question": "日清戦争ののち、雑誌『太陽』で、日本の大陸への進出を肯定する日本主義をとなえた人物は誰か。",
+      "answer": "高山樗牛",
+      "reading": "たかやまちょぎゅう",
+      "alternatives": [],
+      "explanation": "国家主義は、思想界の主流となっていった。",
+      "yearStart": 1897,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-05",
+      "subject": "nihonshi-tankyu",
+      "question": "1886年に、初代の文部大臣の森有礼が定めた、小学校・中学校・師範学校・帝国大学などからなる学校の体系についての、一連の法令をまとめて何というか。",
+      "answer": "学校令",
+      "reading": "がっこうれい",
+      "alternatives": [],
+      "explanation": "国家主義を重んじる教育の方針がとられた。尋常小学校の4年間が義務教育とされた。",
+      "yearStart": 1886,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-06",
+      "subject": "nihonshi-tankyu",
+      "question": "1890年に発布された、忠君愛国を学校教育の基本とすることを示した勅語を何というか。",
+      "answer": "教育勅語",
+      "reading": "きょういくちょくご",
+      "alternatives": [
+        "教育に関する勅語"
+      ],
+      "explanation": "学校の儀式で読みあげられ、国民の道徳の基準とされた。",
+      "yearStart": 1890,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-07",
+      "subject": "nihonshi-tankyu",
+      "question": "1891年に、キリスト教徒で第一高等中学校の教員だった人物が、教育勅語に最敬礼をしなかったことを非難されて、職を追われた事件を何というか。",
+      "answer": "内村鑑三不敬事件",
+      "reading": "うちむらかんぞうふけいじけん",
+      "alternatives": [
+        "不敬事件"
+      ],
+      "explanation": "キリスト教は、国家主義と合わないとして攻撃された。",
+      "yearStart": 1891,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-08",
+      "subject": "nihonshi-tankyu",
+      "question": "1907年に、義務教育の年限は、4年から何年に延長されたか。",
+      "answer": "6年",
+      "alternatives": [
+        "6年間",
+        "六年"
+      ],
+      "explanation": "小学校の授業料が廃止されたこともあって、就学率は1902年に90％をこえていた。",
+      "yearStart": 1907,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1903年から、小学校の教科書は、文部省が著作したものに限られた。こうした教科書を何というか。",
+      "answer": "国定教科書",
+      "reading": "こくていきょうかしょ",
+      "alternatives": [],
+      "explanation": "教育に対する国家の統制が強まった。",
+      "yearStart": 1903,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-10",
+      "subject": "nihonshi-tankyu",
+      "question": "1882年に、大隈重信が設立した、のちの早稲田大学のもとになった学校は何か。",
+      "answer": "東京専門学校",
+      "reading": "とうきょうせんもんがっこう",
+      "alternatives": [],
+      "explanation": "福沢諭吉の慶應義塾や、新島襄の同志社などとともに、特色のある私立学校として発展した。",
+      "yearStart": 1882,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-11",
+      "subject": "nihonshi-tankyu",
+      "question": "ドイツに留学して、破傷風の血清療法を発見し、帰国後に伝染病研究所を設立した細菌学者は誰か。",
+      "answer": "北里柴三郎",
+      "reading": "きたさとしばさぶろう",
+      "alternatives": [],
+      "explanation": "ペスト菌も発見した。",
+      "yearStart": 1890,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-12",
+      "subject": "nihonshi-tankyu",
+      "question": "北里柴三郎の伝染病研究所で学び、1897年に赤痢菌を発見した細菌学者は誰か。",
+      "answer": "志賀潔",
+      "reading": "しがきよし",
+      "alternatives": [],
+      "explanation": "医学の分野で、世界的な業績があいついだ。",
+      "yearStart": 1897,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-13",
+      "subject": "nihonshi-tankyu",
+      "question": "アドレナリンの抽出に成功し、消化薬のタカジアスターゼをつくった化学者は誰か。",
+      "answer": "高峰譲吉",
+      "reading": "たかみねじょうきち",
+      "alternatives": [],
+      "explanation": "アメリカで研究を続けた。",
+      "yearStart": 1900,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-14",
+      "subject": "nihonshi-tankyu",
+      "question": "米ぬかから、脚気に効く成分であるオリザニン（ビタミンB1）を抽出した化学者は誰か。",
+      "answer": "鈴木梅太郎",
+      "reading": "すずきうめたろう",
+      "alternatives": [],
+      "explanation": "農芸化学の発展につくした。",
+      "yearStart": 1910,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-15",
+      "subject": "nihonshi-tankyu",
+      "question": "1903年に、原子の構造についての理論（土星型の原子模型）を発表した物理学者は誰か。",
+      "answer": "長岡半太郎",
+      "reading": "ながおかはんたろう",
+      "alternatives": [],
+      "explanation": "地震学の大森房吉、天文学の木村栄らも、すぐれた業績を残した。",
+      "yearStart": 1903,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-16",
+      "subject": "nihonshi-tankyu",
+      "question": "1877年に来日したアメリカ人の動物学者で、大森貝塚を発見し、進化論を日本に紹介した人物は誰か。",
+      "answer": "モース",
+      "alternatives": [],
+      "explanation": "ドイツ人の医学者ベルツ、ドイツ人の地質学者ナウマンらも、お雇い外国人として学問の発展につくした。",
+      "yearStart": 1877,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-17",
+      "subject": "nihonshi-tankyu",
+      "question": "1892年に、論文「神道は祭天の古俗」が神道家らの攻撃を受けて、帝国大学の教授の職を追われた歴史学者は誰か。",
+      "answer": "久米邦武",
+      "reading": "くめくにたけ",
+      "alternatives": [],
+      "explanation": "岩倉使節団の記録『米欧回覧実記』の編者でもある。",
+      "yearStart": 1892,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-18",
+      "subject": "nihonshi-tankyu",
+      "question": "1885年に『小説神髄』を発表して、人間の内面や世の中のようすを、ありのままにえがく写実主義をとなえた人物は誰か。",
+      "answer": "坪内逍遙",
+      "reading": "つぼうちしょうよう",
+      "alternatives": [],
+      "explanation": "勧善懲悪の文学や政治小説を批判した。",
+      "yearStart": 1885,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-19",
+      "subject": "nihonshi-tankyu",
+      "question": "1887年に、話し言葉に近い文体である言文一致体で、小説『浮雲』を書いた人物は誰か。",
+      "answer": "二葉亭四迷",
+      "reading": "ふたばていしめい",
+      "alternatives": [],
+      "explanation": "坪内逍遙の考えを、作品として実現した。",
+      "yearStart": 1887,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-20",
+      "subject": "nihonshi-tankyu",
+      "question": "硯友社を結成し、『金色夜叉』などの作品で人気を集めた小説家は誰か。",
+      "answer": "尾崎紅葉",
+      "reading": "おざきこうよう",
+      "alternatives": [],
+      "explanation": "写実主義をかかげながら、文学の大衆化を進めた。理想主義的な作風の幸田露伴とならび称された。",
+      "yearStart": 1897,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-21",
+      "subject": "nihonshi-tankyu",
+      "question": "日清戦争の前後に、北村透谷らの雑誌『文学界』を中心にさかんになった、感情や個性の解放を重んじる文学の傾向を何というか。",
+      "answer": "ロマン主義",
+      "reading": "ろまんしゅぎ",
+      "alternatives": [],
+      "explanation": "島崎藤村の詩集『若菜集』や、与謝野晶子の歌集『みだれ髪』などがある。",
+      "yearStart": 1893,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-22",
+      "subject": "nihonshi-tankyu",
+      "question": "『たけくらべ』や『にごりえ』で、都市の底辺に生きる女性の姿をえがいた小説家は誰か。",
+      "answer": "樋口一葉",
+      "reading": "ひぐちいちよう",
+      "alternatives": [],
+      "explanation": "24歳で亡くなった。",
+      "yearStart": 1895,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-23",
+      "subject": "nihonshi-tankyu",
+      "question": "ドイツに留学した軍医で、『舞姫』などの作品を書き、翻訳や評論でも活躍した小説家は誰か。",
+      "answer": "森鷗外",
+      "reading": "もりおうがい",
+      "alternatives": [],
+      "explanation": "のちには『阿部一族』などの歴史小説を書いた。",
+      "yearStart": 1890,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-24",
+      "subject": "nihonshi-tankyu",
+      "question": "日露戦争の前後にさかんになった、人間や社会の現実を、ありのままにえがこうとする文学の傾向を何というか。",
+      "answer": "自然主義",
+      "reading": "しぜんしゅぎ",
+      "alternatives": [],
+      "explanation": "フランスやロシアの文学の影響を受けた。島崎藤村の『破戒』、田山花袋の『蒲団』などがある。",
+      "yearStart": 1906,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-25",
+      "subject": "nihonshi-tankyu",
+      "question": "『吾輩は猫である』や『こころ』などの作品で、近代の知識人の内面をえがいた小説家は誰か。",
+      "answer": "夏目漱石",
+      "reading": "なつめそうせき",
+      "alternatives": [],
+      "explanation": "自然主義とは異なる立場に立った。イギリスに留学した。",
+      "yearStart": 1905,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-26",
+      "subject": "nihonshi-tankyu",
+      "question": "歌集『一握の砂』で、生活に根ざした短歌をよみ、大逆事件ののちには評論「時代閉塞の現状」を書いた人物は誰か。",
+      "answer": "石川啄木",
+      "reading": "いしかわたくぼく",
+      "alternatives": [],
+      "explanation": "社会主義の思想にも関心を寄せた。",
+      "yearStart": 1910,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-27",
+      "subject": "nihonshi-tankyu",
+      "question": "俳句や短歌の革新をとなえ、写生にもとづく表現を説いた人物は誰か。",
+      "answer": "正岡子規",
+      "reading": "まさおかしき",
+      "alternatives": [],
+      "explanation": "俳句の雑誌『ホトトギス』は、門人の高浜虚子に引きつがれた。",
+      "yearStart": 1897,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-28",
+      "subject": "nihonshi-tankyu",
+      "question": "明治時代に、「オッペケペー節」で人気を集め、壮士芝居から新派劇を発展させた人物は誰か。",
+      "answer": "川上音二郎",
+      "reading": "かわかみおとじろう",
+      "alternatives": [],
+      "explanation": "新派劇は、当時の世の中を題材にした演劇。",
+      "yearStart": 1891,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-29",
+      "subject": "nihonshi-tankyu",
+      "question": "1906年に、坪内逍遙と島村抱月が結成した、西洋の近代劇の研究と上演をめざした団体は何か。",
+      "answer": "文芸協会",
+      "reading": "ぶんげいきょうかい",
+      "alternatives": [],
+      "explanation": "小山内薫と2代目市川左団次の自由劇場とともに、新劇の運動を進めた。",
+      "yearStart": 1906,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-30",
+      "subject": "nihonshi-tankyu",
+      "question": "「荒城の月」や「花」を作曲した音楽家は誰か。",
+      "answer": "滝廉太郎",
+      "reading": "たきれんたろう",
+      "alternatives": [],
+      "explanation": "東京音楽学校で学び、ドイツに留学した。西洋音楽は、伊沢修二らの努力で、小学校の唱歌として広まった。",
+      "yearStart": 1901,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-31",
+      "subject": "nihonshi-tankyu",
+      "question": "アメリカ人のフェノロサとともに、日本の伝統的な美術の復興につとめ、1887年の東京美術学校の設立につくした人物は誰か。",
+      "answer": "岡倉天心",
+      "reading": "おかくらてんしん",
+      "alternatives": [
+        "岡倉覚三"
+      ],
+      "explanation": "1898年には、橋本雅邦らとともに日本美術院を設立した。",
+      "yearStart": 1887,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-32",
+      "subject": "nihonshi-tankyu",
+      "question": "フェノロサに認められ、西洋画の手法をとり入れた日本画「悲母観音」をえがいた画家は誰か。",
+      "answer": "狩野芳崖",
+      "reading": "かのうほうがい",
+      "alternatives": [],
+      "explanation": "橋本雅邦とともに、近代の日本画のもとをきずいた。",
+      "yearStart": 1888,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-33",
+      "subject": "nihonshi-tankyu",
+      "question": "1889年に、日本で最初の洋画の団体である明治美術会を結成し、「収穫」などをえがいた洋画家は誰か。",
+      "answer": "浅井忠",
+      "reading": "あさいちゅう",
+      "alternatives": [],
+      "explanation": "工部美術学校で、イタリア人のフォンタネージに学んだ。",
+      "yearStart": 1889,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-34",
+      "subject": "nihonshi-tankyu",
+      "question": "フランスで印象派の明るい画風を学び、帰国後に白馬会を結成した、「湖畔」や「読書」で知られる洋画家は誰か。",
+      "answer": "黒田清輝",
+      "reading": "くろだせいき",
+      "alternatives": [],
+      "explanation": "東京美術学校の西洋画科の教授となった。",
+      "yearStart": 1896,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1402-35",
+      "subject": "nihonshi-tankyu",
+      "question": "「海の幸」をえがいた、白馬会の洋画家は誰か。",
+      "answer": "青木繁",
+      "reading": "あおきしげる",
+      "alternatives": [],
+      "explanation": "ロマン的な画風で知られる。",
+      "yearStart": 1904,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-36",
+      "subject": "nihonshi-tankyu",
+      "question": "1907年に、文部省が、美術の各派をまとめるために始めた展覧会を何というか。",
+      "answer": "文部省美術展覧会",
+      "reading": "もんぶしょうびじゅつてんらんかい",
+      "alternatives": [
+        "文展"
+      ],
+      "explanation": "日本画・洋画・彫刻の3つの部門がおかれた。",
+      "yearStart": 1907,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-37",
+      "subject": "nihonshi-tankyu",
+      "question": "伝統的な木彫に写実性をとり入れて、「老猿」をつくった彫刻家は誰か。",
+      "answer": "高村光雲",
+      "reading": "たかむらこううん",
+      "alternatives": [],
+      "explanation": "ロダンに学んだ荻原守衛は、「女」などの西洋風の彫刻をつくった。",
+      "yearStart": 1893,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1402-38",
+      "subject": "nihonshi-tankyu",
+      "question": "イギリス人の建築家コンドルに学び、日本銀行本店や東京駅を設計した建築家は誰か。",
+      "answer": "辰野金吾",
+      "reading": "たつのきんご",
+      "alternatives": [],
+      "explanation": "片山東熊は、旧東宮御所（迎賓館赤坂離宮）を設計した。",
+      "yearStart": 1896,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-01",
+      "subject": "nihonshi-tankyu",
+      "question": "第一次世界大戦ののち、都市を中心にふえた、会社員や公務員などの、給料で生活する人々を何というか。",
+      "answer": "俸給生活者",
+      "reading": "ほうきゅうせいかつしゃ",
+      "alternatives": [
+        "サラリーマン"
+      ],
+      "explanation": "新しい中間層として、都市の文化の担い手となった。",
+      "yearStart": 1920,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1403-02",
+      "subject": "nihonshi-tankyu",
+      "question": "大正時代から昭和の初めにかけて、タイピストや電話交換手などの仕事につくようになった女性を何というか。",
+      "answer": "職業婦人",
+      "reading": "しょくぎょうふじん",
+      "alternatives": [],
+      "explanation": "女性の社会への進出が進んだ。",
+      "yearStart": 1920,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1403-03",
+      "subject": "nihonshi-tankyu",
+      "question": "大正時代から、都市の郊外に建てられた、洋風の応接間をもつ和洋折衷の住宅を何というか。",
+      "answer": "文化住宅",
+      "reading": "ぶんかじゅうたく",
+      "alternatives": [],
+      "explanation": "私鉄の沿線に、新しい住宅地が開発された。",
+      "yearStart": 1922,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-04",
+      "subject": "nihonshi-tankyu",
+      "question": "私鉄の経営者が、鉄道の起点となる駅につくった百貨店を何というか。",
+      "answer": "ターミナルデパート",
+      "alternatives": [],
+      "explanation": "阪急電鉄の小林一三が、大阪の梅田につくったものが最初。",
+      "yearStart": 1929,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-05",
+      "subject": "nihonshi-tankyu",
+      "question": "1927年に、東京の上野・浅草間で開通した、新しい都市の交通機関は何か。",
+      "answer": "地下鉄",
+      "reading": "ちかてつ",
+      "alternatives": [
+        "地下鉄道"
+      ],
+      "explanation": "市電やバス、円タクなどとともに、都市の交通を支えた。",
+      "yearStart": 1927,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-06",
+      "subject": "nihonshi-tankyu",
+      "question": "大正時代から昭和の初めにかけて、流行の先端をいく洋服を着て、都市の盛り場を歩いた若い女性は、何と呼ばれたか。",
+      "answer": "モガ",
+      "alternatives": [
+        "モダンガール"
+      ],
+      "explanation": "男性はモボ（モダンボーイ）と呼ばれた。",
+      "yearStart": 1927,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-07",
+      "subject": "nihonshi-tankyu",
+      "question": "1918年に、原敬内閣が定めた、帝国大学のほかに、公立・私立の大学や単科大学の設立を認めた法令は何か。",
+      "answer": "大学令",
+      "reading": "だいがくれい",
+      "alternatives": [],
+      "explanation": "高等教育を受ける人がふえ、知識人の層が広がった。",
+      "yearStart": 1918,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1403-08",
+      "subject": "nihonshi-tankyu",
+      "question": "1918年に、鈴木三重吉が創刊した、芸術性の高い童話や童謡をのせた児童雑誌は何か。",
+      "answer": "赤い鳥",
+      "reading": "あかいとり",
+      "alternatives": [],
+      "explanation": "個性や自発性を重んじる自由教育の運動もさかんになった。",
+      "yearStart": 1918,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1925年に、東京・大阪・名古屋で始まった、新しい放送は何か。",
+      "answer": "ラジオ放送",
+      "reading": "らじおほうそう",
+      "alternatives": [
+        "ラジオ"
+      ],
+      "explanation": "翌年、日本放送協会（NHK）が設立された。ニュースやスポーツの中継、ラジオ劇などが人気を集めた。",
+      "yearStart": 1925,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1403-10",
+      "subject": "nihonshi-tankyu",
+      "question": "1925年に創刊され、発行部数が100万部をこえた大衆娯楽雑誌は何か。",
+      "answer": "キング",
+      "alternatives": [],
+      "explanation": "『中央公論』や『改造』などの総合雑誌や、『サンデー毎日』『週刊朝日』などの週刊誌も、多くの読者をえた。",
+      "yearStart": 1925,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1403-11",
+      "subject": "nihonshi-tankyu",
+      "question": "昭和の初めに流行した、1冊1円の、安い値段の文学全集などを何というか。",
+      "answer": "円本",
+      "reading": "えんぽん",
+      "alternatives": [],
+      "explanation": "改造社の『現代日本文学全集』が最初。岩波文庫などの文庫本も登場した。",
+      "yearStart": 1926,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1403-12",
+      "subject": "nihonshi-tankyu",
+      "question": "大正時代に「活動写真」と呼ばれて人気を集め、1930年代に、音声のあるトーキーが始まった娯楽は何か。",
+      "answer": "映画",
+      "reading": "えいが",
+      "alternatives": [],
+      "explanation": "はじめは音声がなく、弁士が説明した。",
+      "yearStart": 1925,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-13",
+      "subject": "nihonshi-tankyu",
+      "question": "1916年に『貧乏物語』を著し、のちにマルクス主義の経済学の研究を進めた、京都帝国大学の教授は誰か。",
+      "answer": "河上肇",
+      "reading": "かわかみはじめ",
+      "alternatives": [],
+      "explanation": "マルクス主義は、知識人や学生に大きな影響を与えた。",
+      "yearStart": 1916,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1403-14",
+      "subject": "nihonshi-tankyu",
+      "question": "1911年に『善の研究』を著して、東洋の思想をふまえた独自の哲学をきずいた人物は誰か。",
+      "answer": "西田幾多郎",
+      "reading": "にしだきたろう",
+      "alternatives": [],
+      "explanation": "和辻哲郎は、『古寺巡礼』『風土』などを著して、日本の文化や思想を研究した。",
+      "yearStart": 1911,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1403-15",
+      "subject": "nihonshi-tankyu",
+      "question": "『古事記』や『日本書紀』を文献として批判的に研究し、神話は歴史の事実ではないことを論じた歴史学者は誰か。",
+      "answer": "津田左右吉",
+      "reading": "つだそうきち",
+      "alternatives": [],
+      "explanation": "『神代史の研究』などを著した。1940年には、著書が発売禁止となった。",
+      "yearStart": 1913,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1403-16",
+      "subject": "nihonshi-tankyu",
+      "question": "民間の伝承や習俗を調べて、ふつうの人々（常民）の生活の歴史を明らかにしようとする民俗学を確立した人物は誰か。",
+      "answer": "柳田国男",
+      "reading": "やなぎたくにお",
+      "alternatives": [],
+      "explanation": "『遠野物語』などを著した。",
+      "yearStart": 1910,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1403-17",
+      "subject": "nihonshi-tankyu",
+      "question": "1917年に設立された、物理学や化学の研究と、その工業への応用をめざした研究機関は何か。",
+      "answer": "理化学研究所",
+      "reading": "りかがくけんきゅうじょ",
+      "alternatives": [],
+      "explanation": "第一次世界大戦で、ドイツからの薬品などの輸入がとだえたことがきっかけとなった。",
+      "yearStart": 1917,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-18",
+      "subject": "nihonshi-tankyu",
+      "question": "1917年に、強い磁力をもつKS磁石鋼を発明した物理学者は誰か。",
+      "answer": "本多光太郎",
+      "reading": "ほんだこうたろう",
+      "alternatives": [],
+      "explanation": "野口英世の黄熱病の研究、八木秀次のアンテナの発明なども知られる。",
+      "yearStart": 1917,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-19",
+      "subject": "nihonshi-tankyu",
+      "question": "1910年に創刊された雑誌を中心に、人道主義や理想主義をかかげて、個性の尊重を説いた、武者小路実篤・志賀直哉・有島武郎らの文学者のグループを何というか。",
+      "answer": "白樺派",
+      "reading": "しらかばは",
+      "alternatives": [],
+      "explanation": "志賀直哉の『暗夜行路』、有島武郎の『或る女』などがある。",
+      "yearStart": 1910,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1403-20",
+      "subject": "nihonshi-tankyu",
+      "question": "永井荷風や谷崎潤一郎のように、美の世界を追い求めた文学者のグループを何というか。",
+      "answer": "耽美派",
+      "reading": "たんびは",
+      "alternatives": [],
+      "explanation": "谷崎潤一郎の『痴人の愛』などがある。",
+      "yearStart": 1910,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-21",
+      "subject": "nihonshi-tankyu",
+      "question": "『羅生門』や『鼻』などの、理知的な短編小説を書いた、新思潮派の小説家は誰か。",
+      "answer": "芥川龍之介",
+      "reading": "あくたがわりゅうのすけ",
+      "alternatives": [],
+      "explanation": "同じグループの菊池寛は、雑誌『文藝春秋』を創刊した。",
+      "yearStart": 1915,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1403-22",
+      "subject": "nihonshi-tankyu",
+      "question": "『伊豆の踊子』を書いた川端康成や、横光利一ら、感覚的な表現を重んじた文学者のグループを何というか。",
+      "answer": "新感覚派",
+      "reading": "しんかんかくは",
+      "alternatives": [],
+      "explanation": "大正時代の末から昭和の初めにかけて活動した。",
+      "yearStart": 1924,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-23",
+      "subject": "nihonshi-tankyu",
+      "question": "大正時代の末から昭和の初めにかけてさかんになった、労働者の生活や闘争をえがいた文学を何というか。",
+      "answer": "プロレタリア文学",
+      "reading": "ぷろれたりあぶんがく",
+      "alternatives": [],
+      "explanation": "1921年に創刊された雑誌『種蒔く人』が出発点とされる。",
+      "yearStart": 1921,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1403-24",
+      "subject": "nihonshi-tankyu",
+      "question": "オホーツク海で働く労働者のきびしい労働と闘争をえがいた『蟹工船』の作者は誰か。",
+      "answer": "小林多喜二",
+      "reading": "こばやしたきじ",
+      "alternatives": [],
+      "explanation": "1933年に、警察の拷問によって殺された。徳永直の『太陽のない街』も知られる。",
+      "yearStart": 1929,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1403-25",
+      "subject": "nihonshi-tankyu",
+      "question": "新聞や大衆雑誌に連載されて、多くの読者をえた、中里介山の『大菩薩峠』や、吉川英治・大佛次郎・江戸川乱歩らの作品をまとめて何というか。",
+      "answer": "大衆文学",
+      "reading": "たいしゅうぶんがく",
+      "alternatives": [
+        "大衆小説"
+      ],
+      "explanation": "時代小説や探偵小説が人気を集めた。",
+      "yearStart": 1925,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-26",
+      "subject": "nihonshi-tankyu",
+      "question": "1924年に、小山内薫と土方与志が東京につくった、新劇の常設の劇場は何か。",
+      "answer": "築地小劇場",
+      "reading": "つきじしょうげきじょう",
+      "alternatives": [],
+      "explanation": "新劇の運動の拠点となった。",
+      "yearStart": 1924,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-27",
+      "subject": "nihonshi-tankyu",
+      "question": "島村抱月とともに芸術座をつくり、トルストイの『復活』などを演じて人気を集めた女優は誰か。",
+      "answer": "松井須磨子",
+      "reading": "まついすまこ",
+      "alternatives": [],
+      "explanation": "劇中でうたった「カチューシャの唄」も流行した。",
+      "yearStart": 1914,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-28",
+      "subject": "nihonshi-tankyu",
+      "question": "日本で最初の職業的な交響楽団をつくるなど、西洋音楽の普及につとめた作曲家は誰か。",
+      "answer": "山田耕筰",
+      "reading": "やまだこうさく",
+      "alternatives": [],
+      "explanation": "「赤とんぼ」などの童謡も作曲した。",
+      "yearStart": 1925,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-29",
+      "subject": "nihonshi-tankyu",
+      "question": "1914年に、文部省美術展覧会の洋画部門に対抗して、梅原龍三郎や安井曽太郎らが結成した洋画の団体は何か。",
+      "answer": "二科会",
+      "reading": "にかかい",
+      "alternatives": [],
+      "explanation": "同じ年に、日本美術院も再興された。",
+      "yearStart": 1914,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-30",
+      "subject": "nihonshi-tankyu",
+      "question": "「麗子微笑」など、娘をモデルにした一連の作品で知られる洋画家は誰か。",
+      "answer": "岸田劉生",
+      "reading": "きしだりゅうせい",
+      "alternatives": [],
+      "explanation": "春陽会などで活動した。",
+      "yearStart": 1921,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-31",
+      "subject": "nihonshi-tankyu",
+      "question": "再興された日本美術院の中心となり、水墨画の大作「生々流転」をえがいた日本画家は誰か。",
+      "answer": "横山大観",
+      "reading": "よこやまたいかん",
+      "alternatives": [],
+      "explanation": "岡倉天心の教えを受けた。",
+      "yearStart": 1923,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1403-32",
+      "subject": "nihonshi-tankyu",
+      "question": "1915年に始まった、現在の全国高等学校野球選手権大会のもとになった大会を何というか。",
+      "answer": "全国中等学校優勝野球大会",
+      "reading": "ぜんこくちゅうとうがっこうゆうしょうやきゅうたいかい",
+      "alternatives": [],
+      "explanation": "東京六大学野球とともに人気を集めた。",
+      "yearStart": 1915,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

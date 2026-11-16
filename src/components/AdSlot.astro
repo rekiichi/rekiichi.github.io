@@ -1,0 +1,44 @@
+---
+// 広告枠。広告はこの部品だけで出す。
+// - AdSense の ID（ADSENSE_CLIENT）と広告ユニット ID（ADSENSE_SLOT）が設定されていれば、広告ユニットを出す
+// - 設定されていなければ、HTML コメントで位置を示すだけ（広告コードは出ない）
+// 設定のしかたは src/lib/public-settings.ts と README の「Google AdSense を入れるとき」。
+//
+// 置き場所のルール（CLAUDE.md にも記載）:
+// - ボタン・チェックボックス・○×ボタンなど、よく押す操作のすぐ近くには置かない
+// - 見出しや本文のまとまりの間に置き、前後に十分な余白をとる（.ad-slot の margin）
+// - 出題中の画面には置かない（結果画面の下部だけ）
+import { publicSettings } from '../lib/public-settings';
+
+interface Props {
+  /** 枠の名前（どのページのどの位置か） */
+  name: string;
+  /** 最初は隠れている場所に置くとき true。表示するときにブラウザ側で読み込む（src/client/practice.ts） */
+  deferred?: boolean;
+}
+
+const { name, deferred = false } = Astro.props;
+const { adsenseClient, adsenseSlot } = publicSettings;
+const enabled = adsenseClient !== '' && adsenseSlot !== '';
+const comment = `<!-- 広告枠: ${name}（広告コードは未設置） -->`;
+---
+
+{
+  enabled ? (
+    <div class="ad-slot" data-ad-name={name}>
+      <p class="ad-label">スポンサーリンク</p>
+      <ins
+        class="adsbygoogle"
+        style="display:block"
+        data-ad-client={adsenseClient}
+        data-ad-slot={adsenseSlot}
+        data-ad-format="auto"
+        data-full-width-responsive="true"
+        data-ad-deferred={deferred ? 'true' : undefined}
+      />
+      {!deferred && <script is:inline>(adsbygoogle = window.adsbygoogle || []).push({});</script>}
+    </div>
+  ) : (
+    <Fragment set:html={comment} />
+  )
+}

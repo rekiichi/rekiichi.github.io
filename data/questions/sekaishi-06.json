@@ -1,0 +1,1150 @@
+{
+  "generatedFrom": "sekaishi-06.csv",
+  "_note": "このファイルは sekaishi-06.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "w-0601-01",
+      "subject": "sekaishi-tankyu",
+      "question": "9世紀後半に中央アジアで成立した、ブハラを都とするイラン系のイスラーム王朝は何か。",
+      "answer": "サーマーン朝",
+      "alternatives": [],
+      "explanation": "トルコ人を奴隷軍人（マムルーク）として西アジアに送り出した。",
+      "yearStart": 875,
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0601-02",
+      "subject": "sekaishi-tankyu",
+      "question": "10世紀半ばに中央アジアで成立した、最初のトルコ系イスラーム王朝は何か。",
+      "answer": "カラハン朝",
+      "alternatives": [],
+      "explanation": "サーマーン朝を滅ぼして東西トルキスタンを支配し、この地域のトルコ化とイスラーム化が進んだ。",
+      "yearStart": 940,
+      "yearApprox": true,
+      "regions": [
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0601-03",
+      "subject": "sekaishi-tankyu",
+      "question": "10世紀後半にアフガニスタンで成立し、北インドへの侵入をくり返したトルコ系のイスラーム王朝は何か。",
+      "answer": "ガズナ朝",
+      "alternatives": [],
+      "explanation": "最盛期のマフムードは、インドへの遠征をくり返した。",
+      "yearStart": 977,
+      "regions": [
+        "南アジア",
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0601-04",
+      "subject": "sekaishi-tankyu",
+      "question": "12世紀にアフガニスタンにおこり、ガズナ朝を滅ぼして北インドに進出したイスラーム王朝は何か。",
+      "answer": "ゴール朝",
+      "alternatives": [],
+      "explanation": "ラージプート諸勢力を破り、北インド支配の基礎をきずいた。",
+      "yearStart": 1148,
+      "yearApprox": true,
+      "regions": [
+        "南アジア",
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0601-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1206年に、ゴール朝の将軍アイバクがデリーに建てた、インド最初のイスラーム王朝は何か。",
+      "answer": "奴隷王朝",
+      "reading": "どれいおうちょう",
+      "alternatives": [],
+      "explanation": "アイバクが奴隷出身の軍人であったことから、こう呼ばれる。",
+      "yearStart": 1206,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0601-06",
+      "subject": "sekaishi-tankyu",
+      "question": "奴隷王朝を建てた、ゴール朝の将軍は誰か。",
+      "answer": "アイバク",
+      "alternatives": [],
+      "explanation": "デリーの郊外にクトゥブ=ミナールを建てた。",
+      "yearStart": 1206,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0601-07",
+      "subject": "sekaishi-tankyu",
+      "question": "奴隷王朝に始まる、デリーを都とした5つのイスラーム王朝をまとめて何というか。",
+      "answer": "デリー=スルタン朝",
+      "alternatives": [],
+      "explanation": "奴隷王朝・ハルジー朝・トゥグルク朝・サイイド朝・ロディー朝の5王朝。",
+      "yearStart": 1206,
+      "yearEnd": 1526,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0601-08",
+      "subject": "sekaishi-tankyu",
+      "question": "デリー=スルタン朝の2番目の王朝で、地租を金納とするなどの経済改革をおこなった王朝は何か。",
+      "answer": "ハルジー朝",
+      "alternatives": [],
+      "explanation": "南インドにも遠征して領土を広げた。",
+      "yearStart": 1290,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0601-09",
+      "subject": "sekaishi-tankyu",
+      "question": "デリー=スルタン朝の最後の王朝で、5王朝のうちただ一つアフガン系であった王朝は何か。",
+      "answer": "ロディー朝",
+      "alternatives": [],
+      "explanation": "1526年にバーブルに敗れて滅んだ。",
+      "yearStart": 1451,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0601-10",
+      "subject": "sekaishi-tankyu",
+      "question": "アイバクがデリーの郊外に建てた、インドで最も古いイスラーム建築の塔は何か。",
+      "answer": "クトゥブ=ミナール",
+      "alternatives": [],
+      "explanation": "ヒンドゥー教やジャイナ教の寺院の石材も使われている。",
+      "yearStart": 1200,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0601-11",
+      "subject": "sekaishi-tankyu",
+      "question": "神との一体感を求めて修行にはげむ、イスラームの神秘主義者を何というか。",
+      "answer": "スーフィー",
+      "alternatives": [],
+      "explanation": "各地を旅して教えを説き、インド・東南アジア・アフリカへのイスラーム教の広まりに大きな役割をはたした。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "西アジア",
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0601-12",
+      "subject": "sekaishi-tankyu",
+      "question": "形式的な信仰にとどまらず、神との一体感を求めるイスラームの神秘主義を何というか。",
+      "answer": "スーフィズム",
+      "alternatives": [],
+      "explanation": "12世紀頃から、聖者を中心とする教団が各地につくられた。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0601-13",
+      "subject": "sekaishi-tankyu",
+      "question": "14世紀末頃にマレー半島に成立し、15世紀にイスラーム教を受け入れて東南アジアの交易の中心となった王国は何か。",
+      "answer": "マラッカ王国",
+      "alternatives": [],
+      "explanation": "明の鄭和の艦隊の寄港地となって発展し、東南アジアのイスラーム化の拠点となった。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0601-14",
+      "subject": "sekaishi-tankyu",
+      "question": "15世紀末にスマトラ島の北部に成立した、イスラーム教の王国は何か。",
+      "answer": "アチェ王国",
+      "alternatives": [],
+      "explanation": "胡椒の交易で栄えた。",
+      "yearStart": 1496,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0601-15",
+      "subject": "sekaishi-tankyu",
+      "question": "16世紀末にジャワ島の中・東部に成立した、イスラーム教の王国は何か。",
+      "answer": "マタラム王国",
+      "alternatives": [],
+      "explanation": "ジャワ島のイスラーム化が進んだ。",
+      "yearStart": 1580,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0601-16",
+      "subject": "sekaishi-tankyu",
+      "question": "16世紀にジャワ島の西部に成立した、イスラーム教の王国は何か。",
+      "answer": "バンテン王国",
+      "alternatives": [],
+      "explanation": "胡椒の交易で栄えた。",
+      "yearStart": 1526,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0601-17",
+      "subject": "sekaishi-tankyu",
+      "question": "前10世紀頃にナイル川の上流に成立し、一時はエジプトも支配した、最も古いアフリカ人の王国は何か。",
+      "answer": "クシュ王国",
+      "alternatives": [],
+      "explanation": "のちに都をメロエに移し、製鉄と交易で栄えた。",
+      "yearStart": -920,
+      "yearApprox": true,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0601-18",
+      "subject": "sekaishi-tankyu",
+      "question": "エチオピア高原に成立し、4世紀にキリスト教を受け入れた王国は何か。",
+      "answer": "アクスム王国",
+      "alternatives": [],
+      "explanation": "紅海とインド洋を結ぶ交易で栄え、クシュ王国を滅ぼした。",
+      "yearStart": 350,
+      "yearApprox": true,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0601-19",
+      "subject": "sekaishi-tankyu",
+      "question": "7世紀頃から、西アフリカのニジェール川・セネガル川の上流域で、金と岩塩の交易によって栄えた王国は何か。",
+      "answer": "ガーナ王国",
+      "alternatives": [],
+      "explanation": "11世紀後半にムラービト朝の攻撃を受けておとろえ、西アフリカのイスラーム化が進んだ。",
+      "yearStart": 700,
+      "yearApprox": true,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0601-20",
+      "subject": "sekaishi-tankyu",
+      "question": "サハラ砂漠をこえて、北の岩塩と南の金などを交換した交易を何というか。",
+      "answer": "サハラ縦断交易",
+      "reading": "さはらじゅうだんこうえき",
+      "alternatives": [
+        "塩金交易"
+      ],
+      "explanation": "ムスリム商人がラクダの隊商を組んでおこなった。",
+      "yearStart": 800,
+      "yearApprox": true,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0601-21",
+      "subject": "sekaishi-tankyu",
+      "question": "13世紀に西アフリカに成立し、豊かな金の産出で知られたイスラーム教の王国は何か。",
+      "answer": "マリ王国",
+      "alternatives": [],
+      "explanation": "14世紀に最盛期をむかえた。",
+      "yearStart": 1240,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0601-22",
+      "subject": "sekaishi-tankyu",
+      "question": "14世紀前半にメッカ巡礼をおこない、とちゅうで大量の金を使ったことで知られるマリ王国の王は誰か。",
+      "answer": "マンサ=ムーサ",
+      "alternatives": [],
+      "explanation": "その富はヨーロッパにも伝わった。",
+      "yearStart": 1324,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0601-23",
+      "subject": "sekaishi-tankyu",
+      "question": "15世紀後半にマリ王国にかわって西アフリカを広く支配した、イスラーム教の王国は何か。",
+      "answer": "ソンガイ王国",
+      "alternatives": [],
+      "explanation": "16世紀末にモロッコ軍の攻撃を受けて滅んだ。",
+      "yearStart": 1464,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0601-24",
+      "subject": "sekaishi-tankyu",
+      "question": "マリ王国やソンガイ王国のもとで、交易とイスラームの学問の中心として栄えたニジェール川中流の都市はどこか。",
+      "answer": "トンブクトゥ",
+      "alternatives": [],
+      "explanation": "「黄金の都」としてヨーロッパにも知られた。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "経済",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0601-25",
+      "subject": "sekaishi-tankyu",
+      "question": "東アフリカの海岸地帯で、現地のバントゥー語にアラビア語がまじって生まれた言語は何か。",
+      "answer": "スワヒリ語",
+      "alternatives": [],
+      "explanation": "マリンディ・モンバサ・ザンジバル・キルワなどの港町に、ムスリム商人が住みついて交易をおこなった。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0601-26",
+      "subject": "sekaishi-tankyu",
+      "question": "ムスリム商人がインド洋の交易に使った、三角形の帆をもつ木造の船を何というか。",
+      "answer": "ダウ船",
+      "alternatives": [],
+      "explanation": "季節風を利用して航海した。",
+      "yearStart": 900,
+      "yearApprox": true,
+      "regions": [
+        "西アジア",
+        "アフリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0601-27",
+      "subject": "sekaishi-tankyu",
+      "question": "ザンベジ川の南方で、金や象牙のインド洋交易によって栄えた王国は何か。",
+      "answer": "モノモタパ王国",
+      "alternatives": [],
+      "explanation": "石づくりの大ジンバブエ遺跡が、この地域の繁栄を伝えている。",
+      "yearStart": 1450,
+      "yearApprox": true,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0602-01",
+      "subject": "sekaishi-tankyu",
+      "question": "946年にバグダードに入り、アッバース朝のカリフから大アミールに任じられて実権をにぎった、シーア派のイラン系の軍事政権は何か。",
+      "answer": "ブワイフ朝",
+      "alternatives": [],
+      "explanation": "カリフは政治の実権を失い、名目だけの存在となった。",
+      "yearStart": 946,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-02",
+      "subject": "sekaishi-tankyu",
+      "question": "ブワイフ朝で始まった、軍人や役人に給料のかわりに、土地から税をとる権利を与える制度を何というか。",
+      "answer": "イクター制",
+      "alternatives": [],
+      "explanation": "セルジューク朝で整えられ、西アジアのイスラーム諸王朝に受けつがれた。",
+      "yearStart": 946,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-03",
+      "subject": "sekaishi-tankyu",
+      "question": "11世紀に、トゥグリル=ベクが中央アジアから西に進んで建てたトルコ系の王朝は何か。",
+      "answer": "セルジューク朝",
+      "alternatives": [],
+      "explanation": "スンナ派を保護し、1055年にバグダードに入ってブワイフ朝を追い出した。",
+      "yearStart": 1038,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-04",
+      "subject": "sekaishi-tankyu",
+      "question": "セルジューク朝を建て、アッバース朝のカリフから「スルタン」の称号を与えられた人物は誰か。",
+      "answer": "トゥグリル=ベク",
+      "alternatives": [],
+      "explanation": "カリフの権威を背景に、政治と軍事の実権をにぎった。",
+      "yearStart": 1055,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0602-05",
+      "subject": "sekaishi-tankyu",
+      "question": "セルジューク朝の君主がカリフから与えられて以後、イスラーム世界の世俗の支配者が使った称号は何か。",
+      "answer": "スルタン",
+      "alternatives": [],
+      "explanation": "「支配者」を意味する。",
+      "yearStart": 1055,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-06",
+      "subject": "sekaishi-tankyu",
+      "question": "1071年にセルジューク朝がビザンツ帝国の軍を破り、アナトリアのトルコ化が進むきっかけとなった戦いは何か。",
+      "answer": "マンジケルトの戦い",
+      "alternatives": [],
+      "explanation": "圧迫されたビザンツ皇帝が教皇に助けを求め、十字軍のきっかけとなった。",
+      "yearStart": 1071,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0602-07",
+      "subject": "sekaishi-tankyu",
+      "question": "11世紀後半に、セルジューク朝の一族がアナトリアに建てた王朝は何か。",
+      "answer": "ルーム=セルジューク朝",
+      "alternatives": [],
+      "explanation": "アナトリアのトルコ化とイスラーム化が進んだ。",
+      "yearStart": 1077,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0602-08",
+      "subject": "sekaishi-tankyu",
+      "question": "セルジューク朝の宰相で、各地に学院を建ててスンナ派の学問をさかんにした人物は誰か。",
+      "answer": "ニザーム=アルムルク",
+      "alternatives": [],
+      "explanation": "彼の建てた学院はニザーミーヤ学院と呼ばれる。",
+      "yearStart": 1067,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-09",
+      "subject": "sekaishi-tankyu",
+      "question": "イスラーム世界で、法学などのイスラーム諸学を教える学院（高等教育機関）を何というか。",
+      "answer": "マドラサ",
+      "alternatives": [],
+      "explanation": "ここで学んだ知識人が、役人や裁判官、教師となった。",
+      "yearStart": 1067,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-10",
+      "subject": "sekaishi-tankyu",
+      "question": "『コーラン』の解釈や法学などのイスラーム諸学をおさめた知識人を何というか。",
+      "answer": "ウラマー",
+      "alternatives": [],
+      "explanation": "イスラーム法にもとづいて、裁判や教育をになった。",
+      "yearStart": 900,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-11",
+      "subject": "sekaishi-tankyu",
+      "question": "12世紀後半にエジプトでファーティマ朝を倒して新しい王朝を建て、十字軍からイェルサレムを取りもどしたクルド人の武将は誰か。",
+      "answer": "サラディン",
+      "alternatives": [
+        "サラーフ=アッディーン"
+      ],
+      "explanation": "1187年にイェルサレムを奪回し、第3回十字軍とも戦った。",
+      "yearStart": 1187,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-12",
+      "subject": "sekaishi-tankyu",
+      "question": "サラディンがエジプトに建てた、スンナ派の王朝は何か。",
+      "answer": "アイユーブ朝",
+      "alternatives": [],
+      "explanation": "シーア派のファーティマ朝を倒して、エジプトにスンナ派の支配を回復した。",
+      "yearStart": 1169,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-13",
+      "subject": "sekaishi-tankyu",
+      "question": "イスラーム世界で、トルコ人などの奴隷出身の軍人を何というか。",
+      "answer": "マムルーク",
+      "alternatives": [],
+      "explanation": "すぐれた騎馬の戦士として、各地の王朝で軍の中心となった。",
+      "yearStart": 850,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-14",
+      "subject": "sekaishi-tankyu",
+      "question": "1250年に、アイユーブ朝の奴隷軍人の軍団がエジプトに建てた王朝は何か。",
+      "answer": "マムルーク朝",
+      "alternatives": [],
+      "explanation": "メッカ・メディナの両聖都を保護し、都のカイロは商業と学問の中心として栄えた。",
+      "yearStart": 1250,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-15",
+      "subject": "sekaishi-tankyu",
+      "question": "1260年にモンゴル軍を撃退し、アッバース朝のカリフの一族をカイロにむかえたマムルーク朝のスルタンは誰か。",
+      "answer": "バイバルス",
+      "alternatives": [],
+      "explanation": "シリアに残っていた十字軍の勢力とも戦った。",
+      "yearStart": 1260,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0602-16",
+      "subject": "sekaishi-tankyu",
+      "question": "マムルーク朝の保護のもとで、紅海とインド洋を結ぶ香辛料の交易で活躍したムスリム商人の集団を何というか。",
+      "answer": "カーリミー商人",
+      "alternatives": [],
+      "explanation": "アレクサンドリアでイタリア商人と取引した。",
+      "yearStart": 1300,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0602-17",
+      "subject": "sekaishi-tankyu",
+      "question": "1258年にバグダードを攻め落としてアッバース朝を滅ぼした、モンゴルの武将は誰か。",
+      "answer": "フレグ",
+      "alternatives": [
+        "フラグ"
+      ],
+      "explanation": "チンギス=カンの孫。",
+      "yearStart": 1258,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-18",
+      "subject": "sekaishi-tankyu",
+      "question": "フレグがイランに建てた、モンゴル人の政権を何というか。",
+      "answer": "イル=ハン国",
+      "alternatives": [
+        "フレグ=ウルス",
+        "イル=ハン朝"
+      ],
+      "explanation": "都はタブリーズ。",
+      "yearStart": 1258,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-19",
+      "subject": "sekaishi-tankyu",
+      "question": "13世紀末にイスラーム教に改宗し、これを国教としたイル=ハン国の君主は誰か。",
+      "answer": "ガザン=ハン",
+      "alternatives": [],
+      "explanation": "イスラームの制度による国づくりを進め、イラン=イスラーム文化が発展した。",
+      "yearStart": 1295,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0602-20",
+      "subject": "sekaishi-tankyu",
+      "question": "ガザン=ハンの宰相で、モンゴルを中心とする世界史『集史』をまとめた人物は誰か。",
+      "answer": "ラシード=アッディーン",
+      "alternatives": [],
+      "explanation": "ペルシア語で書かれた。",
+      "yearStart": 1310,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0602-21",
+      "subject": "sekaishi-tankyu",
+      "question": "北アフリカのマグリブ地方に古くから住む人々を何というか。",
+      "answer": "ベルベル人",
+      "alternatives": [],
+      "explanation": "11世紀頃からイスラーム教への改宗が急速に進んだ。",
+      "yearStart": 1050,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-22",
+      "subject": "sekaishi-tankyu",
+      "question": "11世紀半ばにベルベル人が北アフリカに建てた、マラケシュを都とする王朝は何か。",
+      "answer": "ムラービト朝",
+      "alternatives": [],
+      "explanation": "ガーナ王国を攻撃し、イベリア半島にも進出した。",
+      "yearStart": 1056,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-23",
+      "subject": "sekaishi-tankyu",
+      "question": "12世紀前半にムラービト朝を倒した、ベルベル人の王朝は何か。",
+      "answer": "ムワッヒド朝",
+      "alternatives": [],
+      "explanation": "イベリア半島にも進出したが、キリスト教徒の国々におされた。",
+      "yearStart": 1130,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0602-24",
+      "subject": "sekaishi-tankyu",
+      "question": "グラナダを都とした、イベリア半島で最後のイスラーム王朝は何か。",
+      "answer": "ナスル朝",
+      "alternatives": [],
+      "explanation": "1492年にスペイン王国に滅ぼされた。",
+      "yearStart": 1232,
+      "yearEnd": 1492,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-25",
+      "subject": "sekaishi-tankyu",
+      "question": "ナスル朝がグラナダに建てた、イスラーム建築を代表する宮殿は何か。",
+      "answer": "アルハンブラ宮殿",
+      "alternatives": [],
+      "explanation": "繊細なアラベスクの装飾で知られる。",
+      "yearStart": 1350,
+      "yearApprox": true,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-26",
+      "subject": "sekaishi-tankyu",
+      "question": "『医学典範』を著し、ヨーロッパでは「アヴィケンナ」の名で知られた医学者・哲学者は誰か。",
+      "answer": "イブン=シーナー",
+      "alternatives": [],
+      "explanation": "『医学典範』はラテン語に訳され、ヨーロッパの医学にも大きな影響を与えた。",
+      "yearStart": 1020,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-27",
+      "subject": "sekaishi-tankyu",
+      "question": "アリストテレスの著作の注釈で知られ、ヨーロッパでは「アヴェロエス」と呼ばれた、コルドバ生まれの哲学者は誰か。",
+      "answer": "イブン=ルシュド",
+      "alternatives": [],
+      "explanation": "その研究は中世ヨーロッパのスコラ学に影響を与えた。",
+      "yearStart": 1180,
+      "yearApprox": true,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-28",
+      "subject": "sekaishi-tankyu",
+      "question": "神秘主義（スーフィズム）を理論づけ、スンナ派の神学と結びつけた、セルジューク朝時代の学者は誰か。",
+      "answer": "ガザーリー",
+      "alternatives": [],
+      "explanation": "ニザーミーヤ学院の教授をつとめた。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0602-29",
+      "subject": "sekaishi-tankyu",
+      "question": "『世界史序説』を著し、都市の民と遊牧民の交流を中心に、歴史の発展の法則を論じた14世紀の歴史家は誰か。",
+      "answer": "イブン=ハルドゥーン",
+      "alternatives": [],
+      "explanation": "チュニス生まれ。",
+      "yearStart": 1377,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-30",
+      "subject": "sekaishi-tankyu",
+      "question": "モロッコに生まれ、アフリカ・西アジア・インド・中国などを旅行して『旅行記』（『三大陸周遊記』）を残した14世紀の旅行家は誰か。",
+      "answer": "イブン=バットゥータ",
+      "alternatives": [],
+      "explanation": "元の時代の中国も訪れた。",
+      "yearStart": 1355,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0602-31",
+      "subject": "sekaishi-tankyu",
+      "question": "『四行詩集』（『ルバイヤート』）で知られる、セルジューク朝時代のイランの詩人・科学者は誰か。",
+      "answer": "ウマル=ハイヤーム",
+      "alternatives": [
+        "オマル=ハイヤーム"
+      ],
+      "explanation": "正確な太陽暦の作成にも参加した。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0602-32",
+      "subject": "sekaishi-tankyu",
+      "question": "イランの神話や英雄の伝説をうたった、ペルシア語の叙事詩『シャー=ナーメ』（『王の書』）の作者は誰か。",
+      "answer": "フィルドゥシー",
+      "alternatives": [
+        "フィルドゥーシー"
+      ],
+      "explanation": "ガズナ朝のマフムードにささげられた。",
+      "yearStart": 1010,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0602-33",
+      "subject": "sekaishi-tankyu",
+      "question": "中国の絵画の影響を受けてイル=ハン国の時代から発達した、書物のさし絵などの精密な絵画を何というか。",
+      "answer": "細密画",
+      "reading": "さいみつが",
+      "alternatives": [
+        "ミニアチュール"
+      ],
+      "explanation": "イランやインドのムガル帝国でさかんにえがかれた。",
+      "yearStart": 1300,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0602-34",
+      "subject": "sekaishi-tankyu",
+      "question": "12世紀に、アラビア語の学術書がさかんにラテン語に翻訳された、イベリア半島中部の都市はどこか。",
+      "answer": "トレド",
+      "alternatives": [],
+      "explanation": "イスラーム世界に伝わっていたギリシアの学問が、西ヨーロッパに伝えられた。",
+      "yearStart": 1150,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0602-35",
+      "subject": "sekaishi-tankyu",
+      "question": "イスラーム世界で、モスクや学院、病院などの運営にあてるために寄進された財産（寄進の制度）を何というか。",
+      "answer": "ワクフ",
+      "alternatives": [],
+      "explanation": "都市の公共施設はこれによってささえられた。",
+      "yearStart": 1000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0602-36",
+      "subject": "sekaishi-tankyu",
+      "question": "イスラーム世界の都市の市場を、ペルシア語で何というか。",
+      "answer": "バザール",
+      "alternatives": [],
+      "explanation": "アラビア語ではスークという。",
+      "yearStart": 1000,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

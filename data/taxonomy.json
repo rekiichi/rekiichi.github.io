@@ -1,0 +1,25 @@
+{
+  "regions": [
+    { "slug": "japan", "name": "日本" },
+    { "slug": "korea", "name": "朝鮮" },
+    { "slug": "china", "name": "中国" },
+    { "slug": "inner-asia", "name": "内陸アジア", "note": "モンゴル高原・中央アジア・チベットなど" },
+    { "slug": "southeast-asia", "name": "東南アジア" },
+    { "slug": "south-asia", "name": "南アジア" },
+    { "slug": "west-asia", "name": "西アジア", "note": "エジプト・北アフリカを含む" },
+    { "slug": "africa", "name": "アフリカ", "note": "サハラ以南" },
+    { "slug": "europe", "name": "ヨーロッパ" },
+    { "slug": "russia", "name": "ロシア" },
+    { "slug": "americas", "name": "南北アメリカ" },
+    { "slug": "oceania", "name": "オセアニア" },
+    { "slug": "international", "name": "国際", "note": "国際機構・国際会議・世界規模の出来事" }
+  ],
+  "themes": [
+    { "slug": "politics", "name": "政治", "note": "法・制度を含む" },
+    { "slug": "diplomacy", "name": "外交", "note": "戦争・条約・貿易の取り決めを含む" },
+    { "slug": "economy", "name": "経済", "note": "産業・土地制度・貿易を含む" },
+    { "slug": "society", "name": "社会", "note": "身分・生活・社会運動など" },
+    { "slug": "religion", "name": "宗教" },
+    { "slug": "culture", "name": "文化", "note": "思想・学問・芸術・科学技術" }
+  ]
+}

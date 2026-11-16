@@ -1,0 +1,36 @@
+{
+  "name": "rekishi-ichimon",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "description": "教科書と定期テスト範囲を選んで解ける、高校生向けの歴史一問一答サイト",
+  "engines": {
+    "node": ">=22.23.4"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "predev": "npm run data",
+    "build": "astro build",
+    "prebuild": "npm run data",
+    "preview": "astro preview",
+    "data": "npm run data:csv && npm run validate",
+    "data:csv": "tsx scripts/csv-to-json.ts",
+    "validate": "tsx scripts/validate-data.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "check": "astro check",
+    "check:dist": "tsx scripts/check-dist.ts",
+    "test:e2e": "node scripts/smoke-test.mjs",
+    "ci": "npm run data && npm test && npm run check && npm run build && npm run check:dist"
+  },
+  "dependencies": {
+    "astro": "^7.4.4"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.12",
+    "@types/node": "^24.19.2",
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.3",
+    "vitest": "^5.0.5"
+  }
+}

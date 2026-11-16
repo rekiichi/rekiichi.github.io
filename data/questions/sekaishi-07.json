@@ -1,0 +1,1912 @@
+{
+  "generatedFrom": "sekaishi-07.csv",
+  "_note": "このファイルは sekaishi-07.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "w-0701-01",
+      "subject": "sekaishi-tankyu",
+      "question": "教皇を頂点に、大司教・司教・司祭とつらなる、ローマ=カトリック教会の聖職者の序列を何というか。",
+      "answer": "階層制組織",
+      "reading": "かいそうせいそしき",
+      "alternatives": [
+        "聖職階層制",
+        "ヒエラルキー"
+      ],
+      "explanation": "教会は広い土地をもち、農民から十分の一税をとった。",
+      "yearStart": 1000,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0701-02",
+      "subject": "sekaishi-tankyu",
+      "question": "10世紀以降、聖職売買や聖職者の堕落を批判して教会の改革運動の中心となった、フランス中東部の修道院は何か。",
+      "answer": "クリュニー修道院",
+      "alternatives": [],
+      "explanation": "その改革の精神は教皇にも受けつがれた。",
+      "yearStart": 910,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0701-03",
+      "subject": "sekaishi-tankyu",
+      "question": "聖職者を任命する権利（聖職叙任権）を世俗の権力から教会にとりもどそうとした、11世紀後半の教皇は誰か。",
+      "answer": "グレゴリウス7世",
+      "alternatives": [],
+      "explanation": "聖職売買や聖職者の妻帯を禁じる改革を進めた。",
+      "yearStart": 1073,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0701-04",
+      "subject": "sekaishi-tankyu",
+      "question": "1077年に、破門された神聖ローマ皇帝ハインリヒ4世が、教皇に許しを求めて謝罪した事件を何というか。",
+      "answer": "カノッサの屈辱",
+      "reading": "かのっさのくつじょく",
+      "alternatives": [],
+      "explanation": "皇帝はイタリアのカノッサ城の門の前で3日間立って許しを願ったという。",
+      "yearStart": 1077,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0701-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1122年に皇帝と教皇のあいだで結ばれ、叙任権闘争を終わらせた取り決めは何か。",
+      "answer": "ヴォルムス協約",
+      "alternatives": [],
+      "explanation": "皇帝は聖職叙任権を事実上手放した。",
+      "yearStart": 1122,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0701-06",
+      "subject": "sekaishi-tankyu",
+      "question": "13世紀初めに教皇権の絶頂期をきずき、イギリス王やフランス王を屈服させた教皇は誰か。",
+      "answer": "インノケンティウス3世",
+      "alternatives": [],
+      "explanation": "「教皇は太陽、皇帝は月」ということばで知られる。",
+      "yearStart": 1198,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0701-07",
+      "subject": "sekaishi-tankyu",
+      "question": "耕地を春耕地・秋耕地・休耕地に分け、3年で一巡させる中世ヨーロッパの農法を何というか。",
+      "answer": "三圃制",
+      "reading": "さんぽせい",
+      "alternatives": [],
+      "explanation": "重い犂（重量有輪犂）の普及とあわせて、農業生産が大きくのびた。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0701-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1095年に教皇ウルバヌス2世が十字軍の派遣を呼びかけた会議は何か。",
+      "answer": "クレルモン宗教会議",
+      "alternatives": [
+        "クレルモン公会議"
+      ],
+      "explanation": "セルジューク朝におされたビザンツ皇帝の救援要請がきっかけ。",
+      "yearStart": 1095,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0701-09",
+      "subject": "sekaishi-tankyu",
+      "question": "聖地イェルサレムをイスラーム教徒から奪い返すために、11世紀末から約200年にわたっておこなわれた西ヨーロッパの軍事遠征を何というか。",
+      "answer": "十字軍",
+      "reading": "じゅうじぐん",
+      "alternatives": [],
+      "explanation": "1096年に第1回が出発し、1291年に最後の拠点アッコンを失って終わった。",
+      "yearStart": 1096,
+      "yearEnd": 1291,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "外交",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0701-10",
+      "subject": "sekaishi-tankyu",
+      "question": "第1回十字軍が聖地を占領して建てた国は何か。",
+      "answer": "イェルサレム王国",
+      "alternatives": [],
+      "explanation": "1187年にサラディンによってイェルサレムを奪い返された。",
+      "yearStart": 1099,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0701-11",
+      "subject": "sekaishi-tankyu",
+      "question": "ヴェネツィア商人の要求にしたがってコンスタンティノープルを占領し、ラテン帝国を建てた十字軍は第何回か。",
+      "answer": "第4回十字軍",
+      "reading": "だいよんかいじゅうじぐん",
+      "alternatives": [
+        "第4回",
+        "4回"
+      ],
+      "explanation": "聖地の回復という本来の目的からはずれた。",
+      "yearStart": 1202,
+      "yearEnd": 1204,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0701-12",
+      "subject": "sekaishi-tankyu",
+      "question": "第4回十字軍がコンスタンティノープルを占領して建てた国は何か。",
+      "answer": "ラテン帝国",
+      "alternatives": [],
+      "explanation": "1261年にビザンツ帝国が復活するまで続いた。",
+      "yearStart": 1204,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0701-13",
+      "subject": "sekaishi-tankyu",
+      "question": "聖地の防衛や巡礼者の保護のためにつくられた、修道士と騎士の性格をあわせもつ団体をまとめて何というか。",
+      "answer": "宗教騎士団",
+      "reading": "しゅうきょうきしだん",
+      "alternatives": [],
+      "explanation": "ヨハネ騎士団・テンプル騎士団・ドイツ騎士団が有名。",
+      "yearStart": 1120,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0701-14",
+      "subject": "sekaishi-tankyu",
+      "question": "11〜12世紀に、農業生産の増大を背景に、商業と都市がふたたびさかんになったことを何というか。",
+      "answer": "商業の復活",
+      "reading": "しょうぎょうのふっかつ",
+      "alternatives": [
+        "商業ルネサンス"
+      ],
+      "explanation": "余った生産物を交換する定期市が開かれ、遠くの地域との貿易も発達した。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0701-15",
+      "subject": "sekaishi-tankyu",
+      "question": "十字軍の輸送で発展し、香辛料や絹織物などの東方貿易（レヴァント貿易）で栄えた、アドリア海に面する北イタリアの港市はどこか。",
+      "answer": "ヴェネツィア",
+      "alternatives": [
+        "ベネチア"
+      ],
+      "explanation": "ジェノヴァやピサとともに地中海商業圏の中心となった。",
+      "yearStart": 1200,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0701-16",
+      "subject": "sekaishi-tankyu",
+      "question": "ガン（ヘント）やブリュージュなどの都市が毛織物の生産で栄えた、現在のベルギーを中心とする地方はどこか。",
+      "answer": "フランドル地方",
+      "alternatives": [
+        "フランドル"
+      ],
+      "explanation": "イギリスから羊毛を輸入した。",
+      "yearStart": 1200,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0701-17",
+      "subject": "sekaishi-tankyu",
+      "question": "地中海商業圏と北ヨーロッパ商業圏を結ぶ場所にあり、大規模な定期市で栄えたフランスの地方はどこか。",
+      "answer": "シャンパーニュ地方",
+      "alternatives": [
+        "シャンパーニュ"
+      ],
+      "explanation": "各地の商人が集まった。",
+      "yearStart": 1200,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0701-18",
+      "subject": "sekaishi-tankyu",
+      "question": "北ドイツの諸都市が結成し、リューベックを盟主として北海・バルト海の交易を支配した都市同盟は何か。",
+      "answer": "ハンザ同盟",
+      "alternatives": [],
+      "explanation": "共同で海軍をもち、14世紀に最盛期をむかえた。",
+      "yearStart": 1250,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0701-19",
+      "subject": "sekaishi-tankyu",
+      "question": "12世紀に、北イタリアの諸都市が神聖ローマ皇帝に対抗するために結んだ都市同盟は何か。",
+      "answer": "ロンバルディア同盟",
+      "alternatives": [],
+      "explanation": "ミラノが中心となった。",
+      "yearStart": 1167,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0701-20",
+      "subject": "sekaishi-tankyu",
+      "question": "北イタリアなどで、周辺の農村も支配して事実上の都市国家となった自治都市を何というか。",
+      "answer": "コムーネ",
+      "alternatives": [],
+      "explanation": "司教の支配から自立した。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0701-21",
+      "subject": "sekaishi-tankyu",
+      "question": "ドイツで、皇帝から特許状をえて皇帝に直属し、諸侯と同じ地位をもった都市を何というか。",
+      "answer": "帝国都市",
+      "reading": "ていこくとし",
+      "alternatives": [
+        "自由都市"
+      ],
+      "explanation": "自治権を守るために都市同盟を結んだ。",
+      "yearStart": 1200,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0701-22",
+      "subject": "sekaishi-tankyu",
+      "question": "中世都市の商工業者がつくった、同業者の組合を何というか。",
+      "answer": "ギルド",
+      "alternatives": [],
+      "explanation": "自由な競争を禁じ、品質・価格・生産量などを細かく決めて、組合員の利益を守った。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0701-23",
+      "subject": "sekaishi-tankyu",
+      "question": "大商人が市政を独占する商人ギルドに対して、手工業者が職種ごとにつくった組合を何というか。",
+      "answer": "同職ギルド",
+      "reading": "どうしょくぎるど",
+      "alternatives": [
+        "ツンフト"
+      ],
+      "explanation": "市政への参加を求めて大商人と争った（ツンフト闘争）。",
+      "yearStart": 1200,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0701-24",
+      "subject": "sekaishi-tankyu",
+      "question": "同職ギルドで、独立した経営者として組合員になれた者を何というか。",
+      "answer": "親方",
+      "reading": "おやかた",
+      "alternatives": [],
+      "explanation": "その下には、職人や徒弟がいた。",
+      "yearStart": 1200,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0701-25",
+      "subject": "sekaishi-tankyu",
+      "question": "農奴が都市に逃げこんで一定の期間住めば自由な身分になれたことを表す、ドイツのことわざは何か。",
+      "answer": "都市の空気は自由にする",
+      "alternatives": [
+        "都市の空気は人を自由にする"
+      ],
+      "explanation": "都市は城壁で囲まれ、領主の支配から自立していた。",
+      "yearStart": 1200,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0701-26",
+      "subject": "sekaishi-tankyu",
+      "question": "銀山の経営などで富をきずき、皇帝にも金を貸したドイツ南部のアウクスブルクの大富豪は何家か。",
+      "answer": "フッガー家",
+      "alternatives": [],
+      "explanation": "15〜16世紀に大きな力をもった。",
+      "yearStart": 1500,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0701-27",
+      "subject": "sekaishi-tankyu",
+      "question": "金融業で富をきずき、フィレンツェの市政を支配した大富豪は何家か。",
+      "answer": "メディチ家",
+      "alternatives": [],
+      "explanation": "一族からは教皇も出た。学芸の保護でも知られる。",
+      "yearStart": 1434,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0702-01",
+      "subject": "sekaishi-tankyu",
+      "question": "7世紀以降のビザンツ帝国で、帝国をいくつかの軍管区に分け、その司令官に軍事と行政の両方の権限を与えた制度を何というか。",
+      "answer": "軍管区制",
+      "reading": "ぐんかんくせい",
+      "alternatives": [
+        "テマ制"
+      ],
+      "explanation": "農民に土地を与えて兵士とする屯田兵制もおこなわれた。",
+      "yearStart": 650,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0702-02",
+      "subject": "sekaishi-tankyu",
+      "question": "11世紀末以降のビザンツ帝国で、軍役とひきかえに貴族に領地を与えた制度を何というか。",
+      "answer": "プロノイア制",
+      "alternatives": [],
+      "explanation": "貴族の力が強まり、皇帝の権力は弱まった。",
+      "yearStart": 1081,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0702-03",
+      "subject": "sekaishi-tankyu",
+      "question": "1054年に、キリスト教会がローマ=カトリック教会とギリシア正教会に完全に分かれたことを何というか。",
+      "answer": "教会の東西分裂",
+      "reading": "きょうかいのとうざいぶんれつ",
+      "alternatives": [
+        "東西教会の分裂",
+        "東西教会分裂"
+      ],
+      "explanation": "たがいに相手を破門した。",
+      "yearStart": 1054,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0702-04",
+      "subject": "sekaishi-tankyu",
+      "question": "1453年にビザンツ帝国を滅ぼした国はどこか。",
+      "answer": "オスマン帝国",
+      "alternatives": [],
+      "explanation": "メフメト2世がコンスタンティノープルを攻め落とした。",
+      "yearStart": 1453,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0702-05",
+      "subject": "sekaishi-tankyu",
+      "question": "ビザンツ様式の教会の壁をかざった、色ガラスや石の小片をはめこんでえがく絵を何というか。",
+      "answer": "モザイク壁画",
+      "reading": "もざいくへきが",
+      "alternatives": [
+        "モザイク"
+      ],
+      "explanation": "ラヴェンナのサン=ヴィターレ聖堂のものが有名。",
+      "yearStart": 547,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0702-06",
+      "subject": "sekaishi-tankyu",
+      "question": "ギリシア正教会で信仰の対象とされた、キリストや聖母、聖人をえがいた聖像画を何というか。",
+      "answer": "イコン",
+      "alternatives": [],
+      "explanation": "板にえがかれることが多い。",
+      "yearStart": 900,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0702-07",
+      "subject": "sekaishi-tankyu",
+      "question": "ギリシア正教をスラヴ人に布教するために考え出された文字をもとに発達した、現在のロシア語などに使われる文字は何か。",
+      "answer": "キリル文字",
+      "alternatives": [],
+      "explanation": "宣教師キュリロスの名に由来する。",
+      "yearStart": 900,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ",
+        "ロシア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0702-08",
+      "subject": "sekaishi-tankyu",
+      "question": "10世紀末にギリシア正教に改宗し、これを国教とした、キエフ公国の最盛期の大公は誰か。",
+      "answer": "ウラディミル1世",
+      "alternatives": [
+        "ウラジーミル1世"
+      ],
+      "explanation": "ビザンツ皇帝の妹と結婚し、ビザンツ風の文化をとり入れた。",
+      "yearStart": 988,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0702-09",
+      "subject": "sekaishi-tankyu",
+      "question": "13世紀から約240年間、ロシアがモンゴル人（キプチャク=ハン国）の支配を受けたことを、ロシアでは何と呼ぶか。",
+      "answer": "タタールのくびき",
+      "alternatives": [],
+      "explanation": "キエフ公国はバトゥの率いるモンゴル軍に征服された。",
+      "yearStart": 1243,
+      "yearEnd": 1480,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0702-10",
+      "subject": "sekaishi-tankyu",
+      "question": "15世紀に東北ロシアを統一し、1480年にモンゴルの支配から独立したモスクワ大公国の大公は誰か。",
+      "answer": "イヴァン3世",
+      "alternatives": [],
+      "explanation": "ビザンツ帝国の最後の皇帝の姪と結婚し、ツァーリ（皇帝）の称号を初めて使った。",
+      "yearStart": 1480,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0702-11",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマ皇帝の後継者を意味する、ロシアの皇帝の称号は何か。",
+      "answer": "ツァーリ",
+      "alternatives": [],
+      "explanation": "「カエサル」のロシア語形。",
+      "yearStart": 1480,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0702-12",
+      "subject": "sekaishi-tankyu",
+      "question": "16世紀に正式にツァーリを名乗り、貴族をおさえて専制政治をおこなった、「雷帝」と呼ばれるモスクワ大公は誰か。",
+      "answer": "イヴァン4世",
+      "alternatives": [],
+      "explanation": "農奴制を強め、領土を広げた。",
+      "yearStart": 1547,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0702-13",
+      "subject": "sekaishi-tankyu",
+      "question": "バルカン半島に南下した南スラヴ人のうち、ギリシア正教を受け入れた最大の勢力は何人か。",
+      "answer": "セルビア人",
+      "alternatives": [],
+      "explanation": "14世紀前半に最盛期をむかえたが、その後オスマン帝国に支配された。",
+      "yearStart": 1200,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0702-14",
+      "subject": "sekaishi-tankyu",
+      "question": "南スラヴ人のうち、ローマ=カトリックを受け入れた人々は、スロヴェニア人と何人か。",
+      "answer": "クロアティア人",
+      "alternatives": [
+        "クロアチア人"
+      ],
+      "explanation": "西方のフランク王国の影響を受けた。",
+      "yearStart": 900,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0702-15",
+      "subject": "sekaishi-tankyu",
+      "question": "西スラヴ人のうち、10世紀頃に国を建ててローマ=カトリックを受け入れ、14世紀のカジミェシュ大王のもとで栄えたのは何人か。",
+      "answer": "ポーランド人",
+      "alternatives": [],
+      "explanation": "ドイツ騎士団の進出に対抗した。",
+      "yearStart": 966,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0702-16",
+      "subject": "sekaishi-tankyu",
+      "question": "1386年に、リトアニア大公国とポーランド王国が合同して成立した王朝は何か。",
+      "answer": "ヤゲウォ朝",
+      "alternatives": [
+        "ヤゲロー朝",
+        "リトアニア=ポーランド王国"
+      ],
+      "explanation": "ドイツ騎士団を破り、15世紀に東ヨーロッパの強国となった。",
+      "yearStart": 1386,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0702-17",
+      "subject": "sekaishi-tankyu",
+      "question": "西スラヴ人のチェック人が10世紀に建て、11世紀に神聖ローマ帝国に組み入れられた王国は何か。",
+      "answer": "ベーメン王国",
+      "alternatives": [
+        "ボヘミア王国",
+        "ベーメン"
+      ],
+      "explanation": "ローマ=カトリックを受け入れた。",
+      "yearStart": 950,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0702-18",
+      "subject": "sekaishi-tankyu",
+      "question": "7世紀にバルカン半島北部に国を建て、のちにスラヴ人と同化してギリシア正教に改宗したトルコ系の人々は何人か。",
+      "answer": "ブルガール人",
+      "alternatives": [],
+      "explanation": "ブルガリア帝国を建てたが、のちにビザンツ帝国、さらにオスマン帝国に支配された。",
+      "yearStart": 681,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0702-19",
+      "subject": "sekaishi-tankyu",
+      "question": "黒海の北から移動し、10世紀末にパンノニア平原にハンガリー王国を建ててローマ=カトリックを受け入れたのは何人か。",
+      "answer": "マジャール人",
+      "alternatives": [],
+      "explanation": "ウラル語系の人々。",
+      "yearStart": 1000,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-01",
+      "subject": "sekaishi-tankyu",
+      "question": "14世紀半ばにヨーロッパで大流行し、人口の約3分の1が失われたといわれる伝染病は何か。",
+      "answer": "黒死病",
+      "reading": "こくしびょう",
+      "alternatives": [
+        "ペスト"
+      ],
+      "explanation": "農業人口がへり、領主は労働力を確保するために農民の待遇をよくした。",
+      "yearStart": 1348,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-02",
+      "subject": "sekaishi-tankyu",
+      "question": "貨幣経済の広まりによって、領主が農民に賦役をやめさせ、生産物や貨幣で納めさせるようになった地代を何というか。",
+      "answer": "貨幣地代",
+      "reading": "かへいちだい",
+      "alternatives": [
+        "地代の金納化"
+      ],
+      "explanation": "農民は市場で生産物を売って貨幣をたくわえ、経済的に力をつけた。",
+      "yearStart": 1300,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0703-03",
+      "subject": "sekaishi-tankyu",
+      "question": "農奴の身分から解放されたイギリスの農民のうち、土地をもつ自営の農民を何というか。",
+      "answer": "独立自営農民",
+      "reading": "どくりつじえいのうみん",
+      "alternatives": [
+        "ヨーマン"
+      ],
+      "explanation": "農奴解放がとくに進んだイギリスで多く生まれた。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-04",
+      "subject": "sekaishi-tankyu",
+      "question": "1358年に北フランスでおこった大規模な農民一揆は何か。",
+      "answer": "ジャックリーの乱",
+      "alternatives": [],
+      "explanation": "領主がふたたび農民への支配を強めようとしたこと（封建反動）に反発した。",
+      "yearStart": 1358,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1381年にイギリスでおこった大規模な農民一揆は何か。",
+      "answer": "ワット=タイラーの乱",
+      "alternatives": [],
+      "explanation": "人頭税の徴収に反対した。",
+      "yearStart": 1381,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-06",
+      "subject": "sekaishi-tankyu",
+      "question": "ワット=タイラーの乱を思想的に指導し、「アダムが耕しイヴが紡いだとき、だれが貴族であったか」と説いた聖職者は誰か。",
+      "answer": "ジョン=ボール",
+      "alternatives": [],
+      "explanation": "身分制度を批判した。",
+      "yearStart": 1381,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0703-07",
+      "subject": "sekaishi-tankyu",
+      "question": "14世紀初めに、聖職者への課税をめぐってフランス王フィリップ4世と争い、屈辱を受けて急死した教皇は誰か。",
+      "answer": "ボニファティウス8世",
+      "alternatives": [],
+      "explanation": "教皇権の絶対性を主張した。",
+      "yearStart": 1303,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1303年に、フランス王フィリップ4世の側が教皇ボニファティウス8世をとらえた事件を何というか。",
+      "answer": "アナーニ事件",
+      "alternatives": [],
+      "explanation": "教皇の権威がおとろえ始めたことを示す。",
+      "yearStart": 1303,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0703-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1309年から約70年間、教皇庁が南フランスのアヴィニョンに移され、フランス王の支配下におかれたことを何というか。",
+      "answer": "教皇のバビロン捕囚",
+      "reading": "きょうこうのばびろんほしゅう",
+      "alternatives": [],
+      "explanation": "古代のバビロン捕囚にたとえた呼び名。",
+      "yearStart": 1309,
+      "yearEnd": 1377,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-10",
+      "subject": "sekaishi-tankyu",
+      "question": "1378年から約40年間、ローマとアヴィニョンなどに複数の教皇が立って争ったことを何というか。",
+      "answer": "教会大分裂",
+      "reading": "きょうかいだいぶんれつ",
+      "alternatives": [
+        "大シスマ"
+      ],
+      "explanation": "教皇と教会の権威は大きく傷ついた。",
+      "yearStart": 1378,
+      "yearEnd": 1417,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-11",
+      "subject": "sekaishi-tankyu",
+      "question": "14世紀後半のイギリスで、聖書こそ信仰の最高の権威であると主張して教会を批判し、聖書を英語に訳した人物は誰か。",
+      "answer": "ウィクリフ",
+      "alternatives": [],
+      "explanation": "オクスフォード大学の神学教授。",
+      "yearStart": 1378,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-12",
+      "subject": "sekaishi-tankyu",
+      "question": "ウィクリフの説に共鳴して教会を批判し、コンスタンツ公会議で異端とされて火刑になったベーメンの神学者は誰か。",
+      "answer": "フス",
+      "alternatives": [],
+      "explanation": "プラハ大学の学長をつとめた。",
+      "yearStart": 1415,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1414年から開かれ、教会大分裂を終わらせるとともに、フスを異端として火刑にした公会議は何か。",
+      "answer": "コンスタンツ公会議",
+      "alternatives": [],
+      "explanation": "神聖ローマ皇帝の提唱で開かれた。",
+      "yearStart": 1414,
+      "yearEnd": 1418,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-14",
+      "subject": "sekaishi-tankyu",
+      "question": "フスの処刑ののち、ベーメンでチェック人の民族運動と結びついておこった反乱を何というか。",
+      "answer": "フス戦争",
+      "alternatives": [],
+      "explanation": "長期にわたって皇帝の軍と戦った。",
+      "yearStart": 1419,
+      "yearEnd": 1436,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0703-15",
+      "subject": "sekaishi-tankyu",
+      "question": "1154年にフランスの大貴族アンジュー伯がイギリス王ヘンリ2世として即位してひらいた王朝は何か。",
+      "answer": "プランタジネット朝",
+      "alternatives": [],
+      "explanation": "フランスの西半分も領有する大きな勢力となった。",
+      "yearStart": 1154,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-16",
+      "subject": "sekaishi-tankyu",
+      "question": "1215年に、イギリスの貴族たちがジョン王に認めさせた、王の勝手な課税の禁止などを定めた文書は何か。",
+      "answer": "大憲章",
+      "reading": "だいけんしょう",
+      "alternatives": [
+        "マグナ=カルタ"
+      ],
+      "explanation": "イギリス立憲政治の基礎とされる。",
+      "yearStart": 1215,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-17",
+      "subject": "sekaishi-tankyu",
+      "question": "フランス王との戦いに敗れて大陸の領土の大半を失い、教皇にも破門されたイギリス王は誰か。",
+      "answer": "ジョン王",
+      "alternatives": [
+        "ジョン"
+      ],
+      "explanation": "貴族たちに大憲章を認めさせられた。",
+      "yearStart": 1215,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0703-18",
+      "subject": "sekaishi-tankyu",
+      "question": "1265年に、大憲章を無視したヘンリ3世に反抗し、聖職者・貴族に州や都市の代表を加えた議会をひらかせた人物は誰か。",
+      "answer": "シモン=ド=モンフォール",
+      "alternatives": [],
+      "explanation": "イギリス議会の起源とされる。",
+      "yearStart": 1265,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-19",
+      "subject": "sekaishi-tankyu",
+      "question": "1295年にエドワード1世が召集した、イギリスの身分制議会を何というか。",
+      "answer": "模範議会",
+      "reading": "もはんぎかい",
+      "alternatives": [],
+      "explanation": "14世紀半ばには、上院と下院の二院制となった。",
+      "yearStart": 1295,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0703-20",
+      "subject": "sekaishi-tankyu",
+      "question": "イギリスの地方で、騎士が軍事的な性格を失って地主となったものを何というか。",
+      "answer": "ジェントリ",
+      "alternatives": [
+        "郷紳"
+      ],
+      "explanation": "州の代表として下院に参加し、地方の政治をになった。",
+      "yearStart": 1350,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0703-21",
+      "subject": "sekaishi-tankyu",
+      "question": "1302年に、フランス王フィリップ4世が聖職者・貴族・平民の代表を集めてひらいた身分制議会は何か。",
+      "answer": "全国三部会",
+      "reading": "ぜんこくさんぶかい",
+      "alternatives": [
+        "三部会"
+      ],
+      "explanation": "教皇との争いで国内の支持をえるためにひらかれた。",
+      "yearStart": 1302,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-22",
+      "subject": "sekaishi-tankyu",
+      "question": "1339年に始まった、フランスの王位継承やフランドル地方の支配をめぐるイギリスとフランスの戦争は何か。",
+      "answer": "百年戦争",
+      "reading": "ひゃくねんせんそう",
+      "alternatives": [],
+      "explanation": "フランスでカペー朝が絶えてヴァロワ朝が成立したとき、イギリス王エドワード3世が王位の継承権を主張した。",
+      "yearStart": 1339,
+      "yearEnd": 1453,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-23",
+      "subject": "sekaishi-tankyu",
+      "question": "百年戦争の前半で、長弓兵の活躍によってイギリス軍がフランス軍を破った1346年の戦いは何か。",
+      "answer": "クレシーの戦い",
+      "alternatives": [],
+      "explanation": "エドワード黒太子の活躍でも知られる。",
+      "yearStart": 1346,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0703-24",
+      "subject": "sekaishi-tankyu",
+      "question": "百年戦争で、神のお告げを受けたと信じてフランス軍を率い、オルレアンの包囲を破った農民の娘は誰か。",
+      "answer": "ジャンヌ=ダルク",
+      "alternatives": [],
+      "explanation": "フランスの国王シャルル7世を助けたが、のちに異端として火刑にされた。",
+      "yearStart": 1429,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-25",
+      "subject": "sekaishi-tankyu",
+      "question": "百年戦争ののち、イギリスでランカスター家とヨーク家が王位を争った内乱は何か。",
+      "answer": "バラ戦争",
+      "reading": "ばらせんそう",
+      "alternatives": [],
+      "explanation": "有力な貴族が両派に分かれて戦い、多くが没落した。",
+      "yearStart": 1455,
+      "yearEnd": 1485,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-26",
+      "subject": "sekaishi-tankyu",
+      "question": "1485年にバラ戦争をおさめて即位し、テューダー朝をひらいたイギリス王は誰か。",
+      "answer": "ヘンリ7世",
+      "alternatives": [
+        "ヘンリー7世"
+      ],
+      "explanation": "王権に反抗する者を星室庁裁判所で処罰し、絶対王政への道をひらいた。",
+      "yearStart": 1485,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-27",
+      "subject": "sekaishi-tankyu",
+      "question": "8世紀以降、キリスト教徒がイスラーム勢力からイベリア半島を取りもどそうとした運動を何というか。",
+      "answer": "国土回復運動",
+      "reading": "こくどかいふくうんどう",
+      "alternatives": [
+        "レコンキスタ"
+      ],
+      "explanation": "1492年のグラナダ陥落で完成した。",
+      "yearStart": 718,
+      "yearEnd": 1492,
+      "regions": [
+        "ヨーロッパ",
+        "西アジア"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-28",
+      "subject": "sekaishi-tankyu",
+      "question": "1479年に、カスティリャ王女イサベルとアラゴン王子フェルナンドの結婚をへて、両国が統合されて成立した国は何か。",
+      "answer": "スペイン王国",
+      "alternatives": [
+        "イスパニア王国",
+        "スペイン"
+      ],
+      "explanation": "1492年にナスル朝を滅ぼした。",
+      "yearStart": 1479,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-29",
+      "subject": "sekaishi-tankyu",
+      "question": "12世紀にカスティリャ王国から独立した、イベリア半島西部の王国は何か。",
+      "answer": "ポルトガル王国",
+      "alternatives": [
+        "ポルトガル"
+      ],
+      "explanation": "15世紀には海外進出を始めた。",
+      "yearStart": 1143,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0703-30",
+      "subject": "sekaishi-tankyu",
+      "question": "1356年に神聖ローマ皇帝カール4世が出した、皇帝を選ぶ権利を7人の聖俗諸侯に認めた文書は何か。",
+      "answer": "金印勅書",
+      "reading": "きんいんちょくしょ",
+      "alternatives": [
+        "黄金文書"
+      ],
+      "explanation": "皇帝を選ぶ7人の諸侯を七選帝侯という。",
+      "yearStart": 1356,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-31",
+      "subject": "sekaishi-tankyu",
+      "question": "13世紀後半の神聖ローマ帝国で、事実上皇帝がいなかった時期を何というか。",
+      "answer": "大空位時代",
+      "reading": "だいくういじだい",
+      "alternatives": [],
+      "explanation": "歴代の皇帝がイタリア政策に熱中し、国内がまとまらなかった。",
+      "yearStart": 1256,
+      "yearEnd": 1273,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0703-32",
+      "subject": "sekaishi-tankyu",
+      "question": "15世紀前半から神聖ローマ皇帝の位をほぼ世襲するようになった、オーストリアの王家は何家か。",
+      "answer": "ハプスブルク家",
+      "alternatives": [],
+      "explanation": "帝国内では大諸侯の領地（領邦）が独立した国のようになっていた。",
+      "yearStart": 1438,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0703-33",
+      "subject": "sekaishi-tankyu",
+      "question": "12世紀以降、ドイツ人がエルベ川より東のスラヴ人の地に進出し、開墾や都市の建設を進めたことを何というか。",
+      "answer": "東方植民",
+      "reading": "とうほうしょくみん",
+      "alternatives": [],
+      "explanation": "ブランデンブルク辺境伯領やドイツ騎士団領がつくられた。",
+      "yearStart": 1150,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0703-34",
+      "subject": "sekaishi-tankyu",
+      "question": "13世紀末からハプスブルク家の支配に対する独立の戦いを始め、15世紀末に事実上の独立を達成した地域はどこか。",
+      "answer": "スイス",
+      "alternatives": [],
+      "explanation": "1648年のウェストファリア条約で独立が国際的に認められた。",
+      "yearStart": 1291,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0703-35",
+      "subject": "sekaishi-tankyu",
+      "question": "中世のイタリアで、皇帝のイタリア政策に反対して教皇を支持した人々を何というか。",
+      "answer": "教皇党",
+      "reading": "きょうこうとう",
+      "alternatives": [
+        "ゲルフ"
+      ],
+      "explanation": "皇帝を支持する皇帝党（ギベリン）と争った。",
+      "yearStart": 1200,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0703-36",
+      "subject": "sekaishi-tankyu",
+      "question": "1397年に、デンマークの女王マルグレーテのもとで、デンマーク・スウェーデン・ノルウェーの3国が結んだ同君連合を何というか。",
+      "answer": "カルマル同盟",
+      "alternatives": [],
+      "explanation": "デンマークを中心に北ヨーロッパの大きな勢力となった。",
+      "yearStart": 1397,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0704-01",
+      "subject": "sekaishi-tankyu",
+      "question": "13世紀にアッシジのフランチェスコがひらいた、財産をもたずに都市で説教をおこなう托鉢修道会は何か。",
+      "answer": "フランチェスコ修道会",
+      "alternatives": [
+        "フランシスコ会"
+      ],
+      "explanation": "同じ頃にドミニコ修道会もつくられた。",
+      "yearStart": 1209,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0704-02",
+      "subject": "sekaishi-tankyu",
+      "question": "12世紀から森林の開墾などの大開墾運動の先頭に立った、フランス中部におこった修道会は何か。",
+      "answer": "シトー修道会",
+      "alternatives": [
+        "シトー会"
+      ],
+      "explanation": "「祈り、働け」の精神で労働を重んじた。",
+      "yearStart": 1098,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0704-03",
+      "subject": "sekaishi-tankyu",
+      "question": "中世の西ヨーロッパで、学問や教会で使われた共通の言語は何か。",
+      "answer": "ラテン語",
+      "alternatives": [],
+      "explanation": "学問は神学が最高のものとされた。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0704-04",
+      "subject": "sekaishi-tankyu",
+      "question": "教会の権威を理論づけるために、キリスト教の信仰を論理的に体系化しようとした中世の学問を何というか。",
+      "answer": "スコラ学",
+      "alternatives": [
+        "スコラ哲学"
+      ],
+      "explanation": "アリストテレスの哲学の影響を受けて発展した。",
+      "yearStart": 1200,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0704-05",
+      "subject": "sekaishi-tankyu",
+      "question": "スコラ学でおこなわれた、神や普遍的なものが実在するかどうかをめぐる論争を何というか。",
+      "answer": "普遍論争",
+      "reading": "ふへんろんそう",
+      "alternatives": [],
+      "explanation": "実在論のアンセルムスと、唯名論のアベラールが代表。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0704-06",
+      "subject": "sekaishi-tankyu",
+      "question": "『神学大全』を著し、信仰と理性の調和を説いてスコラ学を大成した神学者は誰か。",
+      "answer": "トマス=アクィナス",
+      "alternatives": [],
+      "explanation": "ドミニコ修道会の修道士で、パリ大学の教授をつとめた。",
+      "yearStart": 1270,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0704-07",
+      "subject": "sekaishi-tankyu",
+      "question": "観察と実験を重んじて、のちの近代科学への道をひらいた13世紀のイギリスのスコラ学者は誰か。",
+      "answer": "ロジャー=ベーコン",
+      "alternatives": [],
+      "explanation": "イスラーム科学の影響を受けた。",
+      "yearStart": 1267,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0704-08",
+      "subject": "sekaishi-tankyu",
+      "question": "イスラーム世界やビザンツ帝国から伝わったギリシアの古典が、アラビア語やギリシア語からラテン語に訳され、学問がさかんになった動きを何というか。",
+      "answer": "12世紀ルネサンス",
+      "reading": "じゅうにせいきるねさんす",
+      "alternatives": [],
+      "explanation": "スペインのトレドやシチリア島が翻訳の中心となった。",
+      "yearStart": 1150,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0704-09",
+      "subject": "sekaishi-tankyu",
+      "question": "法学で有名な、現存する最古の大学とされる北イタリアの大学は何か。",
+      "answer": "ボローニャ大学",
+      "alternatives": [],
+      "explanation": "大学は、教授や学生の組合（ギルド）から始まった。",
+      "yearStart": 1088,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0704-10",
+      "subject": "sekaishi-tankyu",
+      "question": "神学で有名な、フランスの大学は何か。",
+      "answer": "パリ大学",
+      "alternatives": [],
+      "explanation": "トマス=アクィナスも教授をつとめた。",
+      "yearStart": 1150,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0704-11",
+      "subject": "sekaishi-tankyu",
+      "question": "医学で有名な、南イタリアの大学は何か。",
+      "answer": "サレルノ大学",
+      "alternatives": [],
+      "explanation": "イスラームの医学が伝えられた。",
+      "yearStart": 1050,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0704-12",
+      "subject": "sekaishi-tankyu",
+      "question": "パリ大学を手本として12世紀につくられた、神学で有名なイギリス最古の大学は何か。",
+      "answer": "オクスフォード大学",
+      "alternatives": [
+        "オックスフォード大学"
+      ],
+      "explanation": "のちにここから分かれてケンブリッジ大学ができた。",
+      "yearStart": 1167,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0704-13",
+      "subject": "sekaishi-tankyu",
+      "question": "11世紀に広まった、厚い石壁と小さな窓、半円形のアーチを特色とする教会建築の様式は何か。",
+      "answer": "ロマネスク様式",
+      "alternatives": [],
+      "explanation": "ピサ大聖堂が代表。",
+      "yearStart": 1050,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0704-14",
+      "subject": "sekaishi-tankyu",
+      "question": "12世紀から広まった、高い塔と先のとがったアーチ、ステンドグラスの窓を特色とする教会建築の様式は何か。",
+      "answer": "ゴシック様式",
+      "alternatives": [],
+      "explanation": "ノートルダム大聖堂・シャルトル大聖堂・ケルン大聖堂などが代表。",
+      "yearStart": 1150,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0704-15",
+      "subject": "sekaishi-tankyu",
+      "question": "ゴシック様式の教会の窓をかざった、色ガラスで聖書の物語などを表したものを何というか。",
+      "answer": "ステンドグラス",
+      "alternatives": [],
+      "explanation": "文字を読めない人々に教えを伝える役割もはたした。",
+      "yearStart": 1150,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0704-16",
+      "subject": "sekaishi-tankyu",
+      "question": "カール大帝の時代の騎士の武勇を題材とした、フランスの騎士道物語は何か。",
+      "answer": "ローランの歌",
+      "alternatives": [],
+      "explanation": "中世の文学は、騎士の武勇や恋愛をえがいた騎士道物語が中心だった。",
+      "yearStart": 1100,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0704-17",
+      "subject": "sekaishi-tankyu",
+      "question": "ケルト人の伝説的な英雄を題材とした、イギリスの騎士道物語は何か。",
+      "answer": "アーサー王物語",
+      "alternatives": [],
+      "explanation": "円卓の騎士の物語として知られる。",
+      "yearStart": 1150,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0704-18",
+      "subject": "sekaishi-tankyu",
+      "question": "ゲルマン人の英雄伝説をもとにした、ドイツの英雄叙事詩は何か。",
+      "answer": "ニーベルンゲンの歌",
+      "alternatives": [],
+      "explanation": "13世紀初めにまとめられた。",
+      "yearStart": 1200,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0704-19",
+      "subject": "sekaishi-tankyu",
+      "question": "南フランスなどの宮廷をめぐり歩いて、騎士の恋愛をうたった叙情詩人を何というか。",
+      "answer": "吟遊詩人",
+      "reading": "ぎんゆうしじん",
+      "alternatives": [
+        "トゥルバドゥール"
+      ],
+      "explanation": "ドイツではミンネジンガーと呼ばれた。",
+      "yearStart": 1150,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

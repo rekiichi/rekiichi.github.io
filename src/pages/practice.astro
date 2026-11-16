@@ -1,0 +1,158 @@
+---
+// 出題画面。中身は URL パラメータ（範囲）に応じて src/client/practice.ts が組み立てる。
+// 検索結果には出さない（noindex）。
+import AdSlot from '../components/AdSlot.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { jsonForScript } from '../lib/json-script';
+import { publicSettings } from '../lib/public-settings';
+import { dataVersion, questionChunks, reviewOf, subjects, taxonomy, textbooks } from '../lib/site-data';
+import { joinBase, paths } from '../lib/url';
+import { siteConfig } from '../site.config';
+
+const href = (p: string) => joinBase(import.meta.env.BASE_URL, p);
+const chunks = questionChunks();
+const boot = {
+  manifest: { v: dataVersion, chunks: chunks.map((c) => [c[0].id, c[c.length - 1].id]) },
+  siteName: siteConfig.name,
+  reportUrl: publicSettings.reportFormUrl,
+  subjects: Object.fromEntries(subjects.map((s) => [s.id, { name: s.name }])),
+  textbooks: Object.fromEntries(textbooks.map((tb) => [tb.id, { name: tb.name, subject: tb.subject }])),
+  groups: Object.fromEntries(
+    subjects.map((s) => {
+      const review = reviewOf(s.id);
+      const tags = s.verticalAxis === 'region' ? taxonomy.regions : taxonomy.themes;
+      return [
+        s.id,
+        {
+          [s.verticalAxis]: Object.fromEntries(tags.map((t) => [t.slug, t.name])),
+          period: Object.fromEntries(review.periods.map((g) => [g.period.slug, g.period.name])),
+        },
+      ];
+    }),
+  ),
+};
+---
+
+<BaseLayout title="一問一答を解く" description="選んだ範囲の一問一答を1問ずつ解く画面です。" path={paths.practice()} noindex>
+  <div class="practice">
+    <p id="practice-loading" class="empty-state muted" role="status">問題を読み込んでいます…</p>
+
+    <div id="practice-error" class="empty-state" hidden>
+      <p id="error-message"></p>
+      <p><a id="error-back" class="btn btn-secondary" href={href(paths.home())}>トップページへ</a></p>
+    </div>
+
+    <div id="practice-main" hidden>
+      <div class="practice-head">
+        <h1 class="practice-title"><span id="p-title"></span>　<span id="p-range" class="muted"></span></h1>
+        <div class="practice-chips" id="p-chips"></div>
+        <div class="progress" aria-hidden="true"><div class="progress-bar" id="p-progress-bar"></div></div>
+        <div class="practice-stats">
+          <span id="p-count" aria-live="polite"></span>
+          <span id="p-score"></span>
+        </div>
+        <div class="mode-switch" id="mode-switch" role="group" aria-label="答え方">
+          <button type="button" data-mode="self" aria-pressed="true">答えを見て○×</button>
+          <button type="button" data-mode="input" aria-pressed="false">入力して判定</button>
+        </div>
+      </div>
+
+      <article class="qcard" id="qcard" aria-labelledby="q-text">
+        <div class="qcard-meta">
+          <span id="q-number"></span>
+          <span id="q-location"></span>
+          <span id="q-level" class="badge"></span>
+          <span id="q-sample" class="badge badge-sample" hidden>サンプル</span>
+        </div>
+        <p class="qcard-question" id="q-text"></p>
+
+        <div id="self-controls">
+          <button type="button" class="btn btn-primary btn-block" id="btn-reveal">答えを見る</button>
+        </div>
+
+        <form id="input-form" hidden autocomplete="off">
+          <label class="visually-hidden" for="answer-input">答え</label>
+          <input
+            class="answer-input"
+            id="answer-input"
+            type="text"
+            autocomplete="off"
+            autocapitalize="off"
+            spellcheck="false"
+            enterkeyhint="done"
+            placeholder="答えを入力"
+          />
+          <div class="input-actions">
+            <button type="submit" class="btn btn-primary">判定する</button>
+            <button type="button" class="btn btn-ghost" id="btn-giveup">わからない</button>
+          </div>
+        </form>
+
+        <div class="answer-area" id="answer-area" hidden>
+          <p class="judge" id="judge" role="status" aria-live="polite" hidden></p>
+          <p class="answer-label">答え</p>
+          <p class="answer-text" id="a-text"></p>
+          <p class="answer-sub" id="a-reading" hidden></p>
+          <p class="answer-sub" id="a-alt" hidden></p>
+          <p class="answer-sub" id="a-your" hidden></p>
+          <p class="answer-sub" id="a-years" hidden></p>
+          <p class="answer-expl" id="a-expl" hidden></p>
+          <button type="button" class="link-button" id="a-expl-toggle" hidden>解説を見る</button>
+          <div><a class="report-link" id="a-report" href={href(paths.contact())} target="_blank" rel="noopener">この問題の誤りを報告</a></div>
+        </div>
+      </article>
+
+      <div class="grade-bar" id="grade-bar" hidden>
+        <button type="button" class="btn btn-wrong" id="btn-wrong">× まちがえた</button>
+        <button type="button" class="btn btn-right" id="btn-right">○ 正解した</button>
+      </div>
+      <div class="grade-bar" id="next-bar" hidden>
+        <button type="button" class="btn btn-ghost" id="btn-override" hidden>正解にする</button>
+        <button type="button" class="btn btn-primary" id="btn-next">次へ</button>
+      </div>
+      <p class="key-hint" id="key-hint"></p>
+
+      <div class="practice-actions-under">
+        <button type="button" class="link-button" id="btn-quit">ここで終わる</button>
+      </div>
+    </div>
+
+    <section id="practice-summary" hidden tabindex="-1" aria-labelledby="summary-heading">
+      <h1 id="summary-heading">結果</h1>
+      <p class="summary-score"><strong id="s-correct">0</strong> / <span id="s-total">0</span> 問正解</p>
+      <p class="summary-rate" id="s-rate"></p>
+      <p id="s-message"></p>
+      <div class="btn-stack">
+        <button type="button" class="btn btn-primary" id="btn-retry-wrong">まちがえた問題をもう一度</button>
+        <button type="button" class="btn btn-secondary" id="btn-retry-all">同じ条件でもう一度</button>
+        <a class="btn btn-ghost" id="s-back" href={href(paths.home())}>範囲を選び直す</a>
+      </div>
+      <div class="btn-row" style="margin-top: 10px">
+        <button type="button" class="btn btn-ghost btn-small" id="btn-s-save">マイ範囲に保存</button>
+        <button type="button" class="btn btn-ghost btn-small" id="btn-s-share">URLで共有</button>
+      </div>
+
+      <div id="s-wrong-section">
+        <h2>まちがえた問題</h2>
+        <ol class="result-list" id="s-wrong-list"></ol>
+      </div>
+      <details>
+        <summary>解いた問題すべて（<span id="s-all-count">0</span>問）</summary>
+        <ol class="result-list" id="s-all-list"></ol>
+      </details>
+      <p class="small muted" style="margin-top: 16px">まちがえた問題は「苦手」として記録されます。教科書のページで「苦手な問題だけ」にチェックを入れると、まとめて解き直せます。</p>
+    </section>
+
+    <!-- 結果画面の下部だけに広告枠を置く（出題中は表示しない） -->
+    <div id="practice-end-ad" hidden>
+      <AdSlot name="practice-result-bottom" deferred />
+    </div>
+
+    <noscript><p class="notice">問題を解くには JavaScript を有効にしてください。章のページでは、JavaScript なしでも問題と答えを確認できます。</p></noscript>
+  </div>
+
+  <script type="application/json" id="practice-data" set:html={jsonForScript(boot)} />
+  <script>
+    import '../client/practice';
+  </script>
+</BaseLayout>

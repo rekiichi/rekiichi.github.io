@@ -1,0 +1,268 @@
+{
+  "generatedFrom": "sample-rekishi-sogo.csv",
+  "_note": "このファイルは sample-rekishi-sogo.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "sample-r-01",
+      "subject": "rekishi-sogo",
+      "question": "18世紀後半のイギリスで始まった、機械の導入による生産と社会の大きな変化を何というか。",
+      "answer": "産業革命",
+      "alternatives": [
+        "工業化"
+      ],
+      "explanation": "綿工業から始まり、蒸気機関の利用で工場制機械工業が広がった。",
+      "yearStart": 1760,
+      "yearEnd": 1830,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-r-02",
+      "subject": "rekishi-sogo",
+      "question": "1840年に始まった、アヘンの密貿易をめぐる清とイギリスの戦争は？",
+      "answer": "アヘン戦争",
+      "alternatives": [],
+      "explanation": "清は敗れ、1842年の南京条約で香港島を割譲し、5港を開いた。",
+      "yearStart": 1840,
+      "yearEnd": 1842,
+      "regions": [
+        "中国",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-r-03",
+      "subject": "rekishi-sogo",
+      "question": "1853年に浦賀へ来航し、日本に開国を求めたアメリカ東インド艦隊の司令長官は？",
+      "answer": "ペリー",
+      "alternatives": [],
+      "explanation": "翌1854年に再び来航し、日米和親条約が結ばれた。",
+      "yearStart": 1853,
+      "regions": [
+        "日本",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-r-04",
+      "subject": "rekishi-sogo",
+      "question": "1868年、明治天皇が神々に誓う形で示した新政府の基本方針は？",
+      "answer": "五箇条の誓文",
+      "alternatives": [
+        "五箇条の御誓文"
+      ],
+      "explanation": "「広く会議を興し、万機公論に決すべし」などを掲げた。",
+      "yearStart": 1868,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-r-05",
+      "subject": "rekishi-sogo",
+      "question": "1889年に発布された、天皇が定めて国民に与える欽定憲法の形をとった日本の憲法は？",
+      "answer": "大日本帝国憲法",
+      "alternatives": [
+        "明治憲法"
+      ],
+      "explanation": "ドイツ（プロイセン）の憲法を参考に、伊藤博文らが中心となって起草した。",
+      "yearStart": 1889,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-r-06",
+      "subject": "rekishi-sogo",
+      "question": "1914年に始まり、国民や経済の力を総動員する総力戦となった戦争は？",
+      "answer": "第一次世界大戦",
+      "alternatives": [
+        "第一次大戦"
+      ],
+      "explanation": "サラエボ事件をきっかけに、同盟国と協商国（連合国）が戦った。",
+      "yearStart": 1914,
+      "yearEnd": 1918,
+      "regions": [
+        "国際",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-r-07",
+      "subject": "rekishi-sogo",
+      "question": "1920年に発足した、世界で初めての本格的な国際平和機構は？",
+      "answer": "国際連盟",
+      "alternatives": [],
+      "explanation": "アメリカ大統領ウィルソンの提案によるが、アメリカ自身は加盟しなかった。",
+      "yearStart": 1920,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-r-08",
+      "subject": "rekishi-sogo",
+      "question": "1929年、ニューヨーク株式市場の株価暴落をきっかけに広がった世界的な不況は？",
+      "answer": "世界恐慌",
+      "alternatives": [
+        "大恐慌"
+      ],
+      "explanation": "アメリカはニューディール、イギリスやフランスはブロック経済で対応した。",
+      "yearStart": 1929,
+      "regions": [
+        "南北アメリカ",
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-r-09",
+      "subject": "rekishi-sogo",
+      "question": "1945年に発足し、安全保障理事会を中心に平和の維持をはかる国際機構は？",
+      "answer": "国際連合",
+      "alternatives": [
+        "国連"
+      ],
+      "explanation": "本部はニューヨーク。安全保障理事会の常任理事国は拒否権をもつ。",
+      "yearStart": 1945,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-r-10",
+      "subject": "rekishi-sogo",
+      "question": "第二次世界大戦後、アメリカ中心の資本主義陣営とソ連中心の社会主義陣営が対立した状態を何というか。",
+      "answer": "冷戦",
+      "alternatives": [
+        "冷たい戦争",
+        "東西冷戦"
+      ],
+      "explanation": "直接の大規模な戦争には至らなかったが、各地で緊張が高まり、代理戦争も起きた。",
+      "yearStart": 1947,
+      "yearEnd": 1989,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-r-11",
+      "subject": "rekishi-sogo",
+      "question": "1955年にインドネシアのバンドンで開かれ、平和十原則を採択した会議は？",
+      "answer": "アジア・アフリカ会議",
+      "alternatives": [
+        "バンドン会議",
+        "AA会議"
+      ],
+      "explanation": "29か国が参加し、反植民地主義と平和共存を訴えた。",
+      "yearStart": 1955,
+      "regions": [
+        "東南アジア",
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "advanced",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-r-12",
+      "subject": "rekishi-sogo",
+      "question": "1962年、ソ連がキューバにミサイル基地を建設したことから、米ソが核戦争の寸前まで対立した出来事は？",
+      "answer": "キューバ危機",
+      "alternatives": [],
+      "explanation": "ソ連がミサイルを撤去して回避され、のちに米ソ首脳間の直通通信（ホットライン）が設けられた。",
+      "yearStart": 1962,
+      "regions": [
+        "南北アメリカ",
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-r-13",
+      "subject": "rekishi-sogo",
+      "question": "1989年、東西冷戦の象徴だった壁が開放された都市は？",
+      "answer": "ベルリン",
+      "alternatives": [],
+      "explanation": "翌1990年に東西ドイツが統一された。",
+      "yearStart": 1989,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": false,
+      "memo": "サンプル：未確認の問題（ビルドに含まれない例）"
+    }
+  ]
+}

@@ -1,0 +1,1601 @@
+{
+  "generatedFrom": "sekaishi-14.csv",
+  "_note": "このファイルは sekaishi-14.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "w-1401-01",
+      "subject": "sekaishi-tankyu",
+      "question": "18世紀半ばのアラビア半島で、イスラーム教の本来の教えに立ち返ることをとなえた改革運動を何というか。",
+      "answer": "ワッハーブ運動",
+      "alternatives": [
+        "ワッハーブ派"
+      ],
+      "explanation": "豪族のサウード家と結び、ワッハーブ王国を建てた。現在のサウジアラビアのもとになった。",
+      "yearStart": 1744,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1401-02",
+      "subject": "sekaishi-tankyu",
+      "question": "1805年にオスマン帝国からエジプト総督に任命され、エジプトの近代化を進めた人物は誰か。",
+      "answer": "ムハンマド=アリー",
+      "alternatives": [],
+      "explanation": "ナポレオンの遠征後の混乱のなかで実権をにぎり、軍隊の近代化や産業の育成を進めた。",
+      "yearStart": 1805,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1401-03",
+      "subject": "sekaishi-tankyu",
+      "question": "ムハンマド=アリーがシリアの領有を求めたことから、1830年代に2度にわたっておこった、エジプトとオスマン帝国の戦争を何というか。",
+      "answer": "エジプト=トルコ戦争",
+      "alternatives": [],
+      "explanation": "列強の干渉をまねき、エジプトは総督の地位の世襲を認められるにとどまった。",
+      "yearStart": 1831,
+      "yearEnd": 1840,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1401-04",
+      "subject": "sekaishi-tankyu",
+      "question": "オスマン帝国の弱体化につけこんだヨーロッパ列強の干渉によっておこった、19世紀の国際的な諸問題を、ヨーロッパの側から何と呼ぶか。",
+      "answer": "東方問題",
+      "reading": "とうほうもんだい",
+      "alternatives": [],
+      "explanation": "ロシアの南下政策と、それを阻止しようとするイギリスなどの対立が中心となった。",
+      "yearStart": 1830,
+      "yearApprox": true,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1401-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1869年に開通した、地中海と紅海を結ぶ運河は何か。",
+      "answer": "スエズ運河",
+      "alternatives": [],
+      "explanation": "フランス人のレセップスが建設した。ヨーロッパとアジアの距離が大きくちぢまった。",
+      "yearStart": 1869,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1401-06",
+      "subject": "sekaishi-tankyu",
+      "question": "1875年に、財政難のエジプトからスエズ運河会社の株を買い取った国はどこか。",
+      "answer": "イギリス",
+      "alternatives": [],
+      "explanation": "首相ディズレーリが買収を決めた。",
+      "yearStart": 1875,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1401-07",
+      "subject": "sekaishi-tankyu",
+      "question": "1881年に、外国の支配に反対して「エジプト人のためのエジプト」をとなえ、立憲制の確立を求めて運動をおこした軍人は誰か。",
+      "answer": "ウラービー",
+      "alternatives": [
+        "オラービー",
+        "アラービー",
+        "ウラービー=パシャ"
+      ],
+      "explanation": "イギリス軍にしずめられ、エジプトは事実上イギリスの保護下におかれた。",
+      "yearStart": 1881,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1401-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1839年のギュルハネ勅令から始まった、オスマン帝国の西欧化の改革を何というか。",
+      "answer": "タンジマート",
+      "alternatives": [
+        "恩恵改革"
+      ],
+      "explanation": "宗教のちがいにかかわらず、すべての臣民の法の上での平等を認めた。司法・行政・財政・軍事の改革を進めた。",
+      "yearStart": 1839,
+      "yearEnd": 1876,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1401-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1876年に、宰相ミドハト=パシャが起草して発布された、アジアで最初の憲法は何か。",
+      "answer": "ミドハト憲法",
+      "alternatives": [
+        "オスマン帝国憲法"
+      ],
+      "explanation": "二院制の議会や責任内閣制を定めた。",
+      "yearStart": 1876,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1401-10",
+      "subject": "sekaishi-tankyu",
+      "question": "ロシア=トルコ戦争がおこったことを理由に、ミドハト憲法を停止して専制政治をおこなったスルタンは誰か。",
+      "answer": "アブデュルハミト2世",
+      "alternatives": [],
+      "explanation": "以後、約30年にわたって議会をひらかなかった。",
+      "yearStart": 1878,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1401-11",
+      "subject": "sekaishi-tankyu",
+      "question": "ヨーロッパ列強の進出に対して、イスラーム教徒の団結と連帯を説く思想を何というか。",
+      "answer": "パン=イスラーム主義",
+      "alternatives": [],
+      "explanation": "アフガーニーが各地でとなえ、エジプトやイランの民族運動に影響を与えた。",
+      "yearStart": 1880,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1401-12",
+      "subject": "sekaishi-tankyu",
+      "question": "パン=イスラーム主義をとなえて、各地でイスラーム教徒の団結と改革をうったえた思想家は誰か。",
+      "answer": "アフガーニー",
+      "alternatives": [],
+      "explanation": "エジプトのウラービー運動やイランのタバコ=ボイコット運動に影響を与えた。",
+      "yearStart": 1880,
+      "yearApprox": true,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1401-13",
+      "subject": "sekaishi-tankyu",
+      "question": "18世紀末にイランで成立した、テヘランを都とする王朝は何か。",
+      "answer": "ガージャール朝",
+      "alternatives": [
+        "カージャール朝"
+      ],
+      "explanation": "ロシアやイギリスの圧迫に苦しんだ。",
+      "yearStart": 1796,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1401-14",
+      "subject": "sekaishi-tankyu",
+      "question": "1828年に、イランがロシアに敗れて結んだ、領土の割譲や治外法権を認めた不平等条約は何か。",
+      "answer": "トルコマンチャーイ条約",
+      "alternatives": [],
+      "explanation": "アルメニアなどをゆずり、関税自主権も失った。",
+      "yearStart": 1828,
+      "regions": [
+        "西アジア",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1401-15",
+      "subject": "sekaishi-tankyu",
+      "question": "19世紀半ばのイランで、社会の変革を求める新しい宗教の信者たちが、政府の弾圧に対しておこした反乱は何か。",
+      "answer": "バーブ教徒の乱",
+      "reading": "ばーぶきょうとのらん",
+      "alternatives": [],
+      "explanation": "貧しい農民や商人の支持を集めたが、きびしく弾圧された。",
+      "yearStart": 1848,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "宗教",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1401-16",
+      "subject": "sekaishi-tankyu",
+      "question": "1891年に、イランの国王がタバコの専売権をイギリス人にゆずったことに反対しておこった運動は何か。",
+      "answer": "タバコ=ボイコット運動",
+      "alternatives": [],
+      "explanation": "ウラマーや商人が中心となり、利権の譲渡を取り消させた。イラン人の民族意識が高まった。",
+      "yearStart": 1891,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1401-17",
+      "subject": "sekaishi-tankyu",
+      "question": "19世紀に、ロシアの南下を警戒するイギリスが2度にわたって戦争をおこない、1880年に保護国とした国はどこか。",
+      "answer": "アフガニスタン",
+      "alternatives": [],
+      "explanation": "インドの防衛を重んじるイギリスと、南下をはかるロシアの対立の場となった。",
+      "yearStart": 1880,
+      "regions": [
+        "西アジア",
+        "内陸アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1402-01",
+      "subject": "sekaishi-tankyu",
+      "question": "イギリス東インド会社が、インド支配の拠点とした3つの都市のうち、ベンガル地方にあった都市はどこか。",
+      "answer": "カルカッタ",
+      "alternatives": [
+        "コルカタ"
+      ],
+      "explanation": "ほかにマドラス（チェンナイ）とボンベイ（ムンバイ）が拠点となった。",
+      "yearStart": 1690,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1402-02",
+      "subject": "sekaishi-tankyu",
+      "question": "18世紀半ばに、南インドでイギリスとフランスが3回にわたって戦った戦争を何というか。",
+      "answer": "カーナティック戦争",
+      "alternatives": [],
+      "explanation": "イギリスが勝利した。フランスの拠点はポンディシェリにあった。",
+      "yearStart": 1744,
+      "yearEnd": 1763,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1402-03",
+      "subject": "sekaishi-tankyu",
+      "question": "1765年に、イギリス東インド会社が獲得した、ベンガル地方などでの権利は何か。",
+      "answer": "徴税権",
+      "reading": "ちょうぜいけん",
+      "alternatives": [
+        "ディーワーニー",
+        "地税徴収権"
+      ],
+      "explanation": "東インド会社は貿易会社から、インドを統治する機関へと性格を変えていった。",
+      "yearStart": 1765,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1402-04",
+      "subject": "sekaishi-tankyu",
+      "question": "18世紀後半に、イギリスが南インドの支配を確立するために4回にわたって戦った戦争は何か。",
+      "answer": "マイソール戦争",
+      "alternatives": [],
+      "explanation": "南インドのマイソール王国を破った。",
+      "yearStart": 1767,
+      "yearEnd": 1799,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1402-05",
+      "subject": "sekaishi-tankyu",
+      "question": "18世紀後半から19世紀初めにかけて、イギリスがデカン高原の支配を確立するために3回にわたって戦った戦争は何か。",
+      "answer": "マラーター戦争",
+      "alternatives": [],
+      "explanation": "マラーター同盟を破った。",
+      "yearStart": 1775,
+      "yearEnd": 1818,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1402-06",
+      "subject": "sekaishi-tankyu",
+      "question": "19世紀半ばに、イギリスがパンジャーブ地方を支配するために2回にわたって戦った戦争は何か。",
+      "answer": "シク戦争",
+      "alternatives": [
+        "シク教徒戦争"
+      ],
+      "explanation": "これによってインド全域の支配が完成した。",
+      "yearStart": 1845,
+      "yearEnd": 1849,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1402-07",
+      "subject": "sekaishi-tankyu",
+      "question": "イギリスがベンガル地方などで実施した、領主層に土地の所有権を認めて、納税の責任を負わせた税の制度を何というか。",
+      "answer": "ザミンダーリー制",
+      "alternatives": [],
+      "explanation": "南インドなどでは、農民に直接土地の所有権を認めて納税させるライヤットワーリー制がとられた。",
+      "yearStart": 1793,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1402-08",
+      "subject": "sekaishi-tankyu",
+      "question": "イギリスが南インドや西インドで実施した、農民に土地の所有権を認めて、直接納税させた税の制度を何というか。",
+      "answer": "ライヤットワーリー制",
+      "alternatives": [],
+      "explanation": "「ライヤット」は農民を意味する。",
+      "yearStart": 1820,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1402-09",
+      "subject": "sekaishi-tankyu",
+      "question": "イギリスが一定の自治を認めて間接的に支配した、インドの地方の王国を何というか。",
+      "answer": "藩王国",
+      "reading": "はんおうこく",
+      "alternatives": [],
+      "explanation": "イギリスは直接支配する地域と藩王国を組み合わせてインドを統治した。",
+      "yearStart": 1850,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1402-10",
+      "subject": "sekaishi-tankyu",
+      "question": "1857年に、東インド会社のインド人傭兵の反乱をきっかけに、北インドを中心に広がった大規模な反乱を何というか。",
+      "answer": "インド大反乱",
+      "reading": "いんどだいはんらん",
+      "alternatives": [
+        "シパーヒーの反乱",
+        "セポイの反乱"
+      ],
+      "explanation": "反乱軍はデリーを占領してムガル皇帝をおし立てたが、イギリス軍にしずめられた。",
+      "yearStart": 1857,
+      "yearEnd": 1859,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1402-11",
+      "subject": "sekaishi-tankyu",
+      "question": "イギリス東インド会社がやとった、インド人の傭兵を何というか。",
+      "answer": "シパーヒー",
+      "alternatives": [
+        "セポイ"
+      ],
+      "explanation": "上層のカーストのヒンドゥー教徒や、上層のイスラーム教徒が多かった。",
+      "yearStart": 1857,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1402-12",
+      "subject": "sekaishi-tankyu",
+      "question": "インド大反乱のさなかの1858年に、イギリスがとった、インド統治のしくみを変える措置は何か。",
+      "answer": "東インド会社の解散",
+      "alternatives": [
+        "東インド会社解散"
+      ],
+      "explanation": "ムガル帝国も滅ぼされ、インドはイギリス政府の直接統治のもとにおかれた。",
+      "yearStart": 1858,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1402-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1877年に、ヴィクトリア女王がインド皇帝に即位して成立した国を何というか。",
+      "answer": "インド帝国",
+      "reading": "いんどていこく",
+      "alternatives": [],
+      "explanation": "1947年の独立まで続いた。",
+      "yearStart": 1877,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1402-14",
+      "subject": "sekaishi-tankyu",
+      "question": "1830年から、オランダがジャワ島で実施した、コーヒーやサトウキビなどの商品作物を農民に強制的に栽培させ、安く買い上げる制度を何というか。",
+      "answer": "強制栽培制度",
+      "reading": "きょうせいさいばいせいど",
+      "alternatives": [
+        "政府栽培制度"
+      ],
+      "explanation": "オランダは大きな利益をえたが、ジャワの農村では飢饉もおこった。",
+      "yearStart": 1830,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1402-15",
+      "subject": "sekaishi-tankyu",
+      "question": "1825年に、オランダの支配に対してジャワ島でおこった大規模な反乱を何というか。",
+      "answer": "ジャワ戦争",
+      "reading": "じゃわせんそう",
+      "alternatives": [],
+      "explanation": "マタラム王国の王子ディポネゴロが指導した。",
+      "yearStart": 1825,
+      "yearEnd": 1830,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1402-16",
+      "subject": "sekaishi-tankyu",
+      "question": "1819年に、イギリスの植民地行政官ラッフルズが獲得し、自由港として発展させたマレー半島南端の島はどこか。",
+      "answer": "シンガポール",
+      "alternatives": [],
+      "explanation": "ペナン・マラッカとあわせて海峡植民地となった。",
+      "yearStart": 1819,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1402-17",
+      "subject": "sekaishi-tankyu",
+      "question": "1826年に、イギリスがペナン・マラッカ・シンガポールをあわせてつくった植民地を何というか。",
+      "answer": "海峡植民地",
+      "reading": "かいきょうしょくみんち",
+      "alternatives": [],
+      "explanation": "マラッカ海峡をおさえる交易の拠点となった。",
+      "yearStart": 1826,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1402-18",
+      "subject": "sekaishi-tankyu",
+      "question": "1895年に、イギリスがマレー半島の諸国をまとめてつくった保護領を何というか。",
+      "answer": "マレー連合州",
+      "reading": "まれーれんごうしゅう",
+      "alternatives": [],
+      "explanation": "錫の採掘やゴムの栽培がおこなわれ、中国やインドから多くの労働者が移り住んだ。",
+      "yearStart": 1895,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1402-19",
+      "subject": "sekaishi-tankyu",
+      "question": "3回にわたるイギリスとの戦争に敗れ、1886年にインド帝国に併合された東南アジアの国はどこか。",
+      "answer": "ビルマ",
+      "alternatives": [
+        "ミャンマー"
+      ],
+      "explanation": "コンバウン朝が滅んだ。",
+      "yearStart": 1886,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1402-20",
+      "subject": "sekaishi-tankyu",
+      "question": "1802年にベトナムを統一した阮朝は、19世紀後半にどの国の侵略を受けたか。",
+      "answer": "フランス",
+      "alternatives": [],
+      "explanation": "ナポレオン3世が、カトリック教徒への迫害を理由に出兵した。",
+      "yearStart": 1858,
+      "regions": [
+        "東南アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1402-21",
+      "subject": "sekaishi-tankyu",
+      "question": "1862年に、フランスがベトナムの阮朝に、コーチシナの東部を割譲させた条約は何か。",
+      "answer": "サイゴン条約",
+      "alternatives": [],
+      "explanation": "翌年には、フランスはカンボジアを保護国とした。",
+      "yearStart": 1862,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1402-22",
+      "subject": "sekaishi-tankyu",
+      "question": "1880年代に、フランスがベトナムを保護国とした条約は何か。",
+      "answer": "ユエ条約",
+      "alternatives": [
+        "フエ条約"
+      ],
+      "explanation": "ベトナムへの宗主権を主張する清との戦争の原因となった。",
+      "yearStart": 1883,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1402-23",
+      "subject": "sekaishi-tankyu",
+      "question": "1884年に、ベトナムの保護国化をめぐっておこった、清とフランスの戦争を何というか。",
+      "answer": "清仏戦争",
+      "reading": "しんふつせんそう",
+      "alternatives": [],
+      "explanation": "翌年の天津条約で、清はベトナムに対するフランスの保護権を認めた。",
+      "yearStart": 1884,
+      "yearEnd": 1885,
+      "regions": [
+        "東南アジア",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1402-24",
+      "subject": "sekaishi-tankyu",
+      "question": "1887年に、フランスがベトナムとカンボジアをあわせて成立させた植民地を何というか。",
+      "answer": "フランス領インドシナ連邦",
+      "alternatives": [
+        "仏領インドシナ連邦",
+        "インドシナ連邦"
+      ],
+      "explanation": "1899年にラオスも加えられた。ハノイに総督府がおかれた。",
+      "yearStart": 1887,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1402-25",
+      "subject": "sekaishi-tankyu",
+      "question": "ベトナム北部で、黒旗軍を率いてフランス軍と戦った中国人の武将は誰か。",
+      "answer": "劉永福",
+      "reading": "りゅうえいふく",
+      "alternatives": [],
+      "explanation": "太平天国の滅亡後にベトナムにのがれていた。",
+      "yearStart": 1873,
+      "regions": [
+        "東南アジア",
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1402-26",
+      "subject": "sekaishi-tankyu",
+      "question": "19世紀後半に、タイの近代化を進めて、東南アジアでただ一つ独立を守った国王は誰か。",
+      "answer": "チュラロンコン",
+      "alternatives": [
+        "ラーマ5世"
+      ],
+      "explanation": "イギリスとフランスの勢力の間の緩衝地帯という位置も利用した。",
+      "yearStart": 1868,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1402-27",
+      "subject": "sekaishi-tankyu",
+      "question": "1855年に、タイがイギリスと結んだ、自由貿易を認める不平等条約は何か。",
+      "answer": "ボーリング条約",
+      "alternatives": [
+        "バウリング条約"
+      ],
+      "explanation": "これをきっかけに、タイは米の輸出国として世界の経済に組みこまれた。",
+      "yearStart": 1855,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1403-01",
+      "subject": "sekaishi-tankyu",
+      "question": "18世紀末に、四川などの山地で、宗教結社の信者を中心におこった大規模な反乱は何か。",
+      "answer": "白蓮教徒の乱",
+      "reading": "びゃくれんきょうとのらん",
+      "alternatives": [],
+      "explanation": "清の正規軍だけではしずめられず、地方の有力者が組織した義勇軍が活躍した。",
+      "yearStart": 1796,
+      "yearEnd": 1804,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1403-02",
+      "subject": "sekaishi-tankyu",
+      "question": "1793年に、イギリスが貿易の制限をなくすことを求めて清に派遣した使節は誰か。",
+      "answer": "マカートニー",
+      "alternatives": [],
+      "explanation": "乾隆帝に面会したが、要求は認められなかった。",
+      "yearStart": 1793,
+      "regions": [
+        "中国",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-03",
+      "subject": "sekaishi-tankyu",
+      "question": "19世紀前半に、イギリスが中国の茶を買うための銀の流出をおさえるためにおこなった、インド産のアヘンを中国に運び、イギリスの綿製品をインドに運ぶ貿易を何というか。",
+      "answer": "三角貿易",
+      "reading": "さんかくぼうえき",
+      "alternatives": [],
+      "explanation": "アヘンの密貿易によって、清からは大量の銀が流出した。",
+      "yearStart": 1830,
+      "yearApprox": true,
+      "regions": [
+        "中国",
+        "南アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-04",
+      "subject": "sekaishi-tankyu",
+      "question": "1839年に、アヘンの取りしまりのために広州に派遣され、アヘンを没収して廃棄した清の役人は誰か。",
+      "answer": "林則徐",
+      "reading": "りんそくじょ",
+      "alternatives": [],
+      "explanation": "イギリスはこれを口実に軍隊を送った。",
+      "yearStart": 1839,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1840年に始まった、清とイギリスの戦争を何というか。",
+      "answer": "アヘン戦争",
+      "reading": "あへんせんそう",
+      "alternatives": [],
+      "explanation": "近代的な軍事力をもつイギリスが勝利した。",
+      "yearStart": 1840,
+      "yearEnd": 1842,
+      "regions": [
+        "中国",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-06",
+      "subject": "sekaishi-tankyu",
+      "question": "1842年に結ばれた、アヘン戦争の講和条約は何か。",
+      "answer": "南京条約",
+      "reading": "なんきんじょうやく",
+      "alternatives": [],
+      "explanation": "上海・寧波・福州・厦門・広州の5港をひらき、公行を廃止し、賠償金を支払うことなどを定めた。",
+      "yearStart": 1842,
+      "regions": [
+        "中国",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-07",
+      "subject": "sekaishi-tankyu",
+      "question": "南京条約で、清がイギリスにゆずった島はどこか。",
+      "answer": "香港島",
+      "reading": "ほんこんとう",
+      "alternatives": [
+        "香港"
+      ],
+      "explanation": "1997年に中国に返還されるまで、イギリスの植民地だった。",
+      "yearStart": 1842,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-08",
+      "subject": "sekaishi-tankyu",
+      "question": "外国人が罪をおかしても、その国の領事が自国の法で裁判をおこない、現地の国の法では裁けないという権利を何というか。",
+      "answer": "領事裁判権",
+      "reading": "りょうじさいばんけん",
+      "alternatives": [
+        "治外法権"
+      ],
+      "explanation": "清は南京条約の翌年の追加条約でこれを認め、関税自主権も失った。",
+      "yearStart": 1843,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1844年に、清がアメリカと結んだ不平等条約は何か。",
+      "answer": "望厦条約",
+      "reading": "ぼうかじょうやく",
+      "alternatives": [],
+      "explanation": "フランスとは黄埔条約を結んだ。",
+      "yearStart": 1844,
+      "regions": [
+        "中国",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1403-10",
+      "subject": "sekaishi-tankyu",
+      "question": "開港場で、外国人が行政権や警察権をにぎった居留地を何というか。",
+      "answer": "租界",
+      "reading": "そかい",
+      "alternatives": [],
+      "explanation": "上海に初めてつくられた。",
+      "yearStart": 1845,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1403-11",
+      "subject": "sekaishi-tankyu",
+      "question": "1856年に、イギリス船籍を主張する船の乗組員が清の役人にとらえられた事件をきっかけに、イギリスがフランスをさそっておこした戦争を何というか。",
+      "answer": "アロー戦争",
+      "alternatives": [
+        "第2次アヘン戦争"
+      ],
+      "explanation": "清は敗れて天津条約を結んだが、批准をめぐって戦争が再開された。",
+      "yearStart": 1856,
+      "yearEnd": 1860,
+      "regions": [
+        "中国",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-12",
+      "subject": "sekaishi-tankyu",
+      "question": "1860年に、英仏軍が北京を占領したのちに結ばれた、アロー戦争の講和条約は何か。",
+      "answer": "北京条約",
+      "reading": "ぺきんじょうやく",
+      "alternatives": [],
+      "explanation": "外国の公使の北京駐在、天津の開港、キリスト教の布教の自由、九竜半島南部のイギリスへの割譲などを定めた。",
+      "yearStart": 1860,
+      "regions": [
+        "中国",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1861年に、清が外国との交渉を担当するために新しくつくった役所は何か。",
+      "answer": "総理各国事務衙門",
+      "reading": "そうりかっこくじむがもん",
+      "alternatives": [
+        "総理衙門"
+      ],
+      "explanation": "それまで清には、対等な外交をあつかう役所がなかった。",
+      "yearStart": 1861,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治",
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1403-14",
+      "subject": "sekaishi-tankyu",
+      "question": "1858年に、ロシアが清と結んだ、黒竜江（アムール川）より北の地域をロシア領とした条約は何か。",
+      "answer": "アイグン条約",
+      "alternatives": [],
+      "explanation": "東シベリア総督ムラヴィヨフが結んだ。",
+      "yearStart": 1858,
+      "regions": [
+        "中国",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-15",
+      "subject": "sekaishi-tankyu",
+      "question": "1860年に、ロシアが清と英仏の講和を仲介した見返りに、北京条約で獲得した地域はどこか。",
+      "answer": "沿海州",
+      "reading": "えんかいしゅう",
+      "alternatives": [],
+      "explanation": "ウスリー川より東の地域。ロシアはここにウラジヴォストーク港をひらいた。",
+      "yearStart": 1860,
+      "regions": [
+        "中国",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1403-16",
+      "subject": "sekaishi-tankyu",
+      "question": "1851年に洪秀全が広西省で挙兵して建てた国を何というか。",
+      "answer": "太平天国",
+      "reading": "たいへいてんごく",
+      "alternatives": [],
+      "explanation": "「滅満興漢」をかかげ、1853年に南京を占領して都とした。",
+      "yearStart": 1851,
+      "yearEnd": 1864,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-17",
+      "subject": "sekaishi-tankyu",
+      "question": "キリスト教の影響を受けた宗教結社の上帝会をつくり、太平天国を建てた人物は誰か。",
+      "answer": "洪秀全",
+      "reading": "こうしゅうぜん",
+      "alternatives": [],
+      "explanation": "科挙に失敗した知識人。みずから天王と名乗った。",
+      "yearStart": 1851,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-18",
+      "subject": "sekaishi-tankyu",
+      "question": "太平天国がかかげた、男女の別なく土地を均等に分け与えるという土地制度を何というか。",
+      "answer": "天朝田畝制度",
+      "reading": "てんちょうでんぽせいど",
+      "alternatives": [],
+      "explanation": "実際には実施されなかった。太平天国は辮髪や纏足も禁じた。",
+      "yearStart": 1853,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1403-19",
+      "subject": "sekaishi-tankyu",
+      "question": "太平天国と戦うために、漢人の官僚が故郷で組織した義勇軍を何というか。",
+      "answer": "郷勇",
+      "reading": "きょうゆう",
+      "alternatives": [],
+      "explanation": "曾国藩の湘軍や李鴻章の淮軍が代表。",
+      "yearStart": 1853,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-20",
+      "subject": "sekaishi-tankyu",
+      "question": "湖南省で湘軍を組織して太平天国と戦い、洋務運動も進めた漢人の官僚は誰か。",
+      "answer": "曾国藩",
+      "reading": "そうこくはん",
+      "alternatives": [],
+      "explanation": "弟子に李鴻章がいる。",
+      "yearStart": 1853,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-21",
+      "subject": "sekaishi-tankyu",
+      "question": "安徽省で淮軍を組織して太平天国と戦い、洋務運動の中心となって、のちに清の外交もになった漢人の官僚は誰か。",
+      "answer": "李鴻章",
+      "reading": "りこうしょう",
+      "alternatives": [],
+      "explanation": "北洋艦隊をつくり、日清戦争後の下関条約の交渉にもあたった。",
+      "yearStart": 1862,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-22",
+      "subject": "sekaishi-tankyu",
+      "question": "太平天国との戦いで、ウォードやゴードンが指揮して清を助けた、外国人が率いる軍隊を何というか。",
+      "answer": "常勝軍",
+      "reading": "じょうしょうぐん",
+      "alternatives": [],
+      "explanation": "上海の防衛などで活躍した。",
+      "yearStart": 1860,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1403-23",
+      "subject": "sekaishi-tankyu",
+      "question": "1860年代から、清で曾国藩や李鴻章らが進めた、西洋の技術をとり入れて富国強兵をはかる運動を何というか。",
+      "answer": "洋務運動",
+      "reading": "ようむうんどう",
+      "alternatives": [],
+      "explanation": "兵器工場や紡績工場、汽船会社などがつくられた。",
+      "yearStart": 1861,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-24",
+      "subject": "sekaishi-tankyu",
+      "question": "洋務運動の基本的な考え方で、中国の伝統的な道徳や制度をもとにして、西洋の技術だけを利用するという考え方を何というか。",
+      "answer": "中体西用",
+      "reading": "ちゅうたいせいよう",
+      "alternatives": [],
+      "explanation": "政治や社会の制度の改革にはふみこまなかった。",
+      "yearStart": 1861,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-25",
+      "subject": "sekaishi-tankyu",
+      "question": "同治帝と光緒帝の時代に、皇帝の母や伯母として清の政治の実権をにぎった人物は誰か。",
+      "answer": "西太后",
+      "reading": "せいたいこう",
+      "alternatives": [],
+      "explanation": "保守派の中心として改革に反対した。",
+      "yearStart": 1861,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1403-26",
+      "subject": "sekaishi-tankyu",
+      "question": "1853年に、アメリカの使節が艦隊を率いて日本の浦賀に来航し、開国を求めたが、その使節は誰か。",
+      "answer": "ペリー",
+      "alternatives": [],
+      "explanation": "翌年、日米和親条約が結ばれ、下田と箱館がひらかれた。",
+      "yearStart": 1853,
+      "regions": [
+        "日本",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-27",
+      "subject": "sekaishi-tankyu",
+      "question": "1858年に日本がアメリカと結んだ、領事裁判権を認め、関税自主権をもたない不平等条約は何か。",
+      "answer": "日米修好通商条約",
+      "reading": "にちべいしゅうこうつうしょうじょうやく",
+      "alternatives": [],
+      "explanation": "同じような条約をオランダ・ロシア・イギリス・フランスとも結んだ。",
+      "yearStart": 1858,
+      "regions": [
+        "日本",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-28",
+      "subject": "sekaishi-tankyu",
+      "question": "1868年に江戸幕府が倒れて新政府が成立し、近代国家をめざす改革が進められた日本の変革を何というか。",
+      "answer": "明治維新",
+      "reading": "めいじいしん",
+      "alternatives": [],
+      "explanation": "富国強兵をめざして、政治・社会・経済の改革を進めた。",
+      "yearStart": 1868,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-29",
+      "subject": "sekaishi-tankyu",
+      "question": "1871年に、日本と清が結んだ対等な条約は何か。",
+      "answer": "日清修好条規",
+      "reading": "にっしんしゅうこうじょうき",
+      "alternatives": [],
+      "explanation": "たがいに領事裁判権を認めあった。",
+      "yearStart": 1871,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1403-30",
+      "subject": "sekaishi-tankyu",
+      "question": "1879年に、日本が琉球を領土に組みこみ、沖縄県をおいたことを何というか。",
+      "answer": "琉球処分",
+      "reading": "りゅうきゅうしょぶん",
+      "alternatives": [],
+      "explanation": "清はこれに抗議した。",
+      "yearStart": 1879,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1403-31",
+      "subject": "sekaishi-tankyu",
+      "question": "1875年に、日本とロシアが結んだ、樺太をロシア領、千島列島を日本領とした条約は何か。",
+      "answer": "樺太・千島交換条約",
+      "reading": "からふと・ちしまこうかんじょうやく",
+      "alternatives": [],
+      "explanation": "国境が画定した。",
+      "yearStart": 1875,
+      "regions": [
+        "日本",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1403-32",
+      "subject": "sekaishi-tankyu",
+      "question": "19世紀後半の朝鮮で、国王高宗の父として政治の実権をにぎり、鎖国と攘夷の政策をとった人物は誰か。",
+      "answer": "大院君",
+      "reading": "たいいんくん",
+      "alternatives": [],
+      "explanation": "フランスやアメリカの艦隊を撃退した。",
+      "yearStart": 1863,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1403-33",
+      "subject": "sekaishi-tankyu",
+      "question": "1875年に、日本の軍艦が朝鮮の沿岸で挑発をおこなって砲撃を受けた事件を何というか。",
+      "answer": "江華島事件",
+      "reading": "こうかとうじけん",
+      "alternatives": [],
+      "explanation": "日本はこれを口実に朝鮮に開国をせまった。",
+      "yearStart": 1875,
+      "regions": [
+        "朝鮮",
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-34",
+      "subject": "sekaishi-tankyu",
+      "question": "1876年に日本が朝鮮と結んだ、釜山などの開港や日本の領事裁判権を認めさせた不平等条約は何か。",
+      "answer": "日朝修好条規",
+      "reading": "にっちょうしゅうこうじょうき",
+      "alternatives": [
+        "江華条約"
+      ],
+      "explanation": "朝鮮を自主の国とし、清の宗主権を否定しようとした。",
+      "yearStart": 1876,
+      "regions": [
+        "朝鮮",
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-35",
+      "subject": "sekaishi-tankyu",
+      "question": "1882年に、朝鮮で改革に不満をもつ軍人たちが、大院君をおし立てておこした反乱を何というか。",
+      "answer": "壬午軍乱",
+      "reading": "じんごぐんらん",
+      "alternatives": [],
+      "explanation": "清がしずめ、朝鮮への影響力を強めた。",
+      "yearStart": 1882,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1403-36",
+      "subject": "sekaishi-tankyu",
+      "question": "1884年に、金玉均ら急進的な開化派が、日本の支援を受けておこしたクーデタを何というか。",
+      "answer": "甲申政変",
+      "reading": "こうしんせいへん",
+      "alternatives": [],
+      "explanation": "清軍によってしずめられた。",
+      "yearStart": 1884,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1403-37",
+      "subject": "sekaishi-tankyu",
+      "question": "1894年に、朝鮮で東学の信者を中心とする農民たちがおこした反乱を何というか。",
+      "answer": "甲午農民戦争",
+      "reading": "こうごのうみんせんそう",
+      "alternatives": [
+        "東学の乱",
+        "東学党の乱"
+      ],
+      "explanation": "全琫準が指導した。この反乱をきっかけに日本と清が出兵し、日清戦争が始まった。",
+      "yearStart": 1894,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-38",
+      "subject": "sekaishi-tankyu",
+      "question": "1894年に、朝鮮の支配をめぐって日本と清のあいだで始まった戦争は何か。",
+      "answer": "日清戦争",
+      "reading": "にっしんせんそう",
+      "alternatives": [],
+      "explanation": "近代的な軍備を整えた日本が勝利した。",
+      "yearStart": 1894,
+      "yearEnd": 1895,
+      "regions": [
+        "日本",
+        "中国",
+        "朝鮮"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-39",
+      "subject": "sekaishi-tankyu",
+      "question": "1895年に結ばれた、日清戦争の講和条約は何か。",
+      "answer": "下関条約",
+      "reading": "しものせきじょうやく",
+      "alternatives": [],
+      "explanation": "清は朝鮮の独立を認め、遼東半島・台湾・澎湖諸島を日本にゆずり、多額の賠償金を支払った。",
+      "yearStart": 1895,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1403-40",
+      "subject": "sekaishi-tankyu",
+      "question": "下関条約の直後に、ロシア・ドイツ・フランスが日本に遼東半島を清に返すよう求めた出来事を何というか。",
+      "answer": "三国干渉",
+      "reading": "さんごくかんしょう",
+      "alternatives": [],
+      "explanation": "日本はこれを受け入れ、ロシアへの対抗心を強めた。",
+      "yearStart": 1895,
+      "regions": [
+        "日本",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,2633 @@
+{
+  "generatedFrom": "rekishi-sogo-03.csv",
+  "_note": "このファイルは rekishi-sogo-03.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "r-0301-01",
+      "subject": "rekishi-sogo",
+      "question": "1947年に、イギリスから独立したインドの、初代の首相は誰か。",
+      "answer": "ネルー",
+      "alternatives": [],
+      "explanation": "イスラーム教徒の多い地域は、パキスタンとして分かれて独立した。",
+      "yearStart": 1947,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0301-02",
+      "subject": "rekishi-sogo",
+      "question": "第二次世界大戦ののちに独立したアジアやアフリカの国々のように、東西のどちらの陣営にも属さない立場をとった国々を何というか。",
+      "answer": "第三世界",
+      "reading": "だいさんせかい",
+      "alternatives": [
+        "第三勢力"
+      ],
+      "explanation": "冷戦のもとで、平和共存や反植民地主義をうったえた。",
+      "yearStart": 1955,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0301-03",
+      "subject": "rekishi-sogo",
+      "question": "1955年に、インドネシアのバンドンで、アジアとアフリカの29か国が参加してひらかれた会議を何というか。",
+      "answer": "アジア=アフリカ会議",
+      "reading": "あじああふりかかいぎ",
+      "alternatives": [
+        "バンドン会議",
+        "AA会議"
+      ],
+      "explanation": "平和共存や反植民地主義などをうたった平和十原則を採択した。日本も参加した。",
+      "yearStart": 1955,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0301-04",
+      "subject": "rekishi-sogo",
+      "question": "1954年に、インドのネルー首相と、中国の周恩来首相が発表した、領土と主権の尊重や平和共存などの原則を何というか。",
+      "answer": "平和五原則",
+      "reading": "へいわごげんそく",
+      "alternatives": [],
+      "explanation": "翌年のアジア=アフリカ会議の土台となった。",
+      "yearStart": 1954,
+      "regions": [
+        "南アジア",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0301-05",
+      "subject": "rekishi-sogo",
+      "question": "1961年に、ユーゴスラヴィアのベオグラードで、東西のどちらの軍事同盟にも加わらない国々がひらいた会議を何というか。",
+      "answer": "非同盟諸国首脳会議",
+      "reading": "ひどうめいしょこくしゅのうかいぎ",
+      "alternatives": [],
+      "explanation": "ユーゴスラヴィアのティトー、エジプトのナセル、インドのネルーらが呼びかけた。",
+      "yearStart": 1961,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0301-06",
+      "subject": "rekishi-sogo",
+      "question": "アフリカで17の国が独立した1960年は、何と呼ばれるか。",
+      "answer": "アフリカの年",
+      "reading": "あふりかのとし",
+      "alternatives": [],
+      "explanation": "独立ののちも、内戦や貧困に苦しむ国が多かった。",
+      "yearStart": 1960,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0301-07",
+      "subject": "rekishi-sogo",
+      "question": "1956年に、スエズ運河の国有化を宣言した、エジプトの大統領は誰か。",
+      "answer": "ナセル",
+      "alternatives": [],
+      "explanation": "イギリス・フランス・イスラエルがエジプトに侵攻したが、国際的な非難を受けて引きあげた。",
+      "yearStart": 1956,
+      "regions": [
+        "アフリカ",
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0301-08",
+      "subject": "rekishi-sogo",
+      "question": "1948年に、パレスチナに、ユダヤ人が建国した国は何か。",
+      "answer": "イスラエル",
+      "alternatives": [],
+      "explanation": "周辺のアラブの国々とのあいだで戦争となり、多くのアラブ人が難民となった（パレスチナ難民）。",
+      "yearStart": 1948,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0301-09",
+      "subject": "rekishi-sogo",
+      "question": "先進国と発展途上国とのあいだの、経済の格差の問題を何というか。",
+      "answer": "南北問題",
+      "reading": "なんぼくもんだい",
+      "alternatives": [],
+      "explanation": "先進国が北半球に、発展途上国が南半球に多いことから、こう呼ばれる。",
+      "yearStart": 1960,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0302-01",
+      "subject": "rekishi-sogo",
+      "question": "1953年にスターリンが死んだのち、ソ連の指導者となって、1956年にスターリンの独裁を批判した人物は誰か。",
+      "answer": "フルシチョフ",
+      "alternatives": [],
+      "explanation": "資本主義の国々との平和共存をとなえ、東西の緊張がゆるんだ。この変化は「雪どけ」と呼ばれた。",
+      "yearStart": 1956,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0302-02",
+      "subject": "rekishi-sogo",
+      "question": "1956年に、ソ連の支配からの自立と民主化を求める運動がおこったが、ソ連軍にしずめられた東ヨーロッパの国はどこか。",
+      "answer": "ハンガリー",
+      "alternatives": [],
+      "explanation": "ソ連は、東ヨーロッパの国々への支配をゆるめなかった。",
+      "yearStart": 1956,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0302-03",
+      "subject": "rekishi-sogo",
+      "question": "1955年に、ソ連と東ヨーロッパの国々が、NATOに対抗してつくった軍事同盟を何というか。",
+      "answer": "ワルシャワ条約機構",
+      "reading": "わるしゃわじょうやくきこう",
+      "alternatives": [],
+      "explanation": "西ドイツが再軍備して、NATOに加盟したことがきっかけ。",
+      "yearStart": 1955,
+      "regions": [
+        "ヨーロッパ",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0302-04",
+      "subject": "rekishi-sogo",
+      "question": "1961年に、東ドイツが、西側への人々の脱出を防ぐために、ベルリンにきずいたものは何か。",
+      "answer": "ベルリンの壁",
+      "reading": "べるりんのかべ",
+      "alternatives": [],
+      "explanation": "東西の対立の象徴となった。",
+      "yearStart": 1961,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0302-05",
+      "subject": "rekishi-sogo",
+      "question": "1954年に、アメリカがビキニ環礁でおこなった水爆実験で、日本の漁船が被爆した事件を、漁船の名から何というか。",
+      "answer": "第五福竜丸事件",
+      "reading": "だいごふくりゅうまるじけん",
+      "alternatives": [
+        "第五福龍丸事件"
+      ],
+      "explanation": "これをきっかけに、原水爆の禁止を求める運動が、日本から世界に広がった。",
+      "yearStart": 1954,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0302-06",
+      "subject": "rekishi-sogo",
+      "question": "1955年に、哲学者のラッセルと物理学者のアインシュタインらが、核兵器の廃絶と、戦争の廃止をうったえた宣言を何というか。",
+      "answer": "ラッセル・アインシュタイン宣言",
+      "reading": "らっせる・あいんしゅたいんせんげん",
+      "alternatives": [],
+      "explanation": "これを受けて、1957年に、科学者たちがパグウォッシュ会議をひらいた。日本の湯川秀樹も署名した。",
+      "yearStart": 1955,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0302-07",
+      "subject": "rekishi-sogo",
+      "question": "1957年に、世界で最初の人工衛星の打ち上げに成功した国はどこか。",
+      "answer": "ソ連",
+      "reading": "それん",
+      "alternatives": [
+        "ソヴィエト連邦",
+        "ソビエト連邦"
+      ],
+      "explanation": "人工衛星の名はスプートニク1号。アメリカとソ連は、宇宙の開発でもきそいあった。",
+      "yearStart": 1957,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0302-08",
+      "subject": "rekishi-sogo",
+      "question": "1955年に、アメリカ・イギリス・フランス・ソ連の首脳が、スイスでひらいた会談を何というか。",
+      "answer": "ジュネーヴ4巨頭会談",
+      "reading": "じゅねーゔよんきょとうかいだん",
+      "alternatives": [
+        "ジュネーブ4巨頭会談",
+        "ジュネーヴ四巨頭会談"
+      ],
+      "explanation": "東西の対話が始まったことを示した。",
+      "yearStart": 1955,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0302-09",
+      "subject": "rekishi-sogo",
+      "question": "1961年に、世界で最初の有人の宇宙飛行に成功した、ソ連の宇宙飛行士は誰か。",
+      "answer": "ガガーリン",
+      "alternatives": [],
+      "explanation": "1969年には、アメリカのアポロ11号が、人類初の月面着陸に成功した。",
+      "yearStart": 1961,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0303-01",
+      "subject": "rekishi-sogo",
+      "question": "1959年に、カストロらが、アメリカの支援を受けた独裁政権を倒す革命をおこし、のちに社会主義の国となった、カリブ海の国はどこか。",
+      "answer": "キューバ",
+      "alternatives": [],
+      "explanation": "アメリカは、キューバとの国交を断った。",
+      "yearStart": 1959,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0303-02",
+      "subject": "rekishi-sogo",
+      "question": "1962年に、ソ連がキューバにミサイルの基地を建設していることがわかり、アメリカとソ連のあいだで、核戦争の危機が高まった事件を何というか。",
+      "answer": "キューバ危機",
+      "reading": "きゅーばきき",
+      "alternatives": [],
+      "explanation": "アメリカは海上を封鎖した。ソ連がミサイルを撤去して、危機はさけられた。",
+      "yearStart": 1962,
+      "regions": [
+        "南北アメリカ",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0303-03",
+      "subject": "rekishi-sogo",
+      "question": "キューバ危機のときの、アメリカの大統領は誰か。",
+      "answer": "ケネディ",
+      "alternatives": [],
+      "explanation": "危機ののち、両国の首脳を直接結ぶ電話回線（ホットライン）がもうけられた。",
+      "yearStart": 1962,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0303-04",
+      "subject": "rekishi-sogo",
+      "question": "1963年に、アメリカ・イギリス・ソ連が調印した、地下をのぞく核実験を禁止した条約は何か。",
+      "answer": "部分的核実験禁止条約",
+      "reading": "ぶぶんてきかくじっけんきんしじょうやく",
+      "alternatives": [
+        "部分的核実験停止条約",
+        "PTBT"
+      ],
+      "explanation": "核兵器をもつフランスと中国は、参加しなかった。",
+      "yearStart": 1963,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0303-05",
+      "subject": "rekishi-sogo",
+      "question": "1968年に調印された、核兵器をもつ国がこれ以上ふえることを防ぐための条約は何か。",
+      "answer": "核拡散防止条約",
+      "reading": "かくかくさんぼうしじょうやく",
+      "alternatives": [
+        "核兵器拡散防止条約",
+        "核不拡散条約",
+        "NPT"
+      ],
+      "explanation": "アメリカ・ソ連・イギリス・フランス・中国の5か国以外が、核兵器をもつことを禁じた。",
+      "yearStart": 1968,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0303-06",
+      "subject": "rekishi-sogo",
+      "question": "1968年に、チェコスロヴァキアでおこった民主化の運動を何というか。",
+      "answer": "プラハの春",
+      "reading": "ぷらはのはる",
+      "alternatives": [],
+      "explanation": "ソ連は、ワルシャワ条約機構の軍を送って、これをおしつぶした。",
+      "yearStart": 1968,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0303-07",
+      "subject": "rekishi-sogo",
+      "question": "1966年から、中国で、毛沢東が始めて、社会に大きな混乱をもたらした政治運動を何というか。",
+      "answer": "文化大革命",
+      "reading": "ぶんかだいかくめい",
+      "alternatives": [
+        "プロレタリア文化大革命"
+      ],
+      "explanation": "多くの人々が迫害され、経済や文化の発展が大きくおくれた。",
+      "yearStart": 1966,
+      "yearEnd": 1976,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0303-08",
+      "subject": "rekishi-sogo",
+      "question": "1950年代の末から、同じ社会主義の国でありながら、路線のちがいから対立を深めたのは、ソ連とどこの国か。",
+      "answer": "中国",
+      "reading": "ちゅうごく",
+      "alternatives": [
+        "中華人民共和国"
+      ],
+      "explanation": "1969年には、国境で武力衝突がおこった。",
+      "yearStart": 1960,
+      "yearApprox": true,
+      "regions": [
+        "中国",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0303-09",
+      "subject": "rekishi-sogo",
+      "question": "1960年代の末から1970年代にかけての、アメリカとソ連のあいだの緊張がゆるんだ状態を、フランス語で何というか。",
+      "answer": "デタント",
+      "alternatives": [
+        "緊張緩和"
+      ],
+      "explanation": "核兵器の数を制限する交渉も進められた。",
+      "yearStart": 1972,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0304-01",
+      "subject": "rekishi-sogo",
+      "question": "1955年に、保守の政党が合同して結成された、その後、長く政権を担当した政党は何か。",
+      "answer": "自由民主党",
+      "reading": "じゆうみんしゅとう",
+      "alternatives": [
+        "自民党"
+      ],
+      "explanation": "憲法の改正をかかげた。初代の総裁は鳩山一郎。",
+      "yearStart": 1955,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0304-02",
+      "subject": "rekishi-sogo",
+      "question": "1955年に始まった、自由民主党が政権をにぎり、日本社会党が野党の第1党として対立する政治の体制を何というか。",
+      "answer": "55年体制",
+      "reading": "ごじゅうごねんたいせい",
+      "alternatives": [],
+      "explanation": "1993年まで、38年間続いた。",
+      "yearStart": 1955,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0304-03",
+      "subject": "rekishi-sogo",
+      "question": "1960年に、日米安全保障条約を改定して、新しい条約を結んだ首相は誰か。",
+      "answer": "岸信介",
+      "reading": "きしのぶすけ",
+      "alternatives": [],
+      "explanation": "アメリカが日本を防衛する義務が明記された。",
+      "yearStart": 1960,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0304-04",
+      "subject": "rekishi-sogo",
+      "question": "1960年に、日米安全保障条約の改定に反対して、多くの人々が国会をとりかこんだ運動を何というか。",
+      "answer": "安保闘争",
+      "reading": "あんぽとうそう",
+      "alternatives": [],
+      "explanation": "アメリカの戦争にまきこまれる危険があるとして反対した。条約は成立したが、内閣は退陣した。",
+      "yearStart": 1960,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0304-05",
+      "subject": "rekishi-sogo",
+      "question": "1960年に首相となり、「所得倍増」をかかげて、経済の成長を優先する政策を進めた人物は誰か。",
+      "answer": "池田勇人",
+      "reading": "いけだはやと",
+      "alternatives": [],
+      "explanation": "政治の対立から、経済の成長へと、国民の関心をむけた。",
+      "yearStart": 1960,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0304-06",
+      "subject": "rekishi-sogo",
+      "question": "1965年に、日本が、韓国と結んで、国交を正常化した条約は何か。",
+      "answer": "日韓基本条約",
+      "reading": "にっかんきほんじょうやく",
+      "alternatives": [],
+      "explanation": "日本は、韓国の政府を、朝鮮半島のただ1つの合法的な政府と認めた。",
+      "yearStart": 1965,
+      "regions": [
+        "日本",
+        "朝鮮"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0304-07",
+      "subject": "rekishi-sogo",
+      "question": "「核兵器をもたず、つくらず、もちこませず」という、日本の方針を何というか。",
+      "answer": "非核三原則",
+      "reading": "ひかくさんげんそく",
+      "alternatives": [],
+      "explanation": "佐藤栄作首相が表明した。",
+      "yearStart": 1967,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0304-08",
+      "subject": "rekishi-sogo",
+      "question": "1972年に、アメリカから日本に返還された県はどこか。",
+      "answer": "沖縄県",
+      "reading": "おきなわけん",
+      "alternatives": [
+        "沖縄"
+      ],
+      "explanation": "返還ののちも、広いアメリカ軍の基地が残された。",
+      "yearStart": 1972,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0304-09",
+      "subject": "rekishi-sogo",
+      "question": "沖縄の返還を実現した首相は誰か。",
+      "answer": "佐藤栄作",
+      "reading": "さとうえいさく",
+      "alternatives": [],
+      "explanation": "1974年に、ノーベル平和賞を受賞した。",
+      "yearStart": 1972,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0305-01",
+      "subject": "rekishi-sogo",
+      "question": "1950年代の半ばから1973年まで続いた、日本の経済の急速な成長を何というか。",
+      "answer": "高度経済成長",
+      "reading": "こうどけいざいせいちょう",
+      "alternatives": [],
+      "explanation": "年平均で10％ほどの成長が続いた。",
+      "yearStart": 1955,
+      "yearEnd": 1973,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0305-02",
+      "subject": "rekishi-sogo",
+      "question": "高度経済成長の時期に、家庭に広まった「三種の神器」とは、白黒テレビ、電気洗濯機と、もう1つは何か。",
+      "answer": "電気冷蔵庫",
+      "reading": "でんきれいぞうこ",
+      "alternatives": [
+        "冷蔵庫"
+      ],
+      "explanation": "家事にかかる時間が短くなり、生活が大きくかわった。",
+      "yearStart": 1958,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0305-03",
+      "subject": "rekishi-sogo",
+      "question": "高度経済成長の時期に、エネルギーの中心は、石炭から何にかわったか。",
+      "answer": "石油",
+      "reading": "せきゆ",
+      "alternatives": [],
+      "explanation": "この変化をエネルギー革命という。太平洋の沿岸に、石油化学コンビナートがつくられた。",
+      "yearStart": 1960,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0305-04",
+      "subject": "rekishi-sogo",
+      "question": "1964年に、東京でひらかれた、アジアで最初の国際的なスポーツの大会は何か。",
+      "answer": "東京オリンピック",
+      "reading": "とうきょうおりんぴっく",
+      "alternatives": [
+        "オリンピック",
+        "オリンピック東京大会"
+      ],
+      "explanation": "これにあわせて、東海道新幹線や高速道路がつくられた。",
+      "yearStart": 1964,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0305-05",
+      "subject": "rekishi-sogo",
+      "question": "1968年に、日本の国民総生産（GNP）は、資本主義の国々のなかで、第何位となったか。",
+      "answer": "第2位",
+      "alternatives": [
+        "2位",
+        "二位"
+      ],
+      "explanation": "アメリカについで第2位となった。",
+      "yearStart": 1968,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0305-06",
+      "subject": "rekishi-sogo",
+      "question": "高度経済成長の時期に深刻になった、工場の排水や排煙などによって、人々の健康や生活環境が損なわれる問題を何というか。",
+      "answer": "公害",
+      "reading": "こうがい",
+      "alternatives": [
+        "公害問題"
+      ],
+      "explanation": "水俣病・新潟水俣病・イタイイタイ病・四日市ぜんそくは、四大公害病と呼ばれる。",
+      "yearStart": 1965,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0305-07",
+      "subject": "rekishi-sogo",
+      "question": "熊本県の水俣湾の周辺で発生した、工場の排水にふくまれていたメチル水銀を原因とする公害病を何というか。",
+      "answer": "水俣病",
+      "reading": "みなまたびょう",
+      "alternatives": [],
+      "explanation": "被害者たちは、裁判をおこして、企業の責任を問うた。",
+      "yearStart": 1956,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0305-08",
+      "subject": "rekishi-sogo",
+      "question": "1967年に制定された、公害を防ぐための国や企業の責任を定めた法律は何か。",
+      "answer": "公害対策基本法",
+      "reading": "こうがいたいさくきほんほう",
+      "alternatives": [],
+      "explanation": "1971年には環境庁が設置された。",
+      "yearStart": 1967,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0305-09",
+      "subject": "rekishi-sogo",
+      "question": "高度経済成長の時期に、農村から都市に人口が流出して、農村で人口が大きく減ったことを何というか。",
+      "answer": "過疎",
+      "reading": "かそ",
+      "alternatives": [
+        "過疎化"
+      ],
+      "explanation": "都市では、人口が集中する過密によって、住宅の不足や交通の渋滞がおこった。",
+      "yearStart": 1965,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0306-01",
+      "subject": "rekishi-sogo",
+      "question": "1965年に、アメリカが、北ベトナムへの爆撃を始め、南ベトナムに大軍を送って本格化した戦争を何というか。",
+      "answer": "ベトナム戦争",
+      "reading": "べとなむせんそう",
+      "alternatives": [],
+      "explanation": "アメリカは、南ベトナムの政府を助けて、北ベトナムと、南ベトナム解放民族戦線と戦った。",
+      "yearStart": 1965,
+      "yearEnd": 1975,
+      "regions": [
+        "東南アジア",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0306-02",
+      "subject": "rekishi-sogo",
+      "question": "ベトナム戦争で、アメリカ軍がおこなった、北ベトナムへの爆撃を何というか。",
+      "answer": "北爆",
+      "reading": "ほくばく",
+      "alternatives": [],
+      "explanation": "ジョンソン大統領が始めた。沖縄のアメリカ軍の基地も、出撃の拠点となった。",
+      "yearStart": 1965,
+      "regions": [
+        "東南アジア",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0306-03",
+      "subject": "rekishi-sogo",
+      "question": "ベトナム戦争に対して、アメリカの国内や世界の各地で高まった運動を何というか。",
+      "answer": "反戦運動",
+      "reading": "はんせんうんどう",
+      "alternatives": [
+        "ベトナム反戦運動"
+      ],
+      "explanation": "戦場のようすがテレビで伝えられ、戦争への批判が強まった。",
+      "yearStart": 1968,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0306-04",
+      "subject": "rekishi-sogo",
+      "question": "1973年に結ばれて、アメリカ軍がベトナムから引きあげることになった協定を何というか。",
+      "answer": "パリ和平協定",
+      "reading": "ぱりわへいきょうてい",
+      "alternatives": [
+        "ベトナム和平協定"
+      ],
+      "explanation": "1975年に南ベトナムの政府が倒れ、翌年、南北が統一されて、ベトナム社会主義共和国が成立した。",
+      "yearStart": 1973,
+      "regions": [
+        "東南アジア",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0306-05",
+      "subject": "rekishi-sogo",
+      "question": "1950〜60年代のアメリカで、黒人への差別をなくすことを求めて高まった運動を何というか。",
+      "answer": "公民権運動",
+      "reading": "こうみんけんうんどう",
+      "alternatives": [],
+      "explanation": "1964年に、人種差別を禁止する公民権法が成立した。",
+      "yearStart": 1960,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0306-06",
+      "subject": "rekishi-sogo",
+      "question": "公民権運動を、非暴力の方法で指導した牧師は誰か。",
+      "answer": "キング",
+      "alternatives": [
+        "キング牧師",
+        "マーティン=ルーサー=キング"
+      ],
+      "explanation": "1963年のワシントン大行進で、「私には夢がある」と演説した。",
+      "yearStart": 1963,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0306-07",
+      "subject": "rekishi-sogo",
+      "question": "1972年に、アメリカの大統領として初めて中華人民共和国を訪問して、関係の改善を進めた人物は誰か。",
+      "answer": "ニクソン",
+      "alternatives": [],
+      "explanation": "ベトナム戦争の終結と、ソ連への対抗をねらった。1979年に、両国の国交が正常化した。",
+      "yearStart": 1972,
+      "regions": [
+        "南北アメリカ",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0306-08",
+      "subject": "rekishi-sogo",
+      "question": "1954年のジュネーヴ休戦協定で、ベトナムを南北に分ける、暫定的な軍事境界線とされたのは、北緯何度の線か。",
+      "answer": "北緯17度",
+      "alternatives": [
+        "17度",
+        "17度線",
+        "北緯17度線"
+      ],
+      "explanation": "フランスは、ベトナムから引きあげた。",
+      "yearStart": 1954,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0306-09",
+      "subject": "rekishi-sogo",
+      "question": "ベトナム戦争での多額の出費などによって、価値への信頼がゆらいだ、アメリカの通貨は何か。",
+      "answer": "ドル",
+      "alternatives": [
+        "米ドル",
+        "アメリカドル"
+      ],
+      "explanation": "アメリカの経済的な優位が、ゆらぎ始めた。",
+      "yearStart": 1970,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0307-01",
+      "subject": "rekishi-sogo",
+      "question": "1971年に、アメリカのニクソン大統領が、ドルと金の交換の停止を発表して、世界の経済に衝撃を与えたできごとを何というか。",
+      "answer": "ドル=ショック",
+      "alternatives": [
+        "ニクソン=ショック"
+      ],
+      "explanation": "戦後の国際的な通貨のしくみが、くずれた。",
+      "yearStart": 1971,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0307-02",
+      "subject": "rekishi-sogo",
+      "question": "1973年に、主要な国々が移った、通貨の交換の比率が、市場での売買によって決まる制度を何というか。",
+      "answer": "変動相場制",
+      "reading": "へんどうそうばせい",
+      "alternatives": [
+        "変動為替相場制"
+      ],
+      "explanation": "それまでは、1ドル＝360円のように固定されていた。",
+      "yearStart": 1973,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0307-03",
+      "subject": "rekishi-sogo",
+      "question": "1973年に、第4次中東戦争をきっかけに、アラブの産油国が、石油の価格を大きく引き上げたためにおこった、世界的な経済の混乱を何というか。",
+      "answer": "石油危機",
+      "reading": "せきゆきき",
+      "alternatives": [
+        "第1次石油危機",
+        "オイル=ショック",
+        "石油ショック"
+      ],
+      "explanation": "石油を輸入にたよる先進国は、大きな打撃を受けた。日本の高度経済成長も終わった。",
+      "yearStart": 1973,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0307-04",
+      "subject": "rekishi-sogo",
+      "question": "1975年に、石油危機ののちの世界の経済の問題を話しあうために始まった、先進国の首脳の会議を何というか。",
+      "answer": "サミット",
+      "alternatives": [
+        "先進国首脳会議",
+        "主要国首脳会議"
+      ],
+      "explanation": "フランス・アメリカ・イギリス・西ドイツ・イタリア・日本の6か国で始まった。",
+      "yearStart": 1975,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0307-05",
+      "subject": "rekishi-sogo",
+      "question": "1979年に、イランで、国王の政治を倒して、イスラーム教にもとづく国家をつくった革命を何というか。",
+      "answer": "イラン=イスラーム革命",
+      "alternatives": [
+        "イラン革命",
+        "イラン=イスラム革命"
+      ],
+      "explanation": "指導者はホメイニ。石油の価格がふたたび上がり、第2次石油危機がおこった。",
+      "yearStart": 1979,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0307-06",
+      "subject": "rekishi-sogo",
+      "question": "石油危機ののち、日本の企業が進めた、エネルギーの消費をへらす取り組みを何というか。",
+      "answer": "省エネルギー",
+      "reading": "しょうえねるぎー",
+      "alternatives": [
+        "省エネ",
+        "省エネルギー化"
+      ],
+      "explanation": "経営の合理化も進め、日本は、他の先進国よりも早く不況から立ち直った。",
+      "yearStart": 1975,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0307-07",
+      "subject": "rekishi-sogo",
+      "question": "石油危機ののち、日本の輸出の中心となった、加工・組立型の産業の製品を1つあげよ。",
+      "answer": "自動車",
+      "reading": "じどうしゃ",
+      "alternatives": [
+        "電気機械",
+        "電気製品",
+        "半導体"
+      ],
+      "explanation": "産業の中心は、鉄鋼や石油化学などの素材をつくる産業から、自動車や電気機械、先端技術の産業に移った。",
+      "yearStart": 1980,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0307-08",
+      "subject": "rekishi-sogo",
+      "question": "不景気なのに物価が上がり続ける状態を何というか。",
+      "answer": "スタグフレーション",
+      "alternatives": [],
+      "explanation": "石油危機ののち、多くの先進国がこの状態に苦しんだ。",
+      "yearStart": 1975,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0307-09",
+      "subject": "rekishi-sogo",
+      "question": "1960年に、産油国が、石油の価格や生産量を自分たちで決めるためにつくった組織を、略称で何というか。",
+      "answer": "OPEC",
+      "reading": "おぺっく",
+      "alternatives": [
+        "石油輸出国機構"
+      ],
+      "explanation": "国際的な石油会社にかわって、産油国が力をもつようになった。",
+      "yearStart": 1960,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0308-01",
+      "subject": "rekishi-sogo",
+      "question": "1972年に、田中角栄首相が中国を訪問して発表し、中華人民共和国との国交を正常化した文書は何か。",
+      "answer": "日中共同声明",
+      "reading": "にっちゅうきょうどうせいめい",
+      "alternatives": [],
+      "explanation": "日本は、過去の戦争への反省を表明した。1978年には、日中平和友好条約が結ばれた。",
+      "yearStart": 1972,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0308-02",
+      "subject": "rekishi-sogo",
+      "question": "1980年代に、日本の自動車などの輸出が大きくのびたために、アメリカなどとのあいだでおこった対立を何というか。",
+      "answer": "貿易摩擦",
+      "reading": "ぼうえきまさつ",
+      "alternatives": [],
+      "explanation": "アメリカは、日本に、輸出の規制や、市場の開放を求めた。",
+      "yearStart": 1985,
+      "yearApprox": true,
+      "regions": [
+        "日本",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0308-03",
+      "subject": "rekishi-sogo",
+      "question": "1985年に、先進5か国が、ドル高を是正することで合意した取り決めを、会議のひらかれたホテルの名から何というか。",
+      "answer": "プラザ合意",
+      "reading": "ぷらざごうい",
+      "alternatives": [],
+      "explanation": "急速に円高が進んだ。日本の企業は、工場を海外に移すようになった。",
+      "yearStart": 1985,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0308-04",
+      "subject": "rekishi-sogo",
+      "question": "1980年代の後半に、日本で、土地や株式の価格が、実際の価値を大きくこえて上がり続けた好景気を何というか。",
+      "answer": "バブル経済",
+      "reading": "ばぶるけいざい",
+      "alternatives": [
+        "バブル景気"
+      ],
+      "explanation": "1990年代の初めに崩壊した。",
+      "yearStart": 1986,
+      "yearEnd": 1991,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0308-05",
+      "subject": "rekishi-sogo",
+      "question": "1980年代に、中曽根康弘内閣が民営化した国鉄は、現在の何という会社のグループになったか。",
+      "answer": "JR",
+      "alternatives": [],
+      "explanation": "電電公社はNTTに、専売公社はJTになった。",
+      "yearStart": 1987,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0308-06",
+      "subject": "rekishi-sogo",
+      "question": "1985年に制定された、職場での男女の差別をなくすことをめざした法律は何か。",
+      "answer": "男女雇用機会均等法",
+      "reading": "だんじょこようきかいきんとうほう",
+      "alternatives": [],
+      "explanation": "募集・採用・昇進などでの、男女の平等な扱いを求めた。",
+      "yearStart": 1985,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0308-07",
+      "subject": "rekishi-sogo",
+      "question": "日本が、1989年に、供与額で世界第1位となった、発展途上国への政府による援助を、略称で何というか。",
+      "answer": "ODA",
+      "reading": "おーでぃーえー",
+      "alternatives": [
+        "政府開発援助"
+      ],
+      "explanation": "経済大国としての、国際的な役割が求められるようになった。",
+      "yearStart": 1989,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0308-08",
+      "subject": "rekishi-sogo",
+      "question": "1989年に、日本で初めて導入された、商品の販売やサービスの提供に対してかけられる税は何か。",
+      "answer": "消費税",
+      "reading": "しょうひぜい",
+      "alternatives": [],
+      "explanation": "税率は3％で始まった。",
+      "yearStart": 1989,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0308-09",
+      "subject": "rekishi-sogo",
+      "question": "石油危機ののちの日本の経済が、高度経済成長にくらべて低い率で、しかし安定して成長を続けたことを何というか。",
+      "answer": "安定成長",
+      "reading": "あんていせいちょう",
+      "alternatives": [],
+      "explanation": "1970年代の後半から1980年代にかけて、年3〜5％ほどの成長を続けた。",
+      "yearStart": 1980,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0309-01",
+      "subject": "rekishi-sogo",
+      "question": "1970年代から、急速に工業化を進めて、経済が大きく成長した、韓国・台湾・香港・シンガポールなどの国や地域を、略称で何というか。",
+      "answer": "NIES",
+      "reading": "にーず",
+      "alternatives": [
+        "新興工業経済地域",
+        "アジアNIES"
+      ],
+      "explanation": "外国の資本や技術をとり入れて、輸出向けの工業を発展させた。",
+      "yearStart": 1975,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0309-02",
+      "subject": "rekishi-sogo",
+      "question": "経済の発展を優先して、政治的な自由や民主主義を制限した、アジアなどの国々の強権的な政治の体制を何というか。",
+      "answer": "開発独裁",
+      "reading": "かいはつどくさい",
+      "alternatives": [],
+      "explanation": "韓国の朴正熙、インドネシアのスハルト、フィリピンのマルコスの政権などが、その例。",
+      "yearStart": 1970,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0309-03",
+      "subject": "rekishi-sogo",
+      "question": "1967年に、東南アジアの5か国が結成した、地域の協力のための組織を、略称で何というか。",
+      "answer": "ASEAN",
+      "reading": "あせあん",
+      "alternatives": [
+        "東南アジア諸国連合"
+      ],
+      "explanation": "インドネシア・マレーシア・フィリピン・シンガポール・タイで発足した。現在は10か国が加盟している。",
+      "yearStart": 1967,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0309-04",
+      "subject": "rekishi-sogo",
+      "question": "1978年から、中国で、鄧小平の指導のもとで進められた、市場経済をとり入れて、外国の資本や技術を導入する政策を何というか。",
+      "answer": "改革開放",
+      "reading": "かいかくかいほう",
+      "alternatives": [
+        "改革・開放政策",
+        "改革開放政策"
+      ],
+      "explanation": "沿岸部に経済特区をもうけた。中国の経済は、急速に成長した。",
+      "yearStart": 1978,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0309-05",
+      "subject": "rekishi-sogo",
+      "question": "中国の改革開放政策を指導した人物は誰か。",
+      "answer": "鄧小平",
+      "reading": "とうしょうへい",
+      "alternatives": [],
+      "explanation": "毛沢東の死後に実権をにぎった。",
+      "yearStart": 1978,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0309-06",
+      "subject": "rekishi-sogo",
+      "question": "1989年に、中国の北京で、民主化を求めて集まった学生や市民を、政府が軍隊を使っておさえこんだ事件を何というか。",
+      "answer": "天安門事件",
+      "reading": "てんあんもんじけん",
+      "alternatives": [
+        "第2次天安門事件"
+      ],
+      "explanation": "共産党による一党支配は、その後も続いている。",
+      "yearStart": 1989,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0309-07",
+      "subject": "rekishi-sogo",
+      "question": "1986年から、ベトナムで進められた、市場経済をとり入れる改革の政策を何というか。",
+      "answer": "ドイモイ",
+      "alternatives": [
+        "刷新"
+      ],
+      "explanation": "社会主義の体制を保ったまま、経済の成長をめざした。",
+      "yearStart": 1986,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0309-08",
+      "subject": "rekishi-sogo",
+      "question": "1980年代に、民主化の運動が高まり、1987年に、国民が直接選ぶ大統領選挙が実現した、東アジアの国はどこか。",
+      "answer": "韓国",
+      "reading": "かんこく",
+      "alternatives": [
+        "大韓民国"
+      ],
+      "explanation": "台湾でも、同じ頃に民主化が進んだ。",
+      "yearStart": 1987,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0309-09",
+      "subject": "rekishi-sogo",
+      "question": "1997年に、タイの通貨の暴落をきっかけに、東アジアや東南アジアの国々に広がった経済の混乱を何というか。",
+      "answer": "アジア通貨危機",
+      "reading": "あじあつうかきき",
+      "alternatives": [],
+      "explanation": "国境をこえて、大量の資金がすばやく動くようになったことが背景にある。",
+      "yearStart": 1997,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0310-01",
+      "subject": "rekishi-sogo",
+      "question": "1979年に、ソ連が、社会主義の政権を助けるために軍を送って、東西の対立をふたたびきびしくするきっかけとなった国はどこか。",
+      "answer": "アフガニスタン",
+      "alternatives": [],
+      "explanation": "この時期の東西の対立を、新冷戦という。軍事費の負担は、ソ連の経済を苦しめた。",
+      "yearStart": 1979,
+      "regions": [
+        "西アジア",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0310-02",
+      "subject": "rekishi-sogo",
+      "question": "1979年に、イギリスの首相となって、国営企業の民営化や、規制の緩和を進めた人物は誰か。",
+      "answer": "サッチャー",
+      "alternatives": [],
+      "explanation": "政府の役割を小さくして、市場での自由な競争を重んじた。",
+      "yearStart": 1979,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0310-03",
+      "subject": "rekishi-sogo",
+      "question": "政府による経済への介入や、福祉への支出をへらして、市場での自由な競争を重んじる考えを何というか。",
+      "answer": "新自由主義",
+      "reading": "しんじゆうしゅぎ",
+      "alternatives": [],
+      "explanation": "経済は活気を取りもどしたが、貧富の差が広がったという批判もある。",
+      "yearStart": 1980,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0310-04",
+      "subject": "rekishi-sogo",
+      "question": "1981年に、アメリカの大統領となって、減税や規制の緩和を進めるとともに、ソ連に対して強い姿勢をとった人物は誰か。",
+      "answer": "レーガン",
+      "alternatives": [],
+      "explanation": "財政の赤字と貿易の赤字という、「双子の赤字」をかかえた。",
+      "yearStart": 1981,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0310-05",
+      "subject": "rekishi-sogo",
+      "question": "1985年に、ソ連の指導者となって、政治や経済の立て直しを進めた人物は誰か。",
+      "answer": "ゴルバチョフ",
+      "alternatives": [],
+      "explanation": "アメリカとの関係の改善を進め、1987年には中距離核戦力（INF）全廃条約を結んだ。",
+      "yearStart": 1985,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0310-06",
+      "subject": "rekishi-sogo",
+      "question": "ゴルバチョフが進めた、ソ連の政治や経済の立て直しの改革を、ロシア語で何というか。",
+      "answer": "ペレストロイカ",
+      "alternatives": [],
+      "explanation": "情報の公開（グラスノスチ）も進めた。",
+      "yearStart": 1985,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0310-07",
+      "subject": "rekishi-sogo",
+      "question": "1986年に、大きな事故をおこして、広い範囲に放射能の汚染をもたらした、ソ連（現在のウクライナ）の原子力発電所はどこか。",
+      "answer": "チェルノブイリ原子力発電所",
+      "alternatives": [
+        "チェルノブイリ",
+        "チェルノブイリ原発",
+        "チョルノービリ原子力発電所"
+      ],
+      "explanation": "情報の公開の必要性が、強く意識された。",
+      "yearStart": 1986,
+      "regions": [
+        "ロシア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0310-08",
+      "subject": "rekishi-sogo",
+      "question": "1980年に、ポーランドでつくられた、政府から独立した自主的な労働組合を何というか。",
+      "answer": "連帯",
+      "reading": "れんたい",
+      "alternatives": [
+        "自主管理労働組合「連帯」"
+      ],
+      "explanation": "指導者はワレサ。東ヨーロッパの民主化の先がけとなった。",
+      "yearStart": 1980,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0310-09",
+      "subject": "rekishi-sogo",
+      "question": "国の役割を、国防や治安の維持など、最小限のものに限ろうとする政府のあり方を何というか。",
+      "answer": "小さな政府",
+      "reading": "ちいさなせいふ",
+      "alternatives": [],
+      "explanation": "日本でも、1980年代に、国鉄などの民営化が進められた。",
+      "yearStart": 1980,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0311-01",
+      "subject": "rekishi-sogo",
+      "question": "1989年に、東ヨーロッパの国々で、民主化の運動が高まって、社会主義の政権がつぎつぎに倒れたことを何というか。",
+      "answer": "東欧革命",
+      "reading": "とうおうかくめい",
+      "alternatives": [],
+      "explanation": "ソ連は、これに介入しなかった。",
+      "yearStart": 1989,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0311-02",
+      "subject": "rekishi-sogo",
+      "question": "1989年11月に、市民の手によってこわされた、東西の対立の象徴であった建造物は何か。",
+      "answer": "ベルリンの壁",
+      "reading": "べるりんのかべ",
+      "alternatives": [],
+      "explanation": "東ドイツの人々が、自由に西側に行けるようになった。",
+      "yearStart": 1989,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0311-03",
+      "subject": "rekishi-sogo",
+      "question": "1989年12月に、アメリカのブッシュ大統領と、ソ連のゴルバチョフ書記長が、冷戦の終結を宣言した会談を何というか。",
+      "answer": "マルタ会談",
+      "reading": "まるたかいだん",
+      "alternatives": [],
+      "explanation": "地中海のマルタ島でひらかれた。",
+      "yearStart": 1989,
+      "regions": [
+        "南北アメリカ",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0311-04",
+      "subject": "rekishi-sogo",
+      "question": "1990年に、西ドイツが東ドイツを吸収する形で実現したことは何か。",
+      "answer": "ドイツ統一",
+      "reading": "どいつとういつ",
+      "alternatives": [
+        "東西ドイツの統一",
+        "ドイツの統一",
+        "東西ドイツ統一"
+      ],
+      "explanation": "ヨーロッパの分断が終わった。",
+      "yearStart": 1990,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0311-05",
+      "subject": "rekishi-sogo",
+      "question": "1991年に、15の共和国がそれぞれ独立して、解体した国はどこか。",
+      "answer": "ソ連",
+      "reading": "それん",
+      "alternatives": [
+        "ソヴィエト連邦",
+        "ソビエト連邦"
+      ],
+      "explanation": "ロシア連邦などは、独立国家共同体（CIS）というゆるやかな結びつきをつくった。",
+      "yearStart": 1991,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0311-06",
+      "subject": "rekishi-sogo",
+      "question": "1990年に、イラクがクウェートに侵攻したことに対して、翌年、アメリカを中心とする多国籍軍がイラクを攻撃した戦争を何というか。",
+      "answer": "湾岸戦争",
+      "reading": "わんがんせんそう",
+      "alternatives": [],
+      "explanation": "国連の安全保障理事会の決議にもとづいておこなわれた。",
+      "yearStart": 1991,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0311-07",
+      "subject": "rekishi-sogo",
+      "question": "1991年に、アメリカとソ連が調印した、核兵器の数をへらすための条約を、略称で何というか。",
+      "answer": "START",
+      "reading": "すたーと",
+      "alternatives": [
+        "戦略兵器削減条約",
+        "第1次戦略兵器削減条約"
+      ],
+      "explanation": "冷戦の終結によって、核兵器の削減が進んだ。",
+      "yearStart": 1991,
+      "regions": [
+        "南北アメリカ",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0311-08",
+      "subject": "rekishi-sogo",
+      "question": "1993年に、日本で、自由民主党が政権を失って終わった、38年間続いた政治の体制を何というか。",
+      "answer": "55年体制",
+      "reading": "ごじゅうごねんたいせい",
+      "alternatives": [],
+      "explanation": "非自民の8つの党派による、細川護熙内閣が成立した。",
+      "yearStart": 1993,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0311-09",
+      "subject": "rekishi-sogo",
+      "question": "ソ連が解体したのち、その国際的な地位を引きついだ、ロシア連邦の初代の大統領は誰か。",
+      "answer": "エリツィン",
+      "alternatives": [],
+      "explanation": "市場経済への移行を進めたが、経済は混乱した。",
+      "yearStart": 1991,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0312-01",
+      "subject": "rekishi-sogo",
+      "question": "冷戦が終わったのち、世界の各地でふえた、民族や宗教のちがいなどを原因とする、国内や地域での争いを何というか。",
+      "answer": "地域紛争",
+      "reading": "ちいきふんそう",
+      "alternatives": [
+        "民族紛争"
+      ],
+      "explanation": "冷戦のもとでおさえられていた対立が、表面化した。",
+      "yearStart": 1992,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0312-02",
+      "subject": "rekishi-sogo",
+      "question": "1990年代に、いくつもの民族が対立して、内戦をくり返しながら、分裂していった、バルカン半島の国はどこか。",
+      "answer": "ユーゴスラヴィア",
+      "alternatives": [
+        "ユーゴスラビア"
+      ],
+      "explanation": "ボスニア=ヘルツェゴヴィナやコソヴォで、はげしい紛争がおこった。",
+      "yearStart": 1991,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0312-03",
+      "subject": "rekishi-sogo",
+      "question": "紛争や迫害などのために、住んでいた国や土地からのがれた人々を何というか。",
+      "answer": "難民",
+      "reading": "なんみん",
+      "alternatives": [],
+      "explanation": "国連難民高等弁務官事務所（UNHCR）が、保護や支援にあたっている。",
+      "yearStart": 1995,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0312-04",
+      "subject": "rekishi-sogo",
+      "question": "紛争のおこった地域で、国際連合が、停戦の監視や選挙の監視などをおこなう活動を、略称で何というか。",
+      "answer": "PKO",
+      "reading": "ぴーけーおー",
+      "alternatives": [
+        "国連平和維持活動"
+      ],
+      "explanation": "日本は、1992年に、自衛隊をカンボジアに派遣した。",
+      "yearStart": 1992,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0312-05",
+      "subject": "rekishi-sogo",
+      "question": "2001年9月11日に、アメリカで、ハイジャックされた旅客機が、ニューヨークの高層ビルなどに突入した事件を何というか。",
+      "answer": "同時多発テロ事件",
+      "reading": "どうじたはつてろじけん",
+      "alternatives": [
+        "同時多発テロ",
+        "アメリカ同時多発テロ事件",
+        "9.11事件"
+      ],
+      "explanation": "アメリカは、テロ組織をかくまっているとして、アフガニスタンを攻撃した。",
+      "yearStart": 2001,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0312-06",
+      "subject": "rekishi-sogo",
+      "question": "2003年に、アメリカやイギリスが、大量破壊兵器をもっているとして、イラクを攻撃して、フセイン政権を倒した戦争を何というか。",
+      "answer": "イラク戦争",
+      "reading": "いらくせんそう",
+      "alternatives": [],
+      "explanation": "大量破壊兵器は見つからなかった。その後も、イラクの国内の混乱は続いた。",
+      "yearStart": 2003,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0312-07",
+      "subject": "rekishi-sogo",
+      "question": "1993年に、イスラエルと、パレスチナ解放機構（PLO）が、たがいを認めあい、パレスチナ人の暫定的な自治を始めることで合意した取り決めを何というか。",
+      "answer": "オスロ合意",
+      "alternatives": [
+        "パレスチナ暫定自治協定"
+      ],
+      "explanation": "その後も対立と衝突が続き、和平は実現していない。",
+      "yearStart": 1993,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0312-08",
+      "subject": "rekishi-sogo",
+      "question": "1994年に、多数派の民族による、少数派の民族の大量虐殺がおこった、アフリカ中部の国はどこか。",
+      "answer": "ルワンダ",
+      "alternatives": [],
+      "explanation": "植民地の時代につくられた民族の対立が、背景にあった。",
+      "yearStart": 1994,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0312-09",
+      "subject": "rekishi-sogo",
+      "question": "2011年に、チュニジアから、エジプトやリビアなどのアラブの国々に広がった、民主化を求める運動を何というか。",
+      "answer": "アラブの春",
+      "reading": "あらぶのはる",
+      "alternatives": [],
+      "explanation": "長期の独裁政権が倒れたが、シリアなどでは内戦となり、多くの難民が出た。",
+      "yearStart": 2011,
+      "regions": [
+        "西アジア",
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0313-01",
+      "subject": "rekishi-sogo",
+      "question": "1993年に、ヨーロッパ共同体（EC）が発展して発足した、ヨーロッパの国々の組織を、略称で何というか。",
+      "answer": "EU",
+      "reading": "いーゆー",
+      "alternatives": [
+        "ヨーロッパ連合",
+        "欧州連合"
+      ],
+      "explanation": "マーストリヒト条約にもとづいて発足した。経済だけでなく、政治や外交でも統合を進めた。",
+      "yearStart": 1993,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0313-02",
+      "subject": "rekishi-sogo",
+      "question": "EUの多くの国で使われている、共通の通貨は何か。",
+      "answer": "ユーロ",
+      "alternatives": [],
+      "explanation": "1999年に導入され、2002年から紙幣と硬貨が使われ始めた。",
+      "yearStart": 1999,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0313-03",
+      "subject": "rekishi-sogo",
+      "question": "EUを発足させることを定めた、1992年調印の条約は何か。",
+      "answer": "マーストリヒト条約",
+      "alternatives": [
+        "ヨーロッパ連合条約"
+      ],
+      "explanation": "共通の通貨の導入や、共通の外交・安全保障の政策をめざした。",
+      "yearStart": 1992,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0313-04",
+      "subject": "rekishi-sogo",
+      "question": "2020年に、国民投票の結果にもとづいて、EUから離脱した国はどこか。",
+      "answer": "イギリス",
+      "alternatives": [],
+      "explanation": "移民の増加への不満などが、背景にあった。",
+      "yearStart": 2020,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0313-05",
+      "subject": "rekishi-sogo",
+      "question": "1989年に発足した、アジア・太平洋地域の国や地域が、経済の協力を話しあう会議を、略称で何というか。",
+      "answer": "APEC",
+      "reading": "えいぺっく",
+      "alternatives": [
+        "アジア太平洋経済協力会議",
+        "アジア太平洋経済協力"
+      ],
+      "explanation": "日本・アメリカ・中国・オーストラリアなどが参加している。",
+      "yearStart": 1989,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0313-06",
+      "subject": "rekishi-sogo",
+      "question": "1995年に、GATTにかわって発足した、貿易の自由化を進め、貿易をめぐる国どうしの争いを解決するための国際機関を、略称で何というか。",
+      "answer": "WTO",
+      "reading": "だぶりゅーてぃーおー",
+      "alternatives": [
+        "世界貿易機関"
+      ],
+      "explanation": "農産物やサービスの貿易、知的財産権なども扱う。",
+      "yearStart": 1995,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0313-07",
+      "subject": "rekishi-sogo",
+      "question": "特定の国や地域のあいだで、関税などの貿易の障害を取りのぞく協定を、略称で何というか。",
+      "answer": "FTA",
+      "reading": "えふてぃーえー",
+      "alternatives": [
+        "自由貿易協定"
+      ],
+      "explanation": "人の移動や投資なども含めた、はば広い協定を、経済連携協定（EPA）という。",
+      "yearStart": 2000,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0313-08",
+      "subject": "rekishi-sogo",
+      "question": "2002年に、アフリカの国々が、政治や経済の統合をめざしてつくった組織を、略称で何というか。",
+      "answer": "AU",
+      "reading": "えーゆー",
+      "alternatives": [
+        "アフリカ連合"
+      ],
+      "explanation": "アフリカ統一機構（OAU）が発展してできた。",
+      "yearStart": 2002,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0313-09",
+      "subject": "rekishi-sogo",
+      "question": "1994年に、アメリカ・カナダ・メキシコのあいだで発効した、貿易の自由化のための協定を、略称で何というか。",
+      "answer": "NAFTA",
+      "reading": "なふた",
+      "alternatives": [
+        "北米自由貿易協定"
+      ],
+      "explanation": "2020年に、新しい協定（USMCA）にかわった。",
+      "yearStart": 1994,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0314-01",
+      "subject": "rekishi-sogo",
+      "question": "人・物・資金・情報が、国境をこえて大量に行きかい、世界の一体化が進むことを何というか。",
+      "answer": "グローバル化",
+      "reading": "ぐろーばるか",
+      "alternatives": [
+        "グローバリゼーション"
+      ],
+      "explanation": "経済の成長をもたらす一方で、格差の拡大や、感染症の急速な広がりなどの問題も生んでいる。",
+      "yearStart": 1995,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0314-02",
+      "subject": "rekishi-sogo",
+      "question": "二酸化炭素などの温室効果ガスの増加によって、地球の平均気温が上がる問題を何というか。",
+      "answer": "地球温暖化",
+      "reading": "ちきゅうおんだんか",
+      "alternatives": [],
+      "explanation": "海面の上昇や、異常気象の増加などが心配されている。",
+      "yearStart": 1990,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0314-03",
+      "subject": "rekishi-sogo",
+      "question": "1997年に、日本でひらかれた会議で採択された、先進国に温室効果ガスの排出の削減を義務づけた取り決めを何というか。",
+      "answer": "京都議定書",
+      "reading": "きょうとぎていしょ",
+      "alternatives": [],
+      "explanation": "発展途上国には、削減の義務がなかった。",
+      "yearStart": 1997,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0314-04",
+      "subject": "rekishi-sogo",
+      "question": "2015年に採択された、発展途上国をふくむすべての国が、温室効果ガスの排出の削減に取り組むことを定めた協定を何というか。",
+      "answer": "パリ協定",
+      "reading": "ぱりきょうてい",
+      "alternatives": [],
+      "explanation": "世界の平均気温の上昇を、産業革命の前とくらべて2度未満におさえることをめざす。",
+      "yearStart": 2015,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0314-05",
+      "subject": "rekishi-sogo",
+      "question": "2015年に、国際連合で採択された、2030年までに達成をめざす17の目標を、略称で何というか。",
+      "answer": "SDGs",
+      "reading": "えすでぃーじーず",
+      "alternatives": [
+        "持続可能な開発目標"
+      ],
+      "explanation": "貧困や飢餓をなくすこと、気候変動への対策などをかかげた。",
+      "yearStart": 2015,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0314-06",
+      "subject": "rekishi-sogo",
+      "question": "1992年に、ブラジルのリオデジャネイロでひらかれた、地球環境の問題を話しあう国際会議を何というか。",
+      "answer": "地球サミット",
+      "reading": "ちきゅうさみっと",
+      "alternatives": [
+        "国連環境開発会議"
+      ],
+      "explanation": "「持続可能な開発」という考え方が、共通の目標とされた。",
+      "yearStart": 1992,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会",
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0314-07",
+      "subject": "rekishi-sogo",
+      "question": "20世紀の末から急速に広まり、世界中のコンピュータを結んで、情報のやりとりを大きくかえた通信網を何というか。",
+      "answer": "インターネット",
+      "alternatives": [],
+      "explanation": "情報通信技術（ICT）の発達は、社会や経済のしくみを大きくかえた。",
+      "yearStart": 1995,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0314-08",
+      "subject": "rekishi-sogo",
+      "question": "2008年に、アメリカの大手の証券会社の破綻をきっかけに、世界中に広がった金融危機を、日本では何というか。",
+      "answer": "リーマン=ショック",
+      "alternatives": [
+        "世界金融危機"
+      ],
+      "explanation": "グローバル化した経済では、1つの国の危機が、すぐに世界に広がる。",
+      "yearStart": 2008,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0314-09",
+      "subject": "rekishi-sogo",
+      "question": "2017年に、国際連合で採択された、核兵器の開発・保有・使用などを全面的に禁止する条約は何か。",
+      "answer": "核兵器禁止条約",
+      "reading": "かくへいききんしじょうやく",
+      "alternatives": [],
+      "explanation": "核兵器をもつ国々や、日本は参加していない。",
+      "yearStart": 2017,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0315-01",
+      "subject": "rekishi-sogo",
+      "question": "1990年代の初めに、バブル経済が崩壊したのちに続いた、長い不景気を何というか。",
+      "answer": "平成不況",
+      "reading": "へいせいふきょう",
+      "alternatives": [],
+      "explanation": "企業の倒産や失業者がふえ、非正規の雇用で働く人の割合が高まった。",
+      "yearStart": 1991,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0315-02",
+      "subject": "rekishi-sogo",
+      "question": "1995年1月に、兵庫県の南部を中心におこった大きな地震による災害を何というか。",
+      "answer": "阪神・淡路大震災",
+      "reading": "はんしん・あわじだいしんさい",
+      "alternatives": [],
+      "explanation": "多くのボランティアが被災地で活動した。",
+      "yearStart": 1995,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0315-03",
+      "subject": "rekishi-sogo",
+      "question": "2011年3月11日に、東北地方の太平洋の沖でおこった巨大な地震と津波による災害を何というか。",
+      "answer": "東日本大震災",
+      "reading": "ひがしにほんだいしんさい",
+      "alternatives": [],
+      "explanation": "福島第一原子力発電所で深刻な事故がおこり、エネルギー政策の見直しが課題となった。",
+      "yearStart": 2011,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0315-04",
+      "subject": "rekishi-sogo",
+      "question": "生まれる子どもの数が減り、人口に占める高齢者の割合が高まることを何というか。",
+      "answer": "少子高齢化",
+      "reading": "しょうしこうれいか",
+      "alternatives": [],
+      "explanation": "日本の人口は、2008年をピークに減り始めた。年金や医療などの社会保障の制度を保つことが課題となっている。",
+      "yearStart": 2000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0315-05",
+      "subject": "rekishi-sogo",
+      "question": "1992年に、日本で制定された、自衛隊を国連の平和維持活動に参加させるための法律は何か。",
+      "answer": "PKO協力法",
+      "reading": "ぴーけーおーきょうりょくほう",
+      "alternatives": [
+        "国連平和維持活動協力法",
+        "国際平和協力法"
+      ],
+      "explanation": "湾岸戦争をきっかけに、日本の国際貢献のあり方が議論された。",
+      "yearStart": 1992,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0315-06",
+      "subject": "rekishi-sogo",
+      "question": "2009年の総選挙で、自民党を破って、政権の交代を実現した政党は何か。",
+      "answer": "民主党",
+      "reading": "みんしゅとう",
+      "alternatives": [],
+      "explanation": "2012年に、ふたたび自民党を中心とする政権にかわった。",
+      "yearStart": 2009,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0315-07",
+      "subject": "rekishi-sogo",
+      "question": "日本にあるアメリカ軍の専用の施設の面積の、約7割が集中している県はどこか。",
+      "answer": "沖縄県",
+      "reading": "おきなわけん",
+      "alternatives": [
+        "沖縄"
+      ],
+      "explanation": "基地の整理や縮小、普天間飛行場の移設などが、課題となっている。",
+      "yearStart": 2000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0315-08",
+      "subject": "rekishi-sogo",
+      "question": "2002年に、日本の首相が初めて訪問して、首脳会談がおこなわれた国はどこか。",
+      "answer": "北朝鮮",
+      "reading": "きたちょうせん",
+      "alternatives": [
+        "朝鮮民主主義人民共和国"
+      ],
+      "explanation": "日本人の拉致の問題や、核兵器・ミサイルの開発の問題は、解決していない。",
+      "yearStart": 2002,
+      "regions": [
+        "日本",
+        "朝鮮"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0315-09",
+      "subject": "rekishi-sogo",
+      "question": "1999年に制定された、男女が対等な立場で、ともに社会に参加することをめざす法律は何か。",
+      "answer": "男女共同参画社会基本法",
+      "reading": "だんじょきょうどうさんかくしゃかいきほんほう",
+      "alternatives": [],
+      "explanation": "政治や経済の分野での、男女の格差の解消が課題となっている。",
+      "yearStart": 1999,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

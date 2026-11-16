@@ -1,0 +1,141 @@
+---
+// 章ページ：その章の問題と答えを静的な HTML で一覧表示する（答えは赤シート方式）
+import AdSlot from '../../../components/AdSlot.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import QuestionList from '../../../components/QuestionList.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { practiceQuery, QUICK_OPTIONS } from '../../../lib/params';
+import { chapterLabel, sectionLabel } from '../../../lib/range';
+import {
+  getSubject,
+  levelCounts,
+  levelSummary,
+  publishedChapters,
+  textbooks,
+  type ResolvedChapter,
+  type ResolvedTextbook,
+} from '../../../lib/site-data';
+import { isSampleId } from '../../../lib/types';
+import { joinBase, paths } from '../../../lib/url';
+
+export function getStaticPaths() {
+  return textbooks.flatMap((tb) =>
+    publishedChapters(tb).map((ch) => ({
+      params: { subject: tb.subject, textbook: tb.id, no: String(ch.no) },
+      props: { tb, chapter: ch },
+    })),
+  );
+}
+
+interface Props {
+  tb: ResolvedTextbook;
+  chapter: ResolvedChapter;
+}
+
+const { tb, chapter } = Astro.props;
+const subject = getSubject(tb.subject);
+const href = (p: string) => joinBase(import.meta.env.BASE_URL, p);
+const label = chapterLabel(chapter);
+const published = publishedChapters(tb);
+const pos = published.findIndex((c) => c.no === chapter.no);
+const prev = published[pos - 1];
+const next = published[pos + 1];
+const source = { kind: 'textbook' as const, textbookId: tb.id, range: String(chapter.no) };
+const practiceHref = href(paths.practice(practiceQuery(source)));
+const basic = levelCounts(chapter.questions).basic;
+const quickHref = href(paths.practice(practiceQuery(source, QUICK_OPTIONS)));
+const title = `${tb.name} ${label} 一問一答「${chapter.title}」`;
+const description = `${tb.name}「${label} ${chapter.title}」の一問一答（全${chapter.questions.length}問）。答えはタップで表示。定期テストの範囲の確認・暗記に。`;
+
+// 節ごとの問題番号（章の中で通し番号にする。同じ問題が2つの節にあれば最初の節にだけ出す）
+const shown = new Set<string>();
+let counter = 1;
+const sections = chapter.sections.map((s) => {
+  const qs = s.questions.filter((q) => !shown.has(q.id));
+  qs.forEach((q) => shown.add(q.id));
+  const start = counter;
+  counter += qs.length;
+  return { section: s, questions: qs, start };
+});
+---
+
+<BaseLayout title={title} description={description} subjectId={subject.id} path={paths.chapter(subject.id, tb.id, chapter.no)}>
+  <Breadcrumbs
+    items={[
+      { label: subject.name, path: paths.subject(subject.id) },
+      { label: tb.name, path: paths.textbook(subject.id, tb.id) },
+      { label },
+    ]}
+  />
+  <h1>{tb.name} {label} 一問一答</h1>
+  <p class="lead">{chapter.part ? `${chapter.part}　` : ''}{label} {chapter.title}</p>
+  {
+    tb.sample ? (
+      <div class="notice notice-sample"><p>開発用のサンプルです。章立てと問題はすべてサンプルで、実在の教科書とは関係ありません。</p></div>
+    ) : (
+      chapter.questions.some((q) => isSampleId(q.id)) && (
+        <div class="notice notice-sample"><p>この章には、開発用のサンプル問題を仮に割り当てています（「サンプル」と表示した問題）。</p></div>
+      )
+    )
+  }
+  <p>全{chapter.questions.length}問（{levelSummary(chapter.questions)}）。答えの赤い帯をタップすると表示されます。</p>
+
+  <div class="page-actions">
+    <a class="btn btn-primary" href={practiceHref}>この章で練習する</a>
+    {basic > 0 && <a class="btn btn-secondary" href={quickHref}>テスト直前モード（基本{basic}問）</a>}
+  </div>
+
+  <div class="sheet-tools">
+    <button type="button" class="link-button" data-sheet-toggle aria-pressed="false">答えをすべて表示</button>
+  </div>
+
+  {
+    sections.map(({ section, questions, start }, i) => (
+      <>
+        <section aria-labelledby={`sec-${section.no}`}>
+          <h2 id={`sec-${section.no}`}>
+            {sectionLabel(section)} {section.title}
+            {questions.length > 0 && <span class="muted small nowrap">（{questions.length}問）</span>}
+          </h2>
+          {section.pages && <p class="subgroup-note">教科書 {section.pages}</p>}
+          {questions.length > 0 ? <QuestionList questions={questions} start={start} /> : <p class="section-soon">この節の問題は準備中です。</p>}
+        </section>
+        {i === 0 && sections.length > 1 && <AdSlot name="chapter-middle" />}
+      </>
+    ))
+  }
+
+  <div class="page-actions">
+    <a class="btn btn-primary" href={practiceHref}>この章で練習する</a>
+    <a class="btn btn-ghost" href={href(paths.textbook(subject.id, tb.id))}>ほかの章と組み合わせて範囲を作る</a>
+  </div>
+
+  <nav class="chapter-nav" aria-label="前後の章">
+    {
+      prev && (
+        <a href={href(paths.chapter(subject.id, tb.id, prev.no))}>
+          <span class="label">前の章</span>
+          {chapterLabel(prev)} {prev.title}
+        </a>
+      )
+    }
+    {
+      next && (
+        <a href={href(paths.chapter(subject.id, tb.id, next.no))}>
+          <span class="label">次の章</span>
+          {chapterLabel(next)} {next.title}
+        </a>
+      )
+    }
+  </nav>
+
+  <p class="small muted">問題の章・節への割り当ては当サイトが独自に行ったものです。教科書の内容や表記と異なる場合があります。誤りに気づいたら<a href={href(paths.contact())}>お問い合わせ</a>からお知らせください。</p>
+
+  <AdSlot name="chapter-bottom" />
+
+  <noscript><style>{'.sheet .sheet-answer{visibility:visible}.sheet{background:transparent;color:var(--sheet-ink)}.qa-detail[hidden]{display:block!important}'}</style></noscript>
+  <script>
+    import { initRedSheet } from '../../../client/redsheet';
+    initRedSheet();
+  </script>
+</BaseLayout>

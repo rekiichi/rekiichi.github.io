@@ -1,0 +1,938 @@
+{
+  "generatedFrom": "sekaishi-03.csv",
+  "_note": "このファイルは sekaishi-03.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "w-0301-01",
+      "subject": "sekaishi-tankyu",
+      "question": "前6世紀頃にコーサラ国とならんで有力となり、のちにガンジス川流域を統一した国は何か。",
+      "answer": "マガダ国",
+      "alternatives": [
+        "マガダ"
+      ],
+      "explanation": "ガンジス川中・下流域の都市国家のなかから台頭した。",
+      "yearStart": -550,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0301-02",
+      "subject": "sekaishi-tankyu",
+      "question": "バラモン教の祭式中心主義への反省から生まれた、宇宙の根本原理と自己の根本原理が同じであると悟ることを説く哲学は何か。",
+      "answer": "ウパニシャッド哲学",
+      "alternatives": [
+        "ウパニシャッド"
+      ],
+      "explanation": "宇宙の根本原理を梵（ブラフマン）、自己の根本原理を我（アートマン）といい、両者の一致を梵我一如という。",
+      "yearStart": -600,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0301-03",
+      "subject": "sekaishi-tankyu",
+      "question": "生きものが死後に別の生きものに生まれ変わることをくり返すという、インドの考え方を何というか。",
+      "answer": "輪廻転生",
+      "reading": "りんねてんしょう",
+      "alternatives": [
+        "輪廻"
+      ],
+      "explanation": "そこからぬけ出すこと（解脱）が、インドの諸宗教の目標となった。",
+      "yearStart": -600,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0301-04",
+      "subject": "sekaishi-tankyu",
+      "question": "前6世紀頃（前5世紀頃ともいう）に仏教をひらいた人物は誰か。",
+      "answer": "ガウタマ=シッダールタ",
+      "alternatives": [
+        "ブッダ",
+        "釈迦",
+        "シャカ",
+        "ゴータマ=シッダールタ"
+      ],
+      "explanation": "シャカ族の王子。正しいおこない（八正道）によって苦しみからぬけ出せると説いた。",
+      "yearStart": -500,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0301-05",
+      "subject": "sekaishi-tankyu",
+      "question": "ヴァルダマーナがひらいた、苦行と徹底した不殺生を説く宗教は何か。",
+      "answer": "ジャイナ教",
+      "alternatives": [],
+      "explanation": "商人のあいだに多くの信者をえた。",
+      "yearStart": -500,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0301-06",
+      "subject": "sekaishi-tankyu",
+      "question": "ジャイナ教をひらいた人物は誰か。",
+      "answer": "ヴァルダマーナ",
+      "alternatives": [
+        "マハーヴィーラ"
+      ],
+      "explanation": "仏教と同じくバラモンの権威やヴァルナ制を否定した。",
+      "yearStart": -500,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0301-07",
+      "subject": "sekaishi-tankyu",
+      "question": "前4世紀末にチャンドラグプタ王が建てた、インド最初の統一王朝は何か。",
+      "answer": "マウリヤ朝",
+      "alternatives": [],
+      "explanation": "都はパータリプトラ。アレクサンドロス大王の侵入後の混乱のなかから成立した。",
+      "yearStart": -317,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0301-08",
+      "subject": "sekaishi-tankyu",
+      "question": "マウリヤ朝を建てた王は誰か。",
+      "answer": "チャンドラグプタ王",
+      "alternatives": [
+        "チャンドラグプタ"
+      ],
+      "explanation": "ナンダ朝を倒し、インダス川流域からギリシア勢力を追い出した。",
+      "yearStart": -317,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0301-09",
+      "subject": "sekaishi-tankyu",
+      "question": "ガンジス川中流域にあった、マウリヤ朝やグプタ朝の都はどこか。",
+      "answer": "パータリプトラ",
+      "alternatives": [],
+      "explanation": "現在のパトナ。",
+      "yearStart": -317,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0301-10",
+      "subject": "sekaishi-tankyu",
+      "question": "前3世紀にマウリヤ朝の最盛期をきずき、仏教を保護した王は誰か。",
+      "answer": "アショーカ王",
+      "alternatives": [
+        "アショーカ"
+      ],
+      "explanation": "カリンガ国の征服で多くの犠牲者を出したことを悔い、仏教に帰依した。",
+      "yearStart": -268,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0301-11",
+      "subject": "sekaishi-tankyu",
+      "question": "アショーカ王が統治の理念とした、人として守るべき社会的な道徳を何というか。",
+      "answer": "ダルマ",
+      "alternatives": [
+        "法"
+      ],
+      "explanation": "その内容を刻んだ磨崖碑や石柱碑が各地に建てられた。",
+      "yearStart": -260,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0301-12",
+      "subject": "sekaishi-tankyu",
+      "question": "アショーカ王がおこなったとされる、仏教の経典の編集事業を何というか。",
+      "answer": "仏典の結集",
+      "reading": "ぶってんのけつじゅう",
+      "alternatives": [
+        "仏典結集",
+        "結集"
+      ],
+      "explanation": "王子をスリランカ（セイロン島）に送って布教もおこなった。",
+      "yearStart": -250,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0301-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1世紀に、大月氏の支配から自立したイラン系の人々がインダス川流域に建てた王朝は何か。",
+      "answer": "クシャーナ朝",
+      "alternatives": [],
+      "explanation": "ローマとの交易で栄え、大量の金貨がつくられた。",
+      "yearStart": 45,
+      "yearApprox": true,
+      "regions": [
+        "南アジア",
+        "内陸アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0301-14",
+      "subject": "sekaishi-tankyu",
+      "question": "2世紀半ばにクシャーナ朝の最盛期をきずき、仏教を保護した王は誰か。",
+      "answer": "カニシカ王",
+      "alternatives": [
+        "カニシカ"
+      ],
+      "explanation": "都はプルシャプラ（現在のペシャワール）。",
+      "yearStart": 130,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0301-15",
+      "subject": "sekaishi-tankyu",
+      "question": "紀元前後に生まれた、自分の悟りよりも広く人々を救うこと（菩薩の信仰）を重んじる新しい仏教を何というか。",
+      "answer": "大乗仏教",
+      "reading": "だいじょうぶっきょう",
+      "alternatives": [],
+      "explanation": "中央アジアを通って中国・朝鮮・日本に伝わった。",
+      "yearStart": 1,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0301-16",
+      "subject": "sekaishi-tankyu",
+      "question": "「空」の思想を説いて大乗仏教の教理を体系化した、2〜3世紀頃の仏教学者は誰か。",
+      "answer": "ナーガールジュナ",
+      "alternatives": [
+        "竜樹",
+        "龍樹"
+      ],
+      "explanation": "すべてのものは実体をもたないと説いた。",
+      "yearStart": 200,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0301-17",
+      "subject": "sekaishi-tankyu",
+      "question": "出家して修行し、自分自身の悟りをめざすことを重んじる、スリランカや東南アジアに広まった仏教を何というか。",
+      "answer": "上座部仏教",
+      "reading": "じょうざぶぶっきょう",
+      "alternatives": [],
+      "explanation": "大乗仏教の側からは「小乗」と呼ばれた。",
+      "yearStart": -250,
+      "yearApprox": true,
+      "regions": [
+        "南アジア",
+        "東南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0301-18",
+      "subject": "sekaishi-tankyu",
+      "question": "クシャーナ朝の時代に、ヘレニズム文化の影響を受けて仏像がつくられるようになった、インド西北部の仏教美術を何というか。",
+      "answer": "ガンダーラ美術",
+      "alternatives": [],
+      "explanation": "ギリシア風の顔立ちや衣の表現に特色がある。",
+      "yearStart": 100,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0301-19",
+      "subject": "sekaishi-tankyu",
+      "question": "前1世紀から後3世紀にかけてデカン高原を支配し、ローマとの海上交易で栄えた王朝は何か。",
+      "answer": "サータヴァーハナ朝",
+      "alternatives": [],
+      "explanation": "季節風を利用したインド洋交易がさかんになった。",
+      "yearStart": -50,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0301-20",
+      "subject": "sekaishi-tankyu",
+      "question": "1世紀頃にギリシア人が著した、インド洋の季節風貿易のようすを伝える書物は何か。",
+      "answer": "エリュトゥラー海案内記",
+      "alternatives": [],
+      "explanation": "紅海からインド洋にかけての港や交易品が記されている。",
+      "yearStart": 60,
+      "yearApprox": true,
+      "regions": [
+        "南アジア",
+        "西アジア"
+      ],
+      "themes": [
+        "経済",
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0301-21",
+      "subject": "sekaishi-tankyu",
+      "question": "インド南端で、古くからタミル語を使うドラヴィダ系の人々が建てた王朝のうち、のちに東南アジアにも遠征した王朝は何か。",
+      "answer": "チョーラ朝",
+      "alternatives": [],
+      "explanation": "10〜11世紀に最盛期をむかえ、スリランカやシュリーヴィジャヤに遠征した。",
+      "yearStart": 1025,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0302-01",
+      "subject": "sekaishi-tankyu",
+      "question": "4世紀前半にチャンドラグプタ1世がおこし、北インドを統一した王朝は何か。",
+      "answer": "グプタ朝",
+      "alternatives": [],
+      "explanation": "都はパータリプトラ。5世紀後半からエフタルの侵入を受けておとろえた。",
+      "yearStart": 320,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0302-02",
+      "subject": "sekaishi-tankyu",
+      "question": "グプタ朝の最盛期の王で、中国の僧法顕が訪れたときの王は誰か。",
+      "answer": "チャンドラグプタ2世",
+      "alternatives": [],
+      "explanation": "中国では「超日王」として知られた。",
+      "yearStart": 376,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0302-03",
+      "subject": "sekaishi-tankyu",
+      "question": "バラモン教に民間の信仰がとり入れられて成立した、シヴァ神やヴィシュヌ神などを信仰するインドの宗教は何か。",
+      "answer": "ヒンドゥー教",
+      "alternatives": [],
+      "explanation": "特定の開祖や教典をもたず、インドの人々の生活や文化の土台となった。",
+      "yearStart": 400,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0302-04",
+      "subject": "sekaishi-tankyu",
+      "question": "各ヴァルナが守るべき決まりや義務を定めた、インドの法典は何か。",
+      "answer": "マヌ法典",
+      "alternatives": [],
+      "explanation": "バラモンの特権的な地位を強調している。",
+      "yearStart": 200,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "社会",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0302-05",
+      "subject": "sekaishi-tankyu",
+      "question": "『ラーマーヤナ』とならぶ、インドの二大叙事詩の一つは何か。",
+      "answer": "マハーバーラタ",
+      "alternatives": [],
+      "explanation": "バラタ族の王位をめぐる争いを題材にしている。",
+      "yearStart": 400,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0302-06",
+      "subject": "sekaishi-tankyu",
+      "question": "グプタ朝の時代に、戯曲『シャクンタラー』を著した宮廷詩人は誰か。",
+      "answer": "カーリダーサ",
+      "alternatives": [],
+      "explanation": "サンスクリット文学の代表的な作家。",
+      "yearStart": 400,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0302-07",
+      "subject": "sekaishi-tankyu",
+      "question": "グプタ朝で公用語とされた、インドの古典語は何か。",
+      "answer": "サンスクリット語",
+      "alternatives": [
+        "サンスクリット"
+      ],
+      "explanation": "二大叙事詩やカーリダーサの作品などの文学が栄えた。",
+      "yearStart": 400,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0302-08",
+      "subject": "sekaishi-tankyu",
+      "question": "インドで生まれ、のちにイスラーム世界を通ってヨーロッパに伝わった、数学上の重要な考え方は何か。",
+      "answer": "ゼロの概念",
+      "alternatives": [
+        "ゼロ"
+      ],
+      "explanation": "十進法による数字の書き方とともに伝わり、近代科学の発展をささえた。",
+      "yearStart": 500,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0302-09",
+      "subject": "sekaishi-tankyu",
+      "question": "グプタ様式の美しい壁画や仏像で知られる、インド西部の石窟寺院は何か。",
+      "answer": "アジャンター石窟寺院",
+      "alternatives": [
+        "アジャンター"
+      ],
+      "explanation": "純インド風の様式で、日本の法隆寺の壁画にも影響を与えたといわれる。",
+      "yearStart": 450,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "文化",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0302-10",
+      "subject": "sekaishi-tankyu",
+      "question": "グプタ朝の時代に建てられ、玄奘も学んだ、仏教教学の中心となった僧院は何か。",
+      "answer": "ナーランダー僧院",
+      "alternatives": [
+        "ナーランダー"
+      ],
+      "explanation": "各地から多くの僧が集まった。",
+      "yearStart": 430,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0302-11",
+      "subject": "sekaishi-tankyu",
+      "question": "7世紀前半に北インドの大部分を支配したヴァルダナ朝の王は誰か。",
+      "answer": "ハルシャ王",
+      "alternatives": [
+        "ハルシャ=ヴァルダナ",
+        "ハルシャ"
+      ],
+      "explanation": "都はカナウジ。唐の僧玄奘が訪れた。",
+      "yearStart": 606,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0302-12",
+      "subject": "sekaishi-tankyu",
+      "question": "ヴァルダナ朝の滅亡後、8世紀から13世紀頃まで北インドで分立した、ヒンドゥー教徒の諸勢力の時代を何というか。",
+      "answer": "ラージプート時代",
+      "alternatives": [],
+      "explanation": "「ラージプート」は、クシャトリヤの子孫を名乗った諸勢力をさす。",
+      "yearStart": 750,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0302-13",
+      "subject": "sekaishi-tankyu",
+      "question": "6〜7世紀頃から南インドでさかんになり、神への絶対的な帰依を説いてヒンドゥー教を広めた運動を何というか。",
+      "answer": "バクティ運動",
+      "alternatives": [
+        "バクティ"
+      ],
+      "explanation": "歌や踊りで神への愛を表し、身分をこえて広まった。",
+      "yearStart": 600,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0303-01",
+      "subject": "sekaishi-tankyu",
+      "question": "前4世紀頃からベトナム北部を中心に発展した、青銅器・鉄器を特色とする文化は何か。",
+      "answer": "ドンソン文化",
+      "alternatives": [],
+      "explanation": "祭りに使われた青銅製の銅鼓が有名。",
+      "yearStart": -350,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0303-02",
+      "subject": "sekaishi-tankyu",
+      "question": "1世紀末にメコン川下流域に成立した、東南アジア最古の国家とされる国は何か。",
+      "answer": "扶南",
+      "reading": "ふなん",
+      "alternatives": [],
+      "explanation": "インドや中国との海上交易で栄えた。",
+      "yearStart": 90,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0303-03",
+      "subject": "sekaishi-tankyu",
+      "question": "ローマの金貨やインドの神像などが出土した、扶南の港の遺跡は何か。",
+      "answer": "オケオ",
+      "alternatives": [],
+      "explanation": "海の交易路がローマ・インド・中国を結んでいたことを示す。",
+      "yearStart": 150,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0303-04",
+      "subject": "sekaishi-tankyu",
+      "question": "2世紀末にチャム人がベトナム中部に建てた国は何か。",
+      "answer": "チャンパー",
+      "alternatives": [
+        "林邑",
+        "占城"
+      ],
+      "explanation": "海上交易の中継地として長く栄えた。",
+      "yearStart": 192,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0303-05",
+      "subject": "sekaishi-tankyu",
+      "question": "6世紀にメコン川中流域でクメール人が建て、扶南を滅ぼした国は何か。",
+      "answer": "カンボジア",
+      "alternatives": [
+        "真臘"
+      ],
+      "explanation": "9世紀以降はアンコール朝のもとで栄えた。",
+      "yearStart": 550,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0303-06",
+      "subject": "sekaishi-tankyu",
+      "question": "12世紀にアンコール朝のスールヤヴァルマン2世が造営した、カンボジアの石づくりの寺院は何か。",
+      "answer": "アンコール=ワット",
+      "alternatives": [],
+      "explanation": "はじめヒンドゥー教の寺院としてつくられ、のちに仏教寺院となった。",
+      "yearStart": 1150,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "文化",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0303-07",
+      "subject": "sekaishi-tankyu",
+      "question": "7世紀にスマトラ島のパレンバンを中心に成立した、海上交易で栄えた国は何か。",
+      "answer": "シュリーヴィジャヤ",
+      "alternatives": [
+        "室利仏逝"
+      ],
+      "explanation": "マラッカ海峡をおさえ、大乗仏教がさかんだった。唐の僧義浄が訪れた。",
+      "yearStart": 670,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0303-08",
+      "subject": "sekaishi-tankyu",
+      "question": "8世紀にジャワ島中部で栄え、ボロブドゥールを造営した王朝は何か。",
+      "answer": "シャイレンドラ朝",
+      "alternatives": [],
+      "explanation": "大乗仏教を保護した。",
+      "yearStart": 780,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0303-09",
+      "subject": "sekaishi-tankyu",
+      "question": "シャイレンドラ朝がジャワ島中部に造営した、大乗仏教の石づくりの遺跡は何か。",
+      "answer": "ボロブドゥール",
+      "alternatives": [],
+      "explanation": "仏教の世界観を表した巨大な建造物。",
+      "yearStart": 800,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "文化",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0303-10",
+      "subject": "sekaishi-tankyu",
+      "question": "8世紀にジャワ島中部におこり、プランバナン寺院群を建てたヒンドゥー教の王朝は何か。",
+      "answer": "マタラム朝",
+      "alternatives": [
+        "古マタラム"
+      ],
+      "explanation": "プランバナンはヒンドゥー教の寺院群。",
+      "yearStart": 732,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0303-11",
+      "subject": "sekaishi-tankyu",
+      "question": "7世紀頃からチャオプラヤ川下流域でモン人が建てた国は何か。",
+      "answer": "ドヴァーラヴァティー王国",
+      "alternatives": [
+        "ドヴァーラヴァティー"
+      ],
+      "explanation": "上座部仏教がさかんだった。",
+      "yearStart": 650,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0303-12",
+      "subject": "sekaishi-tankyu",
+      "question": "11世紀にビルマ（ミャンマー）で成立した、ビルマ人の最初の統一王朝は何か。",
+      "answer": "パガン朝",
+      "alternatives": [],
+      "explanation": "スリランカから上座部仏教を受け入れ、多くの仏塔や寺院が建てられた。",
+      "yearStart": 1044,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0303-13",
+      "subject": "sekaishi-tankyu",
+      "question": "11世紀初めにベトナム北部で成立し、国号を大越とした王朝は何か。",
+      "answer": "李朝",
+      "reading": "りちょう",
+      "alternatives": [],
+      "explanation": "ベトナム北部は、10世紀に中国の支配から独立した。",
+      "yearStart": 1009,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0303-14",
+      "subject": "sekaishi-tankyu",
+      "question": "4〜5世紀頃から東南アジアの各地に、インドの宗教・文字・王権の考え方などが広まったことを何というか。",
+      "answer": "インド化",
+      "alternatives": [],
+      "explanation": "ヒンドゥー教や大乗仏教、サンスクリット語、インド式の建築などが受け入れられた。",
+      "yearStart": 400,
+      "yearApprox": true,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+---
+import AdSlot from '../../components/AdSlot.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { practiceQuery, QUICK_OPTIONS } from '../../lib/params';
+import { AXIS_LABELS } from '../../lib/review';
+import { getSubject, levelCounts, publishedChapters, questionsOf, reviewOf, subjects, textbooksOf } from '../../lib/site-data';
+import { joinBase, paths } from '../../lib/url';
+
+export function getStaticPaths() {
+  return subjects.map((s) => ({ params: { subject: s.id } }));
+}
+
+const subject = getSubject(Astro.params.subject!);
+const href = (p: string) => joinBase(import.meta.env.BASE_URL, p);
+const list = textbooksOf(subject.id);
+const allQuestions = questionsOf(subject.id);
+const review = reviewOf(subject.id);
+const verticalCount = review.vertical.filter((g) => g.questions.length > 0).length;
+const periodCount = review.periods.filter((g) => g.questions.length > 0).length;
+const basicCount = levelCounts(allQuestions).basic;
+const title = `${subject.name}の一問一答`;
+const description = `${subject.name}の一問一答。学校の教科書とテスト範囲（章・節）を選んで、その範囲だけの問題セットを作れます。受験向けの縦割り・横割り復習、テスト直前モードも。`;
+---
+
+<BaseLayout title={title} description={description} subjectId={subject.id} path={paths.subject(subject.id)} noindex={allQuestions.length === 0}>
+  <Breadcrumbs items={[{ label: subject.name }]} />
+  <h1>{title}</h1>
+  <p class="lead">{subject.description}</p>
+
+  <section aria-labelledby="textbooks-heading">
+    <h2 id="textbooks-heading">教科書を選ぶ</h2>
+    {
+      list.length === 0 ? (
+        <p class="notice">この科目の教科書データは準備中です。</p>
+      ) : (
+        <div class="card-grid">
+          {list.map((tb) => (
+            <a class={`card link-card subject-${subject.id}`} href={href(paths.textbook(subject.id, tb.id))}>
+              <span class="link-card-title">{tb.name}</span>
+              <span class="link-card-text">
+                {tb.publisher ? `${tb.publisher}・` : ''}{tb.questions.length}問
+                {tb.questions.length > 0 && publishedChapters(tb).length < tb.chapters.length ? '（一部準備中）' : ''}
+              </span>
+              {tb.sample && <span class="link-card-text">開発用のサンプルです</span>}
+            </a>
+          ))}
+        </div>
+      )
+    }
+    <p class="small muted">教科書を選ぶと、テスト範囲の章・節を選んで問題を作れます。</p>
+  </section>
+
+  <AdSlot name="subject-middle" />
+
+  <section aria-labelledby="review-heading">
+    <h2 id="review-heading">受験復習モード</h2>
+    <p>教科書の章立てにとらわれず、{subject.name}の問題をまとめ直して復習します。</p>
+    <div class="card-grid cols-2">
+      <a class={`card link-card subject-${subject.id}`} href={`${href(paths.review(subject.id))}#vertical`}>
+        <span class="link-card-title">縦割り（{AXIS_LABELS[subject.verticalAxis]}）</span>
+        <span class="link-card-text">{subject.verticalAxis === 'region' ? '地域' : 'テーマ'}ごとに、年代順に解きます。{verticalCount > 0 ? `${verticalCount}のまとまり` : '準備中'}</span>
+      </a>
+      <a class={`card link-card subject-${subject.id}`} href={`${href(paths.review(subject.id))}#periods`}>
+        <span class="link-card-title">横割り（時代別）</span>
+        <span class="link-card-text">同じ時代の{subject.verticalAxis === 'region' ? '各地域' : '各分野'}をまとめて解きます。{periodCount > 0 ? `${periodCount}の時代` : '準備中'}</span>
+      </a>
+    </div>
+  </section>
+
+  <section aria-labelledby="quick-heading">
+    <h2 id="quick-heading">テスト直前モード</h2>
+    <p>重要度「基本」の問題だけを、ランダムにすばやく回します。教科書の範囲を選んで使うこともできます。</p>
+    <div class="page-actions">
+      <a class="btn btn-secondary" href={href(paths.quick(subject.id))}>テスト直前モードのページへ</a>
+      {
+        basicCount > 0 && (
+          <a class="btn btn-ghost" href={href(paths.practice(practiceQuery({ kind: 'subject', subjectId: subject.id }, QUICK_OPTIONS)))}>
+            科目全体の基本{basicCount}問を回す
+          </a>
+        )
+      }
+    </div>
+  </section>
+
+  <section aria-labelledby="weak-heading">
+    <h2 id="weak-heading">苦手な問題</h2>
+    <p>まちがえた問題は、この端末に記録されます。{subject.name}で最後にまちがえた問題だけを解き直せます。</p>
+    <p>
+      <a class="btn btn-ghost" href={href(paths.practice(practiceQuery({ kind: 'subject', subjectId: subject.id }, { weakOnly: true, order: 'random' })))}>{subject.name}の苦手だけ解く</a>
+    </p>
+  </section>
+
+</BaseLayout>

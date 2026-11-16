@@ -1,0 +1,42 @@
+---
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { publicSettings } from '../lib/public-settings';
+import { absoluteUrl, joinBase, paths } from '../lib/url';
+import { siteConfig } from '../site.config';
+
+const href = (p: string) => joinBase(import.meta.env.BASE_URL, p);
+const siteUrl = absoluteUrl(Astro.site?.href ?? 'http://localhost:4321/', import.meta.env.BASE_URL, '/');
+---
+
+<BaseLayout title="運営者情報" description={`${siteConfig.name}の運営者情報とサイトの方針について。`} path={paths.about()}>
+  <Breadcrumbs items={[{ label: '運営者情報' }]} />
+  <div class="prose">
+    <h1>運営者情報</h1>
+    <table>
+      <tbody>
+        <tr><th scope="row">サイト名</th><td>{siteConfig.name}（{siteConfig.tagline}）</td></tr>
+        <tr><th scope="row">URL</th><td>{siteUrl}</td></tr>
+        <tr><th scope="row">運営者</th><td>{publicSettings.operatorName}</td></tr>
+        <tr><th scope="row">開設</th><td>{siteConfig.launchedOn}</td></tr>
+        <tr><th scope="row">お問い合わせ</th><td><a href={href(paths.contact())}>お問い合わせページ</a></td></tr>
+      </tbody>
+    </table>
+
+    <h2>このサイトについて</h2>
+    <p>高校の歴史（歴史総合・世界史探究・日本史探究）の一問一答を、学校の教科書と定期テストの範囲に合わせて解けるようにした、無料の学習サイトです。教科書の章・節を選ぶだけで、テスト範囲の問題セットを作れます。</p>
+
+    <h2>教科書名の表記について</h2>
+    <p>当サイトは、教科書の発行者（教科書会社）とは関係のない個人サイトです。教科書名は、問題がどの教科書のどの範囲に対応しているかを示すためだけに使用しています。問題と解説は当サイトが独自に作成したもので、教科書の本文を掲載するものではありません。</p>
+
+    <h2>問題の作成と確認について</h2>
+    <p>問題と解説は、生成AIを使って作成し、年代の食い違いや表記の誤りなどを点検したうえで公開しています。高校の歴史で一般に学ぶ内容をもとに独自に作成したもので、教科書の本文や、市販の問題集をもとにしたものではありません。</p>
+    <p>点検はしていますが、内容に誤りがふくまれている可能性があります。大切なところは、教科書や授業のノートでも確かめてください。誤りに気づいた場合は、出題画面の「この問題の誤りを報告」か、<a href={href(paths.contact())}>お問い合わせ</a>からお知らせください。確認のうえ修正します。</p>
+
+    <h2>教科書の章・節との対応について</h2>
+    <p>各問題は、教科書の目次（章・節の見出し）をもとに、対応する節に割り当てています。教科書の本文で扱われている内容と、一部ずれていることがあります。「歴史の扉」などの探究活動のページには、問題を用意していません。</p>
+
+    <h2>広告について</h2>
+    <p>当サイトは、運営費をまかなうために広告を掲載することがあります。広告の配信とCookieについては<a href={href(paths.privacy())}>プライバシーポリシー</a>をご覧ください。</p>
+  </div>
+</BaseLayout>

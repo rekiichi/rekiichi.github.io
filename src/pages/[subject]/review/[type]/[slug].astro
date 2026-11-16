@@ -1,0 +1,197 @@
+---
+// 受験復習モードの各ページ
+// - 縦割り（/review/region/◯◯/、/review/theme/◯◯/）：年代順の一覧
+// - 横割り（/review/period/◯◯/）：同じ時代を地域（テーマ）ごとにまとめた一覧
+import AdSlot from '../../../../components/AdSlot.astro';
+import Breadcrumbs from '../../../../components/Breadcrumbs.astro';
+import QuestionList from '../../../../components/QuestionList.astro';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import { practiceQuery } from '../../../../lib/params';
+import { AXIS_LABELS, type PeriodSubgroup } from '../../../../lib/review';
+import { reviewOf, subjects } from '../../../../lib/site-data';
+import type { Question, Tag } from '../../../../lib/types';
+import { joinBase, paths, type ReviewType } from '../../../../lib/url';
+import { findPeriod, formatPeriodRange } from '../../../../lib/years';
+
+interface Props {
+  type: ReviewType;
+  subjectId: string;
+  heading: string;
+  rangeText: string;
+  note?: string;
+  questions: Question[];
+  subgroups?: PeriodSubgroup<Question>[];
+  prev?: { slug: string; name: string };
+  next?: { slug: string; name: string };
+}
+
+export function getStaticPaths() {
+  return subjects.flatMap((subject) => {
+    const review = reviewOf(subject.id);
+    const vertical = review.vertical.filter((g) => g.questions.length > 0);
+    const periods = review.periods.filter((g) => g.questions.length > 0);
+    const neighbor = (list: { slug: string; name: string }[], i: number) => ({ prev: list[i - 1], next: list[i + 1] });
+    const vList = vertical.map((g) => ({ slug: g.tag.slug, name: g.tag.name }));
+    const pList = periods.map((g) => ({ slug: g.period.slug, name: g.period.name }));
+    return [
+      ...vertical.map((g, i) => ({
+        params: { subject: subject.id, type: subject.verticalAxis, slug: g.tag.slug },
+        props: {
+          type: subject.verticalAxis,
+          subjectId: subject.id,
+          heading: (g.tag as Tag).name,
+          rangeText: '',
+          note: g.tag.note,
+          questions: g.questions,
+          ...neighbor(vList, i),
+        } satisfies Props,
+      })),
+      ...periods.map((g, i) => ({
+        params: { subject: subject.id, type: 'period', slug: g.period.slug },
+        props: {
+          type: 'period' as const,
+          subjectId: subject.id,
+          heading: g.period.name,
+          rangeText: formatPeriodRange(g.period),
+          questions: g.questions,
+          subgroups: g.subgroups,
+          ...neighbor(pList, i),
+        } satisfies Props,
+      })),
+    ];
+  });
+}
+
+const { type, subjectId, heading, rangeText, note, questions, subgroups, prev, next } = Astro.props;
+const { subject } = reviewOf(subjectId);
+const href = (p: string) => joinBase(import.meta.env.BASE_URL, p);
+const isPeriod = type === 'period';
+const kind = isPeriod ? '横割り' : '縦割り';
+const kindDetail = isPeriod ? '時代別' : AXIS_LABELS[subject.verticalAxis];
+const source = { kind: 'subject' as const, subjectId, filter: { type, slug: Astro.params.slug! } };
+const orderedHref = href(paths.practice(practiceQuery(source)));
+const randomHref = href(paths.practice(practiceQuery(source, { order: 'random' })));
+const title = `${subject.name} ${kind}復習「${heading}」一問一答`;
+const description = isPeriod
+  ? `${subject.name}の「${heading}」（${rangeText}）の問題を、${subject.verticalAxis === 'region' ? '地域' : 'テーマ'}ごとにまとめた一問一答（全${questions.length}問）。同じ時代の出来事を横に並べて復習できます。`
+  : `${subject.name}の「${heading}」に関する問題を年代順に並べた一問一答（全${questions.length}問）。流れをつかむ縦割り復習に。`;
+
+interface Block {
+  label: string;
+  /** ページ内リンクの行き先 */
+  anchor: string;
+  questions: Question[];
+  start: number;
+}
+
+// 横割りは地域（テーマ）ごと、縦割りは時代ごとに見出しを付けて区切る（長い一覧でも目当ての場所へ移動できるように）
+const blocks: Block[] = [];
+if (isPeriod) {
+  let counter = 1;
+  for (const g of subgroups ?? []) {
+    blocks.push({ label: g.tag ? g.tag.name : 'その他', anchor: `g-${g.tag ? g.tag.slug : 'other'}`, questions: g.questions, start: counter });
+    counter += g.questions.length;
+  }
+} else {
+  questions.forEach((q, i) => {
+    const period = findPeriod(q.yearStart, subject.periods);
+    const anchor = period ? `p-${period.slug}` : 'p-none';
+    const last = blocks[blocks.length - 1];
+    if (last && last.anchor === anchor) last.questions.push(q);
+    else blocks.push({ label: period ? period.name : '年代のない問題', anchor, questions: [q], start: i + 1 });
+  });
+}
+const jumpLabel = isPeriod ? (subject.verticalAxis === 'region' ? '地域へ移動' : 'テーマへ移動') : '時代へ移動';
+---
+
+<BaseLayout title={title} description={description} subjectId={subject.id} path={paths.reviewGroup(subject.id, type, Astro.params.slug!)}>
+  <Breadcrumbs
+    items={[
+      { label: subject.name, path: paths.subject(subject.id) },
+      { label: '受験復習モード', path: paths.review(subject.id) },
+      { label: `${kind}：${heading}` },
+    ]}
+  />
+  <h1>{subject.name} {kind}復習：{heading}</h1>
+  <p class="lead">
+    {kindDetail}
+    {rangeText && `（${rangeText}）`}・全{questions.length}問{note && `　※${note}`}
+  </p>
+  <p>
+    {
+      isPeriod
+        ? `同じ時代の${subject.verticalAxis === 'region' ? '各地域' : '各分野'}の問題をまとめています。${subject.verticalAxis === 'region' ? '地域' : 'テーマ'}ごとに、古い順に並べています。`
+        : `「${heading}」に関する問題を、古い順（年代順）に並べています。`
+    }答えの赤い帯をタップすると表示されます。
+  </p>
+
+  <div class="page-actions">
+    <a class="btn btn-primary" href={orderedHref}>{isPeriod ? 'この時代で練習する' : '年代順に練習する'}</a>
+    <a class="btn btn-secondary" href={randomHref}>ランダムに練習する</a>
+  </div>
+
+  {
+    blocks.length > 1 && (
+      <nav class="jump-nav" aria-label={jumpLabel}>
+        <p class="jump-nav-title">{jumpLabel}</p>
+        <ul>
+          {blocks.map((b) => (
+            <li>
+              <a href={`#${b.anchor}`}>
+                {b.label}
+                <span class="count">{b.questions.length}問</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    )
+  }
+
+  <div class="sheet-tools">
+    <button type="button" class="link-button" data-sheet-toggle aria-pressed="false">答えをすべて表示</button>
+  </div>
+
+  {
+    blocks.map((b, i) => (
+      <>
+        <section id={b.anchor} class="review-block">
+          {blocks.length > 1 && <h2>{b.label}</h2>}
+          <QuestionList questions={b.questions} start={b.start} showYears />
+        </section>
+        {i === 0 && blocks.length > 1 && <AdSlot name="review-middle" />}
+      </>
+    ))
+  }
+
+  <nav class="chapter-nav" aria-label={`前後の${isPeriod ? '時代' : 'まとまり'}`}>
+    {
+      prev && (
+        <a href={href(paths.reviewGroup(subject.id, type, prev.slug))}>
+          <span class="label">前へ</span>
+          {prev.name}
+        </a>
+      )
+    }
+    {
+      next && (
+        <a href={href(paths.reviewGroup(subject.id, type, next.slug))}>
+          <span class="label">次へ</span>
+          {next.name}
+        </a>
+      )
+    }
+  </nav>
+  <p><a href={href(paths.review(subject.id))}>受験復習モードの一覧へ戻る</a></p>
+  <p class="small muted">
+    {isPeriod ? '横割りでは、問題の開始年で時代を決めています。' : '縦割りでは、問題の年代（開始年）の古い順に並べています。'}教科書の章をまたいで復習したいときに使ってください。
+  </p>
+
+  <AdSlot name="review-bottom" />
+
+  <noscript><style>{'.sheet .sheet-answer{visibility:visible}.sheet{background:transparent;color:var(--sheet-ink)}.qa-detail[hidden]{display:block!important}'}</style></noscript>
+  <script>
+    import { initRedSheet } from '../../../../client/redsheet';
+    initRedSheet();
+  </script>
+</BaseLayout>

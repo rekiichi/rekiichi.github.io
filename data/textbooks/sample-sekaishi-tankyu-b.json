@@ -1,0 +1,85 @@
+{
+  "generatedFrom": "sample-sekaishi-tankyu-b.csv",
+  "_note": "このファイルは sample-sekaishi-tankyu-b.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "id": "sample-sekaishi-tankyu-b",
+  "subject": "sekaishi-tankyu",
+  "name": "サンプル世界史探究B",
+  "description": "開発用のサンプル教科書です（地域別の構成で、時代順のサンプルと同じ問題を使っています）。実在の教科書とは関係ありません。",
+  "order": 91,
+  "chapters": [
+    {
+      "no": 1,
+      "title": "東アジアの歴史",
+      "sections": [
+        {
+          "no": 1,
+          "title": "古代の中国",
+          "questionIds": [
+            "sample-w-05"
+          ]
+        },
+        {
+          "no": 2,
+          "title": "隋・唐の時代",
+          "questionIds": [
+            "sample-w-06"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "西アジアの歴史",
+      "sections": [
+        {
+          "no": 1,
+          "title": "古代オリエント",
+          "questionIds": [
+            "sample-w-01",
+            "sample-w-02"
+          ]
+        },
+        {
+          "no": 2,
+          "title": "イスラーム世界",
+          "questionIds": [
+            "sample-w-07",
+            "sample-w-08",
+            "sample-w-09",
+            "sample-w-14"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "ヨーロッパの歴史",
+      "sections": [
+        {
+          "no": 1,
+          "title": "古代ギリシアとローマ",
+          "questionIds": [
+            "sample-w-03",
+            "sample-w-04"
+          ]
+        },
+        {
+          "no": 2,
+          "title": "ルネサンスと宗教改革",
+          "questionIds": [
+            "sample-w-10",
+            "sample-w-11"
+          ]
+        },
+        {
+          "no": 3,
+          "title": "フランス革命とナポレオン",
+          "questionIds": [
+            "sample-w-12",
+            "sample-w-13"
+          ]
+        }
+      ]
+    }
+  ]
+}

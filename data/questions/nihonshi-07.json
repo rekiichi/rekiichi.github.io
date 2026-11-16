@@ -1,0 +1,2156 @@
+{
+  "generatedFrom": "nihonshi-07.csv",
+  "_note": "このファイルは nihonshi-07.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "j-0701-01",
+      "subject": "nihonshi-tankyu",
+      "question": "鎌倉時代の後期に、皇室が持明院統と大覚寺統に分かれ、両方から交互に天皇を出すことにした方式を何というか。",
+      "answer": "両統迭立",
+      "reading": "りょうとうてつりつ",
+      "alternatives": [],
+      "explanation": "幕府が皇位の継承に関与した。",
+      "yearStart": 1317,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1318年に即位して天皇親政を始め、鎌倉幕府を倒そうとした大覚寺統の天皇は誰か。",
+      "answer": "後醍醐天皇",
+      "reading": "ごだいごてんのう",
+      "alternatives": [],
+      "explanation": "2度の倒幕計画に失敗し、隠岐に流されたが、脱出して兵をつのった。",
+      "yearStart": 1318,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-03",
+      "subject": "nihonshi-tankyu",
+      "question": "後醍醐天皇の呼びかけにこたえて、河内で幕府軍と戦った武将は誰か。",
+      "answer": "楠木正成",
+      "reading": "くすのきまさしげ",
+      "alternatives": [],
+      "explanation": "悪党などの新興の武士を率いて、千早城などで戦った。",
+      "yearStart": 1332,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0701-04",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府の有力な御家人であったが、後醍醐天皇の側について、京都の六波羅探題を攻め落とした人物は誰か。",
+      "answer": "足利尊氏",
+      "reading": "あしかがたかうじ",
+      "alternatives": [
+        "足利高氏"
+      ],
+      "explanation": "同じ頃、新田義貞が鎌倉を攻めて、1333年に鎌倉幕府は滅んだ。",
+      "yearStart": 1333,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-05",
+      "subject": "nihonshi-tankyu",
+      "question": "鎌倉幕府の滅亡後、後醍醐天皇が始めた天皇中心の新しい政治を何というか。",
+      "answer": "建武の新政",
+      "reading": "けんむのしんせい",
+      "alternatives": [],
+      "explanation": "武士の社会の慣習を無視した政策が多く、武士の不満が高まった。",
+      "yearStart": 1334,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-06",
+      "subject": "nihonshi-tankyu",
+      "question": "建武の新政で、所領に関する訴訟をあつかうためにもうけられた機関は何か。",
+      "answer": "雑訴決断所",
+      "reading": "ざっそけつだんしょ",
+      "alternatives": [],
+      "explanation": "ほかに記録所・恩賞方・武者所などがおかれた。",
+      "yearStart": 1334,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0701-07",
+      "subject": "nihonshi-tankyu",
+      "question": "建武の新政の混乱を風刺した、京都の河原にかかげられた文を何というか。",
+      "answer": "二条河原落書",
+      "reading": "にじょうがわらのらくしょ",
+      "alternatives": [],
+      "explanation": "「此比都ニハヤル物」で始まる。",
+      "yearStart": 1334,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0701-08",
+      "subject": "nihonshi-tankyu",
+      "question": "1335年に、北条高時の子の時行が、鎌倉幕府の再興をはかっておこした反乱を何というか。",
+      "answer": "中先代の乱",
+      "reading": "なかせんだいのらん",
+      "alternatives": [],
+      "explanation": "これをしずめるために関東に下った足利尊氏が、新政権に反旗をひるがえした。",
+      "yearStart": 1335,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0701-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1336年に、足利尊氏が、幕府の政治の方針を明らかにするために定めたものは何か。",
+      "answer": "建武式目",
+      "reading": "けんむしきもく",
+      "alternatives": [],
+      "explanation": "持明院統の光明天皇を立てたのちに発表した。",
+      "yearStart": 1336,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-10",
+      "subject": "nihonshi-tankyu",
+      "question": "1336年に後醍醐天皇が京都をのがれて移り、自分こそ正統な天皇であると主張した場所はどこか。",
+      "answer": "吉野",
+      "reading": "よしの",
+      "alternatives": [],
+      "explanation": "以後、吉野の南朝と京都の北朝が対立する、南北朝の動乱が約60年間続いた。",
+      "yearStart": 1336,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-11",
+      "subject": "nihonshi-tankyu",
+      "question": "1338年に、足利尊氏が北朝から任命された官職は何か。",
+      "answer": "征夷大将軍",
+      "reading": "せいいたいしょうぐん",
+      "alternatives": [],
+      "explanation": "京都に幕府をひらいた。",
+      "yearStart": 1338,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-12",
+      "subject": "nihonshi-tankyu",
+      "question": "南朝の中心となって戦い、南朝の正統性を主張する『神皇正統記』を著した人物は誰か。",
+      "answer": "北畠親房",
+      "reading": "きたばたけちかふさ",
+      "alternatives": [],
+      "explanation": "常陸の小田城で執筆した。",
+      "yearStart": 1339,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0701-13",
+      "subject": "nihonshi-tankyu",
+      "question": "1350年から、足利尊氏とその執事の高師直の勢力と、尊氏の弟の直義の勢力が争った内乱を何というか。",
+      "answer": "観応の擾乱",
+      "reading": "かんのうのじょうらん",
+      "alternatives": [],
+      "explanation": "幕府の内部の対立が、南北朝の動乱を長引かせた。",
+      "yearStart": 1350,
+      "yearEnd": 1352,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-14",
+      "subject": "nihonshi-tankyu",
+      "question": "1352年に幕府が出した、守護に、荘園や公領の年貢の半分を軍事費として取り立てる権利を認めた法令は何か。",
+      "answer": "半済令",
+      "reading": "はんぜいれい",
+      "alternatives": [],
+      "explanation": "はじめは近江・美濃・尾張の3国に1年限りで認められたが、やがて全国に広がり、永続的なものとなった。",
+      "yearStart": 1352,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-15",
+      "subject": "nihonshi-tankyu",
+      "question": "荘園領主が、守護に年貢の徴収を請け負わせることを何というか。",
+      "answer": "守護請",
+      "reading": "しゅごうけ",
+      "alternatives": [],
+      "explanation": "守護は荘園や公領への支配を強めていった。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0701-16",
+      "subject": "nihonshi-tankyu",
+      "question": "南北朝の動乱のなかで権限を広げ、任国を自分の領国のように支配するようになった守護を何というか。",
+      "answer": "守護大名",
+      "reading": "しゅごだいみょう",
+      "alternatives": [],
+      "explanation": "有力な守護は幕府の政治に参加し、任国には守護代をおいた。",
+      "yearStart": 1380,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-17",
+      "subject": "nihonshi-tankyu",
+      "question": "地方に住みついて領主として力をのばした武士を何というか。",
+      "answer": "国人",
+      "reading": "こくじん",
+      "alternatives": [],
+      "explanation": "守護の支配に対抗して、国人一揆を結ぶこともあった。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-18",
+      "subject": "nihonshi-tankyu",
+      "question": "1392年に南北朝の合一を実現し、室町幕府の全盛期をきずいた第3代将軍は誰か。",
+      "answer": "足利義満",
+      "reading": "あしかがよしみつ",
+      "alternatives": [],
+      "explanation": "京都の室町に「花の御所」をいとなんだ。太政大臣にもなった。",
+      "yearStart": 1392,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-19",
+      "subject": "nihonshi-tankyu",
+      "question": "1391年に、足利義満が、西国の11カ国の守護をかねた山名氏の勢力を削った戦いを何というか。",
+      "answer": "明徳の乱",
+      "reading": "めいとくのらん",
+      "alternatives": [],
+      "explanation": "山名氏清が討たれた。1399年の応永の乱では大内義弘を討った。",
+      "yearStart": 1391,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0701-20",
+      "subject": "nihonshi-tankyu",
+      "question": "室町幕府で、将軍を補佐して政治を統轄した役職を何というか。",
+      "answer": "管領",
+      "reading": "かんれい",
+      "alternatives": [],
+      "explanation": "細川・斯波・畠山の3氏が交替でついた（三管領）。",
+      "yearStart": 1380,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-21",
+      "subject": "nihonshi-tankyu",
+      "question": "室町幕府で、京都の警備や刑事裁判をつかさどった侍所の長官に、交替で任命された4つの家をまとめて何というか。",
+      "answer": "四職",
+      "reading": "ししき",
+      "alternatives": [],
+      "explanation": "赤松・一色・山名・京極の4氏。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-22",
+      "subject": "nihonshi-tankyu",
+      "question": "室町幕府が、関東の支配のために鎌倉においた機関を何というか。",
+      "answer": "鎌倉府",
+      "reading": "かまくらふ",
+      "alternatives": [],
+      "explanation": "長官の鎌倉公方には足利尊氏の子の基氏の子孫がつき、それを補佐する関東管領には上杉氏がついた。",
+      "yearStart": 1349,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-23",
+      "subject": "nihonshi-tankyu",
+      "question": "室町幕府の将軍の直轄軍となった武士たちを何というか。",
+      "answer": "奉公衆",
+      "reading": "ほうこうしゅう",
+      "alternatives": [],
+      "explanation": "幕府の直轄領（御料所）の管理にもあたった。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0701-24",
+      "subject": "nihonshi-tankyu",
+      "question": "室町幕府が、高利貸をいとなむ土倉や酒屋に課した税を何というか。",
+      "answer": "土倉役・酒屋役",
+      "reading": "どそうやく・さかややく",
+      "alternatives": [
+        "土倉役",
+        "酒屋役",
+        "倉役"
+      ],
+      "explanation": "幕府の重要な財源となった。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0701-25",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代に、幕府や守護が、田地の面積に応じて臨時に課した税を何というか。",
+      "answer": "段銭",
+      "reading": "たんせん",
+      "alternatives": [],
+      "explanation": "家屋に課した税は棟別銭という。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0701-26",
+      "subject": "nihonshi-tankyu",
+      "question": "14世紀に、朝鮮半島や中国の沿岸をおそった、対馬・壱岐・肥前松浦地方の住民を中心とする海賊集団を何というか。",
+      "answer": "倭寇",
+      "reading": "わこう",
+      "alternatives": [],
+      "explanation": "明や高麗は、日本に取りしまりを求めた。",
+      "yearStart": 1370,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-27",
+      "subject": "nihonshi-tankyu",
+      "question": "1404年に足利義満が始めた、明との貿易を何というか。",
+      "answer": "勘合貿易",
+      "reading": "かんごうぼうえき",
+      "alternatives": [
+        "日明貿易"
+      ],
+      "explanation": "倭寇と区別するために、明から与えられた勘合という証票を使った。",
+      "yearStart": 1404,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-28",
+      "subject": "nihonshi-tankyu",
+      "question": "勘合貿易は、日本の国王が明の皇帝に貢ぎ物をおくり、その返礼を受けるという形式でおこなわれたが、この形式を何というか。",
+      "answer": "朝貢貿易",
+      "reading": "ちょうこうぼうえき",
+      "alternatives": [
+        "朝貢"
+      ],
+      "explanation": "滞在費や運搬費は明が負担したので、日本側の利益は大きかった。",
+      "yearStart": 1404,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-29",
+      "subject": "nihonshi-tankyu",
+      "question": "勘合貿易で、明から大量に輸入され、日本で貨幣として使われたものは何か。",
+      "answer": "銅銭",
+      "reading": "どうせん",
+      "alternatives": [
+        "明銭",
+        "永楽通宝"
+      ],
+      "explanation": "生糸・絹織物・陶磁器なども輸入された。日本からは銅・硫黄・刀剣などが輸出された。",
+      "yearStart": 1404,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0701-30",
+      "subject": "nihonshi-tankyu",
+      "question": "1523年に、勘合貿易の実権を争う細川氏と大内氏が、中国の港で衝突した事件を何というか。",
+      "answer": "寧波の乱",
+      "reading": "にんぽーのらん",
+      "alternatives": [],
+      "explanation": "以後、大内氏が貿易を独占した。",
+      "yearStart": 1523,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0701-31",
+      "subject": "nihonshi-tankyu",
+      "question": "1392年に李成桂が建て、日本と国交をひらいて貿易をおこなった国は何か。",
+      "answer": "朝鮮",
+      "reading": "ちょうせん",
+      "alternatives": [],
+      "explanation": "対馬の宗氏を通じて貿易がおこなわれた。",
+      "yearStart": 1392,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-32",
+      "subject": "nihonshi-tankyu",
+      "question": "日朝貿易で、朝鮮から大量に輸入され、人々の衣料を大きく変えることになった織物は何か。",
+      "answer": "木綿",
+      "reading": "もめん",
+      "alternatives": [],
+      "explanation": "のちに国内でも栽培されるようになった。",
+      "yearStart": 1450,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0701-33",
+      "subject": "nihonshi-tankyu",
+      "question": "1419年に、朝鮮が、倭寇の根拠地とみなした対馬をおそった事件を何というか。",
+      "answer": "応永の外寇",
+      "reading": "おうえいのがいこう",
+      "alternatives": [],
+      "explanation": "貿易は一時中断したが、まもなく再開された。",
+      "yearStart": 1419,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0701-34",
+      "subject": "nihonshi-tankyu",
+      "question": "1429年に、中山王の尚巴志が、沖縄の3つの勢力を統一して建てた国は何か。",
+      "answer": "琉球王国",
+      "reading": "りゅうきゅうおうこく",
+      "alternatives": [],
+      "explanation": "都は首里。明や日本、東南アジアの国々を結ぶ中継貿易で栄えた。",
+      "yearStart": 1429,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-35",
+      "subject": "nihonshi-tankyu",
+      "question": "1457年に、蝦夷ヶ島（北海道）の南部に進出した和人に対して、アイヌの人々がおこした大規模な戦いを、指導者の名から何というか。",
+      "answer": "コシャマインの戦い",
+      "reading": "こしゃまいんのたたかい",
+      "alternatives": [],
+      "explanation": "蠣崎氏によってしずめられた。蠣崎氏はのちに松前氏と名乗った。",
+      "yearStart": 1457,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0701-36",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代に、蝦夷ヶ島との交易の拠点として栄えた、津軽の港はどこか。",
+      "answer": "十三湊",
+      "reading": "とさみなと",
+      "alternatives": [],
+      "explanation": "安藤（安東）氏が支配した。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0702-01",
+      "subject": "nihonshi-tankyu",
+      "question": "鎌倉時代の後期から、畿内やその周辺で生まれた、農民たちが自分たちで運営する自治的な村を何というか。",
+      "answer": "惣村",
+      "reading": "そうそん",
+      "alternatives": [
+        "惣"
+      ],
+      "explanation": "有力な農民を中心に、寄合をひらいて村の決まりを定めた。",
+      "yearStart": 1350,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-02",
+      "subject": "nihonshi-tankyu",
+      "question": "惣村で、村の運営について話しあうためにひらかれた会議を何というか。",
+      "answer": "寄合",
+      "reading": "よりあい",
+      "alternatives": [],
+      "explanation": "村の決まり（惣掟）を定め、違反した者は村人自身で処罰した。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-03",
+      "subject": "nihonshi-tankyu",
+      "question": "惣村が、領主への年貢の納入を、村としてまとめて請け負うことを何というか。",
+      "answer": "地下請",
+      "reading": "じげうけ",
+      "alternatives": [
+        "村請",
+        "百姓請"
+      ],
+      "explanation": "村の自治が強まった。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0702-04",
+      "subject": "nihonshi-tankyu",
+      "question": "惣村の農民たちが、要求を通すために、全員で耕作を放棄して他領や山林に逃げこむことを何というか。",
+      "answer": "逃散",
+      "reading": "ちょうさん",
+      "alternatives": [],
+      "explanation": "領主におしかけて要求する強訴もおこなわれた。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0702-05",
+      "subject": "nihonshi-tankyu",
+      "question": "1428年に、近江の運送業者の蜂起をきっかけに、京都周辺の農民たちが借金の帳消しを求めておこした一揆を何というか。",
+      "answer": "正長の徳政一揆",
+      "reading": "しょうちょうのとくせいいっき",
+      "alternatives": [
+        "正長の土一揆"
+      ],
+      "explanation": "酒屋や土倉をおそって、証文を破り捨てた。",
+      "yearStart": 1428,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-06",
+      "subject": "nihonshi-tankyu",
+      "question": "借金の帳消しや、売った土地の取りもどしを認める法令を何というか。",
+      "answer": "徳政令",
+      "reading": "とくせいれい",
+      "alternatives": [],
+      "explanation": "農民たちは、これを求めて一揆をおこした。",
+      "yearStart": 1441,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-07",
+      "subject": "nihonshi-tankyu",
+      "question": "1441年に、将軍の代がわりにあたって、数万人の農民が京都を占拠し、幕府に徳政令を出させた一揆を何というか。",
+      "answer": "嘉吉の徳政一揆",
+      "reading": "かきつのとくせいいっき",
+      "alternatives": [
+        "嘉吉の土一揆"
+      ],
+      "explanation": "幕府が初めて正式に徳政令を出した。",
+      "yearStart": 1441,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0702-08",
+      "subject": "nihonshi-tankyu",
+      "question": "1438年に、将軍の足利義教が、対立していた鎌倉公方の足利持氏を滅ぼした戦いを何というか。",
+      "answer": "永享の乱",
+      "reading": "えいきょうのらん",
+      "alternatives": [],
+      "explanation": "関東管領の上杉憲実が幕府の側についた。",
+      "yearStart": 1438,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1441年に、将軍の足利義教が、有力な守護の赤松満祐に殺された事件を何というか。",
+      "answer": "嘉吉の変",
+      "reading": "かきつのへん",
+      "alternatives": [
+        "嘉吉の乱"
+      ],
+      "explanation": "将軍の権威が大きくゆらいだ。",
+      "yearStart": 1441,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-10",
+      "subject": "nihonshi-tankyu",
+      "question": "1454年に、鎌倉公方の足利成氏が関東管領を殺したことから始まり、関東を戦国の世にみちびいた戦乱を何というか。",
+      "answer": "享徳の乱",
+      "reading": "きょうとくのらん",
+      "alternatives": [],
+      "explanation": "鎌倉公方は、古河公方と堀越公方に分かれた。",
+      "yearStart": 1454,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0702-11",
+      "subject": "nihonshi-tankyu",
+      "question": "1467年に、将軍家や管領家のあとつぎ争いに、有力な守護大名の対立がからんで始まった戦乱を何というか。",
+      "answer": "応仁の乱",
+      "reading": "おうにんのらん",
+      "alternatives": [
+        "応仁・文明の乱"
+      ],
+      "explanation": "京都を主な戦場として11年間続き、京都は焼け野原となった。",
+      "yearStart": 1467,
+      "yearEnd": 1477,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-12",
+      "subject": "nihonshi-tankyu",
+      "question": "応仁の乱が始まったときの、室町幕府の第8代将軍は誰か。",
+      "answer": "足利義政",
+      "reading": "あしかがよしまさ",
+      "alternatives": [],
+      "explanation": "弟の義視と、子の義尚のどちらをあとつぎとするかで争いがおこった。",
+      "yearStart": 1467,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-13",
+      "subject": "nihonshi-tankyu",
+      "question": "応仁の乱で、東軍を率いた管領家の人物は誰か。",
+      "answer": "細川勝元",
+      "reading": "ほそかわかつもと",
+      "alternatives": [],
+      "explanation": "西軍は山名持豊（宗全）が率いた。",
+      "yearStart": 1467,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-14",
+      "subject": "nihonshi-tankyu",
+      "question": "応仁の乱で活躍した、軽装で機動力にとむ雇われた歩兵を何というか。",
+      "answer": "足軽",
+      "reading": "あしがる",
+      "alternatives": [],
+      "explanation": "集団で戦い、略奪や放火もおこなった。",
+      "yearStart": 1467,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0702-15",
+      "subject": "nihonshi-tankyu",
+      "question": "下の身分の者が、実力で上の身分の者にとってかわる風潮を何というか。",
+      "answer": "下剋上",
+      "reading": "げこくじょう",
+      "alternatives": [],
+      "explanation": "応仁の乱ののち、全国に広がった。",
+      "yearStart": 1480,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-16",
+      "subject": "nihonshi-tankyu",
+      "question": "1485年に、南山城の国人や農民たちが、争っていた畠山氏の両軍を国外に追い出し、8年間にわたって自治をおこなった一揆を何というか。",
+      "answer": "山城の国一揆",
+      "reading": "やましろのくにいっき",
+      "alternatives": [],
+      "explanation": "国人たちが月行事を選んで自治をおこなった。",
+      "yearStart": 1485,
+      "yearEnd": 1493,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-17",
+      "subject": "nihonshi-tankyu",
+      "question": "1488年に、浄土真宗の信者たちが守護の富樫政親を倒し、約100年間にわたって自治をおこなった一揆を何というか。",
+      "answer": "加賀の一向一揆",
+      "reading": "かがのいっこういっき",
+      "alternatives": [],
+      "explanation": "「百姓の持ちたる国」といわれた。",
+      "yearStart": 1488,
+      "yearEnd": 1580,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-18",
+      "subject": "nihonshi-tankyu",
+      "question": "15世紀後半に、わかりやすい手紙の形の文（御文）で教えを説き、浄土真宗の勢力を北陸・東海・近畿に広げた本願寺の僧は誰か。",
+      "answer": "蓮如",
+      "reading": "れんにょ",
+      "alternatives": [],
+      "explanation": "越前の吉崎に道場をひらいた。信者は講という組織にまとめられた。",
+      "yearStart": 1471,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-19",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代に、畿内の一部でおこなわれるようになった、同じ耕地で米・麦・そばなどを年に3回つくる農業の方法を何というか。",
+      "answer": "三毛作",
+      "reading": "さんもうさく",
+      "alternatives": [],
+      "explanation": "稲の品種もふえ、肥料には下肥も使われるようになった。",
+      "yearStart": 1420,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0702-20",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代に、月に6回ひらかれるようになった定期市を何というか。",
+      "answer": "六斎市",
+      "reading": "ろくさいいち",
+      "alternatives": [],
+      "explanation": "応仁の乱の頃から一般的になった。",
+      "yearStart": 1470,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-21",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代に、商人や手工業者がつくった同業者の団体を何というか。",
+      "answer": "座",
+      "reading": "ざ",
+      "alternatives": [],
+      "explanation": "公家や寺社に保護されて、営業の独占権や関銭の免除などの特権をえた。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-22",
+      "subject": "nihonshi-tankyu",
+      "question": "石清水八幡宮を本所として、荏胡麻の買いつけと灯油の販売を独占した座は何か。",
+      "answer": "大山崎の油座",
+      "reading": "おおやまざきのあぶらざ",
+      "alternatives": [
+        "大山崎油座",
+        "大山崎油神人"
+      ],
+      "explanation": "畿内や瀬戸内の広い範囲で独占権をもった。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0702-23",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代に、質流れの品などを保管する倉をもち、高利貸をいとなんだ業者を何というか。",
+      "answer": "土倉",
+      "reading": "どそう",
+      "alternatives": [],
+      "explanation": "酒屋も高利貸をかねて大きな富をたくわえた。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-24",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代に、馬の背に荷をのせて物資を運んだ運送業者を何というか。",
+      "answer": "馬借",
+      "reading": "ばしゃく",
+      "alternatives": [],
+      "explanation": "近江の坂本や大津などで活動した。牛にひかせた車で運ぶ業者は車借という。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0702-25",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代に、取引のときに質の悪い銭をきらって、良い銭だけを選ぶことを何というか。",
+      "answer": "撰銭",
+      "reading": "えりぜに",
+      "alternatives": [],
+      "explanation": "幕府や戦国大名は、これを制限する撰銭令を出して、取引を円滑にしようとした。",
+      "yearStart": 1500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0703-01",
+      "subject": "nihonshi-tankyu",
+      "question": "南北朝の動乱を、南朝の立場に近い視点もまじえて、全体としてえがいた軍記物語は何か。",
+      "answer": "太平記",
+      "reading": "たいへいき",
+      "alternatives": [],
+      "explanation": "物語を語り聞かせる「太平記読み」によって、人々に広く親しまれた。",
+      "yearStart": 1370,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-02",
+      "subject": "nihonshi-tankyu",
+      "question": "源平の争乱の頃から、後醍醐天皇が隠岐から京都に帰るまでの歴史を、公家の立場から記した歴史物語は何か。",
+      "answer": "増鏡",
+      "reading": "ますかがみ",
+      "alternatives": [],
+      "explanation": "四鏡の最後の作品。",
+      "yearStart": 1370,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0703-03",
+      "subject": "nihonshi-tankyu",
+      "question": "南北朝時代に、連歌集『菟玖波集』をまとめ、連歌の規則を定めて、連歌の地位を和歌とならぶものに高めた人物は誰か。",
+      "answer": "二条良基",
+      "reading": "にじょうよしもと",
+      "alternatives": [],
+      "explanation": "連歌の規則を『応安新式』にまとめた。",
+      "yearStart": 1356,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-04",
+      "subject": "nihonshi-tankyu",
+      "question": "足利義満の時代を中心に栄えた、公家の文化と武家の文化がとけあった文化を何というか。",
+      "answer": "北山文化",
+      "reading": "きたやまぶんか",
+      "alternatives": [],
+      "explanation": "義満が京都の北山につくった山荘にちなんで名づけられた。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-05",
+      "subject": "nihonshi-tankyu",
+      "question": "足利義満が京都の北山に建てた、寝殿造と禅宗様を組み合わせた建物は何か。",
+      "answer": "金閣",
+      "reading": "きんかく",
+      "alternatives": [
+        "鹿苑寺金閣"
+      ],
+      "explanation": "義満の死後、鹿苑寺となった。",
+      "yearStart": 1397,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-06",
+      "subject": "nihonshi-tankyu",
+      "question": "足利義満が、南宋の制度にならって整えた、臨済宗の寺院の格づけの制度を何というか。",
+      "answer": "五山・十刹の制",
+      "reading": "ござん・じっせつのせい",
+      "alternatives": [
+        "五山の制",
+        "五山"
+      ],
+      "explanation": "南禅寺を別格として、京都と鎌倉にそれぞれ五山を定めた。",
+      "yearStart": 1386,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-07",
+      "subject": "nihonshi-tankyu",
+      "question": "足利尊氏の帰依を受け、後醍醐天皇の冥福を祈る天龍寺の建立をすすめた臨済宗の僧は誰か。",
+      "answer": "夢窓疎石",
+      "reading": "むそうそせき",
+      "alternatives": [],
+      "explanation": "庭園の設計にもすぐれ、多くの弟子を育てた。",
+      "yearStart": 1339,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0703-08",
+      "subject": "nihonshi-tankyu",
+      "question": "五山の禅僧たちのあいだでさかんになった、漢詩文の文学を何というか。",
+      "answer": "五山文学",
+      "reading": "ござんぶんがく",
+      "alternatives": [],
+      "explanation": "絶海中津や義堂周信が代表。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0703-09",
+      "subject": "nihonshi-tankyu",
+      "question": "墨の濃淡で自然や人物をえがく絵画を何というか。",
+      "answer": "水墨画",
+      "reading": "すいぼくが",
+      "alternatives": [],
+      "explanation": "禅宗とともに中国から伝わり、五山の僧の明兆・如拙・周文らがえがいた。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-10",
+      "subject": "nihonshi-tankyu",
+      "question": "足利義満の保護を受けて、父の観阿弥とともに、猿楽を芸術性の高い能に大成した人物は誰か。",
+      "answer": "世阿弥",
+      "reading": "ぜあみ",
+      "alternatives": [],
+      "explanation": "能の理論を『風姿花伝』（『花伝書』）にまとめた。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-11",
+      "subject": "nihonshi-tankyu",
+      "question": "能の合間に演じられた、日常の会話を使った、風刺性の強い喜劇を何というか。",
+      "answer": "狂言",
+      "reading": "きょうげん",
+      "alternatives": [],
+      "explanation": "庶民に親しまれた。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0703-12",
+      "subject": "nihonshi-tankyu",
+      "question": "足利義政の時代を中心に栄えた、禅の精神にもとづく簡素さと、幽玄・侘の美意識を特色とする文化を何というか。",
+      "answer": "東山文化",
+      "reading": "ひがしやまぶんか",
+      "alternatives": [],
+      "explanation": "義政が京都の東山につくった山荘にちなんで名づけられた。",
+      "yearStart": 1480,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-13",
+      "subject": "nihonshi-tankyu",
+      "question": "足利義政が京都の東山の山荘に建てた、下層が書院造、上層が禅宗様の建物は何か。",
+      "answer": "銀閣",
+      "reading": "ぎんかく",
+      "alternatives": [
+        "慈照寺銀閣"
+      ],
+      "explanation": "義政の死後、慈照寺となった。",
+      "yearStart": 1489,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-14",
+      "subject": "nihonshi-tankyu",
+      "question": "東山文化の時代に成立した、床の間・違い棚・付書院をもち、畳をしきつめ、襖や明障子で仕切る住宅の様式を何というか。",
+      "answer": "書院造",
+      "reading": "しょいんづくり",
+      "alternatives": [],
+      "explanation": "慈照寺の東求堂同仁斎が代表。近代の和風住宅のもとになった。",
+      "yearStart": 1486,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-15",
+      "subject": "nihonshi-tankyu",
+      "question": "岩石と砂利を組み合わせて自然を表現した、禅宗の寺院の庭園の様式を何というか。",
+      "answer": "枯山水",
+      "reading": "かれさんすい",
+      "alternatives": [],
+      "explanation": "龍安寺の石庭や、大徳寺大仙院の庭園が代表。",
+      "yearStart": 1500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-16",
+      "subject": "nihonshi-tankyu",
+      "question": "明にわたって水墨画を学び、帰国後に日本的な水墨画の様式を完成させた禅僧は誰か。",
+      "answer": "雪舟",
+      "reading": "せっしゅう",
+      "alternatives": [],
+      "explanation": "代表作に「四季山水図巻」や「秋冬山水図」がある。",
+      "yearStart": 1486,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-17",
+      "subject": "nihonshi-tankyu",
+      "question": "水墨画に大和絵の技法をとり入れて、新しい画風をひらいた狩野正信・元信の父子が始めた絵画の流派を何というか。",
+      "answer": "狩野派",
+      "reading": "かのうは",
+      "alternatives": [],
+      "explanation": "幕府の御用絵師として栄えた。",
+      "yearStart": 1500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0703-18",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代に、簡素な小さい座敷で、心の静けさを求める茶の湯である侘茶を始めた人物は誰か。",
+      "answer": "村田珠光",
+      "reading": "むらたじゅこう",
+      "alternatives": [],
+      "explanation": "のちに武野紹鷗が受けつぎ、千利休が大成した。",
+      "yearStart": 1480,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-19",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代に、床の間をかざる生け花（立花）を芸術に高めた、京都の六角堂の僧は誰か。",
+      "answer": "池坊専慶",
+      "reading": "いけのぼうせんけい",
+      "alternatives": [],
+      "explanation": "座敷のかざりとして生け花が発達した。",
+      "yearStart": 1462,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0703-20",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代の公家で、有職故実や古典の研究にすぐれ、将軍の足利義尚のために政治の意見書『樵談治要』を著した人物は誰か。",
+      "answer": "一条兼良",
+      "reading": "いちじょうかねよし",
+      "alternatives": [],
+      "explanation": "『公事根源』などを著した。「かねら」とも読む。",
+      "yearStart": 1480,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0703-21",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代に、神道を中心に儒教・仏教をまとめた唯一神道をとなえた人物は誰か。",
+      "answer": "吉田兼倶",
+      "reading": "よしだかねとも",
+      "alternatives": [],
+      "explanation": "本地垂迹説とは逆に、神を本とする考えをとなえた。",
+      "yearStart": 1480,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0703-22",
+      "subject": "nihonshi-tankyu",
+      "question": "正風連歌を確立し、『新撰菟玖波集』をまとめた連歌師は誰か。",
+      "answer": "宗祇",
+      "reading": "そうぎ",
+      "alternatives": [],
+      "explanation": "弟子たちとよんだ『水無瀬三吟百韻』でも知られる。",
+      "yearStart": 1495,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-23",
+      "subject": "nihonshi-tankyu",
+      "question": "より自由で庶民的な俳諧連歌をつくり、『犬筑波集』をまとめた人物は誰か。",
+      "answer": "宗鑑",
+      "reading": "そうかん",
+      "alternatives": [
+        "山崎宗鑑"
+      ],
+      "explanation": "のちの俳諧のもとになった。",
+      "yearStart": 1530,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0703-24",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代に庶民に親しまれた、「一寸法師」や「浦島太郎」などの絵入りの短い物語をまとめて何というか。",
+      "answer": "御伽草子",
+      "reading": "おとぎぞうし",
+      "alternatives": [],
+      "explanation": "当時の庶民の夢や願いがえがかれている。",
+      "yearStart": 1500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-25",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代の庶民の歌謡（小歌）を集めた歌集は何か。",
+      "answer": "閑吟集",
+      "reading": "かんぎんしゅう",
+      "alternatives": [],
+      "explanation": "庶民の生活や感情がうたわれている。",
+      "yearStart": 1518,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0703-26",
+      "subject": "nihonshi-tankyu",
+      "question": "15世紀半ばに関東管領の上杉憲実が再興し、全国から僧や武士が集まって学んだ下野の学校は何か。",
+      "answer": "足利学校",
+      "reading": "あしかががっこう",
+      "alternatives": [],
+      "explanation": "宣教師のザビエルは「坂東の大学」と紹介した。",
+      "yearStart": 1439,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0703-27",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代に、肥後や薩摩にまねかれて朱子学を講義し、薩南学派のもとをひらいた禅僧は誰か。",
+      "answer": "桂庵玄樹",
+      "reading": "けいあんげんじゅ",
+      "alternatives": [],
+      "explanation": "応仁の乱ののち、文化が地方に広まった。",
+      "yearStart": 1478,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0703-28",
+      "subject": "nihonshi-tankyu",
+      "question": "室町時代に、武士の子弟などの教育に使われた、手紙の形式で書かれた教科書は何か。",
+      "answer": "庭訓往来",
+      "reading": "ていきんおうらい",
+      "alternatives": [],
+      "explanation": "寺院で教育がおこなわれ、国語辞書の『節用集』もつくられた。",
+      "yearStart": 1400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0703-29",
+      "subject": "nihonshi-tankyu",
+      "question": "五山に属さず、地方の武士や庶民に教えを広めた禅宗の寺院をまとめて何というか。",
+      "answer": "林下",
+      "reading": "りんか",
+      "alternatives": [],
+      "explanation": "臨済宗の大徳寺・妙心寺や、曹洞宗の永平寺などがある。",
+      "yearStart": 1450,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0703-30",
+      "subject": "nihonshi-tankyu",
+      "question": "1536年に、延暦寺の僧兵らが、京都の日蓮宗の寺院を焼きはらった事件を何というか。",
+      "answer": "天文法華の乱",
+      "reading": "てんぶんほっけのらん",
+      "alternatives": [],
+      "explanation": "京都の町衆には日蓮宗の信者が多く、法華一揆を結んで町の自治をおこなっていた。",
+      "yearStart": 1536,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0704-01",
+      "subject": "nihonshi-tankyu",
+      "question": "応仁の乱ののち、実力によって領国を支配し、独立した政権をきずいた大名を何というか。",
+      "answer": "戦国大名",
+      "reading": "せんごくだいみょう",
+      "alternatives": [],
+      "explanation": "守護大名から成長した者、守護代や国人から成り上がった者などがいた。",
+      "yearStart": 1500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0704-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1493年に、管領の細川政元が将軍を廃して、幕府の実権をにぎった事件を何というか。",
+      "answer": "明応の政変",
+      "reading": "めいおうのせいへん",
+      "alternatives": [],
+      "explanation": "将軍の権威は失われ、戦国時代が本格的に始まった。",
+      "yearStart": 1493,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0704-03",
+      "subject": "nihonshi-tankyu",
+      "question": "15世紀末に伊豆の堀越公方を滅ぼし、ついで小田原を本拠として関東に進出した戦国大名は誰か。",
+      "answer": "北条早雲",
+      "reading": "ほうじょうそううん",
+      "alternatives": [
+        "伊勢宗瑞"
+      ],
+      "explanation": "子の氏綱、孫の氏康のときに関東の大半を支配した。",
+      "yearStart": 1493,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0704-04",
+      "subject": "nihonshi-tankyu",
+      "question": "越後の守護代の家から出て、関東管領の上杉氏をつぎ、甲斐の武田信玄と川中島でたびたび戦った戦国大名は誰か。",
+      "answer": "上杉謙信",
+      "reading": "うえすぎけんしん",
+      "alternatives": [
+        "長尾景虎"
+      ],
+      "explanation": "北陸や関東に勢力をのばした。",
+      "yearStart": 1561,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0704-05",
+      "subject": "nihonshi-tankyu",
+      "question": "甲斐を本拠として信濃などに領国を広げ、治水や鉱山の開発にも力を入れた戦国大名は誰か。",
+      "answer": "武田信玄",
+      "reading": "たけだしんげん",
+      "alternatives": [
+        "武田晴信"
+      ],
+      "explanation": "分国法の『甲州法度之次第』を定めた。",
+      "yearStart": 1553,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0704-06",
+      "subject": "nihonshi-tankyu",
+      "question": "安芸の国人から出て、大内氏や尼子氏にかわって中国地方の大半を支配した戦国大名は誰か。",
+      "answer": "毛利元就",
+      "reading": "もうりもとなり",
+      "alternatives": [],
+      "explanation": "1555年の厳島の戦いで陶晴賢を破った。",
+      "yearStart": 1555,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0704-07",
+      "subject": "nihonshi-tankyu",
+      "question": "16世紀半ばに、周防・長門などを支配した大内義隆を倒した家臣は誰か。",
+      "answer": "陶晴賢",
+      "reading": "すえはるかた",
+      "alternatives": [],
+      "explanation": "下剋上の代表的な例とされる。",
+      "yearStart": 1551,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0704-08",
+      "subject": "nihonshi-tankyu",
+      "question": "戦国大名が、領国を支配するために定めた法を何というか。",
+      "answer": "分国法",
+      "reading": "ぶんこくほう",
+      "alternatives": [
+        "家法"
+      ],
+      "explanation": "家臣の統制や、領民の支配について定めた。",
+      "yearStart": 1530,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0704-09",
+      "subject": "nihonshi-tankyu",
+      "question": "駿河の今川氏が定めた分国法は何か。",
+      "answer": "今川仮名目録",
+      "reading": "いまがわかなもくろく",
+      "alternatives": [],
+      "explanation": "東国で最も古い分国法とされる。",
+      "yearStart": 1526,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0704-10",
+      "subject": "nihonshi-tankyu",
+      "question": "陸奥の伊達氏が定めた、条文の数の多い分国法は何か。",
+      "answer": "塵芥集",
+      "reading": "じんかいしゅう",
+      "alternatives": [],
+      "explanation": "伊達稙宗が定めた。",
+      "yearStart": 1536,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0704-11",
+      "subject": "nihonshi-tankyu",
+      "question": "分国法に多くみられる、家臣どうしの争いを実力で解決することを禁じ、争った者は理由を問わず両方を処罰するという決まりを何というか。",
+      "answer": "喧嘩両成敗法",
+      "reading": "けんかりょうせいばいほう",
+      "alternatives": [
+        "喧嘩両成敗"
+      ],
+      "explanation": "すべての紛争を大名の裁判で解決させようとした。",
+      "yearStart": 1530,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0704-12",
+      "subject": "nihonshi-tankyu",
+      "question": "戦国大名が、家臣の収入を銭に換算した額で把握し、それを基準に軍役を負担させた制度を何というか。",
+      "answer": "貫高制",
+      "reading": "かんだかせい",
+      "alternatives": [],
+      "explanation": "家臣への統制を強めた。",
+      "yearStart": 1530,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0704-13",
+      "subject": "nihonshi-tankyu",
+      "question": "戦国大名が、家臣や農民に、土地の面積や収入などを自分で申告させた検地を何というか。",
+      "answer": "指出検地",
+      "reading": "さしだしけんち",
+      "alternatives": [],
+      "explanation": "領国の土地と農民を直接把握しようとした。",
+      "yearStart": 1530,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0704-14",
+      "subject": "nihonshi-tankyu",
+      "question": "戦国大名が、有力な家臣に、下級の家臣をあずけて組織した家臣団のしくみを何というか。",
+      "answer": "寄親・寄子制",
+      "reading": "よりおや・よりこせい",
+      "alternatives": [],
+      "explanation": "集団での戦いに対応できる軍事組織をつくった。",
+      "yearStart": 1530,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0704-15",
+      "subject": "nihonshi-tankyu",
+      "question": "戦国大名が、城を中心に、家臣や商工業者を集めてつくった都市を何というか。",
+      "answer": "城下町",
+      "reading": "じょうかまち",
+      "alternatives": [],
+      "explanation": "北条氏の小田原、朝倉氏の一乗谷、大内氏の山口などがある。",
+      "yearStart": 1530,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0704-16",
+      "subject": "nihonshi-tankyu",
+      "question": "戦国時代に、灰吹法という新しい精錬の技術が伝わって、銀の生産量が大きくふえた石見の鉱山は何か。",
+      "answer": "石見銀山",
+      "reading": "いわみぎんざん",
+      "alternatives": [
+        "石見大森銀山"
+      ],
+      "explanation": "日本の銀は、東アジアの貿易で重要な役割をはたした。",
+      "yearStart": 1533,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0704-17",
+      "subject": "nihonshi-tankyu",
+      "question": "戦国時代に、浄土真宗の寺院や道場を中心に、信者の商工業者が集まってつくった町を何というか。",
+      "answer": "寺内町",
+      "reading": "じないまち",
+      "alternatives": [],
+      "explanation": "石山（大坂）や富田林、今井などがある。",
+      "yearStart": 1530,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0704-18",
+      "subject": "nihonshi-tankyu",
+      "question": "大きな寺社の門前に、参詣する人々を相手にする商人などが集まってできた町を何というか。",
+      "answer": "門前町",
+      "reading": "もんぜんまち",
+      "alternatives": [],
+      "explanation": "伊勢神宮の宇治・山田や、善光寺の長野などがある。",
+      "yearStart": 1500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0704-19",
+      "subject": "nihonshi-tankyu",
+      "question": "戦国時代に、36人の会合衆による自治がおこなわれた、和泉の港町はどこか。",
+      "answer": "堺",
+      "reading": "さかい",
+      "alternatives": [],
+      "explanation": "日明貿易や南蛮貿易で栄えた。宣教師は「ベニス市のようだ」と伝えた。",
+      "yearStart": 1550,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0704-20",
+      "subject": "nihonshi-tankyu",
+      "question": "戦国時代に、12人の年行司による自治がおこなわれた、筑前の港町はどこか。",
+      "answer": "博多",
+      "reading": "はかた",
+      "alternatives": [],
+      "explanation": "日明貿易や日朝貿易の拠点として栄えた。",
+      "yearStart": 1550,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0704-21",
+      "subject": "nihonshi-tankyu",
+      "question": "戦国時代の京都で、自治的な町の運営をになった、富裕な商工業者を何というか。",
+      "answer": "町衆",
+      "reading": "ちょうしゅう",
+      "alternatives": [],
+      "explanation": "応仁の乱でとだえていた祇園祭を復興させた。",
+      "yearStart": 1500,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0704-22",
+      "subject": "nihonshi-tankyu",
+      "question": "戦国大名が、城下町の商業をさかんにするために、座の特権を認めず、自由な営業を認めた法令を何というか。",
+      "answer": "楽市令",
+      "reading": "らくいちれい",
+      "alternatives": [
+        "楽市"
+      ],
+      "explanation": "近江の六角氏が城下の石寺に出したものが最初とされる。",
+      "yearStart": 1549,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,1241 @@
+{
+  "generatedFrom": "nihonshi-04.csv",
+  "_note": "このファイルは nihonshi-04.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "j-0401-01",
+      "subject": "nihonshi-tankyu",
+      "question": "嵯峨天皇の信任をえて蔵人頭となり、藤原北家が勢力をのばすきっかけをつくった人物は誰か。",
+      "answer": "藤原冬嗣",
+      "reading": "ふじわらのふゆつぐ",
+      "alternatives": [],
+      "explanation": "娘を天皇の后とし、皇室との結びつきを強めた。",
+      "yearStart": 810,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0401-02",
+      "subject": "nihonshi-tankyu",
+      "question": "842年に、藤原良房が、伴健岑・橘逸勢らを謀反の疑いで流罪にした事件を何というか。",
+      "answer": "承和の変",
+      "reading": "じょうわのへん",
+      "alternatives": [],
+      "explanation": "藤原氏の他氏排斥の始まりとされる。",
+      "yearStart": 842,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0401-03",
+      "subject": "nihonshi-tankyu",
+      "question": "858年に幼い清和天皇が即位すると、臣下として初めて摂政の役割をはたした人物は誰か。",
+      "answer": "藤原良房",
+      "reading": "ふじわらのよしふさ",
+      "alternatives": [],
+      "explanation": "清和天皇の外祖父。866年に正式に摂政に任命された。",
+      "yearStart": 858,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0401-04",
+      "subject": "nihonshi-tankyu",
+      "question": "866年に、平安宮の門が放火された事件をきっかけに、大納言の伴善男らが流罪となった事件を何というか。",
+      "answer": "応天門の変",
+      "reading": "おうてんもんのへん",
+      "alternatives": [],
+      "explanation": "古くからの有力な氏族であった伴氏・紀氏が没落した。",
+      "yearStart": 866,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0401-05",
+      "subject": "nihonshi-tankyu",
+      "question": "884年に光孝天皇を立て、初めて関白の役割をはたした人物は誰か。",
+      "answer": "藤原基経",
+      "reading": "ふじわらのもとつね",
+      "alternatives": [],
+      "explanation": "宇多天皇の即位のときにも関白に任じられ、その地位を確立した。",
+      "yearStart": 884,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0401-06",
+      "subject": "nihonshi-tankyu",
+      "question": "天皇が幼いときに、天皇にかわって政治をおこなう官職を何というか。",
+      "answer": "摂政",
+      "reading": "せっしょう",
+      "alternatives": [],
+      "explanation": "天皇が成人したのちに、政治を補佐する官職は関白という。",
+      "yearStart": 866,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0401-07",
+      "subject": "nihonshi-tankyu",
+      "question": "887〜888年に、宇多天皇が出した勅書の文言をめぐって、藤原基経が政務を放棄した事件を何というか。",
+      "answer": "阿衡の紛議",
+      "reading": "あこうのふんぎ",
+      "alternatives": [
+        "阿衡事件"
+      ],
+      "explanation": "天皇が勅書の非を認めて撤回し、関白の政治的な地位が確立した。",
+      "yearStart": 887,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0401-08",
+      "subject": "nihonshi-tankyu",
+      "question": "宇多天皇に重く用いられたが、901年に藤原時平の策謀によって大宰府に左遷された人物は誰か。",
+      "answer": "菅原道真",
+      "reading": "すがわらのみちざね",
+      "alternatives": [],
+      "explanation": "894年には遣唐使の派遣の中止を提案した。",
+      "yearStart": 901,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0401-09",
+      "subject": "nihonshi-tankyu",
+      "question": "10世紀前半の醍醐天皇と村上天皇の時代は、摂政・関白をおかず天皇がみずから政治をおこなったとして、のちに理想の時代とされたが、これを何というか。",
+      "answer": "延喜・天暦の治",
+      "reading": "えんぎ・てんりゃくのち",
+      "alternatives": [],
+      "explanation": "最後の班田や、延喜の荘園整理令、『古今和歌集』の編集などがおこなわれた。",
+      "yearStart": 930,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0401-10",
+      "subject": "nihonshi-tankyu",
+      "question": "969年に、左大臣の源高明が左遷された事件を何というか。",
+      "answer": "安和の変",
+      "reading": "あんなのへん",
+      "alternatives": [],
+      "explanation": "藤原氏の他氏排斥が完了し、以後、摂政・関白がほぼ常におかれるようになった。",
+      "yearStart": 969,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0401-11",
+      "subject": "nihonshi-tankyu",
+      "question": "10世紀後半から11世紀頃の、藤原氏が摂政・関白として政治の実権をにぎった政治を何というか。",
+      "answer": "摂関政治",
+      "reading": "せっかんせいじ",
+      "alternatives": [],
+      "explanation": "娘を天皇の后とし、生まれた皇子を天皇に立てて、天皇の外戚として権力をふるった。",
+      "yearStart": 1000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0401-12",
+      "subject": "nihonshi-tankyu",
+      "question": "4人の娘を天皇や皇太子の后とし、摂関政治の全盛期をきずいた人物は誰か。",
+      "answer": "藤原道長",
+      "reading": "ふじわらのみちなが",
+      "alternatives": [],
+      "explanation": "「この世をば わが世とぞ思ふ」の歌で知られる。日記に『御堂関白記』がある。",
+      "yearStart": 1016,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0401-13",
+      "subject": "nihonshi-tankyu",
+      "question": "藤原道長の子で、後一条・後朱雀・後冷泉の3代の天皇の摂政・関白を約50年間つとめた人物は誰か。",
+      "answer": "藤原頼通",
+      "reading": "ふじわらのよりみち",
+      "alternatives": [],
+      "explanation": "宇治に平等院鳳凰堂を建てた。",
+      "yearStart": 1017,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0401-14",
+      "subject": "nihonshi-tankyu",
+      "question": "天皇の母方の親戚を何というか。",
+      "answer": "外戚",
+      "reading": "がいせき",
+      "alternatives": [],
+      "explanation": "当時は、子が母方の家で育てられることが多く、母方の親戚の影響力が強かった。",
+      "yearStart": 1000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0401-15",
+      "subject": "nihonshi-tankyu",
+      "question": "藤原道長の「この世をば」の歌を記録した、藤原実資の日記は何か。",
+      "answer": "小右記",
+      "reading": "しょうゆうき",
+      "alternatives": [],
+      "explanation": "当時の政治や貴族社会のようすを伝える。",
+      "yearStart": 1018,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0401-16",
+      "subject": "nihonshi-tankyu",
+      "question": "摂関政治の時代に、内裏でひらかれた公卿の会議を何というか。",
+      "answer": "陣定",
+      "reading": "じんのさだめ",
+      "alternatives": [],
+      "explanation": "重要な問題が審議され、その結果は天皇や摂政・関白の決裁の参考とされた。",
+      "yearStart": 1000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0401-17",
+      "subject": "nihonshi-tankyu",
+      "question": "1019年に、九州北部が女真人におそわれた事件を何というか。",
+      "answer": "刀伊の入寇",
+      "reading": "といのにゅうこう",
+      "alternatives": [],
+      "explanation": "大宰権帥の藤原隆家が、九州の武士を率いて撃退した。",
+      "yearStart": 1019,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0401-18",
+      "subject": "nihonshi-tankyu",
+      "question": "10世紀に、唐にかわって中国を統一し、日本とは正式な国交はなかったが商人が来航した王朝は何か。",
+      "answer": "宋",
+      "reading": "そう",
+      "alternatives": [],
+      "explanation": "九州の博多に商人が来航し、書籍や陶磁器、薬品などがもたらされた。",
+      "yearStart": 960,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0402-01",
+      "subject": "nihonshi-tankyu",
+      "question": "10〜11世紀に、大陸の文化をふまえながら、日本の風土や人々の感情に合うようにつくりかえられた優雅な貴族文化を何というか。",
+      "answer": "国風文化",
+      "reading": "こくふうぶんか",
+      "alternatives": [],
+      "explanation": "摂関政治の時代に栄えた。",
+      "yearStart": 1000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-02",
+      "subject": "nihonshi-tankyu",
+      "question": "国風文化の発達をささえた、漢字をもとにつくられた日本独自の文字を何というか。",
+      "answer": "かな文字",
+      "reading": "かなもじ",
+      "alternatives": [
+        "仮名文字",
+        "かな",
+        "仮名"
+      ],
+      "explanation": "平がなと片かなが生まれ、日本人の感情を生き生きと表現できるようになった。",
+      "yearStart": 900,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-03",
+      "subject": "nihonshi-tankyu",
+      "question": "905年に、醍醐天皇の命令で紀貫之らが編集した、最初の勅撰和歌集は何か。",
+      "answer": "古今和歌集",
+      "reading": "こきんわかしゅう",
+      "alternatives": [],
+      "explanation": "以後、鎌倉時代の初めの『新古今和歌集』までの8つの勅撰和歌集を八代集という。",
+      "yearStart": 905,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-04",
+      "subject": "nihonshi-tankyu",
+      "question": "紀貫之が、任地の土佐から京に帰るまでの旅をかなで記した、最初のかな日記は何か。",
+      "answer": "土佐日記",
+      "reading": "とさにっき",
+      "alternatives": [],
+      "explanation": "女性の立場をかりて書かれた。",
+      "yearStart": 935,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-05",
+      "subject": "nihonshi-tankyu",
+      "question": "かぐや姫の物語として知られる、現存する最古の物語文学は何か。",
+      "answer": "竹取物語",
+      "reading": "たけとりものがたり",
+      "alternatives": [],
+      "explanation": "伝説を題材とした伝奇物語。",
+      "yearStart": 900,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-06",
+      "subject": "nihonshi-tankyu",
+      "question": "在原業平の恋愛を中心にえがいた、和歌を中心とする歌物語は何か。",
+      "answer": "伊勢物語",
+      "reading": "いせものがたり",
+      "alternatives": [],
+      "explanation": "『竹取物語』とともに、初期の物語文学を代表する。",
+      "yearStart": 950,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0402-07",
+      "subject": "nihonshi-tankyu",
+      "question": "光源氏を主人公として、宮廷の貴族の生活をえがいた長編の物語『源氏物語』の作者は誰か。",
+      "answer": "紫式部",
+      "reading": "むらさきしきぶ",
+      "alternatives": [],
+      "explanation": "一条天皇の中宮彰子（藤原道長の娘）に仕えた。",
+      "yearStart": 1008,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-08",
+      "subject": "nihonshi-tankyu",
+      "question": "宮廷の生活の体験を、するどい感覚で記した随筆『枕草子』の作者は誰か。",
+      "answer": "清少納言",
+      "reading": "せいしょうなごん",
+      "alternatives": [],
+      "explanation": "一条天皇の皇后定子に仕えた。",
+      "yearStart": 1001,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-09",
+      "subject": "nihonshi-tankyu",
+      "question": "藤原道綱の母が、夫の藤原兼家との結婚生活を記した日記は何か。",
+      "answer": "蜻蛉日記",
+      "reading": "かげろうにっき",
+      "alternatives": [],
+      "explanation": "女性による日記文学の先がけとなった。",
+      "yearStart": 974,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0402-10",
+      "subject": "nihonshi-tankyu",
+      "question": "菅原孝標の女が、少女の頃からの人生を回想して記した日記は何か。",
+      "answer": "更級日記",
+      "reading": "さらしなにっき",
+      "alternatives": [],
+      "explanation": "『源氏物語』へのあこがれが記されている。",
+      "yearStart": 1060,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0402-11",
+      "subject": "nihonshi-tankyu",
+      "question": "和様の書にすぐれた、小野道風・藤原佐理・藤原行成の3人をまとめて何というか。",
+      "answer": "三跡",
+      "reading": "さんせき",
+      "alternatives": [
+        "三蹟"
+      ],
+      "explanation": "唐風の書にすぐれた三筆に対する呼び名。",
+      "yearStart": 1000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0402-12",
+      "subject": "nihonshi-tankyu",
+      "question": "阿弥陀仏を信じて念仏をとなえ、死後に極楽浄土に生まれ変わることを願う教えを何というか。",
+      "answer": "浄土教",
+      "reading": "じょうどきょう",
+      "alternatives": [],
+      "explanation": "10世紀以降に流行した。",
+      "yearStart": 950,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-13",
+      "subject": "nihonshi-tankyu",
+      "question": "10世紀半ばに、京の市で念仏の教えを説いて「市聖」と呼ばれた僧は誰か。",
+      "answer": "空也",
+      "reading": "くうや",
+      "alternatives": [],
+      "explanation": "庶民のあいだに浄土教を広めた。",
+      "yearStart": 950,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-14",
+      "subject": "nihonshi-tankyu",
+      "question": "985年に『往生要集』を著して、念仏による極楽往生の方法を説いた僧は誰か。",
+      "answer": "源信",
+      "reading": "げんしん",
+      "alternatives": [
+        "恵心僧都"
+      ],
+      "explanation": "浄土教の教えの基礎をきずいた。",
+      "yearStart": 985,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-15",
+      "subject": "nihonshi-tankyu",
+      "question": "釈迦の死後、正法・像法の世をへて、仏法がおとろえて世の中が乱れる時代が来るという考え方を何というか。",
+      "answer": "末法思想",
+      "reading": "まっぽうしそう",
+      "alternatives": [],
+      "explanation": "日本では1052年から末法の世に入るとされ、浄土教がいっそう広まった。",
+      "yearStart": 1052,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-16",
+      "subject": "nihonshi-tankyu",
+      "question": "日本の神々は、仏が人々を救うために仮の姿となって現れたものであるとする考え方を何というか。",
+      "answer": "本地垂迹説",
+      "reading": "ほんじすいじゃくせつ",
+      "alternatives": [],
+      "explanation": "神仏習合が進んで生まれた。",
+      "yearStart": 1000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-17",
+      "subject": "nihonshi-tankyu",
+      "question": "うらみをのんで死んだ人の霊や、疫病をもたらす神をなぐさめて、災いをのがれようとする祭りを何というか。",
+      "answer": "御霊会",
+      "reading": "ごりょうえ",
+      "alternatives": [],
+      "explanation": "京都の祇園社の祭りや、菅原道真をまつる北野天満宮の祭りなどがある。",
+      "yearStart": 863,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0402-18",
+      "subject": "nihonshi-tankyu",
+      "question": "国風文化の時代の、貴族の住宅の建築様式を何というか。",
+      "answer": "寝殿造",
+      "reading": "しんでんづくり",
+      "alternatives": [],
+      "explanation": "白木づくりで檜皮葺の屋根をもつ、日本風の開放的な建物。",
+      "yearStart": 1000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-19",
+      "subject": "nihonshi-tankyu",
+      "question": "日本の風景や人々の生活を題材とした、なだらかな線とあざやかな色彩の絵画を何というか。",
+      "answer": "大和絵",
+      "reading": "やまとえ",
+      "alternatives": [],
+      "explanation": "屛風や襖にえがかれた。",
+      "yearStart": 1000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-20",
+      "subject": "nihonshi-tankyu",
+      "question": "1053年に、藤原頼通が宇治に建てた阿弥陀堂は何か。",
+      "answer": "平等院鳳凰堂",
+      "reading": "びょうどういんほうおうどう",
+      "alternatives": [],
+      "explanation": "極楽浄土をこの世に表そうとした建築。",
+      "yearStart": 1053,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-21",
+      "subject": "nihonshi-tankyu",
+      "question": "平等院鳳凰堂の阿弥陀如来像をつくった仏師は誰か。",
+      "answer": "定朝",
+      "reading": "じょうちょう",
+      "alternatives": [],
+      "explanation": "仏像の各部分を別々に彫って組み合わせる寄木造の技法を完成させた。",
+      "yearStart": 1053,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0402-22",
+      "subject": "nihonshi-tankyu",
+      "question": "定朝が完成させた、仏像の各部分を別々の木に彫って組み合わせる技法を何というか。",
+      "answer": "寄木造",
+      "reading": "よせぎづくり",
+      "alternatives": [],
+      "explanation": "分業によって大量の仏像をつくることができるようになった。",
+      "yearStart": 1053,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0402-23",
+      "subject": "nihonshi-tankyu",
+      "question": "阿弥陀仏が、亡くなる人をむかえに来るようすをえがいた絵画を何というか。",
+      "answer": "来迎図",
+      "reading": "らいごうず",
+      "alternatives": [],
+      "explanation": "浄土教の広まりとともにさかんにえがかれた。",
+      "yearStart": 1050,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0402-24",
+      "subject": "nihonshi-tankyu",
+      "question": "国風文化の時代の、貴族の女性の正装を何というか。",
+      "answer": "女房装束",
+      "reading": "にょうぼうしょうぞく",
+      "alternatives": [
+        "十二単"
+      ],
+      "explanation": "男性の正装は束帯という。",
+      "yearStart": 1000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0402-25",
+      "subject": "nihonshi-tankyu",
+      "question": "国風文化の時代に貴族のあいだで広まった、陰陽道にもとづいて、日がらの悪い日に家にこもってつつしむことを何というか。",
+      "answer": "物忌",
+      "reading": "ものいみ",
+      "alternatives": [],
+      "explanation": "凶の方角をさけて移動する方違もおこなわれた。",
+      "yearStart": 1000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0403-01",
+      "subject": "nihonshi-tankyu",
+      "question": "10世紀以降、任国におもむいて、地方の政治と徴税を一手に引き受けた国司の最上席者を何というか。",
+      "answer": "受領",
+      "reading": "ずりょう",
+      "alternatives": [],
+      "explanation": "一定の額の税を納めればよいとされたため、私腹を肥やす者も多かった。",
+      "yearStart": 950,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0403-02",
+      "subject": "nihonshi-tankyu",
+      "question": "988年に、尾張国の郡司や有力農民たちが、国司の暴政を朝廷にうったえた文書を何というか。",
+      "answer": "尾張国郡司百姓等解",
+      "reading": "おわりのくにぐんじひゃくせいらのげ",
+      "alternatives": [
+        "尾張国郡司百姓等解文"
+      ],
+      "explanation": "うったえられた国司は藤原元命。",
+      "yearStart": 988,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0403-03",
+      "subject": "nihonshi-tankyu",
+      "question": "国司に任命されても、任国にはおもむかず、かわりに目代を派遣して収入だけをえることを何というか。",
+      "answer": "遙任",
+      "reading": "ようにん",
+      "alternatives": [],
+      "explanation": "目代は、現地の有力者である在庁官人を指揮して政治をおこなった。",
+      "yearStart": 1000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0403-04",
+      "subject": "nihonshi-tankyu",
+      "question": "朝廷の儀式や寺社の造営などの費用を負担して、その見返りに官職をえることを何というか。",
+      "answer": "成功",
+      "reading": "じょうごう",
+      "alternatives": [],
+      "explanation": "同じ方法で、同じ官職に再び任命してもらうことを重任という。",
+      "yearStart": 1000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0403-05",
+      "subject": "nihonshi-tankyu",
+      "question": "10世紀以降、国司から田地の耕作を請け負った有力な農民を何というか。",
+      "answer": "田堵",
+      "reading": "たと",
+      "alternatives": [],
+      "explanation": "請け負った田地は、請負人の名をつけて名（名田）と呼ばれた。",
+      "yearStart": 950,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0403-06",
+      "subject": "nihonshi-tankyu",
+      "question": "田堵が耕作を請け負った、課税の単位となる田地を何というか。",
+      "answer": "名",
+      "reading": "みょう",
+      "alternatives": [
+        "名田"
+      ],
+      "explanation": "それまでの人を単位とする税から、土地を単位とする税に変わった。",
+      "yearStart": 950,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0403-07",
+      "subject": "nihonshi-tankyu",
+      "question": "11世紀に、周辺の土地を開発して支配を広げた、地方の有力者を何というか。",
+      "answer": "開発領主",
+      "reading": "かいほつりょうしゅ",
+      "alternatives": [],
+      "explanation": "国司の圧迫をのがれるために、所領を中央の貴族や寺社に寄進する者が現れた。",
+      "yearStart": 1050,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0403-08",
+      "subject": "nihonshi-tankyu",
+      "question": "開発領主が、中央の有力な貴族や寺社に寄進して成立した荘園を何というか。",
+      "answer": "寄進地系荘園",
+      "reading": "きしんちけいしょうえん",
+      "alternatives": [],
+      "explanation": "寄進した者は、現地を管理する荘官となった。",
+      "yearStart": 1050,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0403-09",
+      "subject": "nihonshi-tankyu",
+      "question": "開発領主から荘園の寄進を受けた、貴族や寺社を何というか。",
+      "answer": "領家",
+      "reading": "りょうけ",
+      "alternatives": [],
+      "explanation": "領家がさらに上級の皇族や摂関家などに寄進した場合、その上級の領主を本家という。",
+      "yearStart": 1050,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0403-10",
+      "subject": "nihonshi-tankyu",
+      "question": "荘園がもった権利のうち、税の一部またはすべてを免除される権利を何というか。",
+      "answer": "不輸の権",
+      "reading": "ふゆのけん",
+      "alternatives": [
+        "不輸"
+      ],
+      "explanation": "太政官や民部省の文書で認められた荘園を官省符荘という。",
+      "yearStart": 1050,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0403-11",
+      "subject": "nihonshi-tankyu",
+      "question": "荘園がもった権利のうち、国司が派遣する役人の立ち入りをこばむ権利を何というか。",
+      "answer": "不入の権",
+      "reading": "ふにゅうのけん",
+      "alternatives": [
+        "不入"
+      ],
+      "explanation": "荘園は国家の支配から独立していった。",
+      "yearStart": 1050,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0403-12",
+      "subject": "nihonshi-tankyu",
+      "question": "9世紀末から10世紀に、地方の豪族や有力な農民が、勢力を守り広げるために武装して成長した人々を何というか。",
+      "answer": "武士",
+      "reading": "ぶし",
+      "alternatives": [],
+      "explanation": "一族や従者を率いて、たがいに争ったり、国司に反抗したりした。",
+      "yearStart": 900,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0403-13",
+      "subject": "nihonshi-tankyu",
+      "question": "武士たちが、一族の家子や、従者の郎党を率いてつくった戦いのための集団を何というか。",
+      "answer": "武士団",
+      "reading": "ぶしだん",
+      "alternatives": [],
+      "explanation": "やがて、皇族や貴族の子孫を棟梁としてあおぐ大きな集団に成長した。",
+      "yearStart": 950,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0403-14",
+      "subject": "nihonshi-tankyu",
+      "question": "武士団の棟梁としてあおがれた2つの氏は、桓武平氏と何か。",
+      "answer": "清和源氏",
+      "reading": "せいわげんじ",
+      "alternatives": [],
+      "explanation": "清和天皇の子孫にあたる。",
+      "yearStart": 950,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0403-15",
+      "subject": "nihonshi-tankyu",
+      "question": "9世紀末に宮中の警備のためにもうけられ、武士が任命された役職を何というか。",
+      "answer": "滝口の武者",
+      "reading": "たきぐちのむしゃ",
+      "alternatives": [],
+      "explanation": "貴族たちも、身辺の警護のために武士をやとった。",
+      "yearStart": 895,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0403-16",
+      "subject": "nihonshi-tankyu",
+      "question": "939年に、関東で反乱をおこし、常陸・下野・上野の国府を攻め落として「新皇」と名乗った人物は誰か。",
+      "answer": "平将門",
+      "reading": "たいらのまさかど",
+      "alternatives": [],
+      "explanation": "一族の平貞盛と、下野の藤原秀郷によって討たれた。",
+      "yearStart": 939,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0403-17",
+      "subject": "nihonshi-tankyu",
+      "question": "939年に、もと伊予の国司で、瀬戸内海の海賊を率いて反乱をおこした人物は誰か。",
+      "answer": "藤原純友",
+      "reading": "ふじわらのすみとも",
+      "alternatives": [],
+      "explanation": "大宰府を攻め落としたが、源経基らによって討たれた。",
+      "yearStart": 939,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0403-18",
+      "subject": "nihonshi-tankyu",
+      "question": "平将門の乱と藤原純友の乱をあわせて何というか。",
+      "answer": "承平・天慶の乱",
+      "reading": "じょうへい・てんぎょうのらん",
+      "alternatives": [],
+      "explanation": "朝廷の軍事力の弱さが明らかになり、地方の武士の実力が知られるようになった。",
+      "yearStart": 939,
+      "yearEnd": 941,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0403-19",
+      "subject": "nihonshi-tankyu",
+      "question": "1028年に、上総で反乱をおこし、源頼信によってしずめられた人物は誰か。",
+      "answer": "平忠常",
+      "reading": "たいらのただつね",
+      "alternatives": [],
+      "explanation": "この乱をきっかけに、源氏が東国に進出した。",
+      "yearStart": 1028,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0403-20",
+      "subject": "nihonshi-tankyu",
+      "question": "1051年から、陸奥の豪族の安倍氏がおこした反乱を、源頼義・義家の親子がしずめた戦いを何というか。",
+      "answer": "前九年合戦",
+      "reading": "ぜんくねんかっせん",
+      "alternatives": [
+        "前九年の役"
+      ],
+      "explanation": "出羽の豪族の清原氏の助けをえて平定した。",
+      "yearStart": 1051,
+      "yearEnd": 1062,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0403-21",
+      "subject": "nihonshi-tankyu",
+      "question": "1083年から、清原氏の一族の争いに、陸奥守の源義家が介入してしずめた戦いを何というか。",
+      "answer": "後三年合戦",
+      "reading": "ごさんねんかっせん",
+      "alternatives": [
+        "後三年の役"
+      ],
+      "explanation": "その後、藤原（清原）清衡が奥羽を支配し、奥州藤原氏の基礎をきずいた。",
+      "yearStart": 1083,
+      "yearEnd": 1087,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0403-22",
+      "subject": "nihonshi-tankyu",
+      "question": "前九年合戦・後三年合戦で活躍し、東国の武士団との結びつきを強めて、源氏の名声を高めた武将は誰か。",
+      "answer": "源義家",
+      "reading": "みなもとのよしいえ",
+      "alternatives": [],
+      "explanation": "八幡太郎と呼ばれた。",
+      "yearStart": 1083,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

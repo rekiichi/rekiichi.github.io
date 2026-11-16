@@ -1,0 +1,81 @@
+# GitHub Pages への公開。main ブランチに push すると
+#   データの変換・検証 → テスト → 型チェック → ビルド → ビルド結果の確認 → 公開
+# の順に実行する。どこかで失敗したら公開されない（いまのサイトはそのまま）。
+#
+# 公開URL（独自ドメインか、https://<ユーザー名>.github.io/<リポジトリ名>/ か）は
+# actions/configure-pages が返す値を SITE_URL・BASE_PATH としてビルドに渡すので、設定の書き換えは不要。
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Configure GitHub Pages
+        id: pages
+        uses: actions/configure-pages@v6
+
+      - run: npm ci
+
+      - name: Convert CSV and validate data
+        run: npm run data
+
+      - run: npm test
+
+      - name: Type check
+        run: npm run check
+
+      # お問い合わせフォーム・広告（AdSense）などは、リポジトリ変数に入れると反映される
+      # （Settings → Secrets and variables → Actions → Variables。入れていない変数は空になり、何も出ない）
+      - name: Build
+        run: npm run build
+        env:
+          SITE_URL: ${{ steps.pages.outputs.origin }}
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+          CONTACT_FORM_URL: ${{ vars.CONTACT_FORM_URL }}
+          REPORT_FORM_URL: ${{ vars.REPORT_FORM_URL }}
+          ADSENSE_CLIENT: ${{ vars.ADSENSE_CLIENT }}
+          ADSENSE_SLOT: ${{ vars.ADSENSE_SLOT }}
+          GOOGLE_SITE_VERIFICATION: ${{ vars.GOOGLE_SITE_VERIFICATION }}
+          OPERATOR_NAME: ${{ vars.OPERATOR_NAME }}
+
+      - name: Check build output
+        run: npm run check:dist
+        env:
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+          ADSENSE_CLIENT: ${{ vars.ADSENSE_CLIENT }}
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v5

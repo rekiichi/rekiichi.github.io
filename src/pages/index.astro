@@ -1,0 +1,85 @@
+---
+import AdSlot from '../components/AdSlot.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { questionsOf, subjects, textbooksOf } from '../lib/site-data';
+import { joinBase, paths } from '../lib/url';
+import { siteConfig } from '../site.config';
+
+const href = (p: string) => joinBase(import.meta.env.BASE_URL, p);
+---
+
+<BaseLayout
+  title={siteConfig.tagline}
+  fullTitle={`${siteConfig.name}｜${siteConfig.tagline}（歴史総合・世界史探究・日本史探究）`}
+  description={siteConfig.description}
+  path="/"
+>
+  <section class="hero">
+    <h1>テスト範囲で解ける、高校歴史の一問一答</h1>
+    <p class="lead">教科書と定期テストの範囲（章・節）を選ぶだけで、その範囲だけの一問一答が作れます。歴史総合・世界史探究・日本史探究に対応。登録不要・無料です。</p>
+  </section>
+
+  <section aria-labelledby="subjects-heading">
+    <h2 id="subjects-heading">科目を選ぶ</h2>
+    <div class="card-grid cols-3">
+      {
+        subjects.map((s) => {
+          const tbCount = textbooksOf(s.id).length;
+          const qCount = questionsOf(s.id).length;
+          return (
+            <a class={`card link-card subject-${s.id}`} href={href(paths.subject(s.id))}>
+              <span class="link-card-title">{s.name}</span>
+              <span class="link-card-text">{s.description}</span>
+              <span class="link-card-text">{tbCount > 0 ? `教科書${tbCount}冊・${qCount}問` : '準備中'}</span>
+            </a>
+          );
+        })
+      }
+    </div>
+  </section>
+
+  <section id="continue" hidden aria-labelledby="continue-heading">
+    <h2 id="continue-heading">続きから</h2>
+    <ul class="row-list" id="continue-list"></ul>
+  </section>
+
+  <section aria-labelledby="howto-heading">
+    <h2 id="howto-heading">使い方は3ステップ</h2>
+    <ol class="steps">
+      <li><div><strong>科目と教科書を選ぶ</strong><br />学校で使っている教科書を選びます。</div></li>
+      <li><div><strong>テスト範囲をチェックする</strong><br />章・節にチェックを入れるか、「第◯章〜第◯章」で範囲を選びます。出題数・出題順・重要度も選べます。</div></li>
+      <li><div><strong>解いて、苦手をくり返す</strong><br />答えを見て○×をつけるか、答えを入力して判定。まちがえた問題は記録され、「苦手だけ」をくり返し解けます。</div></li>
+    </ol>
+    <p><a href={href(paths.guide())}>くわしい使い方を見る</a></p>
+  </section>
+
+  <section aria-labelledby="features-heading">
+    <h2 id="features-heading">できること</h2>
+    <ul class="feature-list">
+      <li><strong>テスト範囲パッケージ</strong>：選んだ範囲はURLになるので、友達に送れば同じ問題セットを解けます。よく使う範囲は「マイ範囲」に保存できます。</li>
+      <li><strong>章ごとの一問一答</strong>：章のページで問題と答えを一覧できます。答えは赤シートのようにタップで表示。</li>
+      <li><strong>入力モード</strong>：全角・半角、ひらがな・カタカナ、中黒やスペースの有無などの表記ゆれを許容して判定します。</li>
+      <li><strong>受験復習モード</strong>：地域別（日本史はテーマ別）の「縦割り」と、時代別の「横割り」で、教科書をまたいで復習できます。</li>
+      <li><strong>テスト直前モード</strong>：重要度「基本」の問題だけを、すばやく回せます。</li>
+    </ul>
+    <p class="small muted">ログインは不要です。学習記録はこの端末のブラウザの中にだけ保存されます（<a href={href(paths.privacy())}>プライバシーポリシー</a>）。</p>
+  </section>
+
+  <AdSlot name="home-middle" />
+
+  <section aria-labelledby="read-heading">
+    <h2 id="read-heading">読みもの</h2>
+    <ul class="row-list">
+      <li>
+        <a class="row-link" href={href(paths.guide())}><span class="row-main"><span class="row-title">使い方</span><span class="row-sub">範囲の選び方・入力モード・苦手の復習など</span></span></a>
+      </li>
+      <li>
+        <a class="row-link" href={href(paths.articles())}><span class="row-main"><span class="row-title">記事一覧</span><span class="row-sub">定期テストに向けた一問一答の使い方など</span></span></a>
+      </li>
+    </ul>
+  </section>
+
+  <script>
+    import '../client/home';
+  </script>
+</BaseLayout>

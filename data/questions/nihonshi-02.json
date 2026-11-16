@@ -1,0 +1,1032 @@
+{
+  "generatedFrom": "nihonshi-02.csv",
+  "_note": "このファイルは nihonshi-02.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "j-0201-01",
+      "subject": "nihonshi-tankyu",
+      "question": "3世紀の中頃から後半に西日本を中心に出現した、円形と方形を組み合わせた形の大きな古墳を何というか。",
+      "answer": "前方後円墳",
+      "reading": "ぜんぽうこうえんふん",
+      "alternatives": [],
+      "explanation": "各地の首長たちが共通の墓の形をもつ政治連合をつくっていたことを示す。",
+      "yearStart": 250,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-02",
+      "subject": "nihonshi-tankyu",
+      "question": "奈良県にある、出現期の古墳のなかで最大の前方後円墳は何か。",
+      "answer": "箸墓古墳",
+      "reading": "はしはかこふん",
+      "alternatives": [],
+      "explanation": "大和地方を中心とする政治連合が成立していたことを示す。",
+      "yearStart": 250,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-03",
+      "subject": "nihonshi-tankyu",
+      "question": "古墳時代に、大和地方を中心に成立した政治連合を何というか。",
+      "answer": "ヤマト政権",
+      "reading": "やまとせいけん",
+      "alternatives": [
+        "大和政権",
+        "ヤマト王権"
+      ],
+      "explanation": "4世紀の中頃までに東北地方の中部まで支配を広げた。",
+      "yearStart": 300,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-04",
+      "subject": "nihonshi-tankyu",
+      "question": "古墳の墳丘の上にならべられた、素焼きの焼き物を何というか。",
+      "answer": "埴輪",
+      "reading": "はにわ",
+      "alternatives": [],
+      "explanation": "はじめは円筒埴輪が中心で、のちに家や人物、動物などをかたどった形象埴輪がつくられた。",
+      "yearStart": 300,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-05",
+      "subject": "nihonshi-tankyu",
+      "question": "前期の古墳に多くみられる、墳丘の上から掘った穴に棺をおさめて石でおおう埋葬施設を何というか。",
+      "answer": "竪穴式石室",
+      "reading": "たてあなしきせきしつ",
+      "alternatives": [],
+      "explanation": "銅鏡や腕輪形の石製品など、呪術的な色あいの強い品が副葬された。",
+      "yearStart": 300,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0201-06",
+      "subject": "nihonshi-tankyu",
+      "question": "前期の古墳に多く副葬された、縁の断面が三角形をしている銅鏡を何というか。",
+      "answer": "三角縁神獣鏡",
+      "reading": "さんかくぶちしんじゅうきょう",
+      "alternatives": [],
+      "explanation": "被葬者が司祭者的な性格をもっていたことを示す。",
+      "yearStart": 300,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0201-07",
+      "subject": "nihonshi-tankyu",
+      "question": "大阪府の百舌鳥古墳群にある、日本最大の前方後円墳は何か。",
+      "answer": "大仙陵古墳",
+      "reading": "だいせんりょうこふん",
+      "alternatives": [
+        "大山古墳",
+        "仁徳天皇陵古墳",
+        "仁徳天皇陵"
+      ],
+      "explanation": "5世紀につくられ、墳丘の長さは486mある。",
+      "yearStart": 450,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-08",
+      "subject": "nihonshi-tankyu",
+      "question": "大阪府の古市古墳群にある、日本で2番目に大きい前方後円墳は何か。",
+      "answer": "誉田御廟山古墳",
+      "reading": "こんだごびょうやまこふん",
+      "alternatives": [
+        "応神天皇陵古墳",
+        "応神天皇陵"
+      ],
+      "explanation": "ヤマト政権の盟主である大王の墓と考えられている。",
+      "yearStart": 420,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0201-09",
+      "subject": "nihonshi-tankyu",
+      "question": "中期の古墳の副葬品に多くなる、被葬者の武人的な性格を示すものを、武器・武具のほかに1つあげよ。",
+      "answer": "馬具",
+      "reading": "ばぐ",
+      "alternatives": [],
+      "explanation": "朝鮮半島から騎馬の技術が伝わったことを示す。",
+      "yearStart": 450,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0201-10",
+      "subject": "nihonshi-tankyu",
+      "question": "後期の古墳に広くみられる、墓室と外部を通路で結び、あとから追加の埋葬ができる埋葬施設を何というか。",
+      "answer": "横穴式石室",
+      "reading": "よこあなしきせきしつ",
+      "alternatives": [],
+      "explanation": "遺体をおさめる玄室と、通路の羨道からなる。",
+      "yearStart": 550,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-11",
+      "subject": "nihonshi-tankyu",
+      "question": "古墳時代の後期に各地につくられた、小さな古墳が多数集まったものを何というか。",
+      "answer": "群集墳",
+      "reading": "ぐんしゅうふん",
+      "alternatives": [],
+      "explanation": "有力な農民も古墳をつくるようになったことを示す。",
+      "yearStart": 550,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-12",
+      "subject": "nihonshi-tankyu",
+      "question": "7世紀末から8世紀初めにつくられた、男女の群像や星座などの壁画で知られる奈良県明日香村の古墳は何か。",
+      "answer": "高松塚古墳",
+      "reading": "たかまつづかこふん",
+      "alternatives": [],
+      "explanation": "中国や朝鮮半島の影響がみられる。",
+      "yearStart": 700,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0201-13",
+      "subject": "nihonshi-tankyu",
+      "question": "4世紀に朝鮮半島の南部で、鉄資源をもち、倭（ヤマト政権）が密接な関係をもった小国の連合を何というか。",
+      "answer": "加耶",
+      "reading": "かや",
+      "alternatives": [
+        "加羅",
+        "伽耶",
+        "加耶諸国"
+      ],
+      "explanation": "『日本書紀』では「任那」と呼ばれた。",
+      "yearStart": 370,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-14",
+      "subject": "nihonshi-tankyu",
+      "question": "4世紀末に倭が朝鮮半島に兵を送り、高句麗と戦ったことを記す石碑は何か。",
+      "answer": "好太王碑",
+      "reading": "こうたいおうひ",
+      "alternatives": [
+        "広開土王碑",
+        "高句麗好太王碑"
+      ],
+      "explanation": "高句麗の都のあった丸都（中国の吉林省）に建てられた。",
+      "yearStart": 414,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-15",
+      "subject": "nihonshi-tankyu",
+      "question": "百済の王が倭王におくったとされる、奈良県の石上神宮に伝わる鉄の剣は何か。",
+      "answer": "七支刀",
+      "reading": "しちしとう",
+      "alternatives": [],
+      "explanation": "4世紀後半の倭と百済の関係を示す。",
+      "yearStart": 369,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0201-16",
+      "subject": "nihonshi-tankyu",
+      "question": "5世紀に、中国の南朝に使いを送った讃・珍・済・興・武の5人の王を何というか。",
+      "answer": "倭の五王",
+      "reading": "わのごおう",
+      "alternatives": [],
+      "explanation": "朝鮮半島での立場を有利にするために、中国の皇帝の権威を借りようとした。",
+      "yearStart": 450,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-17",
+      "subject": "nihonshi-tankyu",
+      "question": "倭の五王の朝貢について記す中国の歴史書は何か。",
+      "answer": "『宋書』倭国伝",
+      "reading": "そうじょわこくでん",
+      "alternatives": [
+        "宋書"
+      ],
+      "explanation": "478年の倭王武の上表文がのせられている。",
+      "yearStart": 478,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-18",
+      "subject": "nihonshi-tankyu",
+      "question": "倭の五王のうち、雄略天皇にあたると考えられている王は誰か。",
+      "answer": "武",
+      "reading": "ぶ",
+      "alternatives": [],
+      "explanation": "埼玉県や熊本県の古墳から出土した鉄剣・鉄刀にみえる「ワカタケル大王」と同じ人物と考えられている。",
+      "yearStart": 478,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-19",
+      "subject": "nihonshi-tankyu",
+      "question": "「ワカタケル大王」の名をふくむ銘文をもつ鉄剣が出土した、埼玉県の古墳は何か。",
+      "answer": "稲荷山古墳",
+      "reading": "いなりやまこふん",
+      "alternatives": [],
+      "explanation": "熊本県の江田船山古墳出土の鉄刀にも同じ大王の名がみえる。",
+      "yearStart": 471,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-20",
+      "subject": "nihonshi-tankyu",
+      "question": "古墳時代に、朝鮮半島や中国から日本列島に移り住み、進んだ技術や文化を伝えた人々を何というか。",
+      "answer": "渡来人",
+      "reading": "とらいじん",
+      "alternatives": [],
+      "explanation": "ヤマト政権は彼らを技術者集団に組織した。",
+      "yearStart": 450,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-21",
+      "subject": "nihonshi-tankyu",
+      "question": "渡来人のうち、『論語』などを伝えたとされ、西文氏の祖とされる人物は誰か。",
+      "answer": "王仁",
+      "reading": "わに",
+      "alternatives": [],
+      "explanation": "阿知使主は東漢氏の祖、弓月君は秦氏の祖とされる。",
+      "yearStart": 400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0201-22",
+      "subject": "nihonshi-tankyu",
+      "question": "5世紀に朝鮮半島から伝わった技術でつくられた、硬質で灰色の土器を何というか。",
+      "answer": "須恵器",
+      "reading": "すえき",
+      "alternatives": [],
+      "explanation": "弥生土器の系譜をひく赤焼きの土器は土師器という。",
+      "yearStart": 450,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-23",
+      "subject": "nihonshi-tankyu",
+      "question": "6世紀に、百済の聖明王が欽明天皇に仏像や経典を伝えた出来事を何というか。",
+      "answer": "仏教公伝",
+      "reading": "ぶっきょうこうでん",
+      "alternatives": [
+        "仏教伝来"
+      ],
+      "explanation": "伝わった年には538年とする説と552年とする説がある。",
+      "yearStart": 538,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-24",
+      "subject": "nihonshi-tankyu",
+      "question": "6世紀に百済から渡来して、儒教を伝えた学者たちを何というか。",
+      "answer": "五経博士",
+      "reading": "ごきょうはかせ",
+      "alternatives": [],
+      "explanation": "医学・易学・暦学なども伝えられた。",
+      "yearStart": 513,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0201-25",
+      "subject": "nihonshi-tankyu",
+      "question": "古墳時代の豊作を祈る春の祭りを何というか。",
+      "answer": "祈年の祭",
+      "reading": "としごいのまつり",
+      "alternatives": [
+        "祈年祭"
+      ],
+      "explanation": "収穫を感謝する秋の祭りは新嘗の祭という。",
+      "yearStart": 500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0201-26",
+      "subject": "nihonshi-tankyu",
+      "question": "古墳時代におこなわれた、熱湯に手を入れさせて、やけどの有無で真偽を判断する神判を何というか。",
+      "answer": "盟神探湯",
+      "reading": "くかたち",
+      "alternatives": [],
+      "explanation": "鹿の骨を焼いて吉凶を占う太占の法もおこなわれた。",
+      "yearStart": 500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0201-27",
+      "subject": "nihonshi-tankyu",
+      "question": "ヤマト政権が、豪族を血縁などにもとづく集団に組織し、地位を示す称号を与えて支配したしくみを何というか。",
+      "answer": "氏姓制度",
+      "reading": "しせいせいど",
+      "alternatives": [],
+      "explanation": "豪族は氏を単位として、ヤマト政権の職務を分担した。",
+      "yearStart": 500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-28",
+      "subject": "nihonshi-tankyu",
+      "question": "氏姓制度で、大王が豪族に与えた、家柄や地位を示す称号を何というか。",
+      "answer": "姓",
+      "reading": "かばね",
+      "alternatives": [],
+      "explanation": "臣・連・君・直・造・首などがある。",
+      "yearStart": 500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-29",
+      "subject": "nihonshi-tankyu",
+      "question": "ヤマト政権で、中央の政治をになった最有力の豪族に与えられた2つの地位は、大臣と何か。",
+      "answer": "大連",
+      "reading": "おおむらじ",
+      "alternatives": [],
+      "explanation": "大臣には蘇我氏など、大連には大伴氏や物部氏がついた。",
+      "yearStart": 500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-30",
+      "subject": "nihonshi-tankyu",
+      "question": "ヤマト政権の直轄領を何というか。",
+      "answer": "屯倉",
+      "reading": "みやけ",
+      "alternatives": [],
+      "explanation": "直轄民は名代・子代と呼ばれた。",
+      "yearStart": 500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0201-31",
+      "subject": "nihonshi-tankyu",
+      "question": "ヤマト政権のもとで、豪族が私有した土地を何というか。",
+      "answer": "田荘",
+      "reading": "たどころ",
+      "alternatives": [],
+      "explanation": "豪族の私有民は部曲と呼ばれた。",
+      "yearStart": 500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0201-32",
+      "subject": "nihonshi-tankyu",
+      "question": "ヤマト政権のもとで、豪族が私有した民を何というか。",
+      "answer": "部曲",
+      "reading": "かきべ",
+      "alternatives": [],
+      "explanation": "大化改新で廃止の方針が示された。",
+      "yearStart": 500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0201-33",
+      "subject": "nihonshi-tankyu",
+      "question": "ヤマト政権が、服属した地方の豪族に与えた地位で、その地方の支配を認めたものを何というか。",
+      "answer": "国造",
+      "reading": "くにのみやつこ",
+      "alternatives": [],
+      "explanation": "子女を大王のもとに出仕させ、特産物を納めた。",
+      "yearStart": 500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0201-34",
+      "subject": "nihonshi-tankyu",
+      "question": "527年に、新羅と結んでヤマト政権に反乱をおこした九州北部の豪族は誰か。",
+      "answer": "筑紫国造磐井",
+      "reading": "つくしのくにのみやつこいわい",
+      "alternatives": [
+        "磐井",
+        "筑紫君磐井"
+      ],
+      "explanation": "この反乱を磐井の乱という。物部麁鹿火によってしずめられた。",
+      "yearStart": 527,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0202-01",
+      "subject": "nihonshi-tankyu",
+      "question": "6世紀初めに、朝鮮半島の政策をめぐって失脚した大連は誰か。",
+      "answer": "大伴金村",
+      "reading": "おおとものかなむら",
+      "alternatives": [],
+      "explanation": "加耶西部の支配を百済に認めたことを責められた。",
+      "yearStart": 540,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0202-02",
+      "subject": "nihonshi-tankyu",
+      "question": "6世紀に、渡来人と結んで朝廷の財政をにぎり、仏教の受け入れを主張した豪族は何氏か。",
+      "answer": "蘇我氏",
+      "reading": "そがし",
+      "alternatives": [],
+      "explanation": "仏教の受け入れに反対する物部氏と対立した。",
+      "yearStart": 550,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0202-03",
+      "subject": "nihonshi-tankyu",
+      "question": "587年に物部守屋を滅ぼし、592年には崇峻天皇を暗殺して権力をにぎった大臣は誰か。",
+      "answer": "蘇我馬子",
+      "reading": "そがのうまこ",
+      "alternatives": [],
+      "explanation": "飛鳥寺を建立した。",
+      "yearStart": 587,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0202-04",
+      "subject": "nihonshi-tankyu",
+      "question": "592年に即位した、日本で最初の女性の天皇は誰か。",
+      "answer": "推古天皇",
+      "reading": "すいこてんのう",
+      "alternatives": [],
+      "explanation": "甥の厩戸王や蘇我馬子と協力して政治をおこなった。",
+      "yearStart": 592,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0202-05",
+      "subject": "nihonshi-tankyu",
+      "question": "推古天皇のもとで、蘇我馬子と協力して国家組織の形成を進めた皇族は誰か。",
+      "answer": "厩戸王",
+      "reading": "うまやとおう",
+      "alternatives": [
+        "聖徳太子",
+        "厩戸皇子"
+      ],
+      "explanation": "のちに聖徳太子と呼ばれた。",
+      "yearStart": 593,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0202-06",
+      "subject": "nihonshi-tankyu",
+      "question": "603年に定められた、個人の才能や功績に応じて位を与える制度は何か。",
+      "answer": "冠位十二階",
+      "reading": "かんいじゅうにかい",
+      "alternatives": [],
+      "explanation": "氏族単位の世襲の制度を改め、官僚制への道をひらいた。",
+      "yearStart": 603,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0202-07",
+      "subject": "nihonshi-tankyu",
+      "question": "604年に定められた、豪族たちに役人としての心がまえを示した法は何か。",
+      "answer": "憲法十七条",
+      "reading": "けんぽうじゅうしちじょう",
+      "alternatives": [
+        "十七条憲法"
+      ],
+      "explanation": "仏教を新しい政治理念として重んじた。",
+      "yearStart": 604,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0202-08",
+      "subject": "nihonshi-tankyu",
+      "question": "607年に、遣隋使として隋に派遣された人物は誰か。",
+      "answer": "小野妹子",
+      "reading": "おののいもこ",
+      "alternatives": [],
+      "explanation": "「日出づる処の天子」で始まる国書を持参し、隋に服属しない姿勢を示した。",
+      "yearStart": 607,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0202-09",
+      "subject": "nihonshi-tankyu",
+      "question": "小野妹子が国書を渡した隋の皇帝は誰か。",
+      "answer": "煬帝",
+      "reading": "ようだい",
+      "alternatives": [],
+      "explanation": "国書を無礼としたが、翌年、裴世清を使節として日本に送った。",
+      "yearStart": 607,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0202-10",
+      "subject": "nihonshi-tankyu",
+      "question": "遣隋使に同行した留学生・学問僧のうち、のちに大化改新で国博士となった人物を、旻のほかに1人あげよ。",
+      "answer": "高向玄理",
+      "reading": "たかむこのげんり",
+      "alternatives": [],
+      "explanation": "南淵請安も留学し、帰国後に中大兄皇子らに影響を与えた。",
+      "yearStart": 608,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0202-11",
+      "subject": "nihonshi-tankyu",
+      "question": "7世紀前半に、飛鳥地方を中心に栄えた、日本で最初の仏教文化を何というか。",
+      "answer": "飛鳥文化",
+      "reading": "あすかぶんか",
+      "alternatives": [],
+      "explanation": "百済や高句麗、中国の南北朝の文化の影響を受けた。",
+      "yearStart": 600,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0202-12",
+      "subject": "nihonshi-tankyu",
+      "question": "蘇我馬子が建立した、日本で最初の本格的な寺院は何か。",
+      "answer": "飛鳥寺",
+      "reading": "あすかでら",
+      "alternatives": [
+        "法興寺"
+      ],
+      "explanation": "塔を中心に3つの金堂をもつ伽藍配置をとった。",
+      "yearStart": 596,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0202-13",
+      "subject": "nihonshi-tankyu",
+      "question": "厩戸王が建立したと伝えられ、現存する世界最古の木造建築として知られる寺院は何か。",
+      "answer": "法隆寺",
+      "reading": "ほうりゅうじ",
+      "alternatives": [
+        "斑鳩寺"
+      ],
+      "explanation": "670年に焼けたのちに再建されたとする説が有力である。",
+      "yearStart": 607,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0202-14",
+      "subject": "nihonshi-tankyu",
+      "question": "厩戸王が建立したと伝えられる、大阪にある寺院は何か。",
+      "answer": "四天王寺",
+      "reading": "してんのうじ",
+      "alternatives": [],
+      "explanation": "豪族たちも一族のための寺院（氏寺）を建てた。",
+      "yearStart": 593,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0202-15",
+      "subject": "nihonshi-tankyu",
+      "question": "法隆寺金堂の釈迦三尊像をつくった仏師は誰か。",
+      "answer": "鞍作鳥",
+      "reading": "くらつくりのとり",
+      "alternatives": [
+        "止利仏師"
+      ],
+      "explanation": "中国の北魏の様式を受けついだ、力強い作風で知られる。",
+      "yearStart": 623,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0202-16",
+      "subject": "nihonshi-tankyu",
+      "question": "京都の広隆寺や奈良の中宮寺に伝わる、片足を組んで考える姿の仏像を何というか。",
+      "answer": "半跏思惟像",
+      "reading": "はんかしいぞう",
+      "alternatives": [],
+      "explanation": "やわらかい表情をもち、中国の南朝の様式に近いとされる。",
+      "yearStart": 620,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0202-17",
+      "subject": "nihonshi-tankyu",
+      "question": "法隆寺に伝わる、タマムシの羽でかざられた仏教工芸品は何か。",
+      "answer": "玉虫厨子",
+      "reading": "たまむしのずし",
+      "alternatives": [],
+      "explanation": "側面に仏教の説話の絵がえがかれている。",
+      "yearStart": 650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0202-18",
+      "subject": "nihonshi-tankyu",
+      "question": "中宮寺に伝わる、厩戸王の死後の世界をえがいたとされる刺繍は何か。",
+      "answer": "天寿国繡帳",
+      "reading": "てんじゅこくしゅうちょう",
+      "alternatives": [
+        "天寿国曼荼羅繡帳"
+      ],
+      "explanation": "妃の橘大郎女がつくらせた。",
+      "yearStart": 622,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0202-19",
+      "subject": "nihonshi-tankyu",
+      "question": "7世紀初めに高句麗から来日し、彩色や紙・墨の技法を伝えたとされる僧は誰か。",
+      "answer": "曇徴",
+      "reading": "どんちょう",
+      "alternatives": [],
+      "explanation": "百済の僧観勒は暦法を伝えた。",
+      "yearStart": 610,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

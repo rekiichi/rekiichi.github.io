@@ -1,0 +1,1453 @@
+{
+  "generatedFrom": "sekaishi-18.csv",
+  "_note": "このファイルは sekaishi-18.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "w-1801-01",
+      "subject": "sekaishi-tankyu",
+      "question": "1954年に、アメリカが東南アジアでの共産主義の拡大を防ぐために、イギリス・フランス・タイ・フィリピンなどと結成した軍事同盟は何か。",
+      "answer": "東南アジア条約機構",
+      "reading": "とうなんあじあじょうやくきこう",
+      "alternatives": [
+        "SEATO"
+      ],
+      "explanation": "アメリカは各地に軍事同盟の網をはりめぐらせた。",
+      "yearStart": 1954,
+      "regions": [
+        "東南アジア",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1801-02",
+      "subject": "sekaishi-tankyu",
+      "question": "1955年に、トルコ・イラク・イラン・パキスタンとイギリスが結成した、西アジアの軍事同盟は何か。",
+      "answer": "バグダード条約機構",
+      "alternatives": [
+        "中東条約機構",
+        "METO"
+      ],
+      "explanation": "イラクが革命で脱退したのち、中央条約機構（CENTO）と改称した。",
+      "yearStart": 1955,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1801-03",
+      "subject": "sekaishi-tankyu",
+      "question": "1954年に、アメリカが太平洋でおこなった水爆実験で、日本の漁船が被ばくした環礁はどこか。",
+      "answer": "ビキニ環礁",
+      "alternatives": [
+        "ビキニ"
+      ],
+      "explanation": "この事件をきっかけに、日本で原水爆禁止運動が広がった。",
+      "yearStart": 1954,
+      "regions": [
+        "オセアニア",
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1801-04",
+      "subject": "sekaishi-tankyu",
+      "question": "1955年に、哲学者と物理学者の名で出された、核兵器の廃絶と戦争の放棄をうったえた宣言は何か。",
+      "answer": "ラッセル・アインシュタイン宣言",
+      "alternatives": [],
+      "explanation": "これを受けて、科学者たちによるパグウォッシュ会議がひらかれた。",
+      "yearStart": 1955,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1801-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1950年代前半のアメリカで、共産主義者とみなされた人々を公職などから追放した動きを何というか。",
+      "answer": "赤狩り",
+      "reading": "あかがり",
+      "alternatives": [
+        "マッカーシズム"
+      ],
+      "explanation": "上院議員マッカーシーが中心となった。",
+      "yearStart": 1950,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1801-06",
+      "subject": "sekaishi-tankyu",
+      "question": "1953年に大統領となり、朝鮮戦争の休戦を実現した共和党の人物は誰か。",
+      "answer": "アイゼンハワー",
+      "alternatives": [],
+      "explanation": "第二次世界大戦ではノルマンディー上陸作戦を指揮した。",
+      "yearStart": 1953,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1801-07",
+      "subject": "sekaishi-tankyu",
+      "question": "1952年に、フランス・西ドイツ・イタリアとベネルクス3国が、石炭と鉄鋼の生産を共同で管理するために発足させた組織は何か。",
+      "answer": "ヨーロッパ石炭鉄鋼共同体",
+      "reading": "よーろっぱせきたんてっこうきょうどうたい",
+      "alternatives": [
+        "ECSC"
+      ],
+      "explanation": "フランスの外相シューマンの提案による。ヨーロッパ統合の出発点となった。",
+      "yearStart": 1952,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1801-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1958年に、ECSCの6カ国が、共同市場をつくるために発足させた組織は何か。",
+      "answer": "ヨーロッパ経済共同体",
+      "reading": "よーろっぱけいざいきょうどうたい",
+      "alternatives": [
+        "EEC"
+      ],
+      "explanation": "同じ年にヨーロッパ原子力共同体（EURATOM）も発足した。",
+      "yearStart": 1958,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1801-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1967年に、ヨーロッパの石炭鉄鋼・経済・原子力の3つの共同体が統合されて発足した組織は何か。",
+      "answer": "ヨーロッパ共同体",
+      "reading": "よーろっぱきょうどうたい",
+      "alternatives": [
+        "EC"
+      ],
+      "explanation": "1973年にイギリス・アイルランド・デンマークが加盟した。",
+      "yearStart": 1967,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1801-10",
+      "subject": "sekaishi-tankyu",
+      "question": "1960年に、イギリスがEECに対抗して、北ヨーロッパの国々などと結成した組織は何か。",
+      "answer": "ヨーロッパ自由貿易連合",
+      "reading": "よーろっぱじゆうぼうえきれんごう",
+      "alternatives": [
+        "EFTA"
+      ],
+      "explanation": "イギリスはのちにこれを脱退して、ECに加盟した。",
+      "yearStart": 1960,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1801-11",
+      "subject": "sekaishi-tankyu",
+      "question": "1958年に、アルジェリアの独立問題をめぐる混乱のなかで政権に復帰し、第五共和政を始めたフランスの政治家は誰か。",
+      "answer": "ド=ゴール",
+      "alternatives": [],
+      "explanation": "大統領の権限を強め、アメリカから距離をおく独自の外交を進めた。1962年にアルジェリアの独立を認めた。",
+      "yearStart": 1958,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1801-12",
+      "subject": "sekaishi-tankyu",
+      "question": "ド=ゴールがおこなった独自の外交のうち、1966年にとった、アメリカとの軍事的な関係に関する行動は何か。",
+      "answer": "NATOの軍事機構からの脱退",
+      "alternatives": [
+        "NATO軍事機構からの脱退",
+        "NATO軍事機構脱退"
+      ],
+      "explanation": "核兵器の保有（1960年）や中華人民共和国の承認（1964年）もおこなった。",
+      "yearStart": 1966,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1801-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1953年にスターリンが死去したのち、ソ連共産党の第一書記となって、西側との平和共存を進めた人物は誰か。",
+      "answer": "フルシチョフ",
+      "alternatives": [],
+      "explanation": "1959年にはアメリカを訪問した。",
+      "yearStart": 1953,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1801-14",
+      "subject": "sekaishi-tankyu",
+      "question": "1956年のソ連共産党の大会で、フルシチョフがスターリンの独裁や粛清を批判したことを何というか。",
+      "answer": "スターリン批判",
+      "reading": "すたーりんひはん",
+      "alternatives": [],
+      "explanation": "東ヨーロッパの国々に衝撃を与え、自由化を求める動きがおこった。",
+      "yearStart": 1956,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1801-15",
+      "subject": "sekaishi-tankyu",
+      "question": "スターリンの死後に、ソ連の国内の統制がゆるみ、西側との緊張もやわらいだことを、何ということばで表すか。",
+      "answer": "雪どけ",
+      "reading": "ゆきどけ",
+      "alternatives": [],
+      "explanation": "ソ連の作家の小説の題名から生まれたことば。",
+      "yearStart": 1955,
+      "yearApprox": true,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1801-16",
+      "subject": "sekaishi-tankyu",
+      "question": "1956年に、ハンガリーで社会主義体制からの離脱とソ連軍の撤退を求める運動がおこり、ソ連軍に武力でしずめられた事件を何というか。",
+      "answer": "ハンガリー事件",
+      "alternatives": [
+        "ハンガリー反ソ暴動",
+        "ハンガリー動乱"
+      ],
+      "explanation": "首相のナジ=イムレは処刑された。",
+      "yearStart": 1956,
+      "regions": [
+        "ヨーロッパ",
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1801-17",
+      "subject": "sekaishi-tankyu",
+      "question": "1956年6月に、ポーランドで生活の改善と民主化を求める暴動がおこった都市はどこか。",
+      "answer": "ポズナニ",
+      "alternatives": [],
+      "explanation": "ポーランドではゴムウカが指導者となり、自力で事態をおさめた。",
+      "yearStart": 1956,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1801-18",
+      "subject": "sekaishi-tankyu",
+      "question": "1956年に、日本とソ連が国交を回復した文書は何か。",
+      "answer": "日ソ共同宣言",
+      "reading": "にっそきょうどうせんげん",
+      "alternatives": [],
+      "explanation": "これによって、日本の国際連合への加盟が実現した。",
+      "yearStart": 1956,
+      "regions": [
+        "日本",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1801-19",
+      "subject": "sekaishi-tankyu",
+      "question": "1957年にソ連が打ち上げに成功した、世界で最初の人工衛星は何か。",
+      "answer": "スプートニク1号",
+      "alternatives": [
+        "スプートニク"
+      ],
+      "explanation": "アメリカに大きな衝撃を与え、宇宙開発とミサイル開発の競争がはげしくなった。",
+      "yearStart": 1957,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1801-20",
+      "subject": "sekaishi-tankyu",
+      "question": "1961年に、東ドイツ政府が、市民が西側に逃げるのを防ぐために、西ベルリンのまわりにきずいたものは何か。",
+      "answer": "ベルリンの壁",
+      "reading": "べるりんのかべ",
+      "alternatives": [],
+      "explanation": "東西の対立を象徴するものとなり、1989年まで存在した。",
+      "yearStart": 1961,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-01",
+      "subject": "sekaishi-tankyu",
+      "question": "東西のどちらの陣営にも属さずに、積極的な中立の立場をとろうとした、アジア・アフリカなどの新興の国々を何というか。",
+      "answer": "第三世界",
+      "reading": "だいさんせかい",
+      "alternatives": [
+        "第三勢力"
+      ],
+      "explanation": "植民地支配に反対し、平和共存をうったえた。",
+      "yearStart": 1955,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-02",
+      "subject": "sekaishi-tankyu",
+      "question": "1954年に、中国の周恩来とインドのネルーが会談して発表した、国際関係の原則を何というか。",
+      "answer": "平和五原則",
+      "reading": "へいわごげんそく",
+      "alternatives": [],
+      "explanation": "領土と主権の尊重、相互の不侵略、内政への不干渉、平等と互恵、平和共存の5つ。",
+      "yearStart": 1954,
+      "regions": [
+        "中国",
+        "南アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-03",
+      "subject": "sekaishi-tankyu",
+      "question": "1955年に、インドネシアのバンドンで、アジア・アフリカの29カ国の代表が集まってひらいた会議は何か。",
+      "answer": "アジア=アフリカ会議",
+      "alternatives": [
+        "バンドン会議",
+        "AA会議"
+      ],
+      "explanation": "平和十原則を採択し、反植民地主義と平和共存をうったえた。",
+      "yearStart": 1955,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-04",
+      "subject": "sekaishi-tankyu",
+      "question": "1961年に、ユーゴスラヴィアのベオグラードで第1回がひらかれた、東西のどちらの軍事同盟にも加わらない国々の会議は何か。",
+      "answer": "非同盟諸国首脳会議",
+      "reading": "ひどうめいしょこくしゅのうかいぎ",
+      "alternatives": [],
+      "explanation": "ティトー・ナセル・ネルーらが呼びかけた。",
+      "yearStart": 1961,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1952年のエジプト革命で王政を倒した軍人の一人で、1956年に大統領となった人物は誰か。",
+      "answer": "ナセル",
+      "alternatives": [],
+      "explanation": "アラブ民族主義の指導者として活躍した。",
+      "yearStart": 1956,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-06",
+      "subject": "sekaishi-tankyu",
+      "question": "1956年に、ナセルが、アスワン=ハイダムの建設資金をえるためにおこなった宣言は何か。",
+      "answer": "スエズ運河の国有化",
+      "alternatives": [
+        "スエズ運河国有化",
+        "スエズ運河国有化宣言"
+      ],
+      "explanation": "アメリカとイギリスがダムへの融資を取り消したことに対抗した。",
+      "yearStart": 1956,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-07",
+      "subject": "sekaishi-tankyu",
+      "question": "1956年に、スエズ運河の国有化に反発したイギリス・フランスが、イスラエルとともにエジプトに侵攻した戦争を何というか。",
+      "answer": "スエズ戦争",
+      "alternatives": [
+        "第2次中東戦争"
+      ],
+      "explanation": "国際世論の批判と、アメリカ・ソ連の反対を受けて、3国は撤退した。",
+      "yearStart": 1956,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1967年に、イスラエルがエジプト・シリア・ヨルダンを攻撃し、シナイ半島やヨルダン川西岸などを占領した戦争を何というか。",
+      "answer": "第3次中東戦争",
+      "reading": "だいさんじちゅうとうせんそう",
+      "alternatives": [
+        "六日間戦争",
+        "6日戦争"
+      ],
+      "explanation": "多くのパレスチナ人が新たに難民となった。",
+      "yearStart": 1967,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1964年に結成された、イスラエルに奪われた土地の回復をめざすパレスチナ人の組織は何か。",
+      "answer": "パレスチナ解放機構",
+      "reading": "ぱれすちなかいほうきこう",
+      "alternatives": [
+        "PLO"
+      ],
+      "explanation": "1969年からアラファトが議長をつとめた。",
+      "yearStart": 1964,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-10",
+      "subject": "sekaishi-tankyu",
+      "question": "1957年に、エンクルマ（ンクルマ）の指導のもとで、サハラ以南のアフリカで最初に独立した国はどこか。",
+      "answer": "ガーナ",
+      "alternatives": [],
+      "explanation": "イギリスから独立した。",
+      "yearStart": 1957,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-11",
+      "subject": "sekaishi-tankyu",
+      "question": "アフリカで17の国が独立した1960年は、何と呼ばれるか。",
+      "answer": "アフリカの年",
+      "reading": "あふりかのとし",
+      "alternatives": [],
+      "explanation": "フランスやイギリスの植民地がつぎつぎに独立した。",
+      "yearStart": 1960,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-12",
+      "subject": "sekaishi-tankyu",
+      "question": "1963年に、アフリカ諸国の連帯と、植民地主義の一掃をめざして結成された組織は何か。",
+      "answer": "アフリカ統一機構",
+      "reading": "あふりかとういつきこう",
+      "alternatives": [
+        "OAU"
+      ],
+      "explanation": "エチオピアのアディスアベバでひらかれた会議で結成された。2002年にアフリカ連合（AU）に発展した。",
+      "yearStart": 1963,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1954年から、フランスからの独立をめざす民族解放戦線（FLN）が戦い、1962年に独立を達成した北アフリカの国はどこか。",
+      "answer": "アルジェリア",
+      "alternatives": [],
+      "explanation": "フランス人の入植者が多く、独立戦争は長く続いた。",
+      "yearStart": 1962,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1802-14",
+      "subject": "sekaishi-tankyu",
+      "question": "1960年に、ベルギーから独立した直後に、鉱物資源の豊かな州の分離をめぐって内戦がおこった国はどこか。",
+      "answer": "コンゴ",
+      "alternatives": [
+        "コンゴ共和国",
+        "コンゴ民主共和国"
+      ],
+      "explanation": "この内戦をコンゴ動乱という。",
+      "yearStart": 1960,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1802-15",
+      "subject": "sekaishi-tankyu",
+      "question": "南アフリカで、少数の白人が多数の黒人を差別して支配するためにとられた、人種隔離の政策を何というか。",
+      "answer": "アパルトヘイト",
+      "alternatives": [
+        "人種隔離政策"
+      ],
+      "explanation": "居住地や公共施設、結婚などを人種によって分けた。1991年に法律が廃止された。",
+      "yearStart": 1948,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-16",
+      "subject": "sekaishi-tankyu",
+      "question": "1959年に、カストロやゲバラらが、アメリカの支援する独裁政権を倒した革命を何というか。",
+      "answer": "キューバ革命",
+      "reading": "きゅーばかくめい",
+      "alternatives": [],
+      "explanation": "土地改革やアメリカ系企業の国有化を進め、1961年に社会主義を宣言した。",
+      "yearStart": 1959,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-17",
+      "subject": "sekaishi-tankyu",
+      "question": "1962年に、ソ連がキューバにミサイル基地を建設しようとしたことから、アメリカとソ連が核戦争の寸前まで対立した事件を何というか。",
+      "answer": "キューバ危機",
+      "reading": "きゅーばきき",
+      "alternatives": [],
+      "explanation": "アメリカのケネディ大統領が海上封鎖をおこない、ソ連のフルシチョフがミサイルを撤去して解決した。",
+      "yearStart": 1962,
+      "regions": [
+        "南北アメリカ",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-18",
+      "subject": "sekaishi-tankyu",
+      "question": "1963年に、アメリカ・イギリス・ソ連が結んだ、地下をのぞく核実験を禁止する条約は何か。",
+      "answer": "部分的核実験禁止条約",
+      "reading": "ぶぶんてきかくじっけんきんしじょうやく",
+      "alternatives": [
+        "PTBT"
+      ],
+      "explanation": "フランスと中国は参加しなかった。",
+      "yearStart": 1963,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-19",
+      "subject": "sekaishi-tankyu",
+      "question": "1968年に結ばれた、核兵器をもつ国をふやさないための条約は何か。",
+      "answer": "核拡散防止条約",
+      "reading": "かくかくさんぼうしじょうやく",
+      "alternatives": [
+        "NPT",
+        "核不拡散条約"
+      ],
+      "explanation": "すでに核兵器をもつ5カ国以外の国が、新しく核兵器をもつことを禁じた。",
+      "yearStart": 1968,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1802-20",
+      "subject": "sekaishi-tankyu",
+      "question": "1946年にアルゼンチンの大統領となり、労働者の保護や産業の国有化など、民族主義的な政策をおこなった人物は誰か。",
+      "answer": "ペロン",
+      "alternatives": [],
+      "explanation": "アメリカの影響力に対抗しようとした。",
+      "yearStart": 1946,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1802-21",
+      "subject": "sekaishi-tankyu",
+      "question": "先進工業国と発展途上国のあいだの経済格差と、そこから生じる問題を何というか。",
+      "answer": "南北問題",
+      "reading": "なんぼくもんだい",
+      "alternatives": [],
+      "explanation": "1964年に国連貿易開発会議（UNCTAD）が設立された。",
+      "yearStart": 1964,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-01",
+      "subject": "sekaishi-tankyu",
+      "question": "1955年に、アメリカの支援を受けて南ベトナムに成立した国は何か。",
+      "answer": "ベトナム共和国",
+      "reading": "べとなむきょうわこく",
+      "alternatives": [],
+      "explanation": "ゴ=ディン=ジエムが大統領となり、ジュネーヴ休戦協定で約束された統一選挙をこばんだ。",
+      "yearStart": 1955,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-02",
+      "subject": "sekaishi-tankyu",
+      "question": "1960年に、南ベトナムで、政府に反対する人々が北ベトナムと結んで結成した組織は何か。",
+      "answer": "南ベトナム解放民族戦線",
+      "reading": "みなみべとなむかいほうみんぞくせんせん",
+      "alternatives": [
+        "解放戦線"
+      ],
+      "explanation": "ゲリラ戦で政府軍と戦った。",
+      "yearStart": 1960,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-03",
+      "subject": "sekaishi-tankyu",
+      "question": "1965年に、アメリカのジョンソン大統領が始めた、北ベトナムへの爆撃を何というか。",
+      "answer": "北爆",
+      "reading": "ほくばく",
+      "alternatives": [],
+      "explanation": "前年のトンキン湾事件を口実とした。アメリカは最大で約50万人の地上軍も送った。",
+      "yearStart": 1965,
+      "regions": [
+        "東南アジア",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-04",
+      "subject": "sekaishi-tankyu",
+      "question": "アメリカが本格的に介入して、1975年まで続いたベトナムでの戦争を何というか。",
+      "answer": "ベトナム戦争",
+      "reading": "べとなむせんそう",
+      "alternatives": [],
+      "explanation": "世界中で反戦運動が広がり、アメリカの国際的な威信と経済力は大きく傷ついた。",
+      "yearStart": 1965,
+      "yearEnd": 1975,
+      "regions": [
+        "東南アジア",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1973年に結ばれ、アメリカ軍がベトナムから撤退することを決めた取り決めは何か。",
+      "answer": "ベトナム和平協定",
+      "reading": "べとなむわへいきょうてい",
+      "alternatives": [
+        "パリ和平協定",
+        "ベトナム（パリ）和平協定"
+      ],
+      "explanation": "1975年に北ベトナム軍と解放戦線がサイゴンを占領し、翌年に南北が統一された。",
+      "yearStart": 1973,
+      "regions": [
+        "東南アジア",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-06",
+      "subject": "sekaishi-tankyu",
+      "question": "1976年に、南北ベトナムが統一されて成立した国は何か。",
+      "answer": "ベトナム社会主義共和国",
+      "reading": "べとなむしゃかいしゅぎきょうわこく",
+      "alternatives": [],
+      "explanation": "首都はハノイ。",
+      "yearStart": 1976,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-07",
+      "subject": "sekaishi-tankyu",
+      "question": "1975年にカンボジアで政権をにぎり、都市の住民を農村に強制的に移住させ、多くの人々を虐殺した指導者は誰か。",
+      "answer": "ポル=ポト",
+      "alternatives": [],
+      "explanation": "1979年に、ベトナム軍の支援を受けた勢力に政権を追われた。",
+      "yearStart": 1975,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1979年に、中国が、カンボジアに侵攻したベトナムを「こらしめる」としておこした戦争を何というか。",
+      "answer": "中越戦争",
+      "reading": "ちゅうえつせんそう",
+      "alternatives": [],
+      "explanation": "中国はポル=ポト政権を支持していた。",
+      "yearStart": 1979,
+      "regions": [
+        "中国",
+        "東南アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1803-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1961年に大統領となり、ニューフロンティア政策をかかげ、キューバ危機に対応したが、1963年に暗殺された人物は誰か。",
+      "answer": "ケネディ",
+      "alternatives": [],
+      "explanation": "黒人差別の撤廃にも取り組もうとした。",
+      "yearStart": 1961,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-10",
+      "subject": "sekaishi-tankyu",
+      "question": "1950年代から60年代のアメリカで、黒人が白人と平等な権利を求めておこなった運動を何というか。",
+      "answer": "公民権運動",
+      "reading": "こうみんけんうんどう",
+      "alternatives": [],
+      "explanation": "キング牧師が非暴力の運動を指導した。",
+      "yearStart": 1963,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-11",
+      "subject": "sekaishi-tankyu",
+      "question": "公民権運動を指導し、1963年のワシントン大行進で「私には夢がある」と演説した人物は誰か。",
+      "answer": "キング牧師",
+      "alternatives": [
+        "キング",
+        "マーティン=ルーサー=キング"
+      ],
+      "explanation": "1968年に暗殺された。",
+      "yearStart": 1963,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-12",
+      "subject": "sekaishi-tankyu",
+      "question": "1964年に、ジョンソン大統領のもとで成立した、選挙や教育、公共施設での人種差別を禁じた法律は何か。",
+      "answer": "公民権法",
+      "reading": "こうみんけんほう",
+      "alternatives": [],
+      "explanation": "ジョンソンは「偉大な社会」をかかげて、貧困の解消にも取り組んだ。",
+      "yearStart": 1964,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1972年に中華人民共和国を訪問して関係を改善したが、ウォーターゲート事件で1974年に辞任したアメリカの大統領は誰か。",
+      "answer": "ニクソン",
+      "alternatives": [],
+      "explanation": "ベトナムからの撤退も進めた。",
+      "yearStart": 1972,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-14",
+      "subject": "sekaishi-tankyu",
+      "question": "1964年にフルシチョフが解任されたのち、ソ連の指導者となった人物は誰か。",
+      "answer": "ブレジネフ",
+      "alternatives": [],
+      "explanation": "長期政権のもとで、政治や経済の停滞が進んだ。",
+      "yearStart": 1964,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-15",
+      "subject": "sekaishi-tankyu",
+      "question": "1968年に、チェコスロヴァキアでドプチェクらが進めた自由化・民主化の動きを何というか。",
+      "answer": "プラハの春",
+      "reading": "ぷらはのはる",
+      "alternatives": [],
+      "explanation": "ソ連はワルシャワ条約機構の軍を送って、これをおさえこんだ。",
+      "yearStart": 1968,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-16",
+      "subject": "sekaishi-tankyu",
+      "question": "「プラハの春」を指導した、チェコスロヴァキア共産党の指導者は誰か。",
+      "answer": "ドプチェク",
+      "alternatives": [],
+      "explanation": "「人間の顔をした社会主義」をめざした。",
+      "yearStart": 1968,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1803-17",
+      "subject": "sekaishi-tankyu",
+      "question": "スターリン批判や平和共存の路線をめぐって、1960年代に表面化した、2つの社会主義の大国の対立を何というか。",
+      "answer": "中ソ対立",
+      "reading": "ちゅうそたいりつ",
+      "alternatives": [
+        "中ソ論争"
+      ],
+      "explanation": "1969年には国境で軍事衝突もおこった。",
+      "yearStart": 1963,
+      "regions": [
+        "中国",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-18",
+      "subject": "sekaishi-tankyu",
+      "question": "1958年に毛沢東が始めた、急速な工業化と農村の集団化をめざす運動を何というか。",
+      "answer": "大躍進",
+      "reading": "だいやくしん",
+      "alternatives": [],
+      "explanation": "無理な計画と自然災害のために失敗し、多数の餓死者を出した。",
+      "yearStart": 1958,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-19",
+      "subject": "sekaishi-tankyu",
+      "question": "「大躍進」の運動のなかで農村につくられた、生産と行政、教育などを一体化した組織を何というか。",
+      "answer": "人民公社",
+      "reading": "じんみんこうしゃ",
+      "alternatives": [],
+      "explanation": "1980年代に解体された。",
+      "yearStart": 1958,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-20",
+      "subject": "sekaishi-tankyu",
+      "question": "「大躍進」の失敗ののち、毛沢東にかわって国家主席となり、経済の立て直しを進めた人物は誰か。",
+      "answer": "劉少奇",
+      "reading": "りゅうしょうき",
+      "alternatives": [],
+      "explanation": "のちに文化大革命で「資本主義の道を歩む実権派」と批判されて失脚した。",
+      "yearStart": 1959,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1803-21",
+      "subject": "sekaishi-tankyu",
+      "question": "1959年のチベットでの反乱ののち、インドに亡命したチベット仏教の指導者は誰か。",
+      "answer": "ダライ=ラマ14世",
+      "alternatives": [
+        "ダライ=ラマ"
+      ],
+      "explanation": "これをきっかけに中国とインドの関係が悪化し、1962年に国境で紛争がおこった。",
+      "yearStart": 1959,
+      "regions": [
+        "中国",
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1803-22",
+      "subject": "sekaishi-tankyu",
+      "question": "1966年に毛沢東が始め、約10年にわたって中国の社会を混乱させた政治運動を何というか。",
+      "answer": "プロレタリア文化大革命",
+      "reading": "ぷろれたりあぶんかだいかくめい",
+      "alternatives": [
+        "文化大革命",
+        "文革"
+      ],
+      "explanation": "紅衛兵と呼ばれる若者たちが動員され、多くの党幹部や知識人が迫害された。",
+      "yearStart": 1966,
+      "yearEnd": 1976,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-23",
+      "subject": "sekaishi-tankyu",
+      "question": "文化大革命で、毛沢東の呼びかけにこたえて、党の幹部や知識人を攻撃した学生・青少年の組織を何というか。",
+      "answer": "紅衛兵",
+      "reading": "こうえいへい",
+      "alternatives": [],
+      "explanation": "やがて統制がきかなくなり、農村に送られた。",
+      "yearStart": 1966,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1803-24",
+      "subject": "sekaishi-tankyu",
+      "question": "1971年に、国際連合で中国を代表する権利を認められたのは、どの政府か。",
+      "answer": "中華人民共和国",
+      "reading": "ちゅうかじんみんきょうわこく",
+      "alternatives": [],
+      "explanation": "台湾の中華民国政府は国連での議席を失った。",
+      "yearStart": 1971,
+      "regions": [
+        "中国",
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-25",
+      "subject": "sekaishi-tankyu",
+      "question": "1972年に、田中角栄首相が中国を訪問して発表した、日本と中国の国交を正常化した文書は何か。",
+      "answer": "日中共同声明",
+      "reading": "にっちゅうきょうどうせいめい",
+      "alternatives": [],
+      "explanation": "1978年には日中平和友好条約が結ばれた。",
+      "yearStart": 1972,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-26",
+      "subject": "sekaishi-tankyu",
+      "question": "1969年に西ドイツの首相となり、ソ連や東ヨーロッパの国々との関係の改善を進めた社会民主党の政治家は誰か。",
+      "answer": "ブラント",
+      "alternatives": [],
+      "explanation": "この外交を東方外交という。1972年には東ドイツと国家としてたがいに認めあった。",
+      "yearStart": 1969,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-27",
+      "subject": "sekaishi-tankyu",
+      "question": "ブラントが進めた、ソ連や東ヨーロッパの社会主義国との関係を改善する外交を何というか。",
+      "answer": "東方外交",
+      "reading": "とうほうがいこう",
+      "alternatives": [],
+      "explanation": "ポーランドとの国境も認めた。1973年に東西ドイツは国際連合に同時に加盟した。",
+      "yearStart": 1970,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-28",
+      "subject": "sekaishi-tankyu",
+      "question": "1970年代に進んだ、アメリカとソ連を中心とする東西両陣営の緊張がやわらいだ状態を何というか。",
+      "answer": "緊張緩和",
+      "reading": "きんちょうかんわ",
+      "alternatives": [
+        "デタント"
+      ],
+      "explanation": "核兵器の制限交渉も進んだ。",
+      "yearStart": 1972,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-29",
+      "subject": "sekaishi-tankyu",
+      "question": "1975年に、ヨーロッパの国々とアメリカ・カナダの首脳がヘルシンキに集まり、主権の尊重や国境の不可侵、人権の尊重などを確認した会議は何か。",
+      "answer": "全欧安全保障協力会議",
+      "reading": "ぜんおうあんぜんほしょうきょうりょくかいぎ",
+      "alternatives": [
+        "CSCE"
+      ],
+      "explanation": "合意の内容はヘルシンキ宣言と呼ばれる。",
+      "yearStart": 1975,
+      "regions": [
+        "ヨーロッパ",
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1803-30",
+      "subject": "sekaishi-tankyu",
+      "question": "1972年に、アメリカとソ連が調印した、核兵器の運搬手段の数を制限する取り決めを何というか。",
+      "answer": "第1次戦略兵器制限交渉",
+      "reading": "だいいちじせんりゃくへいきせいげんこうしょう",
+      "alternatives": [
+        "SALT I",
+        "SALT",
+        "戦略兵器制限交渉"
+      ],
+      "explanation": "交渉は1969年に始まった。",
+      "yearStart": 1972,
+      "regions": [
+        "南北アメリカ",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1803-31",
+      "subject": "sekaishi-tankyu",
+      "question": "経済の発展を最優先にして、国民の政治的な権利や自由を制限する強権的な政治体制を何というか。",
+      "answer": "開発独裁",
+      "reading": "かいはつどくさい",
+      "alternatives": [],
+      "explanation": "韓国の朴正煕政権やインドネシアのスハルト政権などが代表。",
+      "yearStart": 1965,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-32",
+      "subject": "sekaishi-tankyu",
+      "question": "1961年に軍事クーデタで政権をにぎり、1965年に日本と国交を結んで経済成長を進めた韓国の大統領は誰か。",
+      "answer": "朴正煕",
+      "reading": "ぼくせいき",
+      "alternatives": [],
+      "explanation": "「パク=チョンヒ」と読む。日本とは日韓基本条約を結んだ。",
+      "yearStart": 1961,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1803-33",
+      "subject": "sekaishi-tankyu",
+      "question": "1965年の九・三〇事件ののち、スカルノにかわってインドネシアの実権をにぎり、長期政権をきずいた軍人は誰か。",
+      "answer": "スハルト",
+      "alternatives": [],
+      "explanation": "共産党を弾圧し、外国の資本を導入して開発を進めた。",
+      "yearStart": 1968,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1803-34",
+      "subject": "sekaishi-tankyu",
+      "question": "1967年に、インドネシア・マレーシア・フィリピン・シンガポール・タイの5カ国が結成した地域協力の組織は何か。",
+      "answer": "東南アジア諸国連合",
+      "reading": "とうなんあじあしょこくれんごう",
+      "alternatives": [
+        "ASEAN",
+        "アセアン"
+      ],
+      "explanation": "はじめは反共産主義の性格が強かったが、しだいに経済協力を進めた。",
+      "yearStart": 1967,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1803-35",
+      "subject": "sekaishi-tankyu",
+      "question": "1970年にチリで、選挙によって成立した社会主義政権の大統領は誰か。",
+      "answer": "アジェンデ",
+      "alternatives": [],
+      "explanation": "1973年に、ピノチェトの率いる軍部のクーデタで倒された。",
+      "yearStart": 1970,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

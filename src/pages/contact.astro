@@ -1,0 +1,43 @@
+---
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { publicSettings } from '../lib/public-settings';
+import { joinBase, paths } from '../lib/url';
+import { siteConfig } from '../site.config';
+
+const href = (p: string) => joinBase(import.meta.env.BASE_URL, p);
+const { contactFormUrl } = publicSettings;
+const formReady = contactFormUrl !== '';
+---
+
+<BaseLayout title="お問い合わせ" description={`${siteConfig.name}へのお問い合わせ・ご意見・問題の誤りのご報告はこちらから。`} path={paths.contact()}>
+  <Breadcrumbs items={[{ label: 'お問い合わせ' }]} />
+  <div class="prose">
+    <h1>お問い合わせ</h1>
+    <p>当サイトへのご意見・ご要望、問題や答えの誤りのご報告は、Google フォームからお送りください。</p>
+    <p id="report-id" class="notice" hidden></p>
+    {formReady ? (
+      <p>
+        <a class="btn btn-primary" href={contactFormUrl} target="_blank" rel="noopener">お問い合わせフォームを開く（Google フォーム）</a>
+      </p>
+    ) : (
+      <p class="notice">お問い合わせフォームは準備中です。</p>
+    )}
+    <ul>
+      <li>問題の誤りをご報告いただくときは、問題文と、教科書名・章（わかれば問題ID）を書き添えてください。</li>
+      <li>返信が必要な場合を除き、氏名・学校名・メールアドレスなどの個人情報は書かないでください。</li>
+      <li>すべてのお問い合わせにお返事できるとは限りません。あらかじめご了承ください。</li>
+      <li>入力された内容の取り扱いについては、<a href={href(paths.privacy())}>プライバシーポリシー</a>をご覧ください。</li>
+    </ul>
+  </div>
+
+  <script>
+    // 出題画面の「この問題の誤りを報告」から来たときは、問題IDを表示する
+    const id = new URLSearchParams(window.location.search).get('id');
+    const box = document.getElementById('report-id');
+    if (id && box && /^[\w-]{1,64}$/.test(id)) {
+      box.textContent = `報告する問題のID：${id}（フォームに書き添えてください）`;
+      box.hidden = false;
+    }
+  </script>
+</BaseLayout>

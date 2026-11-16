@@ -1,0 +1,1262 @@
+{
+  "generatedFrom": "sekaishi-09.csv",
+  "_note": "このファイルは sekaishi-09.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "w-0901-01",
+      "subject": "sekaishi-tankyu",
+      "question": "紅巾の乱のなかから現れ、1368年に南京で皇帝の位について明を建てた人物は誰か。",
+      "answer": "朱元璋",
+      "reading": "しゅげんしょう",
+      "alternatives": [
+        "洪武帝",
+        "太祖"
+      ],
+      "explanation": "貧しい農民の出身。元をモンゴル高原に追いやった。",
+      "yearStart": 1368,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-02",
+      "subject": "sekaishi-tankyu",
+      "question": "洪武帝が、皇帝に権力を集めるために廃止した、政治の中心となる機関は何か。",
+      "answer": "中書省",
+      "reading": "ちゅうしょしょう",
+      "alternatives": [],
+      "explanation": "その長官である宰相（丞相）もなくし、六部を皇帝の直属とした。",
+      "yearStart": 1380,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-03",
+      "subject": "sekaishi-tankyu",
+      "question": "洪武帝が定めた、農家110戸を1つの里にまとめ、税の徴収や治安の維持にあたらせた制度は何か。",
+      "answer": "里甲制",
+      "reading": "りこうせい",
+      "alternatives": [],
+      "explanation": "豊かな10戸を里長戸とし、残りの100戸を10の甲に分けた。",
+      "yearStart": 1381,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-04",
+      "subject": "sekaishi-tankyu",
+      "question": "明代に里甲制のもとでつくられた、戸籍と租税の台帳を何というか。",
+      "answer": "賦役黄冊",
+      "reading": "ふえきこうさつ",
+      "alternatives": [],
+      "explanation": "土地の台帳は魚鱗図冊という。",
+      "yearStart": 1381,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-05",
+      "subject": "sekaishi-tankyu",
+      "question": "明代につくられた土地の台帳で、土地の区画を示す図がうろこのように見えるものを何というか。",
+      "answer": "魚鱗図冊",
+      "reading": "ぎょりんずさつ",
+      "alternatives": [],
+      "explanation": "土地の所有者や面積などが記された。",
+      "yearStart": 1387,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-06",
+      "subject": "sekaishi-tankyu",
+      "question": "洪武帝が民衆を教化するために定めた、「父母に孝順なれ」など6か条の教えを何というか。",
+      "answer": "六諭",
+      "reading": "りくゆ",
+      "alternatives": [],
+      "explanation": "里ごとに老人がとなえて聞かせた。",
+      "yearStart": 1397,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "社会",
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-07",
+      "subject": "sekaishi-tankyu",
+      "question": "明が、倭寇をとりしまり国家が貿易を管理するために、民間人の海上交易や海外への渡航を禁じた政策を何というか。",
+      "answer": "海禁",
+      "reading": "かいきん",
+      "alternatives": [],
+      "explanation": "外国との貿易は、朝貢にともなうものだけに限った。",
+      "yearStart": 1371,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-08",
+      "subject": "sekaishi-tankyu",
+      "question": "洪武帝の死後、燕王（のちの永楽帝）が建文帝に対して兵をあげ、帝位をうばった内乱は何か。",
+      "answer": "靖難の役",
+      "reading": "せいなんのえき",
+      "alternatives": [],
+      "explanation": "建文帝が諸王の勢力を削ろうとしたことに反発した。",
+      "yearStart": 1399,
+      "yearEnd": 1402,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-09",
+      "subject": "sekaishi-tankyu",
+      "question": "靖難の役で帝位につき、都を北京に移して、積極的な対外政策をおこなった明の第3代皇帝は誰か。",
+      "answer": "永楽帝",
+      "reading": "えいらくてい",
+      "alternatives": [
+        "成祖"
+      ],
+      "explanation": "みずから軍を率いてモンゴル高原に遠征し、ベトナムも一時支配した。",
+      "yearStart": 1402,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-10",
+      "subject": "sekaishi-tankyu",
+      "question": "永楽帝の命令で、1405年から7回にわたって大艦隊を率い、東南アジアからインド洋、アフリカ東岸にまで遠征した人物は誰か。",
+      "answer": "鄭和",
+      "reading": "ていわ",
+      "alternatives": [],
+      "explanation": "イスラーム教徒の宦官。各地の国々に明への朝貢をうながした。",
+      "yearStart": 1405,
+      "yearEnd": 1433,
+      "regions": [
+        "中国",
+        "東南アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-11",
+      "subject": "sekaishi-tankyu",
+      "question": "永楽帝がおいた、皇帝の政治を補佐する役職は何か。",
+      "answer": "内閣大学士",
+      "reading": "ないかくだいがくし",
+      "alternatives": [],
+      "explanation": "のちには実質的な宰相の役割をはたすようになった。",
+      "yearStart": 1402,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-12",
+      "subject": "sekaishi-tankyu",
+      "question": "15世紀初めに中山王の尚巴志が統一し、明との朝貢貿易を利用した中継貿易で栄えた王国は何か。",
+      "answer": "琉球王国",
+      "reading": "りゅうきゅうおうこく",
+      "alternatives": [
+        "琉球"
+      ],
+      "explanation": "都は首里。東アジアと東南アジアを結んだ。",
+      "yearStart": 1429,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1392年に高麗を倒して朝鮮王朝を建てた人物は誰か。",
+      "answer": "李成桂",
+      "reading": "りせいけい",
+      "alternatives": [],
+      "explanation": "倭寇の撃退で名声をえた武将。都を漢城（現在のソウル）においた。",
+      "yearStart": 1392,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-14",
+      "subject": "sekaishi-tankyu",
+      "question": "15世紀半ばに朝鮮の国王世宗が制定した、朝鮮語を書き表すための表音文字は何か。",
+      "answer": "訓民正音",
+      "reading": "くんみんせいおん",
+      "alternatives": [
+        "ハングル"
+      ],
+      "explanation": "朝鮮王朝は朱子学を国の学問とし、金属活字による出版もさかんだった。",
+      "yearStart": 1446,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-15",
+      "subject": "sekaishi-tankyu",
+      "question": "15世紀初めに明と国交を結び、「日本国王」として勘合貿易を始めた室町幕府の人物は誰か。",
+      "answer": "足利義満",
+      "reading": "あしかがよしみつ",
+      "alternatives": [],
+      "explanation": "正式な貿易船であることを示す勘合を使った。",
+      "yearStart": 1404,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-16",
+      "subject": "sekaishi-tankyu",
+      "question": "1428年に明軍を追い出してベトナムの独立を回復した、黎利が建てた王朝は何か。",
+      "answer": "黎朝",
+      "reading": "れいちょう",
+      "alternatives": [],
+      "explanation": "明の制度をとり入れ、朱子学を重んじた。",
+      "yearStart": 1428,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-17",
+      "subject": "sekaishi-tankyu",
+      "question": "1449年に、明の皇帝（正統帝）がモンゴル系のオイラトのエセンに敗れて捕虜となった事件を何というか。",
+      "answer": "土木の変",
+      "reading": "どぼくのへん",
+      "alternatives": [],
+      "explanation": "これ以後、明は長城を修築して守りを固めた。",
+      "yearStart": 1449,
+      "regions": [
+        "中国",
+        "内陸アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-18",
+      "subject": "sekaishi-tankyu",
+      "question": "16世紀半ばに、たびたび長城をこえて明に侵入し、北京を包囲したこともあるモンゴル（タタール）の君主は誰か。",
+      "answer": "アルタン=ハーン",
+      "alternatives": [
+        "アルタン=ハン"
+      ],
+      "explanation": "のちに明と和議を結んだ。チベット仏教を保護したことでも知られる。",
+      "yearStart": 1550,
+      "regions": [
+        "内陸アジア",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-19",
+      "subject": "sekaishi-tankyu",
+      "question": "明が苦しめられた、北方のモンゴルの侵入と、東南の海岸での倭寇の活動をあわせて何というか。",
+      "answer": "北虜南倭",
+      "reading": "ほくりょなんわ",
+      "alternatives": [],
+      "explanation": "防衛のための出費がふえ、明の財政を圧迫した。",
+      "yearStart": 1550,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-20",
+      "subject": "sekaishi-tankyu",
+      "question": "14〜16世紀に、朝鮮半島や中国の沿岸をおそった海賊・密貿易の集団を何というか。",
+      "answer": "倭寇",
+      "reading": "わこう",
+      "alternatives": [],
+      "explanation": "16世紀の後期のものは、中国人が多数を占めていた。",
+      "yearStart": 1550,
+      "yearApprox": true,
+      "regions": [
+        "中国",
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-21",
+      "subject": "sekaishi-tankyu",
+      "question": "16世紀後半に明で始まった、さまざまな税や労役を一本にまとめて銀で納めさせる税法は何か。",
+      "answer": "一条鞭法",
+      "reading": "いちじょうべんぽう",
+      "alternatives": [],
+      "explanation": "日本銀やアメリカ大陸の銀が大量に流入したことが背景にある。",
+      "yearStart": 1580,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-22",
+      "subject": "sekaishi-tankyu",
+      "question": "16世紀後半、万暦帝の初期に、検地をおこなうなど財政の立て直しをはかった政治家は誰か。",
+      "answer": "張居正",
+      "reading": "ちょうきょせい",
+      "alternatives": [],
+      "explanation": "強引な改革は反発をまねき、その死後、政治は混乱した。",
+      "yearStart": 1572,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-23",
+      "subject": "sekaishi-tankyu",
+      "question": "明代に、長江中流域が新しい穀倉地帯となったことを表すことばは何か。",
+      "answer": "湖広熟すれば天下足る",
+      "reading": "ここうじゅくすればてんかたる",
+      "alternatives": [],
+      "explanation": "長江下流域では、生糸や綿織物などの手工業がさかんになった。",
+      "yearStart": 1500,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-24",
+      "subject": "sekaishi-tankyu",
+      "question": "明代に全国的な商業活動をおこなった、特権的な商人の集団を、徽州（新安）商人とともに1つあげよ。",
+      "answer": "山西商人",
+      "reading": "さんせいしょうにん",
+      "alternatives": [],
+      "explanation": "同郷や同業の商人は、各地の都市に会館や公所をつくって助けあった。",
+      "yearStart": 1550,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-25",
+      "subject": "sekaishi-tankyu",
+      "question": "明・清の時代に、科挙の合格者や官僚の経験者として地方の社会で大きな力をもった人々を何というか。",
+      "answer": "郷紳",
+      "reading": "きょうしん",
+      "alternatives": [],
+      "explanation": "地方の政治や社会の秩序の維持に大きな役割をはたした。",
+      "yearStart": 1550,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-26",
+      "subject": "sekaishi-tankyu",
+      "question": "1557年にポルトガル人が居住を認められ、対中国貿易の拠点とした中国南部の港はどこか。",
+      "answer": "マカオ",
+      "alternatives": [],
+      "explanation": "ポルトガルは日本と中国を結ぶ貿易で大きな利益をあげた。",
+      "yearStart": 1557,
+      "regions": [
+        "中国",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-27",
+      "subject": "sekaishi-tankyu",
+      "question": "明の王守仁（王陽明）が始めた、「心即理」や「知行合一」を説く儒学を何というか。",
+      "answer": "陽明学",
+      "reading": "ようめいがく",
+      "alternatives": [],
+      "explanation": "外面的な知識を重んじる当時の朱子学を批判し、実践を重んじた。",
+      "yearStart": 1520,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-28",
+      "subject": "sekaishi-tankyu",
+      "question": "陽明学を始めた明の学者・政治家は誰か。",
+      "answer": "王守仁",
+      "reading": "おうしゅじん",
+      "alternatives": [
+        "王陽明"
+      ],
+      "explanation": "ほんとうの知識は実践をともなうという「知行合一」を説いた。",
+      "yearStart": 1520,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-29",
+      "subject": "sekaishi-tankyu",
+      "question": "明代に、薬物の知識を集大成した『本草綱目』を著した人物は誰か。",
+      "answer": "李時珍",
+      "reading": "りじちん",
+      "alternatives": [],
+      "explanation": "明代の後期には、実際の生活に役立つ実学がさかんになった。",
+      "yearStart": 1596,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-30",
+      "subject": "sekaishi-tankyu",
+      "question": "明代に、農業技術や農政を総合的にまとめた『農政全書』を著した人物は誰か。",
+      "answer": "徐光啓",
+      "reading": "じょこうけい",
+      "alternatives": [],
+      "explanation": "キリスト教の信者で、宣教師と協力して西洋の学問を紹介した。",
+      "yearStart": 1639,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-31",
+      "subject": "sekaishi-tankyu",
+      "question": "明代に、産業技術を図入りで解説した『天工開物』を著した人物は誰か。",
+      "answer": "宋応星",
+      "reading": "そうおうせい",
+      "alternatives": [],
+      "explanation": "農業から手工業までの技術を記した。",
+      "yearStart": 1637,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0901-32",
+      "subject": "sekaishi-tankyu",
+      "question": "明代に完成した、『三国志演義』『西遊記』『金瓶梅』とならぶ「四大奇書」の一つで、108人の豪傑の活躍をえがく小説は何か。",
+      "answer": "水滸伝",
+      "reading": "すいこでん",
+      "alternatives": [],
+      "explanation": "木版印刷による出版がさかんになり、口語の小説が多くの読者をえた。",
+      "yearStart": 1550,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-33",
+      "subject": "sekaishi-tankyu",
+      "question": "16世紀末に明を訪れたイエズス会の宣教師で、世界地図「坤輿万国全図」をつくった人物は誰か。",
+      "answer": "マテオ=リッチ",
+      "alternatives": [
+        "利瑪竇"
+      ],
+      "explanation": "徐光啓とともに、エウクレイデスの幾何学を『幾何原本』として漢訳した。",
+      "yearStart": 1583,
+      "regions": [
+        "中国",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-34",
+      "subject": "sekaishi-tankyu",
+      "question": "マテオ=リッチが中国で刊行した、漢訳の世界地図は何か。",
+      "answer": "坤輿万国全図",
+      "reading": "こんよばんこくぜんず",
+      "alternatives": [],
+      "explanation": "中国人の世界についての見方に大きな影響を与えた。",
+      "yearStart": 1602,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-35",
+      "subject": "sekaishi-tankyu",
+      "question": "明の末期に徐光啓とともに『崇禎暦書』の作成にあたり、清にも仕えたドイツ人のイエズス会宣教師は誰か。",
+      "answer": "アダム=シャール",
+      "alternatives": [
+        "湯若望"
+      ],
+      "explanation": "西洋の暦法を伝えた。",
+      "yearStart": 1634,
+      "yearApprox": true,
+      "regions": [
+        "中国",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "w-0901-36",
+      "subject": "sekaishi-tankyu",
+      "question": "16世紀末に2度にわたって朝鮮に侵攻した、日本の人物は誰か。",
+      "answer": "豊臣秀吉",
+      "reading": "とよとみひでよし",
+      "alternatives": [],
+      "explanation": "朝鮮ではこの侵攻を壬辰・丁酉の倭乱と呼ぶ。",
+      "yearStart": 1592,
+      "yearEnd": 1598,
+      "regions": [
+        "日本",
+        "朝鮮"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-37",
+      "subject": "sekaishi-tankyu",
+      "question": "豊臣秀吉の侵攻に対して、亀船（亀甲船）を使った水軍を率いて日本軍を苦しめた朝鮮の武将は誰か。",
+      "answer": "李舜臣",
+      "reading": "りしゅんしん",
+      "alternatives": [],
+      "explanation": "明も朝鮮に援軍を送ったが、その出費は明の財政を悪化させた。",
+      "yearStart": 1592,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-38",
+      "subject": "sekaishi-tankyu",
+      "question": "17世紀初めの日本で、幕府から海外渡航の許可状を与えられた船がおこなった貿易を何というか。",
+      "answer": "朱印船貿易",
+      "reading": "しゅいんせんぼうえき",
+      "alternatives": [],
+      "explanation": "東南アジアの各地に日本町がつくられた。",
+      "yearStart": 1604,
+      "yearApprox": true,
+      "regions": [
+        "日本",
+        "東南アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-39",
+      "subject": "sekaishi-tankyu",
+      "question": "16世紀末から女真（のち満洲と改称）の諸部族を統一し、1616年に後金を建てた人物は誰か。",
+      "answer": "ヌルハチ",
+      "alternatives": [
+        "太祖"
+      ],
+      "explanation": "八旗という軍事・行政の組織をつくり、満洲文字を定めた。",
+      "yearStart": 1616,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-40",
+      "subject": "sekaishi-tankyu",
+      "question": "ヌルハチが女真人を編成した、8つの軍団からなる軍事・行政の組織を何というか。",
+      "answer": "八旗",
+      "reading": "はっき",
+      "alternatives": [],
+      "explanation": "のちにモンゴル人や漢人の八旗もつくられ、清の支配をささえた。",
+      "yearStart": 1615,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0901-41",
+      "subject": "sekaishi-tankyu",
+      "question": "ヌルハチのあとをつぎ、内モンゴルを支配下に入れて、1636年に国号を清と改めた人物は誰か。",
+      "answer": "ホンタイジ",
+      "alternatives": [
+        "太宗"
+      ],
+      "explanation": "朝鮮を攻めて服属させた。",
+      "yearStart": 1636,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-42",
+      "subject": "sekaishi-tankyu",
+      "question": "1644年に北京を占領して明を滅ぼした、農民反乱の指導者は誰か。",
+      "answer": "李自成",
+      "reading": "りじせい",
+      "alternatives": [],
+      "explanation": "明の最後の皇帝の崇禎帝は自殺した。",
+      "yearStart": 1644,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0901-43",
+      "subject": "sekaishi-tankyu",
+      "question": "明の末期に、政治を批判した儒学者たちの東林派と、宦官と結んだ非東林派が争ったが、東林派の中心人物は誰か。",
+      "answer": "顧憲成",
+      "reading": "こけんせい",
+      "alternatives": [],
+      "explanation": "無錫の東林書院を拠点とした。",
+      "yearStart": 1604,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0902-01",
+      "subject": "sekaishi-tankyu",
+      "question": "15世紀にアフリカ西岸の探検を進めさせ、ポルトガルの海外進出の基礎をつくった王子は誰か。",
+      "answer": "エンリケ",
+      "alternatives": [
+        "エンリケ航海王子"
+      ],
+      "explanation": "「航海王子」と呼ばれる。",
+      "yearStart": 1420,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0902-02",
+      "subject": "sekaishi-tankyu",
+      "question": "1488年に、アフリカ大陸の南端の喜望峰に到達したポルトガルの航海者は誰か。",
+      "answer": "バルトロメウ=ディアス",
+      "alternatives": [],
+      "explanation": "インド洋にいたる航路の見通しがひらけた。",
+      "yearStart": 1488,
+      "regions": [
+        "ヨーロッパ",
+        "アフリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0902-03",
+      "subject": "sekaishi-tankyu",
+      "question": "1498年に、喜望峰をまわってインド西岸のカリカットに到達し、インド航路をひらいたポルトガルの航海者は誰か。",
+      "answer": "ヴァスコ=ダ=ガマ",
+      "alternatives": [],
+      "explanation": "香辛料をヨーロッパに直接運ぶことができるようになった。",
+      "yearStart": 1498,
+      "regions": [
+        "ヨーロッパ",
+        "南アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0902-04",
+      "subject": "sekaishi-tankyu",
+      "question": "ヴァスコ=ダ=ガマが到達した、インド西岸の港市はどこか。",
+      "answer": "カリカット",
+      "alternatives": [],
+      "explanation": "香辛料の積み出し港として栄えていた。",
+      "yearStart": 1498,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0902-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1510年にポルトガルが占領し、アジア貿易の拠点としたインド西岸の都市はどこか。",
+      "answer": "ゴア",
+      "alternatives": [],
+      "explanation": "翌1511年にはマラッカも占領した。",
+      "yearStart": 1510,
+      "regions": [
+        "南アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0902-06",
+      "subject": "sekaishi-tankyu",
+      "question": "スペイン女王イサベルの援助を受けて大西洋を西に進み、1492年にカリブ海のサンサルバドル島に到達したジェノヴァ生まれの航海者は誰か。",
+      "answer": "コロンブス",
+      "alternatives": [],
+      "explanation": "フィレンツェの天文学者トスカネリの地球球体説を信じ、西まわりでアジアをめざした。",
+      "yearStart": 1492,
+      "regions": [
+        "ヨーロッパ",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0902-07",
+      "subject": "sekaishi-tankyu",
+      "question": "コロンブスが到達した土地はアジアではなく未知の「新大陸」であると主張し、その名が大陸の名前のもとになったフィレンツェ生まれの航海者は誰か。",
+      "answer": "アメリゴ=ヴェスプッチ",
+      "alternatives": [],
+      "explanation": "「アメリカ」の名は彼の名にちなむ。",
+      "yearStart": 1502,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0902-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1494年にスペインとポルトガルが結んだ、両国の海外での勢力範囲を分ける境界線を定めた条約は何か。",
+      "answer": "トルデシリャス条約",
+      "alternatives": [],
+      "explanation": "前年に教皇が定めた境界線を西に移した。このためブラジルはポルトガル領となった。",
+      "yearStart": 1494,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0902-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1500年にブラジルに漂着し、この地をポルトガル領と宣言した航海者は誰か。",
+      "answer": "カブラル",
+      "alternatives": [],
+      "explanation": "インドにむかうとちゅうだった。",
+      "yearStart": 1500,
+      "regions": [
+        "ヨーロッパ",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0902-10",
+      "subject": "sekaishi-tankyu",
+      "question": "1513年にパナマ地峡を横断して、ヨーロッパ人として初めて太平洋に到達した探検家は誰か。",
+      "answer": "バルボア",
+      "alternatives": [],
+      "explanation": "アメリカがアジアとは別の大陸であることがはっきりした。",
+      "yearStart": 1513,
+      "regions": [
+        "ヨーロッパ",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0902-11",
+      "subject": "sekaishi-tankyu",
+      "question": "スペイン王の援助を受けて1519年に西まわりの航海に出発し、部下が史上初の世界周航を達成することになったポルトガル人の航海者は誰か。",
+      "answer": "マゼラン",
+      "alternatives": [
+        "マガリャンイス"
+      ],
+      "explanation": "自身は1521年にフィリピンで戦死した。地球が丸いことが証明された。",
+      "yearStart": 1519,
+      "yearEnd": 1522,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0902-12",
+      "subject": "sekaishi-tankyu",
+      "question": "1521年にメキシコのアステカ王国を滅ぼした、スペインの「征服者」は誰か。",
+      "answer": "コルテス",
+      "alternatives": [],
+      "explanation": "少数の兵で都テノチティトランを占領した。",
+      "yearStart": 1521,
+      "regions": [
+        "南北アメリカ",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0902-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1533年にインカ帝国を滅ぼした、スペインの「征服者」は誰か。",
+      "answer": "ピサロ",
+      "alternatives": [],
+      "explanation": "皇帝をとらえて処刑し、都クスコを占領した。",
+      "yearStart": 1533,
+      "regions": [
+        "南北アメリカ",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0902-14",
+      "subject": "sekaishi-tankyu",
+      "question": "アメリカ大陸を征服したスペイン人たちを、スペイン語で何というか。",
+      "answer": "コンキスタドール",
+      "alternatives": [
+        "征服者"
+      ],
+      "explanation": "火器や馬を使って、先住民の国々を短い期間で滅ぼした。",
+      "yearStart": 1520,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0902-15",
+      "subject": "sekaishi-tankyu",
+      "question": "スペインがアメリカ大陸の植民地で実施した、先住民をキリスト教徒にすることを条件に、植民者にその支配と使役をまかせた制度は何か。",
+      "answer": "エンコミエンダ制",
+      "alternatives": [],
+      "explanation": "先住民は鉱山や農園で酷使され、人口が激減した。",
+      "yearStart": 1503,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0902-16",
+      "subject": "sekaishi-tankyu",
+      "question": "先住民の悲惨な状態を国王に訴え、その救済につとめたスペイン人の聖職者は誰か。",
+      "answer": "ラス=カサス",
+      "alternatives": [],
+      "explanation": "『インディアスの破壊についての簡潔な報告』を著した。",
+      "yearStart": 1542,
+      "regions": [
+        "南北アメリカ",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0902-17",
+      "subject": "sekaishi-tankyu",
+      "question": "1545年に現在のボリビアで発見され、大量の銀を産出した銀山は何か。",
+      "answer": "ポトシ銀山",
+      "alternatives": [],
+      "explanation": "ここで採掘された銀はヨーロッパやアジアに運ばれ、世界の経済に大きな影響を与えた。",
+      "yearStart": 1545,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0902-18",
+      "subject": "sekaishi-tankyu",
+      "question": "アメリカ大陸の先住民の人口が激減した大きな原因となった、ヨーロッパ人がもちこんだものは何か。",
+      "answer": "伝染病",
+      "reading": "でんせんびょう",
+      "alternatives": [
+        "疫病",
+        "天然痘"
+      ],
+      "explanation": "先住民は天然痘などへの免疫をもっていなかった。労働力の不足を補うため、アフリカから黒人奴隷が運ばれた。",
+      "yearStart": 1520,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0902-19",
+      "subject": "sekaishi-tankyu",
+      "question": "スペインが、メキシコのアカプルコとフィリピンのマニラを結んでおこなった太平洋の貿易を何というか。",
+      "answer": "ガレオン貿易",
+      "alternatives": [
+        "アカプルコ貿易"
+      ],
+      "explanation": "メキシコ銀がマニラに運ばれ、中国の絹や陶磁器と交換された。",
+      "yearStart": 1571,
+      "regions": [
+        "南北アメリカ",
+        "東南アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0902-20",
+      "subject": "sekaishi-tankyu",
+      "question": "大航海時代の結果、ヨーロッパの商業の中心が地中海沿岸から大西洋沿岸に移り、世界的な規模の商業が成立したことを何というか。",
+      "answer": "商業革命",
+      "reading": "しょうぎょうかくめい",
+      "alternatives": [],
+      "explanation": "リスボンやアントウェルペン（アントワープ）が栄えた。",
+      "yearStart": 1550,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0902-21",
+      "subject": "sekaishi-tankyu",
+      "question": "16世紀のヨーロッパで、アメリカ大陸の銀が大量に流れこんだことなどによって物価が大きく上がったことを何というか。",
+      "answer": "価格革命",
+      "reading": "かかくかくめい",
+      "alternatives": [],
+      "explanation": "決まった額の地代で暮らす領主層は打撃を受けた。",
+      "yearStart": 1550,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-0902-22",
+      "subject": "sekaishi-tankyu",
+      "question": "16世紀以降、エルベ川より東の東ヨーロッパで広まった、領主が農民への支配を強め、輸出用の穀物を生産した大農場の経営を何というか。",
+      "answer": "農場領主制",
+      "reading": "のうじょうりょうしゅせい",
+      "alternatives": [
+        "グーツヘルシャフト"
+      ],
+      "explanation": "西ヨーロッパに穀物を輸出するためにおこなわれた。",
+      "yearStart": 1550,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-0902-23",
+      "subject": "sekaishi-tankyu",
+      "question": "アメリカ大陸からヨーロッパに伝わり、やせた土地でも育つために、のちに重要な食料となった作物は何か。",
+      "answer": "ジャガイモ",
+      "alternatives": [
+        "じゃがいも",
+        "馬鈴薯"
+      ],
+      "explanation": "ほかにトウモロコシ・サツマイモ・トマト・タバコなどが世界に広まった。",
+      "yearStart": 1570,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

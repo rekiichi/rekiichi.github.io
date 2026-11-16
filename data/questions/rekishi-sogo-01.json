@@ -1,0 +1,2590 @@
+{
+  "generatedFrom": "rekishi-sogo-01.csv",
+  "_note": "このファイルは rekishi-sogo-01.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "r-0101-01",
+      "subject": "rekishi-sogo",
+      "question": "16世紀以降、アメリカ大陸や日本で大量に産出され、世界の貿易を結びつける役割をはたした貴金属は何か。",
+      "answer": "銀",
+      "reading": "ぎん",
+      "alternatives": [],
+      "explanation": "アメリカ大陸の銀は、ヨーロッパやアジアに運ばれ、中国に大量に流れこんだ。",
+      "yearStart": 1570,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0101-02",
+      "subject": "rekishi-sogo",
+      "question": "17〜18世紀に、ヨーロッパ・西アフリカ・アメリカ大陸を結んでおこなわれた貿易を何というか。",
+      "answer": "大西洋三角貿易",
+      "reading": "たいせいようさんかくぼうえき",
+      "alternatives": [
+        "三角貿易"
+      ],
+      "explanation": "ヨーロッパから武器や雑貨を、アフリカから奴隷を、アメリカ大陸から砂糖や綿花などを運んだ。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0101-03",
+      "subject": "rekishi-sogo",
+      "question": "大西洋三角貿易で、アフリカからアメリカ大陸へ、労働力として運ばれた人々を何というか。",
+      "answer": "黒人奴隷",
+      "reading": "こくじんどれい",
+      "alternatives": [
+        "奴隷"
+      ],
+      "explanation": "1000万人以上が運ばれたとされ、アフリカの社会は大きな打撃を受けた。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "アフリカ",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0101-04",
+      "subject": "rekishi-sogo",
+      "question": "アメリカ大陸やカリブ海の島々につくられた、奴隷などを使って、砂糖などの輸出用の作物を大規模に栽培する農園を何というか。",
+      "answer": "プランテーション",
+      "alternatives": [],
+      "explanation": "ヨーロッパでの砂糖の消費の増加を支えた。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0101-05",
+      "subject": "rekishi-sogo",
+      "question": "17世紀の初めに、イギリスやオランダが、アジアとの貿易を独占するために設立した会社を何というか。",
+      "answer": "東インド会社",
+      "reading": "ひがしいんどがいしゃ",
+      "alternatives": [],
+      "explanation": "政府から、貿易の独占や、軍隊をもつことなどの特権を与えられた。",
+      "yearStart": 1600,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0101-06",
+      "subject": "rekishi-sogo",
+      "question": "17世紀に、ジャワ島のバタヴィアを拠点に、アジアの貿易で栄えたヨーロッパの国はどこか。",
+      "answer": "オランダ",
+      "alternatives": [],
+      "explanation": "日本とも、長崎の出島で貿易をおこなった。",
+      "yearStart": 1620,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ",
+        "東南アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0101-07",
+      "subject": "rekishi-sogo",
+      "question": "18世紀に、ヨーロッパで人気が高まり、中国から大量に輸入された飲み物は何か。",
+      "answer": "茶",
+      "reading": "ちゃ",
+      "alternatives": [],
+      "explanation": "イギリスは、茶の代金として大量の銀を中国に支払った。",
+      "yearStart": 1750,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ",
+        "中国"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0101-08",
+      "subject": "rekishi-sogo",
+      "question": "輸出をふやして輸入をおさえ、国の富をふやそうとする、16〜18世紀のヨーロッパの国々の経済政策を何というか。",
+      "answer": "重商主義",
+      "reading": "じゅうしょうしゅぎ",
+      "alternatives": [],
+      "explanation": "植民地は、原料の供給地や製品の市場として重んじられた。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0101-09",
+      "subject": "rekishi-sogo",
+      "question": "16世紀後半にスペインが拠点としてきずき、メキシコの銀と中国の絹や陶磁器が取引された、フィリピンの都市はどこか。",
+      "answer": "マニラ",
+      "alternatives": [],
+      "explanation": "太平洋を横断する貿易の中継地となった。",
+      "yearStart": 1571,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0102-01",
+      "subject": "rekishi-sogo",
+      "question": "17世紀半ばから20世紀の初めまで、中国を支配した、満洲人の王朝は何か。",
+      "answer": "清",
+      "reading": "しん",
+      "alternatives": [],
+      "explanation": "18世紀には領土が最大となり、人口も急増して繁栄した。",
+      "yearStart": 1644,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0102-02",
+      "subject": "rekishi-sogo",
+      "question": "18世紀の後半に、清の最盛期をきずいた皇帝は誰か。",
+      "answer": "乾隆帝",
+      "reading": "けんりゅうてい",
+      "alternatives": [],
+      "explanation": "1757年に、ヨーロッパの船との貿易を広州の1港に限った。",
+      "yearStart": 1735,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0102-03",
+      "subject": "rekishi-sogo",
+      "question": "1757年に、清がヨーロッパの船との貿易を許した、ただ1つの港はどこか。",
+      "answer": "広州",
+      "reading": "こうしゅう",
+      "alternatives": [],
+      "explanation": "貿易は、公行と呼ばれる特定の商人の組合が独占した。",
+      "yearStart": 1757,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "経済",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0102-04",
+      "subject": "rekishi-sogo",
+      "question": "江戸時代に、オランダとの貿易がおこなわれた、長崎の人工の島はどこか。",
+      "answer": "出島",
+      "reading": "でじま",
+      "alternatives": [],
+      "explanation": "幕府は、オランダと中国から、海外の情報もえていた。",
+      "yearStart": 1641,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0102-05",
+      "subject": "rekishi-sogo",
+      "question": "江戸時代に、朝鮮との外交と貿易の窓口となった藩はどこか。",
+      "answer": "対馬藩",
+      "reading": "つしまはん",
+      "alternatives": [
+        "対馬"
+      ],
+      "explanation": "朝鮮からは、将軍の代がわりなどに、朝鮮通信使が派遣された。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本",
+        "朝鮮"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0102-06",
+      "subject": "rekishi-sogo",
+      "question": "江戸時代に、琉球王国を支配して、中国との貿易の利益をえていた藩はどこか。",
+      "answer": "薩摩藩",
+      "reading": "さつまはん",
+      "alternatives": [
+        "薩摩"
+      ],
+      "explanation": "琉球は、清にも朝貢を続けた。",
+      "yearStart": 1609,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0102-07",
+      "subject": "rekishi-sogo",
+      "question": "江戸時代に、蝦夷地で、アイヌの人々との交易を独占した藩はどこか。",
+      "answer": "松前藩",
+      "reading": "まつまえはん",
+      "alternatives": [
+        "松前"
+      ],
+      "explanation": "長崎・対馬・薩摩・松前の4つの窓口を通じて、外の世界とつながっていた。",
+      "yearStart": 1650,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0102-08",
+      "subject": "rekishi-sogo",
+      "question": "16世紀から19世紀にかけて、インドの大部分を支配したイスラーム教徒の王朝は何か。",
+      "answer": "ムガル帝国",
+      "reading": "むがるていこく",
+      "alternatives": [],
+      "explanation": "18世紀には各地の勢力が自立して、おとろえた。",
+      "yearStart": 1700,
+      "yearApprox": true,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0102-09",
+      "subject": "rekishi-sogo",
+      "question": "1757年に、イギリスの東インド会社の軍が、フランスと結んだベンガルの太守の軍を破った戦いを何というか。",
+      "answer": "プラッシーの戦い",
+      "alternatives": [],
+      "explanation": "イギリスが、インドを植民地として支配するきっかけとなった。",
+      "yearStart": 1757,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0103-01",
+      "subject": "rekishi-sogo",
+      "question": "18世紀の後半にイギリスで始まった、機械の発明と利用によって、産業や社会のしくみが大きくかわったことを何というか。",
+      "answer": "産業革命",
+      "reading": "さんぎょうかくめい",
+      "alternatives": [],
+      "explanation": "手工業から、工場での機械による大量生産にかわった。",
+      "yearStart": 1770,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0103-02",
+      "subject": "rekishi-sogo",
+      "question": "イギリスの産業革命は、何をつくる工業から始まったか。",
+      "answer": "綿織物",
+      "reading": "めんおりもの",
+      "alternatives": [
+        "綿工業",
+        "綿織物工業",
+        "木綿工業"
+      ],
+      "explanation": "インドから輸入されていた綿織物を、国内で生産しようとして、紡績機や織機の発明があいついだ。",
+      "yearStart": 1770,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0103-03",
+      "subject": "rekishi-sogo",
+      "question": "18世紀の後半に、蒸気機関を改良して、機械を動かす動力として使えるようにしたイギリス人は誰か。",
+      "answer": "ワット",
+      "alternatives": [],
+      "explanation": "石炭を燃料とする蒸気機関は、工場や交通機関に広く使われた。",
+      "yearStart": 1769,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0103-04",
+      "subject": "rekishi-sogo",
+      "question": "1814年に蒸気機関車を製作し、1830年にはリヴァプール・マンチェスター間で、鉄道を営業用に走らせたイギリス人は誰か。",
+      "answer": "スティーヴンソン",
+      "alternatives": [
+        "スティーブンソン"
+      ],
+      "explanation": "鉄道と蒸気船によって、人や物の移動は速く、大量になった。",
+      "yearStart": 1830,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0103-05",
+      "subject": "rekishi-sogo",
+      "question": "産業革命によって圧倒的な工業の力をもった19世紀のイギリスは、何と呼ばれたか。",
+      "answer": "世界の工場",
+      "reading": "せかいのこうじょう",
+      "alternatives": [],
+      "explanation": "原料を輸入し、工業製品を世界中に輸出した。",
+      "yearStart": 1850,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0103-06",
+      "subject": "rekishi-sogo",
+      "question": "産業革命によって確立した、工場や機械をもつ資本家が、労働者をやとって、利益を求めて生産をおこなう経済のしくみを何というか。",
+      "answer": "資本主義",
+      "reading": "しほんしゅぎ",
+      "alternatives": [
+        "資本主義経済"
+      ],
+      "explanation": "資本家と労働者という、2つの階級が生まれた。",
+      "yearStart": 1830,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0103-07",
+      "subject": "rekishi-sogo",
+      "question": "産業革命の時期におこった、低い賃金や長時間の労働、子どもの労働、都市の不衛生な生活環境などの問題をまとめて何というか。",
+      "answer": "労働問題",
+      "reading": "ろうどうもんだい",
+      "alternatives": [
+        "社会問題"
+      ],
+      "explanation": "労働者は、労働組合をつくって、待遇の改善を求めた。",
+      "yearStart": 1830,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0103-08",
+      "subject": "rekishi-sogo",
+      "question": "工場や土地などを社会の共有とすることで、平等な社会をつくろうとする思想を何というか。",
+      "answer": "社会主義",
+      "reading": "しゃかいしゅぎ",
+      "alternatives": [],
+      "explanation": "資本主義の生み出す貧富の差を批判した。",
+      "yearStart": 1840,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0103-09",
+      "subject": "rekishi-sogo",
+      "question": "1848年にエンゲルスとともに『共産党宣言』を発表し、のちに『資本論』を著した、ドイツの思想家は誰か。",
+      "answer": "マルクス",
+      "alternatives": [],
+      "explanation": "労働者の団結を呼びかけ、各国の社会主義運動に大きな影響を与えた。",
+      "yearStart": 1848,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0104-01",
+      "subject": "rekishi-sogo",
+      "question": "19世紀に、イギリスが、茶の代金として支払う銀の流出を防ぐために、インドから清に密輸した麻薬は何か。",
+      "answer": "アヘン",
+      "alternatives": [],
+      "explanation": "清では中毒者がふえ、代金として大量の銀が流出した。",
+      "yearStart": 1830,
+      "yearApprox": true,
+      "regions": [
+        "中国",
+        "南アジア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0104-02",
+      "subject": "rekishi-sogo",
+      "question": "清の皇帝から広州に派遣されて、アヘンを没収して処分した役人は誰か。",
+      "answer": "林則徐",
+      "reading": "りんそくじょ",
+      "alternatives": [],
+      "explanation": "イギリスは、これを口実に艦隊を派遣した。",
+      "yearStart": 1839,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0104-03",
+      "subject": "rekishi-sogo",
+      "question": "1840年に、イギリスと清のあいだで始まった戦争を何というか。",
+      "answer": "アヘン戦争",
+      "reading": "あへんせんそう",
+      "alternatives": [],
+      "explanation": "近代的な軍艦をもつイギリスが勝利した。",
+      "yearStart": 1840,
+      "yearEnd": 1842,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0104-04",
+      "subject": "rekishi-sogo",
+      "question": "1842年に結ばれた、アヘン戦争の講和条約は何か。",
+      "answer": "南京条約",
+      "reading": "なんきんじょうやく",
+      "alternatives": [],
+      "explanation": "清は、上海など5港をひらき、賠償金を支払った。翌年には、領事裁判権を認め、関税自主権を失う不平等な条約を結ばされた。",
+      "yearStart": 1842,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0104-05",
+      "subject": "rekishi-sogo",
+      "question": "南京条約で、清がイギリスにゆずった島はどこか。",
+      "answer": "香港島",
+      "reading": "ほんこんとう",
+      "alternatives": [
+        "香港"
+      ],
+      "explanation": "1997年に、中国に返還された。",
+      "yearStart": 1842,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0104-06",
+      "subject": "rekishi-sogo",
+      "question": "1851年に、洪秀全を指導者として、清を倒して平等な社会をつくることをめざす人々が建てた国を何というか。",
+      "answer": "太平天国",
+      "reading": "たいへいてんごく",
+      "alternatives": [],
+      "explanation": "南京を都としたが、1864年に滅ぼされた。",
+      "yearStart": 1851,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0104-07",
+      "subject": "rekishi-sogo",
+      "question": "1856年に、イギリスとフランスが清に対しておこした戦争を、きっかけとなった事件の船の名から何というか。",
+      "answer": "アロー戦争",
+      "alternatives": [
+        "第2次アヘン戦争"
+      ],
+      "explanation": "清は、北京条約などで、開港場をふやし、外国の公使が北京に駐在することなどを認めた。",
+      "yearStart": 1856,
+      "yearEnd": 1860,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0104-08",
+      "subject": "rekishi-sogo",
+      "question": "1842年に、アヘン戦争で清が敗れたことを知った江戸幕府が、外国船に燃料や水、食料を与えることを認めた法令を何というか。",
+      "answer": "薪水給与令",
+      "reading": "しんすいきゅうよれい",
+      "alternatives": [
+        "天保の薪水給与令"
+      ],
+      "explanation": "それまでの異国船打払令をあらためた。",
+      "yearStart": 1842,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0104-09",
+      "subject": "rekishi-sogo",
+      "question": "清の魏源が、世界の地理や各国の事情をまとめた書物で、幕末の日本でも広く読まれたものは何か。",
+      "answer": "海国図志",
+      "reading": "かいこくずし",
+      "alternatives": [],
+      "explanation": "西洋の技術を学んで西洋に対抗することを説いた。",
+      "yearStart": 1842,
+      "regions": [
+        "中国",
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0105-01",
+      "subject": "rekishi-sogo",
+      "question": "1853年に、アメリカの軍艦4隻を率いて浦賀に来航し、日本に開国を求めた人物は誰か。",
+      "answer": "ペリー",
+      "alternatives": [],
+      "explanation": "アメリカは、中国との貿易や捕鯨のための船の寄港地を求めていた。",
+      "yearStart": 1853,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0105-02",
+      "subject": "rekishi-sogo",
+      "question": "1854年に、江戸幕府がアメリカと結んで、下田と箱館の2港をひらいた条約は何か。",
+      "answer": "日米和親条約",
+      "reading": "にちべいわしんじょうやく",
+      "alternatives": [],
+      "explanation": "アメリカの船に、燃料や食料などを供給することを約束した。200年以上続いた「鎖国」の体制がくずれた。",
+      "yearStart": 1854,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0105-03",
+      "subject": "rekishi-sogo",
+      "question": "ペリーが来航したときの老中で、朝廷や大名にも広く意見を求めた人物は誰か。",
+      "answer": "阿部正弘",
+      "reading": "あべまさひろ",
+      "alternatives": [],
+      "explanation": "朝廷や大名の発言力が強まるきっかけとなった。",
+      "yearStart": 1853,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0105-04",
+      "subject": "rekishi-sogo",
+      "question": "1856年に下田に着任して、幕府に通商条約を結ぶことを強く求めた、アメリカの総領事は誰か。",
+      "answer": "ハリス",
+      "alternatives": [],
+      "explanation": "清がアロー戦争で敗れたことを伝えて、条約の調印をせまった。",
+      "yearStart": 1856,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0105-05",
+      "subject": "rekishi-sogo",
+      "question": "1858年に、江戸幕府がアメリカと結んで、神奈川（横浜）・長崎・新潟・兵庫（神戸）・箱館での貿易を認めた条約は何か。",
+      "answer": "日米修好通商条約",
+      "reading": "にちべいしゅうこうつうしょうじょうやく",
+      "alternatives": [],
+      "explanation": "オランダ・ロシア・イギリス・フランスとも、同じ内容の条約を結んだ。",
+      "yearStart": 1858,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0105-06",
+      "subject": "rekishi-sogo",
+      "question": "1858年に、朝廷の許可をえないまま、日米修好通商条約に調印した、江戸幕府の大老は誰か。",
+      "answer": "井伊直弼",
+      "reading": "いいなおすけ",
+      "alternatives": [],
+      "explanation": "反対する大名や武士、公家をきびしく処罰した（安政の大獄）。",
+      "yearStart": 1858,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0105-07",
+      "subject": "rekishi-sogo",
+      "question": "日米修好通商条約で日本が認めた、日本で罪をおかした外国人を、その国の領事が自国の法律で裁く権利を何というか。",
+      "answer": "領事裁判権",
+      "reading": "りょうじさいばんけん",
+      "alternatives": [
+        "治外法権"
+      ],
+      "explanation": "日本の法律で裁くことができなかった。",
+      "yearStart": 1858,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0105-08",
+      "subject": "rekishi-sogo",
+      "question": "日米修好通商条約で日本に認められなかった、輸入品にかける税の率を、自国で自由に決める権利を何というか。",
+      "answer": "関税自主権",
+      "reading": "かんぜいじしゅけん",
+      "alternatives": [],
+      "explanation": "この2点で、日本にとって不平等な条約だった。",
+      "yearStart": 1858,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0105-09",
+      "subject": "rekishi-sogo",
+      "question": "1854年に結ばれた日露和親条約で、日本とロシアの国境は、択捉島と何島のあいだに定められたか。",
+      "answer": "得撫島",
+      "reading": "うるっぷとう",
+      "alternatives": [
+        "ウルップ島"
+      ],
+      "explanation": "樺太（サハリン）は、国境を定めず、両国の人々が住む地とされた。",
+      "yearStart": 1854,
+      "regions": [
+        "日本",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0106-01",
+      "subject": "rekishi-sogo",
+      "question": "1853年に、南下をめざすロシアと、オスマン帝国のあいだで始まり、イギリスとフランスがオスマン帝国を助けて参戦した戦争を何というか。",
+      "answer": "クリミア戦争",
+      "reading": "くりみあせんそう",
+      "alternatives": [],
+      "explanation": "敗れたロシアは、国内の改革を進めるとともに、東アジアへの進出を強めた。",
+      "yearStart": 1853,
+      "yearEnd": 1856,
+      "regions": [
+        "ロシア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0106-02",
+      "subject": "rekishi-sogo",
+      "question": "クリミア戦争に敗れたのち、1861年に農奴解放令を出して、近代化の改革を進めたロシアの皇帝は誰か。",
+      "answer": "アレクサンドル2世",
+      "reading": "あれくさんどるにせい",
+      "alternatives": [],
+      "explanation": "農奴に人格の自由を認めた。",
+      "yearStart": 1861,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0106-03",
+      "subject": "rekishi-sogo",
+      "question": "1861年に、アメリカで、奴隷制度や貿易の政策をめぐって、北部と南部のあいだで始まった内戦を何というか。",
+      "answer": "南北戦争",
+      "reading": "なんぼくせんそう",
+      "alternatives": [],
+      "explanation": "北部が勝利した。この戦争のため、アメリカのアジアへの進出は一時おくれた。",
+      "yearStart": 1861,
+      "yearEnd": 1865,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0106-04",
+      "subject": "rekishi-sogo",
+      "question": "南北戦争の最中の1863年に、奴隷解放宣言を出した、アメリカの大統領は誰か。",
+      "answer": "リンカン",
+      "alternatives": [
+        "リンカーン"
+      ],
+      "explanation": "「人民の、人民による、人民のための政治」をうったえた。",
+      "yearStart": 1863,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0106-05",
+      "subject": "rekishi-sogo",
+      "question": "1857年に、インドで、イギリスの東インド会社にやとわれていたインド人の兵士の反乱をきっかけに広がった、イギリスの支配に対する大規模な反乱を何というか。",
+      "answer": "インド大反乱",
+      "reading": "いんどだいはんらん",
+      "alternatives": [
+        "シパーヒーの反乱",
+        "セポイの反乱"
+      ],
+      "explanation": "イギリスは反乱をしずめて、ムガル帝国を滅ぼし、インドを直接支配した。",
+      "yearStart": 1857,
+      "yearEnd": 1859,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0106-06",
+      "subject": "rekishi-sogo",
+      "question": "1877年に、イギリスのヴィクトリア女王を皇帝として成立した、イギリスの支配下のインドを何というか。",
+      "answer": "インド帝国",
+      "reading": "いんどていこく",
+      "alternatives": [],
+      "explanation": "イギリスにとって、最も重要な植民地となった。",
+      "yearStart": 1877,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0106-07",
+      "subject": "rekishi-sogo",
+      "question": "19世紀後半の清で、曾国藩や李鴻章らが進めた、西洋の軍事や技術をとり入れて、国力を強めようとした運動を何というか。",
+      "answer": "洋務運動",
+      "reading": "ようむうんどう",
+      "alternatives": [],
+      "explanation": "政治のしくみや思想は、伝統的なものを守ろうとした。",
+      "yearStart": 1865,
+      "yearApprox": true,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0106-08",
+      "subject": "rekishi-sogo",
+      "question": "1869年に、エジプトで開通した、地中海と紅海を結ぶ運河は何か。",
+      "answer": "スエズ運河",
+      "reading": "すえずうんが",
+      "alternatives": [],
+      "explanation": "ヨーロッパとアジアを結ぶ航路が、大きくちぢまった。",
+      "yearStart": 1869,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0106-09",
+      "subject": "rekishi-sogo",
+      "question": "19世紀の半ばに、圧倒的な経済力と海軍力をもつイギリスのもとで、世界が比較的安定していた状況を、ラテン語で何というか。",
+      "answer": "パクス=ブリタニカ",
+      "alternatives": [],
+      "explanation": "「イギリスの平和」という意味。イギリスは、自由貿易を世界に広めようとした。",
+      "yearStart": 1850,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0107-01",
+      "subject": "rekishi-sogo",
+      "question": "1859年に貿易が始まると、日本で最大の貿易港となったのはどこか。",
+      "answer": "横浜",
+      "reading": "よこはま",
+      "alternatives": [],
+      "explanation": "貿易の相手国は、イギリスが中心だった。",
+      "yearStart": 1859,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0107-02",
+      "subject": "rekishi-sogo",
+      "question": "開国後の貿易で、日本から最も多く輸出された品物は何か。",
+      "answer": "生糸",
+      "reading": "きいと",
+      "alternatives": [],
+      "explanation": "ついで茶が多かった。輸出の急増で、国内では品不足となり、物価が上がった。",
+      "yearStart": 1859,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0107-03",
+      "subject": "rekishi-sogo",
+      "question": "開国後の貿易で、日本が最も多く輸入した品物を1つあげよ。",
+      "answer": "毛織物",
+      "reading": "けおりもの",
+      "alternatives": [
+        "綿織物"
+      ],
+      "explanation": "安い綿織物の輸入は、国内の綿織物の産地に打撃を与えた。",
+      "yearStart": 1859,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0107-04",
+      "subject": "rekishi-sogo",
+      "question": "開国後に、日本と外国とで、金と銀の交換の比率がちがったために、日本から大量に流出したものは何か。",
+      "answer": "金貨",
+      "reading": "きんか",
+      "alternatives": [
+        "金",
+        "小判"
+      ],
+      "explanation": "幕府は、小判の質を下げて対応したが、物価はさらに上がり、人々の生活は苦しくなった。",
+      "yearStart": 1859,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0107-05",
+      "subject": "rekishi-sogo",
+      "question": "幕末に広まった、天皇を尊び、外国の勢力を追いはらおうとする考えを何というか。",
+      "answer": "尊王攘夷",
+      "reading": "そんのうじょうい",
+      "alternatives": [
+        "尊王攘夷論",
+        "尊王攘夷運動"
+      ],
+      "explanation": "開国による社会の混乱のなかで、幕府への批判と結びついた。",
+      "yearStart": 1860,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0107-06",
+      "subject": "rekishi-sogo",
+      "question": "1860年に、大老の井伊直弼が、水戸藩などの浪士に暗殺された事件を何というか。",
+      "answer": "桜田門外の変",
+      "reading": "さくらだもんがいのへん",
+      "alternatives": [],
+      "explanation": "幕府の権威は大きくゆらいだ。",
+      "yearStart": 1860,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0107-07",
+      "subject": "rekishi-sogo",
+      "question": "1863年に、前年の生麦事件の報復として、イギリスの艦隊が鹿児島を攻撃した戦いを何というか。",
+      "answer": "薩英戦争",
+      "reading": "さつえいせんそう",
+      "alternatives": [],
+      "explanation": "薩摩藩は、外国を追いはらうことはできないと知り、イギリスに接近した。",
+      "yearStart": 1863,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0107-08",
+      "subject": "rekishi-sogo",
+      "question": "1864年に、外国船を砲撃した長州藩に対して、イギリス・フランス・アメリカ・オランダの艦隊が報復として攻撃した場所はどこか。",
+      "answer": "下関",
+      "reading": "しものせき",
+      "alternatives": [],
+      "explanation": "長州藩も、攘夷が不可能であることを知った。",
+      "yearStart": 1864,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0107-09",
+      "subject": "rekishi-sogo",
+      "question": "1866年に、坂本龍馬らのなかだちで、薩摩藩と長州藩が結んだ同盟を何というか。",
+      "answer": "薩長同盟",
+      "reading": "さっちょうどうめい",
+      "alternatives": [
+        "薩長連合"
+      ],
+      "explanation": "幕府を倒す運動の中心となった。",
+      "yearStart": 1866,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0108-01",
+      "subject": "rekishi-sogo",
+      "question": "1776年に、北アメリカのイギリスの13の植民地が、本国からの独立を宣言した文書は何か。",
+      "answer": "独立宣言",
+      "reading": "どくりつせんげん",
+      "alternatives": [
+        "アメリカ独立宣言"
+      ],
+      "explanation": "すべての人は平等で、生命・自由・幸福を求める権利をもつとした。",
+      "yearStart": 1776,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0108-02",
+      "subject": "rekishi-sogo",
+      "question": "アメリカ独立戦争で植民地軍の総司令官をつとめ、アメリカ合衆国の初代の大統領となった人物は誰か。",
+      "answer": "ワシントン",
+      "alternatives": [],
+      "explanation": "1787年に定められた合衆国憲法は、三権分立と連邦制をとり入れた。",
+      "yearStart": 1789,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0108-03",
+      "subject": "rekishi-sogo",
+      "question": "1789年に、フランスで、民衆がバスティーユ牢獄をおそったことをきっかけに始まった革命を何というか。",
+      "answer": "フランス革命",
+      "reading": "ふらんすかくめい",
+      "alternatives": [],
+      "explanation": "国王を中心とする身分制の社会がくずれた。",
+      "yearStart": 1789,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0108-04",
+      "subject": "rekishi-sogo",
+      "question": "1789年に、フランスの国民議会が発表した、自由・平等・国民主権などをうたった宣言は何か。",
+      "answer": "人権宣言",
+      "reading": "じんけんせんげん",
+      "alternatives": [
+        "フランス人権宣言",
+        "人間および市民の権利の宣言"
+      ],
+      "explanation": "近代の民主政治の基本となる考えを示した。",
+      "yearStart": 1789,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0108-05",
+      "subject": "rekishi-sogo",
+      "question": "フランス革命ののちに権力をにぎり、1804年に皇帝となって、ヨーロッパの大部分を支配した軍人は誰か。",
+      "answer": "ナポレオン",
+      "alternatives": [
+        "ナポレオン1世",
+        "ナポレオン=ボナパルト"
+      ],
+      "explanation": "民法典（ナポレオン法典）を定めて、革命の成果を定着させた。",
+      "yearStart": 1804,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0108-06",
+      "subject": "rekishi-sogo",
+      "question": "同じ国民であるという意識をもつ人々が、主権者となってつくる国家を何というか。",
+      "answer": "国民国家",
+      "reading": "こくみんこっか",
+      "alternatives": [],
+      "explanation": "フランス革命を通じて形づくられ、19世紀のヨーロッパに広まった。",
+      "yearStart": 1800,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0108-07",
+      "subject": "rekishi-sogo",
+      "question": "国民や民族のまとまりを重んじ、その統一や独立、発展をめざす考えや運動を何というか。",
+      "answer": "ナショナリズム",
+      "alternatives": [
+        "国民主義",
+        "民族主義"
+      ],
+      "explanation": "ナポレオンの支配への抵抗を通じて、ヨーロッパの各地で高まった。",
+      "yearStart": 1810,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0108-08",
+      "subject": "rekishi-sogo",
+      "question": "プロイセンの首相として、軍備の拡張を進め、1871年にドイツの統一を実現した人物は誰か。",
+      "answer": "ビスマルク",
+      "alternatives": [],
+      "explanation": "オーストリアやフランスとの戦争に勝利した。",
+      "yearStart": 1871,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0108-09",
+      "subject": "rekishi-sogo",
+      "question": "1871年に、プロイセンの国王を皇帝として成立した国は何か。",
+      "answer": "ドイツ帝国",
+      "reading": "どいつていこく",
+      "alternatives": [],
+      "explanation": "君主の権限が強い憲法をもち、日本の憲法の手本とされた。",
+      "yearStart": 1871,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0108-10",
+      "subject": "rekishi-sogo",
+      "question": "1861年に、サルデーニャ王国を中心に、統一が実現して成立した国は何か。",
+      "answer": "イタリア王国",
+      "alternatives": [
+        "イタリア"
+      ],
+      "explanation": "19世紀の後半に、ヨーロッパの各地で国民国家の建設が進んだ。",
+      "yearStart": 1861,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0109-01",
+      "subject": "rekishi-sogo",
+      "question": "1867年に、第15代将軍の徳川慶喜が、政権を朝廷に返したことを何というか。",
+      "answer": "大政奉還",
+      "reading": "たいせいほうかん",
+      "alternatives": [],
+      "explanation": "幕府にかわる新しい政権のなかで、主導権を保とうとした。",
+      "yearStart": 1867,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0109-02",
+      "subject": "rekishi-sogo",
+      "question": "1867年末に、朝廷が、幕府を廃止して、天皇を中心とする新しい政府をつくることを宣言したものを何というか。",
+      "answer": "王政復古の大号令",
+      "reading": "おうせいふっこのだいごうれい",
+      "alternatives": [],
+      "explanation": "薩摩藩・長州藩と、公家の岩倉具視らが主導した。",
+      "yearStart": 1867,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0109-03",
+      "subject": "rekishi-sogo",
+      "question": "1868年から翌年にかけての、新政府軍と旧幕府軍の戦いをまとめて何というか。",
+      "answer": "戊辰戦争",
+      "reading": "ぼしんせんそう",
+      "alternatives": [],
+      "explanation": "鳥羽・伏見の戦いに始まり、箱館の五稜郭の戦いで終わった。",
+      "yearStart": 1868,
+      "yearEnd": 1869,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0109-04",
+      "subject": "rekishi-sogo",
+      "question": "1868年に、明治天皇が神々に誓う形で示された、新しい政治の基本方針を何というか。",
+      "answer": "五箇条の誓文",
+      "reading": "ごかじょうのせいもん",
+      "alternatives": [
+        "五箇条の御誓文"
+      ],
+      "explanation": "世論を重んじて政治をおこなうことや、世界から知識を学ぶことなどを示した。",
+      "yearStart": 1868,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0109-05",
+      "subject": "rekishi-sogo",
+      "question": "江戸時代の幕府と藩による政治から、近代的な国家をつくるために進められた、政治・経済・社会の大きな変革を何というか。",
+      "answer": "明治維新",
+      "reading": "めいじいしん",
+      "alternatives": [],
+      "explanation": "1868年に年号が明治に改められ、江戸は東京と改められた。",
+      "yearStart": 1868,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0109-06",
+      "subject": "rekishi-sogo",
+      "question": "1869年に、大名が、土地と人民を天皇に返したことを何というか。",
+      "answer": "版籍奉還",
+      "reading": "はんせきほうかん",
+      "alternatives": [],
+      "explanation": "もとの大名がそのまま藩の政治をおこなったため、改革の効果は小さかった。",
+      "yearStart": 1869,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0109-07",
+      "subject": "rekishi-sogo",
+      "question": "1871年に、政府が、藩を廃止して県をおき、中央から役人を派遣して治めさせた改革を何というか。",
+      "answer": "廃藩置県",
+      "reading": "はいはんちけん",
+      "alternatives": [],
+      "explanation": "政府が全国を直接治める、中央集権の国家ができあがった。",
+      "yearStart": 1871,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0109-08",
+      "subject": "rekishi-sogo",
+      "question": "明治政府が、江戸時代の身分制度を廃止して、すべての国民を平等としたことを何というか。",
+      "answer": "四民平等",
+      "reading": "しみんびょうどう",
+      "alternatives": [],
+      "explanation": "職業や住む場所を選ぶ自由が認められた。",
+      "yearStart": 1869,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0109-09",
+      "subject": "rekishi-sogo",
+      "question": "1871年に、政府が、えた・非人などの呼び名を廃止して、身分・職業ともに平民と同じとした布告を、一般に何というか。",
+      "answer": "解放令",
+      "reading": "かいほうれい",
+      "alternatives": [
+        "身分解放令",
+        "賤称廃止令"
+      ],
+      "explanation": "その後も、就職や結婚などでの差別は根強く残った。",
+      "yearStart": 1871,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0110-01",
+      "subject": "rekishi-sogo",
+      "question": "明治政府がかかげた、経済を発展させて国を豊かにし、強い軍隊をつくることをめざしたスローガンは何か。",
+      "answer": "富国強兵",
+      "reading": "ふこくきょうへい",
+      "alternatives": [],
+      "explanation": "欧米の国々に対抗できる国づくりをめざした。",
+      "yearStart": 1870,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0110-02",
+      "subject": "rekishi-sogo",
+      "question": "1872年に、政府が公布した、6歳以上のすべての男女に小学校の教育を受けさせることを定めた法令は何か。",
+      "answer": "学制",
+      "reading": "がくせい",
+      "alternatives": [],
+      "explanation": "授業料の負担が重く、はじめは就学率が低かった。",
+      "yearStart": 1872,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0110-03",
+      "subject": "rekishi-sogo",
+      "question": "1873年に、政府が出した、満20歳になった男性に兵役の義務を課す法令は何か。",
+      "answer": "徴兵令",
+      "reading": "ちょうへいれい",
+      "alternatives": [],
+      "explanation": "国民による近代的な軍隊をつくった。",
+      "yearStart": 1873,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0110-04",
+      "subject": "rekishi-sogo",
+      "question": "1873年から、政府がおこなった、土地の所有者に、地価の3％を現金で納めさせることにした税制の改革を何というか。",
+      "answer": "地租改正",
+      "reading": "ちそかいせい",
+      "alternatives": [],
+      "explanation": "政府の収入は安定したが、農民の負担は江戸時代とほとんどかわらず、各地で反対の一揆がおこった。",
+      "yearStart": 1873,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0110-05",
+      "subject": "rekishi-sogo",
+      "question": "明治政府が進めた、欧米の技術や機械をとり入れて、近代的な産業を育てる政策を何というか。",
+      "answer": "殖産興業",
+      "reading": "しょくさんこうぎょう",
+      "alternatives": [],
+      "explanation": "外国から技術者をまねき、官営の工場や鉱山を経営した。",
+      "yearStart": 1870,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0110-06",
+      "subject": "rekishi-sogo",
+      "question": "1872年に、群馬県につくられた、フランスの技術をとり入れた官営の製糸工場は何か。",
+      "answer": "富岡製糸場",
+      "reading": "とみおかせいしじょう",
+      "alternatives": [],
+      "explanation": "各地から集められた工女たちが、ここで学んだ技術を地元に伝えた。",
+      "yearStart": 1872,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0110-07",
+      "subject": "rekishi-sogo",
+      "question": "明治時代の初めに、欧米の文化や生活の様式がさかんにとり入れられて、都市を中心に、人々の生活が大きくかわったことを何というか。",
+      "answer": "文明開化",
+      "reading": "ぶんめいかいか",
+      "alternatives": [],
+      "explanation": "洋服・牛肉・ランプ・ガス灯・煉瓦づくりの建物などが広まった。",
+      "yearStart": 1873,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0110-08",
+      "subject": "rekishi-sogo",
+      "question": "『学問のすゝめ』を著して、人間の平等と、学問の大切さを説いた人物は誰か。",
+      "answer": "福沢諭吉",
+      "reading": "ふくざわゆきち",
+      "alternatives": [],
+      "explanation": "「天は人の上に人を造らず、人の下に人を造らず」という言葉で始まる。",
+      "yearStart": 1872,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0110-09",
+      "subject": "rekishi-sogo",
+      "question": "1872年に、日本で最初の鉄道が開通したのは、新橋とどこのあいだか。",
+      "answer": "横浜",
+      "reading": "よこはま",
+      "alternatives": [],
+      "explanation": "同じ年に、太陽暦も採用された。",
+      "yearStart": 1872,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0111-01",
+      "subject": "rekishi-sogo",
+      "question": "1871年に、不平等条約の改正の交渉と、欧米の視察のために派遣された使節団を、大使の名から何というか。",
+      "answer": "岩倉使節団",
+      "reading": "いわくらしせつだん",
+      "alternatives": [
+        "岩倉遣外使節団"
+      ],
+      "explanation": "条約の改正はできなかったが、欧米の進んだ政治や産業を見て、国内の改革の必要を強く感じて帰国した。",
+      "yearStart": 1871,
+      "yearEnd": 1873,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0111-02",
+      "subject": "rekishi-sogo",
+      "question": "1871年に、日本が清と結んだ、対等な内容の条約は何か。",
+      "answer": "日清修好条規",
+      "reading": "にっしんしゅうこうじょうき",
+      "alternatives": [],
+      "explanation": "日本が、アジアの国と結んだ最初の近代的な条約。",
+      "yearStart": 1871,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0111-03",
+      "subject": "rekishi-sogo",
+      "question": "明治時代の初めに、西郷隆盛や板垣退助らが主張した、武力を使ってでも朝鮮を開国させようとする考えを何というか。",
+      "answer": "征韓論",
+      "reading": "せいかんろん",
+      "alternatives": [],
+      "explanation": "欧米から帰国した大久保利通らに反対されて、西郷らは政府を去った。",
+      "yearStart": 1873,
+      "regions": [
+        "日本",
+        "朝鮮"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0111-04",
+      "subject": "rekishi-sogo",
+      "question": "1876年に、日本が、前年の江華島事件をきっかけに、朝鮮と結んだ条約は何か。",
+      "answer": "日朝修好条規",
+      "reading": "にっちょうしゅうこうじょうき",
+      "alternatives": [],
+      "explanation": "朝鮮を開国させた。日本だけが領事裁判権をもつなど、朝鮮にとって不平等な条約だった。",
+      "yearStart": 1876,
+      "regions": [
+        "日本",
+        "朝鮮"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0111-05",
+      "subject": "rekishi-sogo",
+      "question": "1875年に、日本がロシアと結んで、樺太をロシア領、千島列島を日本領とした条約は何か。",
+      "answer": "樺太・千島交換条約",
+      "reading": "からふと・ちしまこうかんじょうやく",
+      "alternatives": [],
+      "explanation": "北方の国境が確定した。",
+      "yearStart": 1875,
+      "regions": [
+        "日本",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0111-06",
+      "subject": "rekishi-sogo",
+      "question": "1879年に、政府が、軍隊の力を背景に琉球藩を廃止して、沖縄県をおいたことを何というか。",
+      "answer": "琉球処分",
+      "reading": "りゅうきゅうしょぶん",
+      "alternatives": [],
+      "explanation": "琉球を属国とみなしていた清は、これに抗議した。",
+      "yearStart": 1879,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0111-07",
+      "subject": "rekishi-sogo",
+      "question": "1874年に、台湾に漂着した琉球の人々が殺害された事件を理由に、日本が台湾に軍を送ったことを何というか。",
+      "answer": "台湾出兵",
+      "reading": "たいわんしゅっぺい",
+      "alternatives": [],
+      "explanation": "清は、日本の出兵を正当なものと認めて、賠償金を支払った。",
+      "yearStart": 1874,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0111-08",
+      "subject": "rekishi-sogo",
+      "question": "1869年に、政府が、蝦夷地を北海道と改めて、開発のためにおいた役所を何というか。",
+      "answer": "開拓使",
+      "reading": "かいたくし",
+      "alternatives": [],
+      "explanation": "開拓と防備のために、屯田兵が送られた。",
+      "yearStart": 1869,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0111-09",
+      "subject": "rekishi-sogo",
+      "question": "北海道の開拓が進むなかで、土地や漁場をうばわれ、独自の文化や生活を否定されていった先住の人々は誰か。",
+      "answer": "アイヌ",
+      "alternatives": [
+        "アイヌ民族",
+        "アイヌの人々"
+      ],
+      "explanation": "1899年に北海道旧土人保護法が制定されたが、生活の改善にはつながらなかった。",
+      "yearStart": 1899,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0112-01",
+      "subject": "rekishi-sogo",
+      "question": "1874年に、板垣退助らが、国会の開設を求めて政府に提出した意見書は何か。",
+      "answer": "民撰議院設立の建白書",
+      "reading": "みんせんぎいんせつりつのけんぱくしょ",
+      "alternatives": [
+        "民撰議院設立建白書"
+      ],
+      "explanation": "少数の役人による政治を批判した。",
+      "yearStart": 1874,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0112-02",
+      "subject": "rekishi-sogo",
+      "question": "国会の開設や憲法の制定を求めて、明治時代の前半に全国に広まった運動を何というか。",
+      "answer": "自由民権運動",
+      "reading": "じゆうみんけんうんどう",
+      "alternatives": [],
+      "explanation": "はじめは士族が中心だったが、地主や農民にも広がった。",
+      "yearStart": 1874,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0112-03",
+      "subject": "rekishi-sogo",
+      "question": "1877年に、鹿児島の士族が、西郷隆盛を指導者としておこした、最大の士族の反乱を何というか。",
+      "answer": "西南戦争",
+      "reading": "せいなんせんそう",
+      "alternatives": [],
+      "explanation": "徴兵令でつくられた政府軍にしずめられた。以後、政府への批判は、言論によるものが中心となった。",
+      "yearStart": 1877,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0112-04",
+      "subject": "rekishi-sogo",
+      "question": "1881年に、政府が、10年後に国会をひらくことを約束したものを何というか。",
+      "answer": "国会開設の勅諭",
+      "reading": "こっかいかいせつのちょくゆ",
+      "alternatives": [],
+      "explanation": "これを受けて、板垣退助は自由党を、大隈重信は立憲改進党を結成した。",
+      "yearStart": 1881,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0112-05",
+      "subject": "rekishi-sogo",
+      "question": "ヨーロッパで、君主の権限の強いドイツ（プロイセン）の憲法などを学び、憲法の草案づくりの中心となった人物は誰か。",
+      "answer": "伊藤博文",
+      "reading": "いとうひろぶみ",
+      "alternatives": [],
+      "explanation": "1885年に内閣制度をつくり、初代の内閣総理大臣となった。",
+      "yearStart": 1882,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0112-06",
+      "subject": "rekishi-sogo",
+      "question": "1889年に発布された、天皇が国民に与える形で定められた憲法は何か。",
+      "answer": "大日本帝国憲法",
+      "reading": "だいにっぽんていこくけんぽう",
+      "alternatives": [
+        "明治憲法"
+      ],
+      "explanation": "アジアで最初の、近代的な憲法にもとづく立憲制の国家となった。",
+      "yearStart": 1889,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0112-07",
+      "subject": "rekishi-sogo",
+      "question": "大日本帝国憲法で、国の元首として統治すると定められ、軍隊を率いる権限などの大きな権限をもったのは誰か。",
+      "answer": "天皇",
+      "reading": "てんのう",
+      "alternatives": [],
+      "explanation": "国民は「臣民」とされ、その権利は法律の範囲内で認められた。",
+      "yearStart": 1889,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0112-08",
+      "subject": "rekishi-sogo",
+      "question": "1890年にひらかれた、衆議院と貴族院からなる議会を何というか。",
+      "answer": "帝国議会",
+      "reading": "ていこくぎかい",
+      "alternatives": [],
+      "explanation": "衆議院の選挙権は、直接国税を15円以上納める満25歳以上の男性に限られ、有権者は人口の約1％だった。",
+      "yearStart": 1890,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0112-09",
+      "subject": "rekishi-sogo",
+      "question": "1890年に出された、忠君愛国の道徳を示して、教育の基本とされた勅語を何というか。",
+      "answer": "教育勅語",
+      "reading": "きょういくちょくご",
+      "alternatives": [],
+      "explanation": "学校の儀式で読みあげられ、国民の精神的なよりどころとされた。",
+      "yearStart": 1890,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0113-01",
+      "subject": "rekishi-sogo",
+      "question": "1894年に、朝鮮で、東学を信仰する農民たちがおこした反乱を何というか。",
+      "answer": "甲午農民戦争",
+      "reading": "こうごのうみんせんそう",
+      "alternatives": [
+        "東学の乱"
+      ],
+      "explanation": "反乱をしずめるために、清と日本が朝鮮に軍を送り、両国の対立が深まった。",
+      "yearStart": 1894,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0113-02",
+      "subject": "rekishi-sogo",
+      "question": "1894年に、朝鮮をめぐる対立から、日本と清のあいだで始まった戦争を何というか。",
+      "answer": "日清戦争",
+      "reading": "にっしんせんそう",
+      "alternatives": [],
+      "explanation": "日本が勝利した。東アジアの伝統的な国際関係（清を中心とする朝貢の関係）がくずれた。",
+      "yearStart": 1894,
+      "yearEnd": 1895,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0113-03",
+      "subject": "rekishi-sogo",
+      "question": "1895年に結ばれた、日清戦争の講和条約は何か。",
+      "answer": "下関条約",
+      "reading": "しものせきじょうやく",
+      "alternatives": [],
+      "explanation": "清は、朝鮮の独立を認め、遼東半島・台湾・澎湖諸島を日本にゆずり、多額の賠償金を支払うことになった。",
+      "yearStart": 1895,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0113-04",
+      "subject": "rekishi-sogo",
+      "question": "下関条約の直後に、ロシア・フランス・ドイツが、日本に、遼東半島を清に返すように求めたことを何というか。",
+      "answer": "三国干渉",
+      "reading": "さんごくかんしょう",
+      "alternatives": [],
+      "explanation": "日本はこれを受け入れた。国民のあいだに、ロシアへの対抗心が高まった。",
+      "yearStart": 1895,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0113-05",
+      "subject": "rekishi-sogo",
+      "question": "下関条約によって、日本の最初の植民地となった島はどこか。",
+      "answer": "台湾",
+      "reading": "たいわん",
+      "alternatives": [],
+      "explanation": "日本は、台湾総督府をおいて、住民の抵抗を武力でおさえて支配した。",
+      "yearStart": 1895,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0113-06",
+      "subject": "rekishi-sogo",
+      "question": "日清戦争の直前の1894年に、イギリスとの交渉で、領事裁判権の撤廃に成功した外務大臣は誰か。",
+      "answer": "陸奥宗光",
+      "reading": "むつむねみつ",
+      "alternatives": [],
+      "explanation": "関税自主権の完全な回復は、1911年に小村寿太郎が実現した。",
+      "yearStart": 1894,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0113-07",
+      "subject": "rekishi-sogo",
+      "question": "1880年代の後半から、日本で、紡績業や製糸業などの軽工業を中心に進んだ、機械による大量生産への変化を何というか。",
+      "answer": "産業革命",
+      "reading": "さんぎょうかくめい",
+      "alternatives": [
+        "日本の産業革命"
+      ],
+      "explanation": "日清戦争ののちには、重工業の基礎もきずかれた。",
+      "yearStart": 1890,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0113-08",
+      "subject": "rekishi-sogo",
+      "question": "日清戦争の賠償金の一部を使って建設され、1901年に操業を始めた、官営の製鉄所は何か。",
+      "answer": "八幡製鉄所",
+      "reading": "やはたせいてつじょ",
+      "alternatives": [
+        "官営八幡製鉄所"
+      ],
+      "explanation": "日本の重工業の発展の基礎となった。",
+      "yearStart": 1901,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0113-09",
+      "subject": "rekishi-sogo",
+      "question": "栃木県の銅山から流れ出た鉱毒が、川の流域の農民に大きな被害を与えた事件で、被害者の救済をうったえ続けた衆議院議員は誰か。",
+      "answer": "田中正造",
+      "reading": "たなかしょうぞう",
+      "alternatives": [],
+      "explanation": "足尾鉱毒事件と呼ばれる。産業の発展のかげで、公害や労働問題が生まれた。",
+      "yearStart": 1901,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0114-01",
+      "subject": "rekishi-sogo",
+      "question": "19世紀の後半から、欧米の国々が、資源や市場を求めて、軍事力を背景に、アジアやアフリカに進出して、植民地を広げていった動きを何というか。",
+      "answer": "帝国主義",
+      "reading": "ていこくしゅぎ",
+      "alternatives": [],
+      "explanation": "のちに日本も加わった。",
+      "yearStart": 1880,
+      "yearApprox": true,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0114-02",
+      "subject": "rekishi-sogo",
+      "question": "19世紀の後半に、石油と電力を新しい動力として、鉄鋼・機械・化学などの重化学工業を中心に進んだ産業の発展を何というか。",
+      "answer": "第2次産業革命",
+      "reading": "だいにじさんぎょうかくめい",
+      "alternatives": [
+        "第二次産業革命"
+      ],
+      "explanation": "巨大な企業が生まれ、原料の供給地や製品の市場、資金の投資先として、植民地が求められた。",
+      "yearStart": 1870,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0114-03",
+      "subject": "rekishi-sogo",
+      "question": "19世紀の末までに、エチオピアとリベリアをのぞいて、ほぼ全域がヨーロッパの国々の植民地となった大陸はどこか。",
+      "answer": "アフリカ",
+      "alternatives": [
+        "アフリカ大陸"
+      ],
+      "explanation": "1884年からのベルリン会議で、分割の原則が決められた。",
+      "yearStart": 1900,
+      "yearApprox": true,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0114-04",
+      "subject": "rekishi-sogo",
+      "question": "アフリカで、エジプトのカイロと南アフリカのケープタウンを結ぶ地域を支配しようとしたイギリスの政策を何というか。",
+      "answer": "アフリカ縦断政策",
+      "reading": "あふりかじゅうだんせいさく",
+      "alternatives": [
+        "縦断政策"
+      ],
+      "explanation": "横断政策をとるフランスと対立した。",
+      "yearStart": 1890,
+      "yearApprox": true,
+      "regions": [
+        "アフリカ",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0114-05",
+      "subject": "rekishi-sogo",
+      "question": "1898年に、アメリカが、スペインとの戦争に勝利して、アジアで手に入れた植民地はどこか。",
+      "answer": "フィリピン",
+      "alternatives": [],
+      "explanation": "同じ年に、ハワイも併合した。",
+      "yearStart": 1898,
+      "regions": [
+        "南北アメリカ",
+        "東南アジア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0114-06",
+      "subject": "rekishi-sogo",
+      "question": "日清戦争ののち、列強が、清から、鉄道を敷く権利や鉱山を開発する権利をえたり、重要な土地を借り受けたりして、勢力範囲を広げたことを何というか。",
+      "answer": "中国分割",
+      "reading": "ちゅうごくぶんかつ",
+      "alternatives": [],
+      "explanation": "ロシアは旅順・大連を、ドイツは膠州湾を、イギリスは威海衛と九竜半島を、それぞれ借り受けた。",
+      "yearStart": 1898,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0114-07",
+      "subject": "rekishi-sogo",
+      "question": "1899年に、中国への進出におくれたアメリカが、列強に対して、中国での通商の機会を平等にすることなどを求めた宣言を何というか。",
+      "answer": "門戸開放宣言",
+      "reading": "もんこかいほうせんげん",
+      "alternatives": [],
+      "explanation": "国務長官のジョン=ヘイが発表した。",
+      "yearStart": 1899,
+      "regions": [
+        "南北アメリカ",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0114-08",
+      "subject": "rekishi-sogo",
+      "question": "1900年に、清で、「扶清滅洋」をとなえる民衆の団体が、北京の外国の公使館を包囲した事件を何というか。",
+      "answer": "義和団事件",
+      "reading": "ぎわだんじけん",
+      "alternatives": [
+        "義和団戦争",
+        "北清事変"
+      ],
+      "explanation": "日本やロシアなど8か国の連合軍がしずめた。ロシアは、その後も満州に軍をとどめた。",
+      "yearStart": 1900,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0114-09",
+      "subject": "rekishi-sogo",
+      "question": "19世紀の末にドイツの皇帝となり、積極的な海外進出の政策を進めて、イギリスと対立した人物は誰か。",
+      "answer": "ヴィルヘルム2世",
+      "reading": "ゔぃるへるむにせい",
+      "alternatives": [],
+      "explanation": "海軍を大きく増強した。",
+      "yearStart": 1890,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0115-01",
+      "subject": "rekishi-sogo",
+      "question": "1902年に、日本が、ロシアの南下に対抗するために結んだ同盟を何というか。",
+      "answer": "日英同盟",
+      "reading": "にちえいどうめい",
+      "alternatives": [],
+      "explanation": "イギリスも、ロシアの東アジアへの進出を警戒していた。",
+      "yearStart": 1902,
+      "regions": [
+        "日本",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0115-02",
+      "subject": "rekishi-sogo",
+      "question": "1904年に、満州と韓国をめぐる対立から、日本とロシアのあいだで始まった戦争を何というか。",
+      "answer": "日露戦争",
+      "reading": "にちろせんそう",
+      "alternatives": [],
+      "explanation": "日本は、戦いを有利に進めたが、兵力や資金が限界に達した。ロシアでも、国内で革命運動がおこった。",
+      "yearStart": 1904,
+      "yearEnd": 1905,
+      "regions": [
+        "日本",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0115-03",
+      "subject": "rekishi-sogo",
+      "question": "日露戦争に出征した弟を思って、「君死にたまふことなかれ」という詩を発表した歌人は誰か。",
+      "answer": "与謝野晶子",
+      "reading": "よさのあきこ",
+      "alternatives": [],
+      "explanation": "キリスト教徒の内村鑑三や、社会主義者の幸徳秋水らも、戦争に反対した。",
+      "yearStart": 1904,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0115-04",
+      "subject": "rekishi-sogo",
+      "question": "1905年に、アメリカのなかだちで結ばれた、日露戦争の講和条約は何か。",
+      "answer": "ポーツマス条約",
+      "reading": "ぽーつますじょうやく",
+      "alternatives": [],
+      "explanation": "日本は、韓国での優越権、旅順・大連の租借権、南満州の鉄道の利権、樺太の南半分などをえた。",
+      "yearStart": 1905,
+      "regions": [
+        "日本",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0115-05",
+      "subject": "rekishi-sogo",
+      "question": "ポーツマス条約で賠償金がえられなかったことに不満をもつ人々が、東京でおこした暴動を何というか。",
+      "answer": "日比谷焼打ち事件",
+      "reading": "ひびややきうちじけん",
+      "alternatives": [],
+      "explanation": "国民は、増税や多くの戦死者という犠牲にたえていた。",
+      "yearStart": 1905,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0115-06",
+      "subject": "rekishi-sogo",
+      "question": "1910年に、日本が韓国を植民地としたことを何というか。",
+      "answer": "韓国併合",
+      "reading": "かんこくへいごう",
+      "alternatives": [],
+      "explanation": "朝鮮総督府をおいて支配した。学校では、日本語や日本の歴史が教えられた。",
+      "yearStart": 1910,
+      "regions": [
+        "日本",
+        "朝鮮"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0115-07",
+      "subject": "rekishi-sogo",
+      "question": "1905年に、日本が韓国の外交権をうばって設置した統監府の、初代の統監は誰か。",
+      "answer": "伊藤博文",
+      "reading": "いとうひろぶみ",
+      "alternatives": [],
+      "explanation": "1909年に、韓国の独立運動家の安重根に暗殺された。",
+      "yearStart": 1905,
+      "regions": [
+        "日本",
+        "朝鮮"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "r-0115-08",
+      "subject": "rekishi-sogo",
+      "question": "1911年に、清で革命がおこり、翌年、アジアで最初の共和国である中華民国が成立した。この革命を何というか。",
+      "answer": "辛亥革命",
+      "reading": "しんがいかくめい",
+      "alternatives": [],
+      "explanation": "三民主義をとなえた孫文が、臨時大総統となった。清は滅んだ。",
+      "yearStart": 1911,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "r-0115-09",
+      "subject": "rekishi-sogo",
+      "question": "日露戦争での日本の勝利は、アジアの人々の民族運動を勇気づけた。日本への留学をすすめる東遊運動がおこった国はどこか。",
+      "answer": "ベトナム",
+      "alternatives": [],
+      "explanation": "ファン=ボイ=チャウらが進めた。しかし、日本はその後、アジアの人々を支配する側に立っていった。",
+      "yearStart": 1905,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,961 @@
+{
+  "generatedFrom": "nihonshi-17.csv",
+  "_note": "このファイルは nihonshi-17.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "j-1701-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1952年に、皇居前広場で、デモ隊と警官隊が衝突した事件をきっかけに、暴力的な破壊活動をおこなった団体を取りしまるために制定された法律は何か。",
+      "answer": "破壊活動防止法",
+      "reading": "はかいかつどうぼうしほう",
+      "alternatives": [
+        "破防法"
+      ],
+      "explanation": "きっかけとなった事件を、血のメーデー事件（メーデー事件）という。調査機関として公安調査庁がおかれた。",
+      "yearStart": 1952,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1701-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1954年に、アメリカとのMSA協定によって、日本が防衛力を強める義務を負ったことを受けて、防衛庁とともに発足した組織は何か。",
+      "answer": "自衛隊",
+      "reading": "じえいたい",
+      "alternatives": [],
+      "explanation": "保安隊と海上警備隊を改組して、陸上・海上・航空の3つの隊とした。",
+      "yearStart": 1954,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1701-03",
+      "subject": "nihonshi-tankyu",
+      "question": "独立の回復の前後から、吉田茂内閣が進めた、占領期の民主化の政策を見直す一連の動きは、革新勢力から何と呼ばれて批判されたか。",
+      "answer": "逆コース",
+      "reading": "ぎゃくこーす",
+      "alternatives": [],
+      "explanation": "警察を都道府県警察にまとめる新警察法や、教員の政治活動をおさえる法律（教育二法）などが定められた。",
+      "yearStart": 1952,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1701-04",
+      "subject": "nihonshi-tankyu",
+      "question": "1950年代に、アメリカ軍の基地の拡張などに反対する運動がおこった。東京都の立川基地の拡張に反対する運動を、地名から何というか。",
+      "answer": "砂川事件",
+      "reading": "すながわじけん",
+      "alternatives": [
+        "砂川闘争"
+      ],
+      "explanation": "石川県の内灘でも、アメリカ軍の試射場に反対する運動がおこった。",
+      "yearStart": 1955,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1701-05",
+      "subject": "nihonshi-tankyu",
+      "question": "1954年に、太平洋のビキニ環礁で、アメリカの水爆実験によって、日本の漁船の乗組員が「死の灰」をあびて被爆した事件を、漁船の名から何というか。",
+      "answer": "第五福龍丸事件",
+      "reading": "だいごふくりゅうまるじけん",
+      "alternatives": [
+        "第五福竜丸事件"
+      ],
+      "explanation": "これをきっかけに原水爆禁止運動が全国に広がり、翌年、広島で第1回の原水爆禁止世界大会がひらかれた。",
+      "yearStart": 1954,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1701-06",
+      "subject": "nihonshi-tankyu",
+      "question": "1955年に、講和条約をめぐって分裂していた左派と右派が、憲法改正の阻止をかかげて再統一した政党は何か。",
+      "answer": "日本社会党",
+      "reading": "にほんしゃかいとう",
+      "alternatives": [
+        "社会党"
+      ],
+      "explanation": "改憲の発議を阻止できる、3分の1の議席を確保した。",
+      "yearStart": 1955,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1701-07",
+      "subject": "nihonshi-tankyu",
+      "question": "1955年に、日本民主党と自由党が合同して結成された政党は何か。",
+      "answer": "自由民主党",
+      "reading": "じゆうみんしゅとう",
+      "alternatives": [
+        "自民党"
+      ],
+      "explanation": "この合同を保守合同という。初代の総裁は鳩山一郎。",
+      "yearStart": 1955,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1701-08",
+      "subject": "nihonshi-tankyu",
+      "question": "1955年から約40年間続いた、自由民主党が議席の約3分の2を、日本社会党が約3分の1を占めて、保守と革新が対立しながら、自由民主党が政権をにぎり続けた政治の体制を何というか。",
+      "answer": "55年体制",
+      "reading": "ごじゅうごねんたいせい",
+      "alternatives": [],
+      "explanation": "保守勢力は憲法の改正と対米依存のもとでの安全保障を、革新勢力は憲法の擁護と非武装中立を主張した。",
+      "yearStart": 1955,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1701-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1956年に、鳩山一郎首相がモスクワを訪れて調印し、ソ連との戦争状態を終わらせて、国交を回復した文書は何か。",
+      "answer": "日ソ共同宣言",
+      "reading": "にっそきょうどうせんげん",
+      "alternatives": [],
+      "explanation": "平和条約を結んだのちに、歯舞群島と色丹島を日本に引きわたすことが約束された。",
+      "yearStart": 1956,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1701-10",
+      "subject": "nihonshi-tankyu",
+      "question": "1956年に、日ソ共同宣言でソ連の支持をえたことで実現した、日本の国際社会への復帰を示すできごとは何か。",
+      "answer": "国際連合への加盟",
+      "reading": "こくさいれんごうへのかめい",
+      "alternatives": [
+        "国際連合加盟",
+        "国連加盟",
+        "国連への加盟"
+      ],
+      "explanation": "それまでは、ソ連の拒否権によって加盟できなかった。",
+      "yearStart": 1956,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1701-11",
+      "subject": "nihonshi-tankyu",
+      "question": "1957年に成立した内閣の首相で、「日米新時代」をとなえて、日米安全保障条約をより対等なものに改定することをめざした人物は誰か。",
+      "answer": "岸信介",
+      "reading": "きしのぶすけ",
+      "alternatives": [],
+      "explanation": "革新勢力とはげしく対立した。",
+      "yearStart": 1957,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1701-12",
+      "subject": "nihonshi-tankyu",
+      "question": "1960年1月に、岸信介内閣が調印した、アメリカの日本を防衛する義務を明らかにし、在日アメリカ軍の行動についての事前協議の制度などを定めた条約は何か。",
+      "answer": "日米相互協力及び安全保障条約",
+      "reading": "にちべいそうごきょうりょくおよびあんぜんほしょうじょうやく",
+      "alternatives": [
+        "新安保条約",
+        "日米新安全保障条約",
+        "新日米安全保障条約"
+      ],
+      "explanation": "条約の期限は10年とされた。",
+      "yearStart": 1960,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1701-13",
+      "subject": "nihonshi-tankyu",
+      "question": "1960年に、新安保条約の批准に反対して、革新勢力や学生、一般の市民がおこした、戦後最大の国民的な運動を何というか。",
+      "answer": "安保闘争",
+      "reading": "あんぽとうそう",
+      "alternatives": [
+        "60年安保闘争"
+      ],
+      "explanation": "5月に政府と与党が衆議院で採決を強行すると、運動は急速に広がった。条約は6月に自然成立し、岸信介内閣は総辞職した。",
+      "yearStart": 1960,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1701-14",
+      "subject": "nihonshi-tankyu",
+      "question": "1960年に成立した内閣の首相で、「寛容と忍耐」をとなえて革新勢力との対立をさけ、「所得倍増」をスローガンに、経済の高度成長を進める政策をとった人物は誰か。",
+      "answer": "池田勇人",
+      "reading": "いけだはやと",
+      "alternatives": [],
+      "explanation": "10年間で国民の所得を2倍にするという、国民所得倍増計画を決定した。",
+      "yearStart": 1960,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1701-15",
+      "subject": "nihonshi-tankyu",
+      "question": "1962年に、国交のない中華人民共和国とのあいだで始まった、準政府間の貿易を、交渉にあたった両国の代表の頭文字から何というか。",
+      "answer": "LT貿易",
+      "alternatives": [],
+      "explanation": "政治と経済を分ける「政経分離」の方針をとった。",
+      "yearStart": 1962,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1701-16",
+      "subject": "nihonshi-tankyu",
+      "question": "1965年に、佐藤栄作内閣が、大韓民国とのあいだで結んで、国交を樹立した条約は何か。",
+      "answer": "日韓基本条約",
+      "reading": "にっかんきほんじょうやく",
+      "alternatives": [],
+      "explanation": "1910年以前の条約や協定は無効であることを確認し、韓国の政府を「朝鮮にある唯一の合法的な政府」と認めた。",
+      "yearStart": 1965,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1701-17",
+      "subject": "nihonshi-tankyu",
+      "question": "佐藤栄作首相が表明した、核兵器を「もたず、つくらず、もち込ませず」という方針を何というか。",
+      "answer": "非核三原則",
+      "reading": "ひかくさんげんそく",
+      "alternatives": [],
+      "explanation": "1971年には、国会で決議された。",
+      "yearStart": 1967,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1701-18",
+      "subject": "nihonshi-tankyu",
+      "question": "1972年5月15日に実現した、アメリカの施政権のもとにあった地域の日本への復帰を何というか。",
+      "answer": "沖縄返還",
+      "reading": "おきなわへんかん",
+      "alternatives": [
+        "沖縄の日本復帰",
+        "沖縄復帰",
+        "沖縄の本土復帰"
+      ],
+      "explanation": "1971年に沖縄返還協定が調印された。広大なアメリカ軍の基地は、復帰後も残された。",
+      "yearStart": 1972,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1701-19",
+      "subject": "nihonshi-tankyu",
+      "question": "沖縄で、1960年代に高まった、日本への復帰を求める住民の運動を何というか。",
+      "answer": "祖国復帰運動",
+      "reading": "そこくふっきうんどう",
+      "alternatives": [],
+      "explanation": "ベトナム戦争で、沖縄の基地が前線の基地として使われたことが、運動を強めた。",
+      "yearStart": 1965,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1701-20",
+      "subject": "nihonshi-tankyu",
+      "question": "1960年に、日本社会党からはなれた議員たちが結成した政党は何か。",
+      "answer": "民主社会党",
+      "reading": "みんしゅしゃかいとう",
+      "alternatives": [
+        "民社党"
+      ],
+      "explanation": "1964年には公明党も結成され、野党の多党化が進んだ。",
+      "yearStart": 1960,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1701-21",
+      "subject": "nihonshi-tankyu",
+      "question": "1960年代の後半から、大都市を中心に生まれた、日本社会党や日本共産党などの革新勢力が支持する知事や市長のいる自治体を何というか。",
+      "answer": "革新自治体",
+      "reading": "かくしんじちたい",
+      "alternatives": [],
+      "explanation": "1967年に東京都知事に当選した美濃部亮吉が代表。公害の規制や福祉の充実に取り組んだ。",
+      "yearStart": 1967,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1702-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1955年頃から1973年まで続いた、日本の経済が、年平均で10％前後の成長率で発展したことを何というか。",
+      "answer": "高度経済成長",
+      "reading": "こうどけいざいせいちょう",
+      "alternatives": [
+        "高度成長"
+      ],
+      "explanation": "1968年には、国民総生産（GNP）が、資本主義国のなかでアメリカについで第2位となった。",
+      "yearStart": 1955,
+      "yearEnd": 1973,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1955年から1957年にかけての大型の好景気を、何というか。",
+      "answer": "神武景気",
+      "reading": "じんむけいき",
+      "alternatives": [],
+      "explanation": "その後、岩戸景気（1958〜61年）、オリンピック景気、いざなぎ景気（1966〜70年）と続いた。",
+      "yearStart": 1955,
+      "yearEnd": 1957,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-03",
+      "subject": "nihonshi-tankyu",
+      "question": "1956年度の『経済白書』に記された、戦後の復興が終わったことを示す言葉は何か。",
+      "answer": "もはや戦後ではない",
+      "alternatives": [],
+      "explanation": "1955年には、1人当たりの実質の国民所得が、戦前の水準をこえた。",
+      "yearStart": 1956,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-04",
+      "subject": "nihonshi-tankyu",
+      "question": "1966年から1970年にかけて続いた、高度経済成長の時期で最も長い好景気を何というか。",
+      "answer": "いざなぎ景気",
+      "reading": "いざなぎけいき",
+      "alternatives": [],
+      "explanation": "この間に、日本は世界第2位の経済大国となった。",
+      "yearStart": 1966,
+      "yearEnd": 1970,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1702-05",
+      "subject": "nihonshi-tankyu",
+      "question": "高度経済成長の時期に、おもなエネルギー源が、石炭から石油にかわったことを何というか。",
+      "answer": "エネルギー革命",
+      "reading": "えねるぎーかくめい",
+      "alternatives": [],
+      "explanation": "中東から、安い原油が大量に輸入された。石炭産業はおとろえ、1960年には、三井鉱山の三池炭鉱で大規模な労働争議がおこった。",
+      "yearStart": 1960,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-06",
+      "subject": "nihonshi-tankyu",
+      "question": "高度経済成長を支えた、終身雇用・年功賃金・労資協調を特色とする、日本の企業の経営のあり方を何というか。",
+      "answer": "日本的経営",
+      "reading": "にほんてきけいえい",
+      "alternatives": [],
+      "explanation": "労働組合は、企業ごとにつくられた。",
+      "yearStart": 1960,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1702-07",
+      "subject": "nihonshi-tankyu",
+      "question": "1955年から始まった、毎年の春に、各産業の労働組合が、いっせいに賃金の引き上げを求める運動を何というか。",
+      "answer": "春闘",
+      "reading": "しゅんとう",
+      "alternatives": [],
+      "explanation": "総評を中心におこなわれた。労働者の賃金は大きく上昇した。",
+      "yearStart": 1955,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1702-08",
+      "subject": "nihonshi-tankyu",
+      "question": "1961年に制定された、農業の近代化と、農業と他の産業との所得の格差をなくすことをめざした法律は何か。",
+      "answer": "農業基本法",
+      "reading": "のうぎょうきほんほう",
+      "alternatives": [],
+      "explanation": "農業の機械化が進んだが、農業以外の収入にたよる兼業農家がふえた。",
+      "yearStart": 1961,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1970年から始まった、米の生産が過剰になったために、米の作付面積を制限する政策を何というか。",
+      "answer": "減反政策",
+      "reading": "げんたんせいさく",
+      "alternatives": [
+        "減反"
+      ],
+      "explanation": "食生活の洋風化によって、米の消費量が減っていた。",
+      "yearStart": 1970,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1702-10",
+      "subject": "nihonshi-tankyu",
+      "question": "1964年に、日本は、為替と資本の自由化を進めて、国際通貨基金（IMF）の8条国に移るとともに、「先進国クラブ」とも呼ばれる国際機関に加盟した。この機関を何というか。",
+      "answer": "経済協力開発機構",
+      "reading": "けいざいきょうりょくかいはつきこう",
+      "alternatives": [
+        "OECD"
+      ],
+      "explanation": "開放経済体制に移った。",
+      "yearStart": 1964,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-11",
+      "subject": "nihonshi-tankyu",
+      "question": "高度経済成長の時期に、関東地方の南部から九州地方の北部にかけて形成された、帯状の工業地帯を何というか。",
+      "answer": "太平洋ベルト地帯",
+      "reading": "たいへいようべるとちたい",
+      "alternatives": [
+        "太平洋ベルト"
+      ],
+      "explanation": "石油化学コンビナートなどが建設された。",
+      "yearStart": 1965,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1702-12",
+      "subject": "nihonshi-tankyu",
+      "question": "1950年代の後半から家庭に広まった、白黒テレビ・電気洗濯機・電気冷蔵庫の3つの電気製品は、何と呼ばれたか。",
+      "answer": "三種の神器",
+      "reading": "さんしゅのじんぎ",
+      "alternatives": [],
+      "explanation": "1960年代の後半からは、カー（自動車）・クーラー・カラーテレビが、「新三種の神器」（3C）として広まった。",
+      "yearStart": 1958,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-13",
+      "subject": "nihonshi-tankyu",
+      "question": "高度経済成長の時期に、多くの国民が、自分の生活の程度を「中」と考えるようになった意識を何というか。",
+      "answer": "中流意識",
+      "reading": "ちゅうりゅういしき",
+      "alternatives": [],
+      "explanation": "大量生産・大量消費の社会となり、生活の様式が画一化した。",
+      "yearStart": 1970,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1702-14",
+      "subject": "nihonshi-tankyu",
+      "question": "高度経済成長の時期にふえた、夫婦と未婚の子どもだけからなる家族を何というか。",
+      "answer": "核家族",
+      "reading": "かくかぞく",
+      "alternatives": [],
+      "explanation": "都市への人口の集中にともなって、郊外に大規模な団地が建設された。",
+      "yearStart": 1965,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1702-15",
+      "subject": "nihonshi-tankyu",
+      "question": "1964年に、東京と新大阪のあいだで開通した高速鉄道は何か。",
+      "answer": "東海道新幹線",
+      "reading": "とうかいどうしんかんせん",
+      "alternatives": [],
+      "explanation": "同じ年に、アジアで最初のオリンピックが東京でひらかれた。",
+      "yearStart": 1964,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-16",
+      "subject": "nihonshi-tankyu",
+      "question": "1964年に、アジアで初めてひらかれたオリンピックの開催地はどこか。",
+      "answer": "東京",
+      "reading": "とうきょう",
+      "alternatives": [],
+      "explanation": "日本の復興と経済の発展を世界に示した。",
+      "yearStart": 1964,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-17",
+      "subject": "nihonshi-tankyu",
+      "question": "1970年に、大阪でひらかれた国際的な博覧会を何というか。",
+      "answer": "日本万国博覧会",
+      "reading": "にほんばんこくはくらんかい",
+      "alternatives": [
+        "大阪万博",
+        "万国博覧会"
+      ],
+      "explanation": "「人類の進歩と調和」をテーマとし、約6400万人が入場した。",
+      "yearStart": 1970,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-18",
+      "subject": "nihonshi-tankyu",
+      "question": "自動車が、人々の生活に広く普及することを何というか。",
+      "answer": "モータリゼーション",
+      "alternatives": [],
+      "explanation": "1965年に名神高速道路が、1969年に東名高速道路が全通した。",
+      "yearStart": 1965,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1702-19",
+      "subject": "nihonshi-tankyu",
+      "question": "1953年に始まり、高度経済成長の時期に、人々の日常の生活に欠かせないものとなった放送は何か。",
+      "answer": "テレビ放送",
+      "reading": "てれびほうそう",
+      "alternatives": [
+        "テレビ"
+      ],
+      "explanation": "映画にかわって、娯楽の中心となった。",
+      "yearStart": 1953,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-20",
+      "subject": "nihonshi-tankyu",
+      "question": "社会派の推理小説で人気を集めた、『点と線』などの作者は誰か。",
+      "answer": "松本清張",
+      "reading": "まつもとせいちょう",
+      "alternatives": [],
+      "explanation": "歴史小説の司馬遼太郎とともに、多くの読者をえた。漫画では手塚治虫が活躍した。",
+      "yearStart": 1958,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1702-21",
+      "subject": "nihonshi-tankyu",
+      "question": "1968年に、日本人として初めてノーベル文学賞を受賞した小説家は誰か。",
+      "answer": "川端康成",
+      "reading": "かわばたやすなり",
+      "alternatives": [],
+      "explanation": "1965年には、朝永振一郎がノーベル物理学賞を受賞した。",
+      "yearStart": 1968,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1702-22",
+      "subject": "nihonshi-tankyu",
+      "question": "高度経済成長の時期に、農村や山村で、人口が流出して、地域の社会を保つことがむずかしくなったことを何というか。",
+      "answer": "過疎",
+      "reading": "かそ",
+      "alternatives": [
+        "過疎化"
+      ],
+      "explanation": "大都市では、人口の集中による過密が問題となり、住宅の不足や交通の渋滞がおこった。",
+      "yearStart": 1965,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-23",
+      "subject": "nihonshi-tankyu",
+      "question": "高度経済成長の時期に深刻になった、企業が出す有害な物質による大気の汚染や水質の汚濁などで、人々の健康や生活が損なわれる問題を何というか。",
+      "answer": "公害",
+      "reading": "こうがい",
+      "alternatives": [
+        "公害問題"
+      ],
+      "explanation": "経済の成長を優先して、対策がおくれた。",
+      "yearStart": 1965,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-24",
+      "subject": "nihonshi-tankyu",
+      "question": "熊本県の水俣湾の周辺で、化学工場の排水にふくまれていた有機水銀によっておこった公害病を何というか。",
+      "answer": "水俣病",
+      "reading": "みなまたびょう",
+      "alternatives": [],
+      "explanation": "新潟水俣病・イタイイタイ病・四日市ぜんそくとあわせて、四大公害という。1970年代の初めの裁判で、いずれも被害者側が勝訴した。",
+      "yearStart": 1956,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-25",
+      "subject": "nihonshi-tankyu",
+      "question": "富山県の神通川の流域で、鉱山から流れ出たカドミウムによっておこった公害病を何というか。",
+      "answer": "イタイイタイ病",
+      "reading": "いたいいたいびょう",
+      "alternatives": [],
+      "explanation": "四大公害訴訟のなかで、最初に被害者側の勝訴が確定した。",
+      "yearStart": 1968,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-26",
+      "subject": "nihonshi-tankyu",
+      "question": "1967年に制定された、公害を防ぐための、事業者・国・地方自治体の責任を明らかにした法律は何か。",
+      "answer": "公害対策基本法",
+      "reading": "こうがいたいさくきほんほう",
+      "alternatives": [],
+      "explanation": "1970年に改正されて、規制が強められた。",
+      "yearStart": 1967,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-27",
+      "subject": "nihonshi-tankyu",
+      "question": "1971年に、公害の防止と自然環境の保護のために設置された官庁は何か。",
+      "answer": "環境庁",
+      "reading": "かんきょうちょう",
+      "alternatives": [],
+      "explanation": "2001年に環境省となった。",
+      "yearStart": 1971,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1702-28",
+      "subject": "nihonshi-tankyu",
+      "question": "1969年に、被差別部落の人々の生活の環境の改善や、社会福祉の充実をはかるために制定された法律は何か。",
+      "answer": "同和対策事業特別措置法",
+      "reading": "どうわたいさくじぎょうとくべつそちほう",
+      "alternatives": [],
+      "explanation": "1965年の同和対策審議会の答申は、部落差別の解消は国の責務であり、国民的な課題であるとした。",
+      "yearStart": 1969,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

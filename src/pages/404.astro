@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { subjects } from '../lib/site-data';
+import { joinBase, paths } from '../lib/url';
+
+const href = (p: string) => joinBase(import.meta.env.BASE_URL, p);
+---
+
+<BaseLayout title="ページが見つかりません" description="お探しのページは見つかりませんでした。" path="/404.html" noindex>
+  <h1>ページが見つかりません</h1>
+  <p>URLがまちがっているか、ページが移動・削除された可能性があります。</p>
+  <ul class="row-list">
+    <li><a class="row-link" href={href(paths.home())}><span class="row-main"><span class="row-title">トップページ</span></span></a></li>
+    {
+      subjects.map((s) => (
+        <li>
+          <a class="row-link" href={href(paths.subject(s.id))}>
+            <span class="row-main">
+              <span class="row-title">{s.name}の一問一答</span>
+            </span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</BaseLayout>

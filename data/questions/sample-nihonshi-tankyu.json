@@ -1,0 +1,272 @@
+{
+  "generatedFrom": "sample-nihonshi-tankyu.csv",
+  "_note": "このファイルは sample-nihonshi-tankyu.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "sample-j-01",
+      "subject": "nihonshi-tankyu",
+      "question": "645年、中大兄皇子や中臣鎌足らが蘇我氏を倒したのちに進めた政治改革は？",
+      "answer": "大化改新",
+      "alternatives": [
+        "大化の改新"
+      ],
+      "explanation": "公地公民をめざす改新の詔が出されたとされる。蘇我氏を倒した政変は乙巳の変という。",
+      "yearStart": 645,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-j-02",
+      "subject": "nihonshi-tankyu",
+      "question": "701年に完成した、律と令がそろった日本で最初の本格的な法典は？",
+      "answer": "大宝律令",
+      "alternatives": [],
+      "explanation": "刑部親王や藤原不比等らが編纂し、律令国家のしくみが整った。",
+      "yearStart": 701,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-j-03",
+      "subject": "nihonshi-tankyu",
+      "question": "710年に元明天皇が遷都した、唐の長安にならってつくられた都は？",
+      "answer": "平城京",
+      "alternatives": [],
+      "explanation": "奈良時代の都。東西・南北の道路で碁盤の目のように区画された（条坊制）。",
+      "yearStart": 710,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-j-04",
+      "subject": "nihonshi-tankyu",
+      "question": "743年に出された、新しく開墾した田地の永久私有を認めた法令は？",
+      "answer": "墾田永年私財法",
+      "alternatives": [],
+      "explanation": "貴族や寺社が開墾を進め、のちの初期荘園につながった。",
+      "yearStart": 743,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-j-05",
+      "subject": "nihonshi-tankyu",
+      "question": "11世紀前半に藤原道長・頼通父子のもとで全盛期を迎えた、摂政・関白が政治の実権を握る政治は？",
+      "answer": "摂関政治",
+      "alternatives": [],
+      "explanation": "娘を天皇のきさきとし、生まれた皇子の外戚として権力をふるった。",
+      "yearStart": 1016,
+      "yearEnd": 1068,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-j-06",
+      "subject": "nihonshi-tankyu",
+      "question": "1086年に白河天皇が譲位したのち、上皇として実権を握って始めた政治は？",
+      "answer": "院政",
+      "alternatives": [],
+      "explanation": "上皇の御所（院）で政治が行われ、院庁下文や院宣が力をもった。",
+      "yearStart": 1086,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-j-07",
+      "subject": "nihonshi-tankyu",
+      "question": "1192年に征夷大将軍に任じられた、鎌倉幕府を開いた人物は？",
+      "answer": "源頼朝",
+      "alternatives": [],
+      "explanation": "1185年に守護・地頭を設置する権利を朝廷に認めさせた。",
+      "yearStart": 1192,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-j-08",
+      "subject": "nihonshi-tankyu",
+      "question": "1232年に執権北条泰時が定めた、武家最初の体系的な法典は？",
+      "answer": "御成敗式目",
+      "alternatives": [
+        "貞永式目"
+      ],
+      "explanation": "頼朝以来の先例や武家社会の慣習（道理）をもとに、御家人の裁判の基準を定めた。",
+      "yearStart": 1232,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-j-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1274年と1281年の2度にわたって元軍が九州北部に襲来した出来事を何というか。",
+      "answer": "蒙古襲来",
+      "alternatives": [
+        "元寇",
+        "文永・弘安の役"
+      ],
+      "explanation": "1度目を文永の役、2度目を弘安の役という。御家人の負担は大きく、幕府の支配がゆらいだ。",
+      "yearStart": 1274,
+      "yearEnd": 1281,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-j-10",
+      "subject": "nihonshi-tankyu",
+      "question": "足利義満が始めた明との貿易で、正式な貿易船であることを証明するために用いた証票は？",
+      "answer": "勘合",
+      "alternatives": [],
+      "explanation": "倭寇と区別するために用いられ、この貿易を勘合貿易（日明貿易）という。",
+      "yearStart": 1404,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-j-11",
+      "subject": "nihonshi-tankyu",
+      "question": "1635年、3代将軍徳川家光が武家諸法度で制度化した、大名に江戸と領地を1年ごとに往復させる制度は？",
+      "answer": "参勤交代",
+      "alternatives": [],
+      "explanation": "大名の妻子は江戸に住まわされ、大名の財政に大きな負担となった。",
+      "yearStart": 1635,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-j-12",
+      "subject": "nihonshi-tankyu",
+      "question": "8代将軍徳川吉宗が1716年から進めた幕政改革は？",
+      "answer": "享保の改革",
+      "alternatives": [],
+      "explanation": "上げ米、足高の制、目安箱の設置、公事方御定書の制定などを行った。",
+      "yearStart": 1716,
+      "yearEnd": 1745,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-j-13",
+      "subject": "nihonshi-tankyu",
+      "question": "1792年に根室に来航し、漂流民の大黒屋光太夫を送り届けて通商を求めたロシアの使節は？",
+      "answer": "ラクスマン",
+      "alternatives": [],
+      "explanation": "幕府は通商を拒み、長崎への入港許可証（信牌）を与えた。",
+      "yearStart": 1792,
+      "regions": [
+        "日本",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "advanced",
+      "verified": true,
+      "memo": "サンプル問題（開発用）"
+    },
+    {
+      "id": "sample-j-14",
+      "subject": "nihonshi-tankyu",
+      "question": "1867年、15代将軍徳川慶喜が政権を朝廷に返上したことを何というか。",
+      "answer": "大政奉還",
+      "alternatives": [],
+      "explanation": "これに対し、討幕派は王政復古の大号令を発して新政府を樹立した。",
+      "yearStart": 1867,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": false,
+      "memo": "サンプル：未確認の問題（ビルドに含まれない例）"
+    }
+  ]
+}

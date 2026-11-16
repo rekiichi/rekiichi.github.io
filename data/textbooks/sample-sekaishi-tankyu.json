@@ -1,0 +1,85 @@
+{
+  "generatedFrom": "sample-sekaishi-tankyu.csv",
+  "_note": "このファイルは sample-sekaishi-tankyu.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "id": "sample-sekaishi-tankyu",
+  "subject": "sekaishi-tankyu",
+  "name": "サンプル世界史探究",
+  "description": "開発用のサンプル教科書です。実在の教科書とは関係ありません。章立てと問題はすべてサンプルです。",
+  "order": 90,
+  "chapters": [
+    {
+      "no": 1,
+      "title": "古代の文明",
+      "sections": [
+        {
+          "no": 1,
+          "title": "オリエントの文明",
+          "pages": "p.12〜21",
+          "questionIds": [
+            "sample-w-01",
+            "sample-w-02"
+          ]
+        },
+        {
+          "no": 2,
+          "title": "ギリシアとローマ",
+          "pages": "p.22〜37",
+          "questionIds": [
+            "sample-w-03",
+            "sample-w-04"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "アジアの帝国とイスラーム世界",
+      "sections": [
+        {
+          "no": 1,
+          "title": "中国の統一王朝",
+          "pages": "p.44〜59",
+          "questionIds": [
+            "sample-w-05",
+            "sample-w-06"
+          ]
+        },
+        {
+          "no": 2,
+          "title": "イスラーム世界の成立と発展",
+          "pages": "p.60〜75",
+          "questionIds": [
+            "sample-w-07",
+            "sample-w-08",
+            "sample-w-09"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "近世・近代のヨーロッパ",
+      "sections": [
+        {
+          "no": 1,
+          "title": "ルネサンスと宗教改革",
+          "pages": "p.84〜97",
+          "questionIds": [
+            "sample-w-10",
+            "sample-w-11"
+          ]
+        },
+        {
+          "no": 2,
+          "title": "革命の時代",
+          "pages": "p.98〜115",
+          "questionIds": [
+            "sample-w-12",
+            "sample-w-13",
+            "sample-w-14"
+          ]
+        }
+      ]
+    }
+  ]
+}

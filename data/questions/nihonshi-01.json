@@ -1,0 +1,923 @@
+{
+  "generatedFrom": "nihonshi-01.csv",
+  "_note": "このファイルは nihonshi-01.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "j-0101-01",
+      "subject": "nihonshi-tankyu",
+      "question": "氷河時代とも呼ばれ、日本列島が大陸と陸続きになることもあった、約1万年前までの地質時代を何というか。",
+      "answer": "更新世",
+      "reading": "こうしんせい",
+      "alternatives": [],
+      "explanation": "ナウマンゾウやオオツノジカなどの大型動物が渡ってきた。",
+      "yearStart": -2600000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0101-02",
+      "subject": "nihonshi-tankyu",
+      "question": "約1万年前から現在までの、気候が温暖になった地質時代を何というか。",
+      "answer": "完新世",
+      "reading": "かんしんせい",
+      "alternatives": [],
+      "explanation": "海面が上昇し、日本列島が現在に近い形になった。",
+      "yearStart": -10000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0101-03",
+      "subject": "nihonshi-tankyu",
+      "question": "1949年の調査で、関東ローム層から打製石器が確認され、日本に旧石器時代の文化があったことが明らかになった群馬県の遺跡は何か。",
+      "answer": "岩宿遺跡",
+      "reading": "いわじゅくいせき",
+      "alternatives": [],
+      "explanation": "相沢忠洋が石器を発見したことがきっかけとなった。",
+      "yearStart": -30000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0101-04",
+      "subject": "nihonshi-tankyu",
+      "question": "岩宿遺跡で石器を発見し、旧石器文化の解明のきっかけをつくった人物は誰か。",
+      "answer": "相沢忠洋",
+      "reading": "あいざわただひろ",
+      "alternatives": [],
+      "explanation": "1946年に関東ローム層のなかから石器を見つけた。",
+      "yearStart": -30000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0101-05",
+      "subject": "nihonshi-tankyu",
+      "question": "石を打ち欠いてつくった石器を何というか。",
+      "answer": "打製石器",
+      "reading": "だせいせっき",
+      "alternatives": [],
+      "explanation": "旧石器時代には、ナイフ形石器や尖頭器などがつくられた。",
+      "yearStart": -30000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0101-06",
+      "subject": "nihonshi-tankyu",
+      "question": "旧石器時代の終わり頃に現れた、木や骨の柄にはめこんで使う小さな石器を何というか。",
+      "answer": "細石器",
+      "reading": "さいせっき",
+      "alternatives": [],
+      "explanation": "中国の東北部やシベリアと共通する文化である。",
+      "yearStart": -15000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0101-07",
+      "subject": "nihonshi-tankyu",
+      "question": "ナウマンゾウの化石や、旧石器時代の人々が使った石器・骨器が出土した長野県の湖はどこか。",
+      "answer": "野尻湖",
+      "reading": "のじりこ",
+      "alternatives": [],
+      "explanation": "狩りの場であったと考えられている。",
+      "yearStart": -40000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0101-08",
+      "subject": "nihonshi-tankyu",
+      "question": "沖縄県で発見された、更新世の新人段階の化石人骨は何と呼ばれるか。",
+      "answer": "港川人",
+      "reading": "みなとがわじん",
+      "alternatives": [],
+      "explanation": "ほかに静岡県の浜北人などが知られる。",
+      "yearStart": -18000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0101-09",
+      "subject": "nihonshi-tankyu",
+      "question": "約1万3000年前から始まり、土器や弓矢を使い、狩猟・漁労・採集の生活を送った時代を何というか。",
+      "answer": "縄文時代",
+      "reading": "じょうもんじだい",
+      "alternatives": [],
+      "explanation": "水稲農耕が始まる約2500年前頃まで続いた。",
+      "yearStart": -13000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0101-10",
+      "subject": "nihonshi-tankyu",
+      "question": "低温で焼かれた、厚手で黒褐色のものが多い、縄文時代の土器を何というか。",
+      "answer": "縄文土器",
+      "reading": "じょうもんどき",
+      "alternatives": [],
+      "explanation": "表面に縄目の文様をもつものが多い。",
+      "yearStart": -13000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0101-11",
+      "subject": "nihonshi-tankyu",
+      "question": "縄文時代に、動きのすばやい中小の動物をとるために使われるようになった狩りの道具は何か。",
+      "answer": "弓矢",
+      "reading": "ゆみや",
+      "alternatives": [],
+      "explanation": "矢の先には石鏃がつけられた。",
+      "yearStart": -13000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0101-12",
+      "subject": "nihonshi-tankyu",
+      "question": "縄文時代の人々が食べた貝の殻などが積もってできた遺跡を何というか。",
+      "answer": "貝塚",
+      "reading": "かいづか",
+      "alternatives": [],
+      "explanation": "土器や石器、人骨なども出土し、当時の生活を知る手がかりとなる。",
+      "yearStart": -5000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0101-13",
+      "subject": "nihonshi-tankyu",
+      "question": "1877年に、アメリカ人のモースが発掘調査をおこなった、東京都にある貝塚は何か。",
+      "answer": "大森貝塚",
+      "reading": "おおもりかいづか",
+      "alternatives": [],
+      "explanation": "日本で最初の科学的な発掘調査とされる。",
+      "yearStart": -1500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0101-14",
+      "subject": "nihonshi-tankyu",
+      "question": "地面を掘りくぼめ、その上に屋根をかけた縄文時代の住居を何というか。",
+      "answer": "竪穴住居",
+      "reading": "たてあなじゅうきょ",
+      "alternatives": [],
+      "explanation": "中央に炉をもつものが多い。",
+      "yearStart": -5000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0101-15",
+      "subject": "nihonshi-tankyu",
+      "question": "大規模な集落の跡や、大型の建物の跡が見つかり、クリの栽培もおこなわれていたことがわかった青森県の縄文時代の遺跡は何か。",
+      "answer": "三内丸山遺跡",
+      "reading": "さんないまるやまいせき",
+      "alternatives": [],
+      "explanation": "縄文時代の前期から中期にかけての遺跡。",
+      "yearStart": -3500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0101-16",
+      "subject": "nihonshi-tankyu",
+      "question": "縄文時代に、石器の材料として遠くまで運ばれた、長野県の和田峠などで産出する火山岩は何か。",
+      "answer": "黒曜石",
+      "reading": "こくようせき",
+      "alternatives": [],
+      "explanation": "広い範囲で交易がおこなわれていたことを示す。",
+      "yearStart": -5000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0101-17",
+      "subject": "nihonshi-tankyu",
+      "question": "縄文時代に、装身具の材料として各地に運ばれた、新潟県の姫川流域で産出する石は何か。",
+      "answer": "ひすい",
+      "alternatives": [
+        "硬玉",
+        "翡翠"
+      ],
+      "explanation": "黒曜石とともに、遠方との交易を示している。",
+      "yearStart": -3000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0101-18",
+      "subject": "nihonshi-tankyu",
+      "question": "あらゆる自然物や自然現象に霊が宿ると考える信仰を何というか。",
+      "answer": "アニミズム",
+      "alternatives": [
+        "精霊崇拝"
+      ],
+      "explanation": "縄文時代の人々の信仰の特色とされる。",
+      "yearStart": -5000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0101-19",
+      "subject": "nihonshi-tankyu",
+      "question": "縄文時代につくられた、女性をかたどったものが多い土製の人形を何というか。",
+      "answer": "土偶",
+      "reading": "どぐう",
+      "alternatives": [],
+      "explanation": "収穫の豊かさなどを祈るために使われたと考えられている。",
+      "yearStart": -3000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0101-20",
+      "subject": "nihonshi-tankyu",
+      "question": "縄文時代におこなわれた、死者の手足を折り曲げてほうむる方法を何というか。",
+      "answer": "屈葬",
+      "reading": "くっそう",
+      "alternatives": [],
+      "explanation": "死者の霊が災いをもたらすのをおそれたためと考えられている。",
+      "yearStart": -5000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0101-21",
+      "subject": "nihonshi-tankyu",
+      "question": "縄文時代に成人の通過儀礼などとしておこなわれた、歯を抜く風習を何というか。",
+      "answer": "抜歯",
+      "reading": "ばっし",
+      "alternatives": [],
+      "explanation": "縄文時代の中頃からさかんになった。",
+      "yearStart": -2000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0101-22",
+      "subject": "nihonshi-tankyu",
+      "question": "縄文時代に、釣針や銛などの材料として使われた、動物の骨や角でつくった道具を何というか。",
+      "answer": "骨角器",
+      "reading": "こっかくき",
+      "alternatives": [],
+      "explanation": "漁労がさかんになったことを示す。",
+      "yearStart": -5000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0101-23",
+      "subject": "nihonshi-tankyu",
+      "question": "縄文時代の晩期を代表する、遮光器土偶などが出土した青森県の遺跡は何か。",
+      "answer": "亀ヶ岡遺跡",
+      "reading": "かめがおかいせき",
+      "alternatives": [],
+      "explanation": "精巧な土器や漆器も出土した。",
+      "yearStart": -1000,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    },
+    {
+      "id": "j-0102-01",
+      "subject": "nihonshi-tankyu",
+      "question": "水稲農耕と金属器の使用を特色とする、前4世紀頃（前8世紀頃ともいう）から後3世紀半ば頃までの時代を何というか。",
+      "answer": "弥生時代",
+      "reading": "やよいじだい",
+      "alternatives": [],
+      "explanation": "朝鮮半島から九州北部に水稲農耕が伝わり、西日本から東日本に広まった。",
+      "yearStart": -400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-02",
+      "subject": "nihonshi-tankyu",
+      "question": "縄文時代の晩期の水田の跡が発見された、福岡県の遺跡は何か。",
+      "answer": "板付遺跡",
+      "reading": "いたづけいせき",
+      "alternatives": [],
+      "explanation": "佐賀県の菜畑遺跡とともに、水稲農耕の始まりを示す。",
+      "yearStart": -500,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-03",
+      "subject": "nihonshi-tankyu",
+      "question": "高温で焼かれた、薄手で赤褐色のものが多い、弥生時代の土器を何というか。",
+      "answer": "弥生土器",
+      "reading": "やよいどき",
+      "alternatives": [],
+      "explanation": "貯蔵用の壺、煮たき用の甕、盛りつけ用の高杯などがある。",
+      "yearStart": -400,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-04",
+      "subject": "nihonshi-tankyu",
+      "question": "弥生時代に、北海道では水稲農耕がおこなわれず、食料採取の文化が続いたが、この文化を何というか。",
+      "answer": "続縄文文化",
+      "reading": "ぞくじょうもんぶんか",
+      "alternatives": [],
+      "explanation": "南西諸島でも、貝塚文化（貝塚後期文化）と呼ばれる食料採取の文化が続いた。",
+      "yearStart": -300,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0102-05",
+      "subject": "nihonshi-tankyu",
+      "question": "弥生時代に、稲の穂をつみ取るのに使われた石器は何か。",
+      "answer": "石包丁",
+      "reading": "いしぼうちょう",
+      "alternatives": [],
+      "explanation": "この収穫の方法を穂首刈りという。",
+      "yearStart": -300,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-06",
+      "subject": "nihonshi-tankyu",
+      "question": "弥生時代に、収穫した稲などをたくわえた倉庫を何というか。",
+      "answer": "高床倉庫",
+      "reading": "たかゆかそうこ",
+      "alternatives": [],
+      "explanation": "湿気やねずみを防ぐため、床を高くした。",
+      "yearStart": -300,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-07",
+      "subject": "nihonshi-tankyu",
+      "question": "弥生時代の後期の水田の跡や、住居・倉庫の跡が見つかった静岡県の遺跡は何か。",
+      "answer": "登呂遺跡",
+      "reading": "とろいせき",
+      "alternatives": [],
+      "explanation": "木製の農具や田下駄なども出土した。",
+      "yearStart": 100,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-08",
+      "subject": "nihonshi-tankyu",
+      "question": "弥生時代の九州北部で多くみられる、大きな土器に死者をおさめた墓を何というか。",
+      "answer": "甕棺墓",
+      "reading": "かめかんぼ",
+      "alternatives": [],
+      "explanation": "中国の鏡や青銅製の武器を副葬したものもある。",
+      "yearStart": -100,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0102-09",
+      "subject": "nihonshi-tankyu",
+      "question": "弥生時代に各地でつくられた、低い盛り土のまわりに溝をめぐらせた墓を何というか。",
+      "answer": "方形周溝墓",
+      "reading": "ほうけいしゅうこうぼ",
+      "alternatives": [],
+      "explanation": "弥生時代の後期には、大きな盛り土をもつ墳丘墓も現れた。",
+      "yearStart": -100,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0102-10",
+      "subject": "nihonshi-tankyu",
+      "question": "弥生時代に、近畿地方を中心に分布した、つり鐘の形をした青銅製の祭器は何か。",
+      "answer": "銅鐸",
+      "reading": "どうたく",
+      "alternatives": [],
+      "explanation": "豊作を祈る祭りなどに使われたと考えられている。",
+      "yearStart": -100,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-11",
+      "subject": "nihonshi-tankyu",
+      "question": "弥生時代に、九州北部を中心に分布した青銅製の祭器を、銅戈のほかに1つあげよ。",
+      "answer": "銅矛",
+      "reading": "どうほこ",
+      "alternatives": [
+        "銅鉾"
+      ],
+      "explanation": "瀬戸内海の中部には平形銅剣が分布した。",
+      "yearStart": -100,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0102-12",
+      "subject": "nihonshi-tankyu",
+      "question": "1984年に358本の銅剣が発見された、島根県の遺跡は何か。",
+      "answer": "荒神谷遺跡",
+      "reading": "こうじんだにいせき",
+      "alternatives": [],
+      "explanation": "近くの加茂岩倉遺跡からは39個の銅鐸が出土した。",
+      "yearStart": -100,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0102-13",
+      "subject": "nihonshi-tankyu",
+      "question": "弥生時代に、まわりに濠や土塁をめぐらせた集落を何というか。",
+      "answer": "環濠集落",
+      "reading": "かんごうしゅうらく",
+      "alternatives": [],
+      "explanation": "集落どうしの争いがおこっていたことを示す。",
+      "yearStart": -200,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-14",
+      "subject": "nihonshi-tankyu",
+      "question": "弥生時代の大規模な環濠集落の跡で、物見やぐらや墳丘墓の跡も見つかった佐賀県の遺跡は何か。",
+      "answer": "吉野ヶ里遺跡",
+      "reading": "よしのがりいせき",
+      "alternatives": [],
+      "explanation": "「クニ」の中心となる集落のようすを伝えている。",
+      "yearStart": 100,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-15",
+      "subject": "nihonshi-tankyu",
+      "question": "弥生時代の中期から後期に、瀬戸内海沿岸などの山の上につくられた集落を何というか。",
+      "answer": "高地性集落",
+      "reading": "こうちせいしゅうらく",
+      "alternatives": [],
+      "explanation": "軍事的な役割をもっていたと考えられている。",
+      "yearStart": 100,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0102-16",
+      "subject": "nihonshi-tankyu",
+      "question": "前1世紀頃の倭人の社会が100あまりの国に分かれ、楽浪郡に使いを送っていたことを記す中国の歴史書は何か。",
+      "answer": "『漢書』地理志",
+      "reading": "かんじょちりし",
+      "alternatives": [
+        "漢書"
+      ],
+      "explanation": "班固が著した前漢の歴史書の一部。",
+      "yearStart": -50,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-17",
+      "subject": "nihonshi-tankyu",
+      "question": "57年に倭の奴国の王が使いを送り、皇帝から印綬を受けたことを記す中国の歴史書は何か。",
+      "answer": "『後漢書』東夷伝",
+      "reading": "ごかんじょとういでん",
+      "alternatives": [
+        "後漢書"
+      ],
+      "explanation": "107年に倭国王の帥升らが生口160人を献上したことも記されている。",
+      "yearStart": 57,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-18",
+      "subject": "nihonshi-tankyu",
+      "question": "57年に、奴国の王に印綬を与えた後漢の皇帝は誰か。",
+      "answer": "光武帝",
+      "reading": "こうぶてい",
+      "alternatives": [],
+      "explanation": "このときのものと考えられる金印が、江戸時代に発見された。",
+      "yearStart": 57,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-19",
+      "subject": "nihonshi-tankyu",
+      "question": "1784年に、「漢委奴国王」と刻まれた金印が発見された福岡県の島はどこか。",
+      "answer": "志賀島",
+      "reading": "しかのしま",
+      "alternatives": [],
+      "explanation": "奴国は現在の福岡市付近にあったと考えられている。",
+      "yearStart": 57,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-20",
+      "subject": "nihonshi-tankyu",
+      "question": "3世紀の倭のようすや邪馬台国について記す、中国の歴史書『三国志』の一部を何というか。",
+      "answer": "「魏志」倭人伝",
+      "reading": "ぎしわじんでん",
+      "alternatives": [],
+      "explanation": "晋の陳寿が著した。",
+      "yearStart": 280,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-21",
+      "subject": "nihonshi-tankyu",
+      "question": "3世紀に、30ほどの小国の連合の女王として立てられた邪馬台国の女王は誰か。",
+      "answer": "卑弥呼",
+      "reading": "ひみこ",
+      "alternatives": [],
+      "explanation": "呪術的な力（鬼道）で人々を従えたという。",
+      "yearStart": 239,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-22",
+      "subject": "nihonshi-tankyu",
+      "question": "239年に魏に使いを送った卑弥呼が、皇帝から与えられた称号は何か。",
+      "answer": "親魏倭王",
+      "reading": "しんぎわおう",
+      "alternatives": [],
+      "explanation": "金印や多数の銅鏡なども与えられた。",
+      "yearStart": 239,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-0102-23",
+      "subject": "nihonshi-tankyu",
+      "question": "卑弥呼が魏に使いを送るときの窓口となった、朝鮮半島におかれていた郡は何か。",
+      "answer": "帯方郡",
+      "reading": "たいほうぐん",
+      "alternatives": [],
+      "explanation": "楽浪郡の南部を分けておかれた。",
+      "yearStart": 239,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0102-24",
+      "subject": "nihonshi-tankyu",
+      "question": "卑弥呼の死後、男の王が立って国内が乱れたのちに、女王として立てられた一族の女性は誰か。",
+      "answer": "壱与",
+      "reading": "いよ",
+      "alternatives": [
+        "台与"
+      ],
+      "explanation": "「とよ」とも読む。266年に晋に使いを送ったと考えられている。",
+      "yearStart": 250,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-0102-25",
+      "subject": "nihonshi-tankyu",
+      "question": "邪馬台国の所在地については2つの有力な説があるが、近畿説ともう1つは何か。",
+      "answer": "九州説",
+      "reading": "きゅうしゅうせつ",
+      "alternatives": [],
+      "explanation": "近畿説をとれば、3世紀前半にすでに西日本の広い範囲をまとめる政治連合があったことになる。",
+      "yearStart": 240,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}

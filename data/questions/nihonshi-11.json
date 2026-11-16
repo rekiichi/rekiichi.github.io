@@ -1,0 +1,1078 @@
+{
+  "generatedFrom": "nihonshi-11.csv",
+  "_note": "このファイルは nihonshi-11.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "j-1101-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1853年に、4隻の軍艦を率いて浦賀に来航し、日本に開国を求めたアメリカの東インド艦隊司令長官は誰か。",
+      "answer": "ペリー",
+      "alternatives": [],
+      "explanation": "フィルモア大統領の国書を幕府に受け取らせた。翌年、ふたたび来航した。",
+      "yearStart": 1853,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-02",
+      "subject": "nihonshi-tankyu",
+      "question": "ペリーが来航したとき、老中の首座として対応にあたり、朝廷に報告するとともに、諸大名や幕臣に広く意見を求めた人物は誰か。",
+      "answer": "阿部正弘",
+      "reading": "あべまさひろ",
+      "alternatives": [],
+      "explanation": "それまでの幕府の方針をかえたことで、朝廷の権威が高まり、諸大名の発言力が強まった。",
+      "yearStart": 1853,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-03",
+      "subject": "nihonshi-tankyu",
+      "question": "1854年に、幕府がアメリカと結んだ、下田と箱館の開港や、船への燃料・食料の供給などを定めた条約は何か。",
+      "answer": "日米和親条約",
+      "reading": "にちべいわしんじょうやく",
+      "alternatives": [
+        "神奈川条約"
+      ],
+      "explanation": "アメリカに一方的な最恵国待遇を認めた。イギリス・ロシア・オランダとも同じような条約を結んだ。",
+      "yearStart": 1854,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-04",
+      "subject": "nihonshi-tankyu",
+      "question": "日米和親条約でひらかれた港は、箱館とどこか。",
+      "answer": "下田",
+      "reading": "しもだ",
+      "alternatives": [],
+      "explanation": "アメリカの領事がおかれることも認めた。",
+      "yearStart": 1854,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-05",
+      "subject": "nihonshi-tankyu",
+      "question": "1853年に長崎に来航して開国と国境の画定を求め、翌年に下田で日露和親条約を結んだロシアの使節は誰か。",
+      "answer": "プチャーチン",
+      "alternatives": [],
+      "explanation": "ペリーに続いて来航した。",
+      "yearStart": 1853,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-06",
+      "subject": "nihonshi-tankyu",
+      "question": "1854年の日露和親条約で、日本とロシアの国境は、択捉島とどの島のあいだに定められたか。",
+      "answer": "得撫島",
+      "reading": "うるっぷとう",
+      "alternatives": [
+        "ウルップ島"
+      ],
+      "explanation": "樺太（サハリン）は、国境を定めず、両国の人々がまじって住む地とした。",
+      "yearStart": 1854,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-07",
+      "subject": "nihonshi-tankyu",
+      "question": "ペリーの来航ののち、幕府が、江戸湾の防備のためにきずいた砲台を何というか。",
+      "answer": "台場",
+      "reading": "だいば",
+      "alternatives": [
+        "お台場",
+        "品川台場"
+      ],
+      "explanation": "大型の船の建造の禁止を解くなど、幕政の改革が進められた（安政の改革）。",
+      "yearStart": 1853,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-08",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府が、洋学の教育と洋書の翻訳のために、1856年に江戸にもうけた機関を何というか。",
+      "answer": "蕃書調所",
+      "reading": "ばんしょしらべしょ",
+      "alternatives": [],
+      "explanation": "のちに開成所となった。長崎には海軍伝習所がもうけられた。",
+      "yearStart": 1856,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-09",
+      "subject": "nihonshi-tankyu",
+      "question": "1856年に、アメリカの最初の総領事として下田に着任し、通商条約を結ぶことを強く求めた人物は誰か。",
+      "answer": "ハリス",
+      "alternatives": [],
+      "explanation": "清でおこったアロー戦争を例に、イギリスやフランスの脅威を説いた。",
+      "yearStart": 1856,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-10",
+      "subject": "nihonshi-tankyu",
+      "question": "ハリスとの交渉にあたり、通商条約の調印について天皇の許可（勅許）を求めたが、えられなかった老中は誰か。",
+      "answer": "堀田正睦",
+      "reading": "ほったまさよし",
+      "alternatives": [],
+      "explanation": "孝明天皇は、条約の調印に強く反対した。",
+      "yearStart": 1858,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治",
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-11",
+      "subject": "nihonshi-tankyu",
+      "question": "1858年に大老となり、天皇の勅許をえられないまま、通商条約に調印した彦根藩主は誰か。",
+      "answer": "井伊直弼",
+      "reading": "いいなおすけ",
+      "alternatives": [],
+      "explanation": "将軍の跡つぎの問題でも、強い姿勢で反対派をおさえた。",
+      "yearStart": 1858,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-12",
+      "subject": "nihonshi-tankyu",
+      "question": "1858年に、幕府がアメリカと結んだ、神奈川・長崎・新潟・兵庫の開港や、自由な貿易を定めた条約は何か。",
+      "answer": "日米修好通商条約",
+      "reading": "にちべいしゅうこうつうしょうじょうやく",
+      "alternatives": [],
+      "explanation": "箱館はすでに開港していた。江戸と大坂の開市も定めた。",
+      "yearStart": 1858,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-13",
+      "subject": "nihonshi-tankyu",
+      "question": "日米修好通商条約で日本が認めた、日本に滞在する外国人の裁判を、その国の領事が自国の法律でおこなう権利を何というか。",
+      "answer": "領事裁判権",
+      "reading": "りょうじさいばんけん",
+      "alternatives": [
+        "治外法権"
+      ],
+      "explanation": "日本にとって不平等な内容だった。",
+      "yearStart": 1858,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-14",
+      "subject": "nihonshi-tankyu",
+      "question": "日米修好通商条約で日本に認められなかった、輸入品にかける関税の率を自国で決める権利を何というか。",
+      "answer": "関税自主権",
+      "reading": "かんぜいじしゅけん",
+      "alternatives": [],
+      "explanation": "関税は、相手国と協議して決める協定関税とされた。",
+      "yearStart": 1858,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-15",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府が、アメリカに続いて、オランダ・ロシア・イギリス・フランスとも結んだ通商条約を、まとめて何というか。",
+      "answer": "安政の五カ国条約",
+      "reading": "あんせいのごかこくじょうやく",
+      "alternatives": [
+        "安政の五か国条約",
+        "安政五カ国条約"
+      ],
+      "explanation": "いずれも、ほぼ同じ内容の不平等条約だった。",
+      "yearStart": 1858,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-16",
+      "subject": "nihonshi-tankyu",
+      "question": "1860年に、日米修好通商条約の批准書を交換する使節に従って、太平洋を横断した幕府の軍艦は何か。",
+      "answer": "咸臨丸",
+      "reading": "かんりんまる",
+      "alternatives": [],
+      "explanation": "勝海舟らが乗り組んだ。",
+      "yearStart": 1860,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-17",
+      "subject": "nihonshi-tankyu",
+      "question": "1859年に貿易が始まると、貿易額が最も多くなった港はどこか。",
+      "answer": "横浜",
+      "reading": "よこはま",
+      "alternatives": [],
+      "explanation": "神奈川にかえてひらかれた。相手国はイギリスが中心だった。",
+      "yearStart": 1859,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-18",
+      "subject": "nihonshi-tankyu",
+      "question": "開港後の貿易で、日本からの最大の輸出品となったものは何か。",
+      "answer": "生糸",
+      "reading": "きいと",
+      "alternatives": [],
+      "explanation": "ついで茶・蚕卵紙が輸出された。毛織物・綿織物・武器などが輸入された。",
+      "yearStart": 1859,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-19",
+      "subject": "nihonshi-tankyu",
+      "question": "1860年に、幕府が、雑穀・水油・蠟・呉服・生糸の5品は、かならず江戸の問屋をへて輸出するように命じた法令は何か。",
+      "answer": "五品江戸廻送令",
+      "reading": "ごひんえどかいそうれい",
+      "alternatives": [],
+      "explanation": "貿易を統制して物価をおさえようとしたが、在郷商人や外国の反対で効果はなかった。",
+      "yearStart": 1860,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-20",
+      "subject": "nihonshi-tankyu",
+      "question": "開港後、日本と外国とで金と銀の交換の比率がちがったために、大量に海外へ流出したものは何か。",
+      "answer": "金貨",
+      "reading": "きんか",
+      "alternatives": [
+        "金",
+        "小判"
+      ],
+      "explanation": "金と銀の比率は、日本では1：5、外国では1：15だった。幕府は金の量をへらした万延小判を発行したが、物価が大きく上がった。",
+      "yearStart": 1859,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-21",
+      "subject": "nihonshi-tankyu",
+      "question": "第13代将軍の徳川家定の跡つぎをめぐる争いで、越前藩主の松平慶永や薩摩藩主の島津斉彬らがおした人物は誰か。",
+      "answer": "徳川慶喜",
+      "reading": "とくがわよしのぶ",
+      "alternatives": [
+        "一橋慶喜"
+      ],
+      "explanation": "井伊直弼らは紀伊藩主の徳川慶福（のちの家茂）をおし、慶福が第14代将軍となった。",
+      "yearStart": 1858,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-22",
+      "subject": "nihonshi-tankyu",
+      "question": "1858年から翌年にかけて、井伊直弼が、通商条約の調印や将軍の跡つぎの決定に反対した大名・公家・藩士らを、きびしく処罰した事件を何というか。",
+      "answer": "安政の大獄",
+      "reading": "あんせいのたいごく",
+      "alternatives": [],
+      "explanation": "長州藩の吉田松陰や、越前藩の橋本左内らが処刑された。",
+      "yearStart": 1858,
+      "yearEnd": 1859,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-23",
+      "subject": "nihonshi-tankyu",
+      "question": "1860年に、井伊直弼が、水戸藩を脱藩した浪士らに江戸城の門の近くで暗殺された事件を何というか。",
+      "answer": "桜田門外の変",
+      "reading": "さくらだもんがいのへん",
+      "alternatives": [],
+      "explanation": "幕府の権威は大きく傷ついた。",
+      "yearStart": 1860,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-24",
+      "subject": "nihonshi-tankyu",
+      "question": "桜田門外の変ののち、幕府が進めた、朝廷と結びついて幕府の権威を回復しようとする政策を何というか。",
+      "answer": "公武合体",
+      "reading": "こうぶがったい",
+      "alternatives": [
+        "公武合体政策"
+      ],
+      "explanation": "老中の安藤信正は、孝明天皇の妹の和宮を、将軍の徳川家茂の夫人にむかえた。",
+      "yearStart": 1860,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-25",
+      "subject": "nihonshi-tankyu",
+      "question": "1862年に、和宮の降嫁を進めた老中の安藤信正が、尊王攘夷派の浪士らにおそわれて負傷した事件を何というか。",
+      "answer": "坂下門外の変",
+      "reading": "さかしたもんがいのへん",
+      "alternatives": [],
+      "explanation": "安藤は老中をやめた。",
+      "yearStart": 1862,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-26",
+      "subject": "nihonshi-tankyu",
+      "question": "1862年に、薩摩藩主の父の島津久光が、勅使とともに江戸にくだって幕府に求め、実現させた幕政の改革を何というか。",
+      "answer": "文久の改革",
+      "reading": "ぶんきゅうのかいかく",
+      "alternatives": [],
+      "explanation": "松平慶永を政事総裁職に、徳川慶喜を将軍後見職に、会津藩主の松平容保を京都守護職に任命し、参勤交代をゆるめた。",
+      "yearStart": 1862,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-27",
+      "subject": "nihonshi-tankyu",
+      "question": "天皇を尊ぶ考えと、外国の勢力を追いはらおうとする考えが結びついた思想を何というか。",
+      "answer": "尊王攘夷論",
+      "reading": "そんのうじょういろん",
+      "alternatives": [
+        "尊王攘夷",
+        "尊攘論"
+      ],
+      "explanation": "長州藩の下級武士らを中心に、反幕府の政治運動となった。",
+      "yearStart": 1860,
+      "yearApprox": true,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-28",
+      "subject": "nihonshi-tankyu",
+      "question": "1862年に、横浜の近くで、島津久光の行列を横切ったイギリス人が、薩摩藩士に殺傷された事件を何というか。",
+      "answer": "生麦事件",
+      "reading": "なまむぎじけん",
+      "alternatives": [],
+      "explanation": "翌年の薩英戦争の原因となった。",
+      "yearStart": 1862,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-29",
+      "subject": "nihonshi-tankyu",
+      "question": "1863年に、生麦事件の報復として、イギリスの艦隊が鹿児島を砲撃した戦いを何というか。",
+      "answer": "薩英戦争",
+      "reading": "さつえいせんそう",
+      "alternatives": [],
+      "explanation": "薩摩藩は攘夷が不可能であることを知り、イギリスに接近した。",
+      "yearStart": 1863,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-30",
+      "subject": "nihonshi-tankyu",
+      "question": "1863年5月に、幕府が朝廷に約束した攘夷の実行の日に、下関の海峡を通る外国船を砲撃した藩はどこか。",
+      "answer": "長州藩",
+      "reading": "ちょうしゅうはん",
+      "alternatives": [
+        "萩藩"
+      ],
+      "explanation": "尊王攘夷派が藩の主導権をにぎっていた。",
+      "yearStart": 1863,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-31",
+      "subject": "nihonshi-tankyu",
+      "question": "1863年に、薩摩藩と会津藩が、朝廷内の公武合体派の公家と結んで、長州藩の勢力と尊王攘夷派の公家を京都から追放した事件を何というか。",
+      "answer": "八月十八日の政変",
+      "reading": "はちがつじゅうはちにちのせいへん",
+      "alternatives": [],
+      "explanation": "三条実美ら7人の公家は、長州にのがれた。",
+      "yearStart": 1863,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-32",
+      "subject": "nihonshi-tankyu",
+      "question": "1864年に、京都の旅館で、尊王攘夷派の志士たちが、京都守護職のもとにあった新選組におそわれた事件を何というか。",
+      "answer": "池田屋事件",
+      "reading": "いけだやじけん",
+      "alternatives": [],
+      "explanation": "これをきっかけに、長州藩は京都に兵を進めた。",
+      "yearStart": 1864,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-33",
+      "subject": "nihonshi-tankyu",
+      "question": "1864年に、勢力の回復をめざして京都に攻めのぼった長州藩が、薩摩・会津などの藩の兵に敗れた戦いを何というか。",
+      "answer": "禁門の変",
+      "reading": "きんもんのへん",
+      "alternatives": [
+        "蛤御門の変"
+      ],
+      "explanation": "幕府は、朝廷の命令を受けて、長州征討（第1次）の軍を出した。",
+      "yearStart": 1864,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-34",
+      "subject": "nihonshi-tankyu",
+      "question": "1864年に、イギリス・フランス・アメリカ・オランダの連合艦隊が、前年の砲撃への報復として、長州藩の砲台を攻撃して占領した事件を何というか。",
+      "answer": "四国艦隊下関砲撃事件",
+      "reading": "しこくかんたいしものせきほうげきじけん",
+      "alternatives": [
+        "下関戦争",
+        "四国連合艦隊下関砲撃事件"
+      ],
+      "explanation": "長州藩も、攘夷が不可能であることを知った。",
+      "yearStart": 1864,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-35",
+      "subject": "nihonshi-tankyu",
+      "question": "長州藩で、身分にかかわらず志願者を集めた奇兵隊を組織し、1864年末に兵をあげて、藩の主導権を保守派からうばい返した人物は誰か。",
+      "answer": "高杉晋作",
+      "reading": "たかすぎしんさく",
+      "alternatives": [],
+      "explanation": "桂小五郎（木戸孝允）らとともに、藩の方針を、幕府に対抗するものへとかえた。",
+      "yearStart": 1864,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-36",
+      "subject": "nihonshi-tankyu",
+      "question": "幕末に、薩摩藩や長州藩に接近し、天皇を中心とする雄藩の連合政権の実現に期待した、イギリスの公使は誰か。",
+      "answer": "パークス",
+      "alternatives": [],
+      "explanation": "フランスの公使ロッシュは、幕府を支援した。",
+      "yearStart": 1865,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-37",
+      "subject": "nihonshi-tankyu",
+      "question": "1866年に、列国が幕府にせまって調印させた、輸入品の関税を一律に引き下げた協定を何というか。",
+      "answer": "改税約書",
+      "reading": "かいぜいやくしょ",
+      "alternatives": [],
+      "explanation": "関税は平均20％から一律5％となり、安い外国の商品が大量に流入するようになった。",
+      "yearStart": 1866,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-38",
+      "subject": "nihonshi-tankyu",
+      "question": "1866年に、土佐藩出身の坂本龍馬らの仲介で、薩摩藩と長州藩が結んだ、軍事的な同盟の密約を何というか。",
+      "answer": "薩長連合",
+      "reading": "さっちょうれんごう",
+      "alternatives": [
+        "薩長同盟"
+      ],
+      "explanation": "薩摩藩の西郷隆盛と、長州藩の木戸孝允が結んだ。幕府を倒す勢力の中心となった。",
+      "yearStart": 1866,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1101-39",
+      "subject": "nihonshi-tankyu",
+      "question": "1866年に、幕府が長州藩を攻めたが、各地で敗れ、将軍の徳川家茂の急死をきっかけに中止した戦いを何というか。",
+      "answer": "第2次長州征討",
+      "reading": "だいにじちょうしゅうせいとう",
+      "alternatives": [
+        "第二次長州征討",
+        "第2次長州戦争"
+      ],
+      "explanation": "幕府の権威は大きく落ちた。",
+      "yearStart": 1866,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1101-40",
+      "subject": "nihonshi-tankyu",
+      "question": "幕末に、開国による物価の上昇や政治の混乱のなかで、社会の変革を求める農民たちがおこした一揆を何というか。",
+      "answer": "世直し一揆",
+      "reading": "よなおしいっき",
+      "alternatives": [],
+      "explanation": "1866年には、一揆や打ちこわしの件数が江戸時代で最も多くなった。",
+      "yearStart": 1866,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1102-01",
+      "subject": "nihonshi-tankyu",
+      "question": "1866年に将軍となった、江戸幕府の最後の将軍（第15代）は誰か。",
+      "answer": "徳川慶喜",
+      "reading": "とくがわよしのぶ",
+      "alternatives": [],
+      "explanation": "フランスの援助を受けて、幕府の政治や軍の改革を進めた。",
+      "yearStart": 1866,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1102-02",
+      "subject": "nihonshi-tankyu",
+      "question": "1867年10月に、徳川慶喜が、政権を朝廷に返上したことを何というか。",
+      "answer": "大政奉還",
+      "reading": "たいせいほうかん",
+      "alternatives": [],
+      "explanation": "前の土佐藩主の山内豊信（容堂）が、後藤象二郎や坂本龍馬の考えをいれてすすめた。",
+      "yearStart": 1867,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1102-03",
+      "subject": "nihonshi-tankyu",
+      "question": "1867年12月に、薩摩藩や長州藩と結んだ岩倉具視らが、天皇を中心とする新しい政府の成立を宣言したものを何というか。",
+      "answer": "王政復古の大号令",
+      "reading": "おうせいふっこのだいごうれい",
+      "alternatives": [],
+      "explanation": "摂政・関白と幕府を廃止し、総裁・議定・参与の三職をおいた。",
+      "yearStart": 1867,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1102-04",
+      "subject": "nihonshi-tankyu",
+      "question": "王政復古の大号令が出された日の夜の会議で、徳川慶喜に対して命じることが決まった、内大臣の辞任と領地の返上を何というか。",
+      "answer": "辞官納地",
+      "reading": "じかんのうち",
+      "alternatives": [],
+      "explanation": "この会議を小御所会議という。旧幕府側は強く反発した。",
+      "yearStart": 1867,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1102-05",
+      "subject": "nihonshi-tankyu",
+      "question": "1867年に、東海や近畿などの各地で、人々が熱狂的におどりまわった集団的な騒ぎを、はやし言葉から何というか。",
+      "answer": "ええじゃないか",
+      "alternatives": [],
+      "explanation": "伊勢神宮のお札がふったといううわさをきっかけに広まった。",
+      "yearStart": 1867,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1102-06",
+      "subject": "nihonshi-tankyu",
+      "question": "1868年1月に京都の南でおこった、旧幕府軍と新政府軍の戦いを何というか。",
+      "answer": "鳥羽・伏見の戦い",
+      "reading": "とば・ふしみのたたかい",
+      "alternatives": [],
+      "explanation": "新政府軍が勝利し、徳川慶喜は江戸にのがれた。",
+      "yearStart": 1868,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1102-07",
+      "subject": "nihonshi-tankyu",
+      "question": "1868年から翌年にかけての、新政府軍と旧幕府軍の一連の戦いをまとめて何というか。",
+      "answer": "戊辰戦争",
+      "reading": "ぼしんせんそう",
+      "alternatives": [],
+      "explanation": "鳥羽・伏見の戦いに始まり、箱館の五稜郭の戦いで終わった。",
+      "yearStart": 1868,
+      "yearEnd": 1869,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1102-08",
+      "subject": "nihonshi-tankyu",
+      "question": "1868年4月に、新政府軍の西郷隆盛と、旧幕府の勝海舟の交渉によって実現したことは何か。",
+      "answer": "江戸城の無血開城",
+      "reading": "えどじょうのむけつかいじょう",
+      "alternatives": [
+        "江戸城無血開城",
+        "江戸無血開城"
+      ],
+      "explanation": "江戸の町が戦場となることがさけられた。",
+      "yearStart": 1868,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1102-09",
+      "subject": "nihonshi-tankyu",
+      "question": "戊辰戦争で、東北地方などの諸藩が、新政府に対抗して結んだ同盟を何というか。",
+      "answer": "奥羽越列藩同盟",
+      "reading": "おううえつれっぱんどうめい",
+      "alternatives": [],
+      "explanation": "会津藩への攻撃に反対して結ばれたが、会津若松城の落城によってくずれた。",
+      "yearStart": 1868,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1102-10",
+      "subject": "nihonshi-tankyu",
+      "question": "戊辰戦争の最後の戦いで、榎本武揚らの旧幕府軍がたてこもった、箱館の城郭は何か。",
+      "answer": "五稜郭",
+      "reading": "ごりょうかく",
+      "alternatives": [],
+      "explanation": "1869年5月に降伏した。",
+      "yearStart": 1869,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1102-11",
+      "subject": "nihonshi-tankyu",
+      "question": "1868年3月に、明治天皇が神々に誓う形で示された、新政府の基本方針を何というか。",
+      "answer": "五箇条の誓文",
+      "reading": "ごかじょうのせいもん",
+      "alternatives": [
+        "五箇条の御誓文"
+      ],
+      "explanation": "公議世論の尊重や、開国和親などを示した。由利公正・福岡孝弟が起草し、木戸孝允が修正した。",
+      "yearStart": 1868,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1102-12",
+      "subject": "nihonshi-tankyu",
+      "question": "五箇条の誓文が出された翌日に、新政府が全国の民衆に向けてかかげた、5枚の高札を何というか。",
+      "answer": "五榜の掲示",
+      "reading": "ごぼうのけいじ",
+      "alternatives": [],
+      "explanation": "一揆やキリスト教を禁止するなど、旧幕府の民衆への政策を引きついだ。",
+      "yearStart": 1868,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1102-13",
+      "subject": "nihonshi-tankyu",
+      "question": "1868年閏4月に、新政府が定めた、政府の組織についての法を何というか。",
+      "answer": "政体書",
+      "reading": "せいたいしょ",
+      "alternatives": [],
+      "explanation": "太政官に権力を集め、アメリカの制度にならって三権分立の形をとり入れた。",
+      "yearStart": 1868,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1102-14",
+      "subject": "nihonshi-tankyu",
+      "question": "1868年9月に年号を明治と改めたときに定められた、天皇1代のあいだは1つの年号を用いる制度を何というか。",
+      "answer": "一世一元の制",
+      "reading": "いっせいいちげんのせい",
+      "alternatives": [
+        "一世一元"
+      ],
+      "explanation": "同じ年の7月に、江戸は東京と改められ、翌年、政府は東京に移った。",
+      "yearStart": 1868,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "j-1102-15",
+      "subject": "nihonshi-tankyu",
+      "question": "幕末に、大和の農婦の中山みきが始めた、民衆のあいだに広まった宗教は何か。",
+      "answer": "天理教",
+      "reading": "てんりきょう",
+      "alternatives": [],
+      "explanation": "備中の川手文治郎の金光教、備前の黒住宗忠の黒住教とともに、のちに教派神道と呼ばれた。",
+      "yearStart": 1838,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "宗教"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1102-16",
+      "subject": "nihonshi-tankyu",
+      "question": "幕府が、フランスの技術の援助を受けて、1865年から建設を始めた造船所を何というか。",
+      "answer": "横須賀製鉄所",
+      "reading": "よこすかせいてつじょ",
+      "alternatives": [
+        "横須賀造船所"
+      ],
+      "explanation": "明治政府に引きつがれた。",
+      "yearStart": 1865,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "経済",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "j-1102-17",
+      "subject": "nihonshi-tankyu",
+      "question": "1859年に来日したアメリカ人の宣教師で、医者としても活動し、和英辞典をつくり、ローマ字の表記を広めた人物は誰か。",
+      "answer": "ヘボン",
+      "alternatives": [],
+      "explanation": "フルベッキらとともに、英学の教育にもあたった。",
+      "yearStart": 1859,
+      "regions": [
+        "日本"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "advanced",
+      "verified": true
+    }
+  ]
+}

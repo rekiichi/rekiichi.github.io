@@ -1,0 +1,2031 @@
+{
+  "generatedFrom": "sekaishi-16.csv",
+  "_note": "このファイルは sekaishi-16.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "w-1601-01",
+      "subject": "sekaishi-tankyu",
+      "question": "20世紀初めに、列強の対立と民族問題がからみあって、いつ戦争がおこってもおかしくない状態にあったバルカン半島は何と呼ばれたか。",
+      "answer": "ヨーロッパの火薬庫",
+      "reading": "よーろっぱのかやくこ",
+      "alternatives": [],
+      "explanation": "ロシアの後押しするパン=スラヴ主義と、ドイツ・オーストリアのパン=ゲルマン主義が対立した。",
+      "yearStart": 1912,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-02",
+      "subject": "sekaishi-tankyu",
+      "question": "スラヴ系の民族の団結と統一をめざす思想や運動を何というか。",
+      "answer": "パン=スラヴ主義",
+      "alternatives": [],
+      "explanation": "ロシアはこれを利用してバルカン半島に勢力をのばそうとした。",
+      "yearStart": 1900,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ",
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-03",
+      "subject": "sekaishi-tankyu",
+      "question": "1908年に、青年トルコ革命の混乱に乗じてオーストリアが併合した、スラヴ系の住民の多い地域はどこか。",
+      "answer": "ボスニア・ヘルツェゴヴィナ",
+      "alternatives": [],
+      "explanation": "セルビアはこれに強く反発した。",
+      "yearStart": 1908,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1601-04",
+      "subject": "sekaishi-tankyu",
+      "question": "1912年に、ロシアの後押しでセルビア・ブルガリア・モンテネグロ・ギリシアが結んだ同盟は何か。",
+      "answer": "バルカン同盟",
+      "reading": "ばるかんどうめい",
+      "alternatives": [],
+      "explanation": "オスマン帝国と戦って勝利したが（第1次バルカン戦争）、その後、領土の分配をめぐって争った（第2次バルカン戦争）。",
+      "yearStart": 1912,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1601-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1914年6月に、ボスニアの州都で、オーストリアの帝位継承者夫妻がセルビア人の青年に暗殺された事件を何というか。",
+      "answer": "サライェヴォ事件",
+      "alternatives": [
+        "サラエボ事件"
+      ],
+      "explanation": "オーストリアがセルビアに宣戦し、第一次世界大戦が始まった。",
+      "yearStart": 1914,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-06",
+      "subject": "sekaishi-tankyu",
+      "question": "1914年に始まり、1918年まで続いた、ヨーロッパを主な戦場とする世界規模の戦争は何か。",
+      "answer": "第一次世界大戦",
+      "reading": "だいいちじせかいたいせん",
+      "alternatives": [],
+      "explanation": "ドイツ・オーストリアなどの同盟国と、イギリス・フランス・ロシアなどの協商国（連合国）が戦った。",
+      "yearStart": 1914,
+      "yearEnd": 1918,
+      "regions": [
+        "ヨーロッパ",
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-07",
+      "subject": "sekaishi-tankyu",
+      "question": "第一次世界大戦で、ドイツ・オーストリア側に立って戦った国を、ブルガリアのほかに1つあげよ。",
+      "answer": "オスマン帝国",
+      "alternatives": [
+        "トルコ"
+      ],
+      "explanation": "三国同盟の一員であったイタリアは、領土の獲得を約束されて1915年に協商国側で参戦した。",
+      "yearStart": 1914,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1601-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1914年9月に、フランス軍がドイツ軍の進撃をくいとめた戦いは何か。",
+      "answer": "マルヌの戦い",
+      "alternatives": [],
+      "explanation": "ドイツの短期決戦の計画はくずれ、西部戦線は塹壕にこもって戦う長期戦となった。",
+      "yearStart": 1914,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1914年8月に、東部戦線でドイツ軍がロシア軍を破った戦いは何か。",
+      "answer": "タンネンベルクの戦い",
+      "alternatives": [],
+      "explanation": "ヒンデンブルクが指揮した。",
+      "yearStart": 1914,
+      "regions": [
+        "ヨーロッパ",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1601-10",
+      "subject": "sekaishi-tankyu",
+      "question": "第一次世界大戦のように、軍事力だけでなく、国の経済力や国民の生活のすべてを戦争のために動員する戦争を何というか。",
+      "answer": "総力戦",
+      "reading": "そうりょくせん",
+      "alternatives": [],
+      "explanation": "女性も軍需工場などで働き、戦後の女性参政権の実現につながった。",
+      "yearStart": 1914,
+      "regions": [
+        "ヨーロッパ",
+        "国際"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-11",
+      "subject": "sekaishi-tankyu",
+      "question": "第一次世界大戦で初めて本格的に使われた新兵器を、戦車・航空機・潜水艦のほかに1つあげよ。",
+      "answer": "毒ガス",
+      "reading": "どくがす",
+      "alternatives": [],
+      "explanation": "犠牲者の数はそれまでの戦争とはくらべものにならなかった。",
+      "yearStart": 1915,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1601-12",
+      "subject": "sekaishi-tankyu",
+      "question": "1915年に、日本が中国の袁世凱政府に、山東省のドイツの権益をひきつぐことなどを認めさせた要求を何というか。",
+      "answer": "二十一カ条の要求",
+      "reading": "にじゅういっかじょうのようきゅう",
+      "alternatives": [],
+      "explanation": "日本は日英同盟を理由に参戦し、ドイツの租借地の青島などを占領していた。",
+      "yearStart": 1915,
+      "regions": [
+        "日本",
+        "中国"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1915年に、イギリスが、オスマン帝国の支配下にあるアラブ人の独立を約束した取り決めは何か。",
+      "answer": "フセイン・マクマホン協定",
+      "alternatives": [
+        "フサイン・マクマホン協定"
+      ],
+      "explanation": "アラブ人の協力をえるための約束だった。",
+      "yearStart": 1915,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-14",
+      "subject": "sekaishi-tankyu",
+      "question": "1916年に、イギリス・フランス・ロシアが、戦後にオスマン帝国の領土を分けあうことを決めた秘密協定は何か。",
+      "answer": "サイクス・ピコ協定",
+      "alternatives": [],
+      "explanation": "アラブ人への独立の約束とくいちがっていた。",
+      "yearStart": 1916,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-15",
+      "subject": "sekaishi-tankyu",
+      "question": "1917年に、イギリスが、パレスチナにユダヤ人の「民族的な郷土」をつくることを支持した宣言は何か。",
+      "answer": "バルフォア宣言",
+      "alternatives": [],
+      "explanation": "ユダヤ人の資金の協力をえるためだった。のちのパレスチナ問題の原因となった。",
+      "yearStart": 1917,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-16",
+      "subject": "sekaishi-tankyu",
+      "question": "1917年にドイツが始めた、指定した海域に入った船を、国の区別なく警告なしに攻撃する作戦を何というか。",
+      "answer": "無制限潜水艦作戦",
+      "reading": "むせいげんせんすいかんさくせん",
+      "alternatives": [],
+      "explanation": "これをきっかけにアメリカが協商国側で参戦した。",
+      "yearStart": 1917,
+      "regions": [
+        "ヨーロッパ",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-17",
+      "subject": "sekaishi-tankyu",
+      "question": "1918年1月に、アメリカ大統領ウィルソンが発表した、戦後の国際秩序についての原則を何というか。",
+      "answer": "十四カ条",
+      "reading": "じゅうよんかじょう",
+      "alternatives": [
+        "十四カ条の平和原則",
+        "十四カ条の原則"
+      ],
+      "explanation": "秘密外交の廃止、海洋の自由、軍備の縮小、民族自決、国際平和機構の設立などをとなえた。",
+      "yearStart": 1918,
+      "regions": [
+        "南北アメリカ",
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-18",
+      "subject": "sekaishi-tankyu",
+      "question": "それぞれの民族が、他国の干渉を受けずに自分たちの政治のあり方を決める権利をもつという考え方を何というか。",
+      "answer": "民族自決",
+      "reading": "みんぞくじけつ",
+      "alternatives": [],
+      "explanation": "ウィルソンやレーニンがとなえたが、戦後はヨーロッパにだけ適用された。",
+      "yearStart": 1918,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-19",
+      "subject": "sekaishi-tankyu",
+      "question": "1918年11月に、ドイツで革命がおこるきっかけとなった水兵の反乱は、どの軍港でおこったか。",
+      "answer": "キール",
+      "alternatives": [
+        "キール軍港"
+      ],
+      "explanation": "皇帝ヴィルヘルム2世は亡命し、ドイツは共和国となって休戦条約を結んだ。",
+      "yearStart": 1918,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1601-20",
+      "subject": "sekaishi-tankyu",
+      "question": "1917年3月に、ロシアの都ペトログラードで食料を求めるデモやストライキがおこり、皇帝が退位した革命を何というか。",
+      "answer": "二月革命",
+      "reading": "にがつかくめい",
+      "alternatives": [
+        "三月革命"
+      ],
+      "explanation": "ロシア暦では2月にあたる。ロマノフ朝が滅び、臨時政府が成立した。",
+      "yearStart": 1917,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-21",
+      "subject": "sekaishi-tankyu",
+      "question": "二月革命で退位した、ロシアの最後の皇帝は誰か。",
+      "answer": "ニコライ2世",
+      "alternatives": [],
+      "explanation": "翌年、革命政府によって処刑された。",
+      "yearStart": 1917,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-22",
+      "subject": "sekaishi-tankyu",
+      "question": "亡命先から帰国して「すべての権力をソヴィエトへ」と主張し、ボリシェヴィキを率いて革命を成功させた人物は誰か。",
+      "answer": "レーニン",
+      "alternatives": [],
+      "explanation": "帰国してすぐに発表した方針を「四月テーゼ」という。",
+      "yearStart": 1917,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-23",
+      "subject": "sekaishi-tankyu",
+      "question": "1917年11月に、レーニンやトロツキーの率いるボリシェヴィキが武装蜂起して臨時政府を倒し、ソヴィエト政権をうち立てた革命を何というか。",
+      "answer": "十月革命",
+      "reading": "じゅうがつかくめい",
+      "alternatives": [
+        "十一月革命"
+      ],
+      "explanation": "ロシア暦では10月にあたる。世界で最初の社会主義政権が生まれた。",
+      "yearStart": 1917,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-24",
+      "subject": "sekaishi-tankyu",
+      "question": "十月革命で倒された臨時政府の首相で、社会革命党に属した人物は誰か。",
+      "answer": "ケレンスキー",
+      "alternatives": [],
+      "explanation": "戦争を続けたため、国民の支持を失った。",
+      "yearStart": 1917,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1601-25",
+      "subject": "sekaishi-tankyu",
+      "question": "十月革命の直後に、ソヴィエト政権がすべての交戦国に、無併合・無償金・民族自決にもとづく即時の講和を呼びかけた布告を何というか。",
+      "answer": "平和に関する布告",
+      "reading": "へいわにかんするふこく",
+      "alternatives": [],
+      "explanation": "同時に、地主の土地を没収する「土地に関する布告」も出された。",
+      "yearStart": 1917,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "外交",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-26",
+      "subject": "sekaishi-tankyu",
+      "question": "1918年3月に、ソヴィエト政権がドイツと結んだ単独の講和条約は何か。",
+      "answer": "ブレスト=リトフスク条約",
+      "alternatives": [],
+      "explanation": "広い領土を失ったが、戦争から離脱した。",
+      "yearStart": 1918,
+      "regions": [
+        "ロシア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-27",
+      "subject": "sekaishi-tankyu",
+      "question": "革命の広がりをおそれたイギリス・フランス・アメリカ・日本などが、ロシアの反革命勢力を助けて軍隊を送ったことを何というか。",
+      "answer": "対ソ干渉戦争",
+      "reading": "たいそかんしょうせんそう",
+      "alternatives": [],
+      "explanation": "日本などはシベリアに出兵した。ソヴィエト政権は赤軍を組織してこれをしりぞけた。",
+      "yearStart": 1918,
+      "yearEnd": 1922,
+      "regions": [
+        "ロシア",
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-28",
+      "subject": "sekaishi-tankyu",
+      "question": "内戦と干渉戦争のあいだにソヴィエト政権がとった、農民から穀物を強制的に取り立て、工業を国有化するなどの経済政策を何というか。",
+      "answer": "戦時共産主義",
+      "reading": "せんじきょうさんしゅぎ",
+      "alternatives": [],
+      "explanation": "生産が落ちこみ、農民の不満が高まった。",
+      "yearStart": 1918,
+      "yearEnd": 1921,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1601-29",
+      "subject": "sekaishi-tankyu",
+      "question": "1919年に、世界の革命運動を指導するためにモスクワで結成された、各国の共産党の国際組織は何か。",
+      "answer": "コミンテルン",
+      "alternatives": [
+        "共産主義インターナショナル",
+        "第3インターナショナル"
+      ],
+      "explanation": "ロシア共産党が指導した。",
+      "yearStart": 1919,
+      "regions": [
+        "ロシア",
+        "国際"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-30",
+      "subject": "sekaishi-tankyu",
+      "question": "1921年にレーニンが採用した、農民に余った農産物の販売を認め、中小の企業の私的な経営も許した経済政策を何というか。",
+      "answer": "新経済政策",
+      "reading": "しんけいざいせいさく",
+      "alternatives": [
+        "ネップ"
+      ],
+      "explanation": "戦時共産主義による混乱から経済を回復させるために、資本主義的な要素を一部とり入れた。",
+      "yearStart": 1921,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1601-31",
+      "subject": "sekaishi-tankyu",
+      "question": "1922年12月に、ロシア・ウクライナ・ベラルーシ・ザカフカースの4つのソヴィエト共和国が結成した連邦国家を何というか。",
+      "answer": "ソヴィエト社会主義共和国連邦",
+      "reading": "そゔぃえとしゃかいしゅぎきょうわこくれんぽう",
+      "alternatives": [
+        "ソ連",
+        "ソ連邦",
+        "ソビエト社会主義共和国連邦"
+      ],
+      "explanation": "1924年に新しい憲法が定められた。",
+      "yearStart": 1922,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-01",
+      "subject": "sekaishi-tankyu",
+      "question": "1919年1月から、第一次世界大戦の戦後処理のためにひらかれた国際会議は何か。",
+      "answer": "パリ講和会議",
+      "reading": "ぱりこうわかいぎ",
+      "alternatives": [],
+      "explanation": "アメリカのウィルソン、イギリスのロイド=ジョージ、フランスのクレマンソーらが中心となった。",
+      "yearStart": 1919,
+      "regions": [
+        "ヨーロッパ",
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-02",
+      "subject": "sekaishi-tankyu",
+      "question": "1919年6月に、連合国とドイツのあいだで結ばれた講和条約は何か。",
+      "answer": "ヴェルサイユ条約",
+      "alternatives": [],
+      "explanation": "ドイツはすべての植民地を失い、アルザス・ロレーヌをフランスに返し、軍備の制限と巨額の賠償金の支払いを課された。",
+      "yearStart": 1919,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-03",
+      "subject": "sekaishi-tankyu",
+      "question": "ヴェルサイユ条約で、ドイツが軍隊をおくことを禁じられた、フランスとの国境に近い地域はどこか。",
+      "answer": "ラインラント",
+      "alternatives": [],
+      "explanation": "ライン川の東岸は非武装とされ、西岸は連合国の軍隊に占領された。",
+      "yearStart": 1919,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1602-04",
+      "subject": "sekaishi-tankyu",
+      "question": "第一次世界大戦後に、連合国がオーストリアと結んだ講和条約は何か。",
+      "answer": "サン=ジェルマン条約",
+      "alternatives": [],
+      "explanation": "オーストリア=ハンガリー帝国は解体し、ドイツとの合併も禁じられた。",
+      "yearStart": 1919,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1602-05",
+      "subject": "sekaishi-tankyu",
+      "question": "第一次世界大戦後に、連合国がオスマン帝国と結んだ講和条約は何か。",
+      "answer": "セーヴル条約",
+      "alternatives": [],
+      "explanation": "オスマン帝国は領土の大部分を失った。",
+      "yearStart": 1920,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-06",
+      "subject": "sekaishi-tankyu",
+      "question": "第一次世界大戦後に、民族自決の原則にもとづいて東ヨーロッパで独立した国を、ポーランドのほかに1つあげよ。",
+      "answer": "チェコスロヴァキア",
+      "alternatives": [
+        "ハンガリー",
+        "ユーゴスラヴィア",
+        "フィンランド"
+      ],
+      "explanation": "フィンランドやバルト3国なども独立した。",
+      "yearStart": 1918,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1602-07",
+      "subject": "sekaishi-tankyu",
+      "question": "第一次世界大戦後に、敗戦国の植民地や領土を、国際連盟からまかされた国が統治した制度を何というか。",
+      "answer": "委任統治",
+      "reading": "いにんとうち",
+      "alternatives": [],
+      "explanation": "実際には、戦勝国による植民地の分配と変わらなかった。",
+      "yearStart": 1920,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1920年に、ウィルソンの提唱にもとづいて発足した、世界で最初の本格的な国際平和機構は何か。",
+      "answer": "国際連盟",
+      "reading": "こくさいれんめい",
+      "alternatives": [],
+      "explanation": "本部はスイスのジュネーヴ。アメリカは議会の反対で参加せず、ドイツとソヴィエト=ロシアも当初は除外された。",
+      "yearStart": 1920,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-09",
+      "subject": "sekaishi-tankyu",
+      "question": "パリ講和会議の諸条約によってつくられた、ヨーロッパの新しい国際秩序を何というか。",
+      "answer": "ヴェルサイユ体制",
+      "reading": "ゔぇるさいゆたいせい",
+      "alternatives": [],
+      "explanation": "敗戦国やソヴィエト=ロシアに不満を残した。",
+      "yearStart": 1919,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-10",
+      "subject": "sekaishi-tankyu",
+      "question": "1921年から、アメリカの提唱で、海軍の軍備の縮小と東アジア・太平洋の問題を話しあうためにひらかれた国際会議は何か。",
+      "answer": "ワシントン会議",
+      "reading": "わしんとんかいぎ",
+      "alternatives": [],
+      "explanation": "この会議でつくられた東アジア・太平洋の国際秩序をワシントン体制という。",
+      "yearStart": 1921,
+      "yearEnd": 1922,
+      "regions": [
+        "南北アメリカ",
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-11",
+      "subject": "sekaishi-tankyu",
+      "question": "ワシントン会議で結ばれた、中国の主権の尊重・領土の保全・門戸開放・機会均等を約束した条約は何か。",
+      "answer": "九カ国条約",
+      "reading": "きゅうかこくじょうやく",
+      "alternatives": [],
+      "explanation": "日本は山東省の旧ドイツ権益を中国に返した。",
+      "yearStart": 1922,
+      "regions": [
+        "中国",
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-12",
+      "subject": "sekaishi-tankyu",
+      "question": "ワシントン会議で結ばれた、太平洋地域の現状維持を約束した、アメリカ・イギリス・日本・フランスの条約は何か。",
+      "answer": "四カ国条約",
+      "reading": "よんかこくじょうやく",
+      "alternatives": [],
+      "explanation": "これによって日英同盟は解消された。",
+      "yearStart": 1921,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-13",
+      "subject": "sekaishi-tankyu",
+      "question": "ワシントン会議で結ばれた、主力艦の保有トン数の比率を定めた条約は何か。",
+      "answer": "ワシントン海軍軍備制限条約",
+      "alternatives": [
+        "海軍軍備制限条約",
+        "ワシントン海軍軍縮条約"
+      ],
+      "explanation": "アメリカ・イギリスが5、日本が3、フランス・イタリアが1.67の割合とされた。",
+      "yearStart": 1922,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1602-14",
+      "subject": "sekaishi-tankyu",
+      "question": "1924年にイギリスで初めて成立した労働党内閣の首相は誰か。",
+      "answer": "マクドナルド",
+      "alternatives": [],
+      "explanation": "自由党の協力をえて成立した。",
+      "yearStart": 1924,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1602-15",
+      "subject": "sekaishi-tankyu",
+      "question": "1922年に、北部をのぞくアイルランドが、イギリスの自治領として成立した国を何というか。",
+      "answer": "アイルランド自由国",
+      "reading": "あいるらんどじゆうこく",
+      "alternatives": [],
+      "explanation": "1937年に独立国エールとなった。",
+      "yearStart": 1922,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1602-16",
+      "subject": "sekaishi-tankyu",
+      "question": "1931年にイギリスが定めた、本国と自治領は王冠への忠誠で結ばれた対等な関係であるとした法律は何か。",
+      "answer": "ウェストミンスター憲章",
+      "alternatives": [],
+      "explanation": "イギリス連邦（コモンウェルス）の基礎となった。",
+      "yearStart": 1931,
+      "regions": [
+        "ヨーロッパ",
+        "国際"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1602-17",
+      "subject": "sekaishi-tankyu",
+      "question": "1923年に、ドイツの賠償金の支払いがおくれていることを理由に、フランスがベルギーとともにおこなった行動は何か。",
+      "answer": "ルール占領",
+      "reading": "るーるせんりょう",
+      "alternatives": [],
+      "explanation": "ドイツ最大の工業地帯を占領した。ドイツは生産をとめて抵抗し、はげしいインフレーションにおちいった。",
+      "yearStart": 1923,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-18",
+      "subject": "sekaishi-tankyu",
+      "question": "1919年にドイツで定められた、男女の普通選挙や労働者の団結権などを定めた、当時もっとも民主的とされた憲法は何か。",
+      "answer": "ヴァイマル憲法",
+      "alternatives": [
+        "ワイマール憲法"
+      ],
+      "explanation": "この憲法のもとのドイツをヴァイマル共和国という。",
+      "yearStart": 1919,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-19",
+      "subject": "sekaishi-tankyu",
+      "question": "1919年1月に、ドイツで社会主義革命をめざして蜂起したが、しずめられた急進派の組織を何というか。",
+      "answer": "スパルタクス団",
+      "reading": "すぱるたくすだん",
+      "alternatives": [],
+      "explanation": "指導者のローザ=ルクセンブルクとカール=リープクネヒトは殺害された。",
+      "yearStart": 1919,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1602-20",
+      "subject": "sekaishi-tankyu",
+      "question": "1923年に首相として新しい紙幣を発行してインフレーションをおさめ、その後は外相として協調外交を進めたドイツの政治家は誰か。",
+      "answer": "シュトレーゼマン",
+      "alternatives": [],
+      "explanation": "ロカルノ条約を結び、ドイツの国際連盟加盟を実現した。",
+      "yearStart": 1923,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-21",
+      "subject": "sekaishi-tankyu",
+      "question": "1924年に決められた、アメリカの資本をドイツに貸しつけて経済を立て直し、賠償金の支払いを軽くする計画を何というか。",
+      "answer": "ドーズ案",
+      "reading": "どーずあん",
+      "alternatives": [],
+      "explanation": "アメリカの資本がドイツに入り、ドイツが英仏に賠償金を払い、英仏がアメリカに戦債を返すという流れができた。",
+      "yearStart": 1924,
+      "regions": [
+        "ヨーロッパ",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済",
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-22",
+      "subject": "sekaishi-tankyu",
+      "question": "1925年に、ドイツ・フランス・ベルギーなどが、ドイツ西部の国境の現状維持とラインラントの非武装化を約束した条約は何か。",
+      "answer": "ロカルノ条約",
+      "alternatives": [],
+      "explanation": "翌年、ドイツは国際連盟に加盟した。",
+      "yearStart": 1925,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-23",
+      "subject": "sekaishi-tankyu",
+      "question": "1928年に、アメリカの国務長官ケロッグとフランスの外相ブリアンの提唱で結ばれた、国際紛争を解決する手段としての戦争を放棄することを約束した条約は何か。",
+      "answer": "不戦条約",
+      "reading": "ふせんじょうやく",
+      "alternatives": [
+        "ケロッグ・ブリアン条約",
+        "パリ不戦条約"
+      ],
+      "explanation": "はじめ15カ国が調印し、のちに多くの国が参加した。",
+      "yearStart": 1928,
+      "regions": [
+        "国際"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-24",
+      "subject": "sekaishi-tankyu",
+      "question": "第一次世界大戦後のイタリアで、ファシスト党を率いて政権をにぎった人物は誰か。",
+      "answer": "ムッソリーニ",
+      "alternatives": [],
+      "explanation": "社会主義運動の高まりをおそれる地主・資本家・軍部の支持をえた。",
+      "yearStart": 1922,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-25",
+      "subject": "sekaishi-tankyu",
+      "question": "1922年に、ムッソリーニがファシスト党員を首都に進軍させて、政権を獲得した事件を何というか。",
+      "answer": "ローマ進軍",
+      "reading": "ろーましんぐん",
+      "alternatives": [],
+      "explanation": "国王はムッソリーニを首相に任命した。その後、一党独裁の体制がつくられた。",
+      "yearStart": 1922,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-26",
+      "subject": "sekaishi-tankyu",
+      "question": "議会制民主主義を否定し、極端な国家主義と暴力による独裁をおこなう政治運動や体制を何というか。",
+      "answer": "ファシズム",
+      "alternatives": [],
+      "explanation": "イタリアで生まれ、ドイツなどに広まった。",
+      "yearStart": 1922,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-27",
+      "subject": "sekaishi-tankyu",
+      "question": "1929年に、ムッソリーニがローマ教皇庁と結んだ、ヴァチカン市国の独立を認めた条約は何か。",
+      "answer": "ラテラノ条約",
+      "alternatives": [
+        "ラテラン条約"
+      ],
+      "explanation": "イタリア統一以来の国家と教皇庁の対立が解消された。",
+      "yearStart": 1929,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1602-28",
+      "subject": "sekaishi-tankyu",
+      "question": "レーニンの死後、世界革命を主張するトロツキーを退けて、ソ連の指導権をにぎった人物は誰か。",
+      "answer": "スターリン",
+      "alternatives": [],
+      "explanation": "ソ連だけで社会主義の建設ができるという一国社会主義論をとなえた。",
+      "yearStart": 1924,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-29",
+      "subject": "sekaishi-tankyu",
+      "question": "1928年からスターリンが始めた、重工業化と農業の集団化を進める経済計画を何というか。",
+      "answer": "第1次五カ年計画",
+      "reading": "だいいちじごかねんけいかく",
+      "alternatives": [
+        "五カ年計画"
+      ],
+      "explanation": "ソ連は急速に工業化したが、農民には大きな犠牲が出た。",
+      "yearStart": 1928,
+      "yearEnd": 1932,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-30",
+      "subject": "sekaishi-tankyu",
+      "question": "ソ連の農業の集団化によってつくられた、土地や農具を共有する集団農場を何というか。",
+      "answer": "コルホーズ",
+      "alternatives": [],
+      "explanation": "国営農場はソフホーズという。",
+      "yearStart": 1929,
+      "regions": [
+        "ロシア"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-31",
+      "subject": "sekaishi-tankyu",
+      "question": "ベルトコンベアを使った流れ作業の方式を導入して自動車を大量生産し、安い価格で売り出したアメリカの実業家は誰か。",
+      "answer": "フォード",
+      "alternatives": [
+        "ヘンリ=フォード"
+      ],
+      "explanation": "大量生産・大量消費の社会が生まれた。",
+      "yearStart": 1913,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-32",
+      "subject": "sekaishi-tankyu",
+      "question": "1920年代のアメリカで、自動車や家庭電化製品などを大量につくり、大量に売る社会が生まれたが、これを何というか。",
+      "answer": "大量生産・大量消費",
+      "reading": "たいりょうせいさん・たいりょうしょうひ",
+      "alternatives": [
+        "大量消費社会",
+        "大衆消費社会"
+      ],
+      "explanation": "ラジオ・映画・ジャズ・プロスポーツなどの大衆文化も広まった。",
+      "yearStart": 1925,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "社会",
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1602-33",
+      "subject": "sekaishi-tankyu",
+      "question": "1919年にアメリカで定められた、酒の製造や販売を禁じた法律は何か。",
+      "answer": "禁酒法",
+      "reading": "きんしゅほう",
+      "alternatives": [],
+      "explanation": "かえって密造や密売がさかんになり、1933年に廃止された。",
+      "yearStart": 1919,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1602-34",
+      "subject": "sekaishi-tankyu",
+      "question": "1924年にアメリカで定められた、東ヨーロッパや南ヨーロッパからの移民を制限し、日本をふくむアジアからの移民を禁止した法律は何か。",
+      "answer": "移民法",
+      "reading": "いみんほう",
+      "alternatives": [
+        "1924年移民法",
+        "排日移民法"
+      ],
+      "explanation": "保守的な傾向が強まるなかで定められた。",
+      "yearStart": 1924,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "社会",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1602-35",
+      "subject": "sekaishi-tankyu",
+      "question": "1920年にアメリカで実現した、政治参加に関する大きな変化は何か。",
+      "answer": "女性参政権",
+      "reading": "じょせいさんせいけん",
+      "alternatives": [
+        "女性参政権の実現",
+        "婦人参政権"
+      ],
+      "explanation": "第一次世界大戦中の女性の社会進出が背景にある。イギリスやドイツでも大戦後に実現した。",
+      "yearStart": 1920,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1603-01",
+      "subject": "sekaishi-tankyu",
+      "question": "1910年代後半の中国で、儒教の道徳を批判し、民主主義と科学を重んじる新しい文化をつくろうとした運動を何というか。",
+      "answer": "新文化運動",
+      "reading": "しんぶんかうんどう",
+      "alternatives": [
+        "文学革命"
+      ],
+      "explanation": "陳独秀の創刊した雑誌『新青年』が中心となった。",
+      "yearStart": 1915,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-02",
+      "subject": "sekaishi-tankyu",
+      "question": "雑誌『新青年』を創刊して新文化運動を指導し、のちに中国共産党の初代の指導者となった人物は誰か。",
+      "answer": "陳独秀",
+      "reading": "ちんどくしゅう",
+      "alternatives": [],
+      "explanation": "「民主と科学」をとなえた。",
+      "yearStart": 1915,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-03",
+      "subject": "sekaishi-tankyu",
+      "question": "新文化運動のなかで、話しことば（口語）による文学をとなえた人物は誰か。",
+      "answer": "胡適",
+      "reading": "こてき",
+      "alternatives": [],
+      "explanation": "これを白話文学という。",
+      "yearStart": 1917,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-04",
+      "subject": "sekaishi-tankyu",
+      "question": "『狂人日記』や『阿Q正伝』で、中国社会の古い体質を批判した作家は誰か。",
+      "answer": "魯迅",
+      "reading": "ろじん",
+      "alternatives": [],
+      "explanation": "口語による文学を実践した。",
+      "yearStart": 1918,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1919年5月4日に、北京の学生がパリ講和会議の決定に抗議しておこしたデモから、全国に広がった反帝国主義の運動を何というか。",
+      "answer": "五・四運動",
+      "reading": "ご・しうんどう",
+      "alternatives": [],
+      "explanation": "二十一カ条の取り消しや山東省の権益の返還が認められなかったことに抗議した。中国政府はヴェルサイユ条約の調印をこばんだ。",
+      "yearStart": 1919,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-06",
+      "subject": "sekaishi-tankyu",
+      "question": "1919年3月1日に、ソウルで独立が宣言されたことから、朝鮮全土に広がった独立運動を何というか。",
+      "answer": "三・一独立運動",
+      "alternatives": [
+        "三・一運動"
+      ],
+      "explanation": "日本の朝鮮総督府は武力でしずめたが、その後、統治の方針をゆるめた（「文化政治」）。",
+      "yearStart": 1919,
+      "regions": [
+        "朝鮮"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-07",
+      "subject": "sekaishi-tankyu",
+      "question": "三・一独立運動ののち、1919年に上海で独立運動家たちがつくった組織は何か。",
+      "answer": "大韓民国臨時政府",
+      "reading": "だいかんみんこくりんじせいふ",
+      "alternatives": [],
+      "explanation": "李承晩らが参加した。",
+      "yearStart": 1919,
+      "regions": [
+        "朝鮮",
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1603-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1919年に孫文が、五・四運動に刺激を受けて、秘密結社を大衆的な政党に改めて結成した政党は何か。",
+      "answer": "中国国民党",
+      "reading": "ちゅうごくこくみんとう",
+      "alternatives": [],
+      "explanation": "1924年にソ連の援助を受けて組織を立て直した。",
+      "yearStart": 1919,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1921年に、コミンテルンの支援を受けて上海で結成された政党は何か。",
+      "answer": "中国共産党",
+      "reading": "ちゅうごくきょうさんとう",
+      "alternatives": [],
+      "explanation": "陳独秀が初代の指導者となった。",
+      "yearStart": 1921,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-10",
+      "subject": "sekaishi-tankyu",
+      "question": "1924年に、中国国民党が共産党員の入党を認めて成立した、両党の協力関係を何というか。",
+      "answer": "第1次国共合作",
+      "reading": "だいいちじこっきょうがっさく",
+      "alternatives": [
+        "国共合作"
+      ],
+      "explanation": "「連ソ・容共・扶助工農」の方針がかかげられた。",
+      "yearStart": 1924,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-11",
+      "subject": "sekaishi-tankyu",
+      "question": "1925年に、上海の日本人経営の紡績工場での労働争議をきっかけに、全国に広がった反帝国主義運動を何というか。",
+      "answer": "五・三〇運動",
+      "reading": "ご・さんじゅううんどう",
+      "alternatives": [],
+      "explanation": "デモ隊にイギリスの警官隊が発砲したことから拡大した。",
+      "yearStart": 1925,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-12",
+      "subject": "sekaishi-tankyu",
+      "question": "孫文の死後、国民革命軍の総司令官となって、軍閥を倒して中国を統一するための軍事行動を指揮した人物は誰か。",
+      "answer": "蔣介石",
+      "reading": "しょうかいせき",
+      "alternatives": [
+        "蒋介石"
+      ],
+      "explanation": "黄埔軍官学校の校長をつとめた。",
+      "yearStart": 1926,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1926年に広州から始まった、国民革命軍が各地の軍閥を倒して中国の統一をめざした軍事行動を何というか。",
+      "answer": "北伐",
+      "reading": "ほくばつ",
+      "alternatives": [],
+      "explanation": "1928年に北京に入って完成した。",
+      "yearStart": 1926,
+      "yearEnd": 1928,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-14",
+      "subject": "sekaishi-tankyu",
+      "question": "1927年4月に、蔣介石が上海で共産党員や労働者を弾圧した事件を何というか。",
+      "answer": "上海クーデタ",
+      "alternatives": [
+        "四・一二クーデタ"
+      ],
+      "explanation": "これによって国共合作はくずれ、蔣介石は南京に国民政府を立てた。",
+      "yearStart": 1927,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-15",
+      "subject": "sekaishi-tankyu",
+      "question": "1928年に、北京から本拠地の奉天に引きあげるとちゅうで、日本の関東軍に列車を爆破されて殺された軍閥の指導者は誰か。",
+      "answer": "張作霖",
+      "reading": "ちょうさくりん",
+      "alternatives": [],
+      "explanation": "子の張学良は国民政府に合流し、中国の統一が達成された。",
+      "yearStart": 1928,
+      "regions": [
+        "中国",
+        "日本"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1603-16",
+      "subject": "sekaishi-tankyu",
+      "question": "国共分裂ののち、農村に根拠地をつくって革命を進めようとし、1931年に江西省の瑞金に成立した臨時政府の主席となった人物は誰か。",
+      "answer": "毛沢東",
+      "reading": "もうたくとう",
+      "alternatives": [],
+      "explanation": "この政府を中華ソヴィエト共和国臨時政府という。",
+      "yearStart": 1931,
+      "regions": [
+        "中国"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1603-17",
+      "subject": "sekaishi-tankyu",
+      "question": "1919年にイギリスがインドで定めた、令状なしの逮捕や裁判なしの投獄を認めた法律は何か。",
+      "answer": "ローラット法",
+      "reading": "ろーらっとほう",
+      "alternatives": [],
+      "explanation": "大戦後の自治の約束に反するものとして、はげしい抗議運動がおこった。",
+      "yearStart": 1919,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-18",
+      "subject": "sekaishi-tankyu",
+      "question": "1919年に、インドのパンジャーブ地方で、ローラット法に抗議する集会にイギリス軍が発砲し、多数の死傷者を出した事件を何というか。",
+      "answer": "アムリットサール事件",
+      "alternatives": [],
+      "explanation": "民族運動がいっそうはげしくなった。",
+      "yearStart": 1919,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1603-19",
+      "subject": "sekaishi-tankyu",
+      "question": "非暴力・不服従の運動を指導して、インドの民族運動を大衆的なものにした人物は誰か。",
+      "answer": "ガンディー",
+      "alternatives": [
+        "ガンジー",
+        "マハトマ=ガンディー"
+      ],
+      "explanation": "南アフリカでインド人への差別とたたかった経験をもつ。",
+      "yearStart": 1919,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-20",
+      "subject": "sekaishi-tankyu",
+      "question": "ガンディーが指導した、暴力を使わずに、イギリスの支配への協力をこばむ抵抗運動を何というか。",
+      "answer": "非暴力・不服従運動",
+      "reading": "ひぼうりょく・ふふくじゅううんどう",
+      "alternatives": [
+        "非暴力・不服従",
+        "非協力運動",
+        "サティヤーグラハ"
+      ],
+      "explanation": "イスラーム教徒とも協力して、全インドに広がった。",
+      "yearStart": 1920,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-21",
+      "subject": "sekaishi-tankyu",
+      "question": "1929年の国民会議派のラホール大会で決議された、「完全な独立」を意味する目標を何というか。",
+      "answer": "プールナ=スワラージ",
+      "alternatives": [
+        "完全独立"
+      ],
+      "explanation": "議長はネルー。翌年から第2次の非暴力・不服従運動が始まった。",
+      "yearStart": 1929,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-22",
+      "subject": "sekaishi-tankyu",
+      "question": "1930年にガンディーが、イギリスによる塩の専売に抗議しておこなった、海岸までの約360kmの行進を何というか。",
+      "answer": "塩の行進",
+      "reading": "しおのこうしん",
+      "alternatives": [],
+      "explanation": "みずから塩をつくって、法律を破ってみせた。",
+      "yearStart": 1930,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-23",
+      "subject": "sekaishi-tankyu",
+      "question": "国民会議派の急進派を代表し、1929年のラホール大会の議長をつとめ、のちに独立インドの初代首相となった人物は誰か。",
+      "answer": "ネルー",
+      "alternatives": [
+        "ジャワハルラル=ネルー"
+      ],
+      "explanation": "ガンディーとともに独立運動を指導した。",
+      "yearStart": 1929,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1603-24",
+      "subject": "sekaishi-tankyu",
+      "question": "1935年にイギリスが定めた、インドの各州の自治を認めた法律は何か。",
+      "answer": "1935年インド統治法",
+      "alternatives": [
+        "新インド統治法",
+        "インド統治法"
+      ],
+      "explanation": "完全な独立にはほど遠く、民族運動の側は不満をもった。",
+      "yearStart": 1935,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1603-25",
+      "subject": "sekaishi-tankyu",
+      "question": "全インド=ムスリム連盟の指導者で、イスラーム教徒の国家をつくることを主張した人物は誰か。",
+      "answer": "ジンナー",
+      "alternatives": [],
+      "explanation": "1940年に、イスラーム国家パキスタンの建設を目標にかかげた。",
+      "yearStart": 1940,
+      "regions": [
+        "南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1603-26",
+      "subject": "sekaishi-tankyu",
+      "question": "1927年にインドネシア国民党を結成して、オランダからの独立をめざした指導者は誰か。",
+      "answer": "スカルノ",
+      "alternatives": [],
+      "explanation": "オランダはきびしく弾圧した。",
+      "yearStart": 1927,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-27",
+      "subject": "sekaishi-tankyu",
+      "question": "1930年にインドシナ共産党を結成して、フランスからのベトナムの独立をめざした指導者は誰か。",
+      "answer": "ホー=チ=ミン",
+      "alternatives": [],
+      "explanation": "農民運動を指導した。",
+      "yearStart": 1930,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-28",
+      "subject": "sekaishi-tankyu",
+      "question": "1930年にビルマで結成され、のちにアウン=サンの指導のもとで完全な独立を求めた民族主義の団体は何か。",
+      "answer": "タキン党",
+      "alternatives": [],
+      "explanation": "「タキン」は「主人」を意味する。",
+      "yearStart": 1930,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1603-29",
+      "subject": "sekaishi-tankyu",
+      "question": "1932年に、タイで立憲君主政が成立した変革を何というか。",
+      "answer": "立憲革命",
+      "reading": "りっけんかくめい",
+      "alternatives": [
+        "タイ立憲革命"
+      ],
+      "explanation": "国王の専制政治が終わった。",
+      "yearStart": 1932,
+      "regions": [
+        "東南アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1603-30",
+      "subject": "sekaishi-tankyu",
+      "question": "第一次世界大戦後、オスマン帝国の解体の危機のなかで、アンカラにトルコ大国民議会をひらいて抵抗運動を指導した軍人は誰か。",
+      "answer": "ムスタファ=ケマル",
+      "alternatives": [
+        "ケマル=アタテュルク",
+        "ケマル=パシャ",
+        "アタテュルク"
+      ],
+      "explanation": "侵入したギリシア軍を撃退し、のちに「アタテュルク（父なるトルコ人）」の称号をおくられた。",
+      "yearStart": 1920,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-31",
+      "subject": "sekaishi-tankyu",
+      "question": "1923年に、トルコの新政権が連合国と結び直した、新しい国境の画定と治外法権の廃止、関税自主権の回復を認めさせた条約は何か。",
+      "answer": "ローザンヌ条約",
+      "alternatives": [],
+      "explanation": "セーヴル条約にかわる条約。",
+      "yearStart": 1923,
+      "regions": [
+        "西アジア",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-32",
+      "subject": "sekaishi-tankyu",
+      "question": "1923年に、アンカラを首都として成立し、ムスタファ=ケマルが初代の大統領となった国は何か。",
+      "answer": "トルコ共和国",
+      "reading": "とるこきょうわこく",
+      "alternatives": [],
+      "explanation": "前年にスルタン制が廃止され、オスマン帝国は滅んでいた。",
+      "yearStart": 1923,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-33",
+      "subject": "sekaishi-tankyu",
+      "question": "1924年にトルコ共和国が廃止し、政治と宗教を切りはなす政策の出発点となった、イスラーム世界の伝統的な制度は何か。",
+      "answer": "カリフ制",
+      "reading": "かりふせい",
+      "alternatives": [],
+      "explanation": "女性の解放や、太陽暦の採用なども進められた。",
+      "yearStart": 1924,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治",
+        "宗教"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-34",
+      "subject": "sekaishi-tankyu",
+      "question": "1928年にトルコ共和国がおこなった、アラビア文字にかえてローマ字を採用する改革を何というか。",
+      "answer": "文字改革",
+      "reading": "もじかいかく",
+      "alternatives": [],
+      "explanation": "近代化と西欧化を進める改革の一つ。",
+      "yearStart": 1928,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1603-35",
+      "subject": "sekaishi-tankyu",
+      "question": "第一次世界大戦後のエジプトで、イギリスからの独立を求める運動の中心となった政党は何か。",
+      "answer": "ワフド党",
+      "alternatives": [],
+      "explanation": "1922年にエジプト王国として独立が認められたが、イギリスはスエズ運河地帯の駐兵権などを残した。",
+      "yearStart": 1919,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-36",
+      "subject": "sekaishi-tankyu",
+      "question": "1925年に、イランでガージャール朝を倒してパフレヴィー朝をひらいた人物は誰か。",
+      "answer": "レザー=ハーン",
+      "alternatives": [
+        "レザー=シャー",
+        "レザー=シャー=パフレヴィー"
+      ],
+      "explanation": "近代化を進め、1935年に国名をペルシアからイランに改めた。",
+      "yearStart": 1925,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-37",
+      "subject": "sekaishi-tankyu",
+      "question": "1932年に、イブン=サウードがアラビア半島の大部分を統一して建てた王国は何か。",
+      "answer": "サウジアラビア王国",
+      "alternatives": [
+        "サウジアラビア"
+      ],
+      "explanation": "ワッハーブ派の教えを国の基礎とした。のちに石油が発見された。",
+      "yearStart": 1932,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1603-38",
+      "subject": "sekaishi-tankyu",
+      "question": "第一次世界大戦後、イギリスの委任統治領となり、1932年に独立した西アジアの国はどこか。",
+      "answer": "イラク",
+      "alternatives": [
+        "イラク王国"
+      ],
+      "explanation": "パレスチナとトランスヨルダンもイギリスの委任統治領となった。",
+      "yearStart": 1932,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1603-39",
+      "subject": "sekaishi-tankyu",
+      "question": "第一次世界大戦後、フランスの委任統治領となった西アジアの地域を、レバノンのほかに1つあげよ。",
+      "answer": "シリア",
+      "alternatives": [],
+      "explanation": "第二次世界大戦後に独立した。",
+      "yearStart": 1920,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1603-40",
+      "subject": "sekaishi-tankyu",
+      "question": "イギリスの委任統治領となり、ユダヤ人の移住がふえて、アラブ人との対立がはげしくなった地域はどこか。",
+      "answer": "パレスチナ",
+      "alternatives": [],
+      "explanation": "イギリスの大戦中の矛盾する約束が、対立の原因となった。",
+      "yearStart": 1920,
+      "regions": [
+        "西アジア"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1603-41",
+      "subject": "sekaishi-tankyu",
+      "question": "1912年に南アフリカで結成され、人種差別の撤廃をめざした組織は何か。",
+      "answer": "アフリカ民族会議",
+      "reading": "あふりかみんぞくかいぎ",
+      "alternatives": [
+        "ANC"
+      ],
+      "explanation": "創設時の名称は南アフリカ先住民民族会議。",
+      "yearStart": 1912,
+      "regions": [
+        "アフリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1603-42",
+      "subject": "sekaishi-tankyu",
+      "question": "1900年にロンドンで第1回がひらかれた、アフリカ系の人々の解放と連帯をめざす会議を何というか。",
+      "answer": "パン=アフリカ会議",
+      "alternatives": [],
+      "explanation": "1919年にはパリでひらかれ、アフリカの植民地の自治などをうったえた。",
+      "yearStart": 1900,
+      "regions": [
+        "アフリカ",
+        "国際"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "advanced",
+      "verified": true
+    }
+  ]
+}

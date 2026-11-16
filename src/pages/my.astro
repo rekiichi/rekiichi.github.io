@@ -1,0 +1,54 @@
+---
+// マイページ：この端末に保存したマイ範囲・学習記録（src/client/my-page.ts が表示する）
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { jsonForScript } from '../lib/json-script';
+import { subjects, textbooks } from '../lib/site-data';
+import { joinBase, paths } from '../lib/url';
+
+const href = (p: string) => joinBase(import.meta.env.BASE_URL, p);
+const boot = {
+  subjects: subjects.map((s) => ({ id: s.id, name: s.name })),
+  textbooks: Object.fromEntries(textbooks.map((tb) => [tb.id, { name: tb.name, subject: tb.subject }])),
+};
+---
+
+<BaseLayout title="マイ範囲と学習記録" description="この端末に保存したマイ範囲と学習記録を確認できます。" path={paths.my()} noindex>
+  <h1>マイ範囲と学習記録</h1>
+  <p class="lead">ここに表示される記録は、この端末のブラウザの中にだけ保存されています。ほかの端末やブラウザとは共有されません。</p>
+  <p class="notice" id="storage-warning" hidden>このブラウザでは記録を保存できない設定になっています（プライベートブラウズなど）。問題は解けますが、記録は残りません。</p>
+
+  <section aria-labelledby="ranges-heading">
+    <h2 id="ranges-heading">マイ範囲</h2>
+    <p id="ranges-empty" class="muted">まだありません。教科書のページで範囲を選んで「マイ範囲に保存」を押すと、ここに並びます。</p>
+    <ul class="row-list saved-list" id="ranges-list"></ul>
+  </section>
+
+  <section aria-labelledby="stats-heading">
+    <h2 id="stats-heading">科目ごとの記録</h2>
+    <p id="stats-total"></p>
+    <ul class="row-list" id="stats-list"></ul>
+    <p class="small muted">「苦手」は、最後に解いたときにまちがえた問題です。正解すると苦手から外れます。</p>
+  </section>
+
+  <section aria-labelledby="history-heading">
+    <h2 id="history-heading">最近の学習</h2>
+    <p id="history-empty" class="muted">まだありません。</p>
+    <ul class="row-list" id="history-list"></ul>
+  </section>
+
+  <section aria-labelledby="manage-heading">
+    <h2 id="manage-heading">記録の管理</h2>
+    <p class="small">記録を消すと元に戻せません。ブラウザの「閲覧履歴データ（サイトデータ）の削除」でも消えます。</p>
+    <div class="btn-stack">
+      <button type="button" class="btn btn-ghost" id="btn-clear-stats">学習記録（正誤・苦手）を消す</button>
+      <button type="button" class="btn btn-ghost" id="btn-clear-ranges">マイ範囲を消す</button>
+      <button type="button" class="btn btn-ghost" id="btn-clear-history">学習履歴を消す</button>
+    </div>
+    <p class="small muted" style="margin-top: 12px">保存している情報について：<a href={href(paths.privacy())}>プライバシーポリシー</a></p>
+  </section>
+
+  <script type="application/json" id="my-data" set:html={jsonForScript(boot)} />
+  <script>
+    import '../client/my-page';
+  </script>
+</BaseLayout>

@@ -1,0 +1,1372 @@
+{
+  "generatedFrom": "sekaishi-12.csv",
+  "_note": "このファイルは sekaishi-12.csv から自動生成されます（npm run data:csv）。直接編集せず、CSV を編集してください。",
+  "questions": [
+    {
+      "id": "w-1201-01",
+      "subject": "sekaishi-tankyu",
+      "question": "18世紀後半のイギリスで始まった、機械の発明と利用による生産技術の大きな変化と、それにともなう社会の変化を何というか。",
+      "answer": "産業革命",
+      "reading": "さんぎょうかくめい",
+      "alternatives": [],
+      "explanation": "綿工業から始まり、農業中心の社会から工業中心の社会に変わった。",
+      "yearStart": 1770,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1201-02",
+      "subject": "sekaishi-tankyu",
+      "question": "18世紀のイギリスで、議会の承認のもとに、穀物の増産のために進められた農地の統合を何というか。",
+      "answer": "第2次囲い込み",
+      "reading": "だいにじかこいこみ",
+      "alternatives": [
+        "囲い込み",
+        "エンクロージャー",
+        "第2次エンクロージャー"
+      ],
+      "explanation": "土地を失った農民の多くは、農業労働者や工場の労働者となった。",
+      "yearStart": 1760,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1201-03",
+      "subject": "sekaishi-tankyu",
+      "question": "18世紀のイギリスで広まった、カブやクローヴァーなどを組みこんで休耕地をなくす新しい農法を何というか。",
+      "answer": "ノーフォーク農法",
+      "alternatives": [
+        "四輪作法"
+      ],
+      "explanation": "食料の生産がふえ、人口の増加をささえた。",
+      "yearStart": 1730,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1201-04",
+      "subject": "sekaishi-tankyu",
+      "question": "1733年にジョン=ケイが発明し、織布の速度を大きく高めた道具は何か。",
+      "answer": "飛び杼",
+      "reading": "とびひ",
+      "alternatives": [
+        "飛び梭"
+      ],
+      "explanation": "綿織物の生産がふえて綿糸が不足し、紡績機の発明をうながした。",
+      "yearStart": 1733,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1201-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1764年頃に、一度に多くの糸をつむげるジェニー紡績機（多軸紡績機）を発明した人物は誰か。",
+      "answer": "ハーグリーヴズ",
+      "alternatives": [],
+      "explanation": "妻（または娘）の名にちなんで名づけたといわれる。",
+      "yearStart": 1764,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1201-06",
+      "subject": "sekaishi-tankyu",
+      "question": "1769年に、水車を動力とする水力紡績機を発明した人物は誰か。",
+      "answer": "アークライト",
+      "alternatives": [],
+      "explanation": "工場制による大量生産の道をひらいた。",
+      "yearStart": 1769,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1201-07",
+      "subject": "sekaishi-tankyu",
+      "question": "1779年に、ジェニー紡績機と水力紡績機の長所をあわせたミュール紡績機を発明した人物は誰か。",
+      "answer": "クロンプトン",
+      "alternatives": [],
+      "explanation": "細くてじょうぶな糸をつむげるようになった。",
+      "yearStart": 1779,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1201-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1785年に、蒸気機関を動力とする力織機を発明した人物は誰か。",
+      "answer": "カートライト",
+      "alternatives": [],
+      "explanation": "綿布の生産が飛躍的にふえた。",
+      "yearStart": 1785,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1201-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1769年に蒸気機関を改良し、さまざまな機械の動力として使えるようにした人物は誰か。",
+      "answer": "ワット",
+      "alternatives": [],
+      "explanation": "それまでの蒸気機関は、ニューコメンが発明した炭坑の排水用のものだった。",
+      "yearStart": 1769,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1201-10",
+      "subject": "sekaishi-tankyu",
+      "question": "18世紀前半に、石炭を蒸し焼きにしたコークスを使う製鉄法を開発した父子は誰か。",
+      "answer": "ダービー",
+      "alternatives": [
+        "ダービー父子"
+      ],
+      "explanation": "良質の鉄を大量に生産できるようになった。",
+      "yearStart": 1709,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1201-11",
+      "subject": "sekaishi-tankyu",
+      "question": "1814年に蒸気機関車を製作し、1825年に実用化に成功した人物は誰か。",
+      "answer": "スティーヴンソン",
+      "alternatives": [],
+      "explanation": "1830年にはマンチェスターとリヴァプールを結ぶ鉄道が開通した。",
+      "yearStart": 1825,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1201-12",
+      "subject": "sekaishi-tankyu",
+      "question": "1807年に蒸気船を実用化したアメリカ人は誰か。",
+      "answer": "フルトン",
+      "alternatives": [],
+      "explanation": "ハドソン川で試運転に成功した。",
+      "yearStart": 1807,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1201-13",
+      "subject": "sekaishi-tankyu",
+      "question": "産業革命によって確立した、資本家が労働者を賃金でやとって利益を追求する経済のしくみを何というか。",
+      "answer": "資本主義",
+      "reading": "しほんしゅぎ",
+      "alternatives": [
+        "資本主義体制"
+      ],
+      "explanation": "工場を経営する産業資本家が、社会の中心的な勢力となった。",
+      "yearStart": 1800,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1201-14",
+      "subject": "sekaishi-tankyu",
+      "question": "綿工業の中心として急速に発展した、イギリス中西部の工業都市はどこか。",
+      "answer": "マンチェスター",
+      "alternatives": [],
+      "explanation": "製鉄業のバーミンガム、貿易港のリヴァプールなども発展した。",
+      "yearStart": 1800,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1201-15",
+      "subject": "sekaishi-tankyu",
+      "question": "19世紀初めのイギリスで、機械に仕事を奪われた手工業者たちがおこした機械の打ちこわし運動を何というか。",
+      "answer": "ラダイト運動",
+      "alternatives": [
+        "機械打ちこわし運動"
+      ],
+      "explanation": "1810年代に中・北部の織物工業の地帯でおこった。",
+      "yearStart": 1811,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1201-16",
+      "subject": "sekaishi-tankyu",
+      "question": "19世紀のイギリスは、世界中に工業製品を輸出したことから何と呼ばれたか。",
+      "answer": "世界の工場",
+      "reading": "せかいのこうじょう",
+      "alternatives": [],
+      "explanation": "ほかの地域は、原料の供給地や製品の市場として世界経済に組みこまれていった。",
+      "yearStart": 1850,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1202-01",
+      "subject": "sekaishi-tankyu",
+      "question": "17世紀初めから18世紀前半にかけて、イギリスが北アメリカの東海岸につくった植民地をまとめて何というか。",
+      "answer": "13植民地",
+      "reading": "じゅうさんしょくみんち",
+      "alternatives": [],
+      "explanation": "1607年のヴァージニアが最初。それぞれが植民地議会をもち、自治をおこなった。",
+      "yearStart": 1607,
+      "yearEnd": 1732,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1202-02",
+      "subject": "sekaishi-tankyu",
+      "question": "1620年に、信仰の自由を求めてメイフラワー号で北アメリカにわたったピューリタンの一団を何というか。",
+      "answer": "ピルグリム=ファーザーズ",
+      "alternatives": [
+        "巡礼始祖"
+      ],
+      "explanation": "プリマスに上陸した。",
+      "yearStart": 1620,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "宗教",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1202-03",
+      "subject": "sekaishi-tankyu",
+      "question": "1765年にイギリスが植民地に課した、新聞や証書などの印刷物に印紙をはることを義務づけた法律は何か。",
+      "answer": "印紙法",
+      "reading": "いんしほう",
+      "alternatives": [],
+      "explanation": "植民地側のはげしい反対にあい、翌年に撤回された。",
+      "yearStart": 1765,
+      "regions": [
+        "南北アメリカ",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1202-04",
+      "subject": "sekaishi-tankyu",
+      "question": "印紙法に反対する植民地の人々がとなえた、本国の議会に代表を送っていない植民地に、本国は課税できないという主張を表すことばは何か。",
+      "answer": "代表なくして課税なし",
+      "reading": "だいひょうなくしてかぜいなし",
+      "alternatives": [],
+      "explanation": "イギリス人としての権利を主張した。",
+      "yearStart": 1765,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1202-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1773年に、茶法に反発した植民地の人々が、ボストン港で東インド会社の船の積み荷を海に投げ捨てた事件を何というか。",
+      "answer": "ボストン茶会事件",
+      "reading": "ぼすとんちゃかいじけん",
+      "alternatives": [],
+      "explanation": "本国はボストン港を封鎖するなど、強い態度でのぞんだ。",
+      "yearStart": 1773,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1202-06",
+      "subject": "sekaishi-tankyu",
+      "question": "1774年に、植民地の代表がフィラデルフィアに集まってひらき、本国に抗議した会議を何というか。",
+      "answer": "大陸会議",
+      "reading": "たいりくかいぎ",
+      "alternatives": [],
+      "explanation": "翌1775年にレキシントンとコンコードで武力衝突がおこり、独立戦争が始まった。",
+      "yearStart": 1774,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1202-07",
+      "subject": "sekaishi-tankyu",
+      "question": "独立戦争で植民地軍の総司令官をつとめ、のちに初代の大統領となった人物は誰か。",
+      "answer": "ワシントン",
+      "alternatives": [
+        "ジョージ=ワシントン"
+      ],
+      "explanation": "ヴァージニアの大農場主。",
+      "yearStart": 1775,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1202-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1776年に『コモン=センス』（『常識』）を著して、独立の必要性をわかりやすくうったえた人物は誰か。",
+      "answer": "トマス=ペイン",
+      "alternatives": [
+        "ペイン"
+      ],
+      "explanation": "独立を求める世論を高めた。",
+      "yearStart": 1776,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "文化",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1202-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1776年7月4日に13植民地の代表がフィラデルフィアで発表した、独立の理由と理念を述べた文書は何か。",
+      "answer": "独立宣言",
+      "reading": "どくりつせんげん",
+      "alternatives": [
+        "アメリカ独立宣言"
+      ],
+      "explanation": "ロックの思想の影響を受け、すべての人の平等と、生命・自由・幸福の追求の権利、圧政への抵抗権を主張した。",
+      "yearStart": 1776,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1202-10",
+      "subject": "sekaishi-tankyu",
+      "question": "独立宣言を起草した中心人物で、のちに第3代大統領となった人物は誰か。",
+      "answer": "トマス=ジェファソン",
+      "alternatives": [
+        "ジェファソン"
+      ],
+      "explanation": "ヴァージニアの大農場主。",
+      "yearStart": 1776,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1202-11",
+      "subject": "sekaishi-tankyu",
+      "question": "独立戦争のとき、フランスにわたって同盟を結ぶことに成功した、科学者としても知られる人物は誰か。",
+      "answer": "フランクリン",
+      "alternatives": [
+        "ベンジャミン=フランクリン"
+      ],
+      "explanation": "フランスの参戦は、植民地側の勝利に大きく貢献した。",
+      "yearStart": 1778,
+      "regions": [
+        "南北アメリカ",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1202-12",
+      "subject": "sekaishi-tankyu",
+      "question": "1781年に、アメリカ・フランスの連合軍がイギリス軍を降伏させ、独立戦争の勝利を決定づけた戦いは何か。",
+      "answer": "ヨークタウンの戦い",
+      "alternatives": [],
+      "explanation": "ヴァージニアでの戦い。",
+      "yearStart": 1781,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1202-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1783年に結ばれ、イギリスがアメリカ合衆国の独立を認めた条約は何か。",
+      "answer": "パリ条約",
+      "reading": "ぱりじょうやく",
+      "alternatives": [],
+      "explanation": "ミシシッピ川より東の広い領土も合衆国にゆずられた。",
+      "yearStart": 1783,
+      "regions": [
+        "南北アメリカ",
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1202-14",
+      "subject": "sekaishi-tankyu",
+      "question": "1787年にフィラデルフィアの憲法制定会議でつくられた憲法は何か。",
+      "answer": "アメリカ合衆国憲法",
+      "reading": "あめりかがっしゅうこくけんぽう",
+      "alternatives": [
+        "合衆国憲法"
+      ],
+      "explanation": "人民主権・連邦主義・三権分立を原則とする。",
+      "yearStart": 1787,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1202-15",
+      "subject": "sekaishi-tankyu",
+      "question": "合衆国憲法が定める、中央の連邦政府の権限を強めながら、各州にも大幅な自治を認める考え方を何というか。",
+      "answer": "連邦主義",
+      "reading": "れんぽうしゅぎ",
+      "alternatives": [],
+      "explanation": "憲法を支持する連邦派と、州の権利を重んじる反連邦派が対立した。",
+      "yearStart": 1787,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1202-16",
+      "subject": "sekaishi-tankyu",
+      "question": "合衆国憲法の制定をめぐって、連邦政府の権限を強めることを主張した人々を何というか。",
+      "answer": "連邦派",
+      "reading": "れんぽうは",
+      "alternatives": [
+        "フェデラリスト"
+      ],
+      "explanation": "初代の財務長官ハミルトンが代表。",
+      "yearStart": 1787,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1203-01",
+      "subject": "sekaishi-tankyu",
+      "question": "フランス革命の前の、身分制にもとづく古い政治・社会の体制を何というか。",
+      "answer": "旧制度",
+      "reading": "きゅうせいど",
+      "alternatives": [
+        "アンシャン=レジーム"
+      ],
+      "explanation": "聖職者（第一身分）と貴族（第二身分）が免税などの特権をもち、平民（第三身分）が人口の大多数を占めた。",
+      "yearStart": 1780,
+      "yearApprox": true,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治",
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-02",
+      "subject": "sekaishi-tankyu",
+      "question": "『第三身分とは何か』を著して、第三身分こそが国民の代表であると主張した聖職者は誰か。",
+      "answer": "シェイエス",
+      "alternatives": [],
+      "explanation": "特権身分をはげしく批判した。",
+      "yearStart": 1789,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1203-03",
+      "subject": "sekaishi-tankyu",
+      "question": "1789年5月にルイ16世が、財政の立て直しのために約170年ぶりにひらいた身分制議会は何か。",
+      "answer": "三部会",
+      "reading": "さんぶかい",
+      "alternatives": [
+        "全国三部会"
+      ],
+      "explanation": "議決の方法をめぐって、特権身分と第三身分が対立した。",
+      "yearStart": 1789,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-04",
+      "subject": "sekaishi-tankyu",
+      "question": "1789年6月に、第三身分の議員たちが三部会から分かれてつくった議会を何というか。",
+      "answer": "国民議会",
+      "reading": "こくみんぎかい",
+      "alternatives": [
+        "憲法制定国民議会"
+      ],
+      "explanation": "憲法を制定するまで解散しないことをちかった（球戯場の誓い）。",
+      "yearStart": 1789,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-05",
+      "subject": "sekaishi-tankyu",
+      "question": "1789年7月14日に、パリの民衆がおこした、フランス革命の始まりとなる事件は何か。",
+      "answer": "バスティーユ牢獄の襲撃",
+      "alternatives": [
+        "バスティーユ襲撃",
+        "バスティーユ牢獄襲撃"
+      ],
+      "explanation": "圧政の象徴とされていた牢獄がおそわれた。農村でも農民が領主の館をおそった。",
+      "yearStart": 1789,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-06",
+      "subject": "sekaishi-tankyu",
+      "question": "1789年8月に国民議会が決めた、領主裁判権や教会への十分の一税などをなくす決定を何というか。",
+      "answer": "封建的特権の廃止",
+      "reading": "ほうけんてきとっけんのはいし",
+      "alternatives": [],
+      "explanation": "ただし、土地にかかる貢租の廃止は有償とされた。",
+      "yearStart": 1789,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-07",
+      "subject": "sekaishi-tankyu",
+      "question": "1789年8月に国民議会が採択した、すべての人の自由・平等、国民主権、私有財産の不可侵などをうたった宣言は何か。",
+      "answer": "人権宣言",
+      "reading": "じんけんせんげん",
+      "alternatives": [
+        "人間および市民の権利の宣言"
+      ],
+      "explanation": "ラ=ファイエットらが起草した。",
+      "yearStart": 1789,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1789年10月に、食料の値上がりに苦しむパリの女性たちが宮殿におしかけ、国王一家をパリに連れもどした事件を何というか。",
+      "answer": "ヴェルサイユ行進",
+      "reading": "ゔぇるさいゆこうしん",
+      "alternatives": [],
+      "explanation": "国王と議会はパリに移り、民衆の監視のもとにおかれた。",
+      "yearStart": 1789,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1203-09",
+      "subject": "sekaishi-tankyu",
+      "question": "1791年に、国王ルイ16世の一家が国外に逃げようとして失敗した事件は何か。",
+      "answer": "ヴァレンヌ逃亡事件",
+      "reading": "ゔぁれんぬとうぼうじけん",
+      "alternatives": [],
+      "explanation": "国王への国民の信頼は失われた。",
+      "yearStart": 1791,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1203-10",
+      "subject": "sekaishi-tankyu",
+      "question": "1791年に制定された憲法にもとづいてひらかれ、立憲君主政をめざすフイヤン派と、共和政をめざすジロンド派が対立した議会は何か。",
+      "answer": "立法議会",
+      "reading": "りっぽうぎかい",
+      "alternatives": [],
+      "explanation": "1792年にジロンド派の内閣がオーストリアに宣戦し、革命戦争が始まった。",
+      "yearStart": 1791,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1203-11",
+      "subject": "sekaishi-tankyu",
+      "question": "1792年8月に、パリの民衆と義勇軍がテュイルリー宮殿をおそい、王権が停止された事件を何というか。",
+      "answer": "8月10日事件",
+      "reading": "はちがつとおかじけん",
+      "alternatives": [],
+      "explanation": "男性の普通選挙による新しい議会がひらかれることになった。",
+      "yearStart": 1792,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-12",
+      "subject": "sekaishi-tankyu",
+      "question": "1792年9月に成立し、王政の廃止と共和政の成立を宣言した議会は何か。",
+      "answer": "国民公会",
+      "reading": "こくみんこうかい",
+      "alternatives": [],
+      "explanation": "これによって第一共和政が始まった。翌年1月にルイ16世が処刑された。",
+      "yearStart": 1792,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-13",
+      "subject": "sekaishi-tankyu",
+      "question": "1793年に国民公会からジロンド派を追放して、権力をにぎった急進的な党派は何か。",
+      "answer": "ジャコバン派",
+      "alternatives": [
+        "山岳派"
+      ],
+      "explanation": "都市の民衆や農民の支持を受けた。",
+      "yearStart": 1793,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-14",
+      "subject": "sekaishi-tankyu",
+      "question": "ジャコバン派の指導者として、公安委員会を中心に、反対派を多数処刑する恐怖政治をおこなった人物は誰か。",
+      "answer": "ロベスピエール",
+      "alternatives": [],
+      "explanation": "最高価格令、徴兵制、封建地代の無償廃止、革命暦の制定などをおこなった。",
+      "yearStart": 1793,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-15",
+      "subject": "sekaishi-tankyu",
+      "question": "1794年7月に、ロベスピエールらが反対派にとらえられて処刑された事件を何というか。",
+      "answer": "テルミドール9日のクーデタ",
+      "alternatives": [
+        "テルミドールのクーデタ",
+        "テルミドールの反動"
+      ],
+      "explanation": "恐怖政治が終わった。",
+      "yearStart": 1794,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-16",
+      "subject": "sekaishi-tankyu",
+      "question": "1795年の憲法にもとづいて成立した、5人の総裁からなる政府を何というか。",
+      "answer": "総裁政府",
+      "reading": "そうさいせいふ",
+      "alternatives": [],
+      "explanation": "社会の不安が続いて政局は安定せず、国民は強い指導者を求めた。",
+      "yearStart": 1795,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-17",
+      "subject": "sekaishi-tankyu",
+      "question": "1793年にイギリスの首相ピットの提唱で結成された、フランスの革命に対抗するヨーロッパ諸国の同盟を何というか。",
+      "answer": "対仏大同盟",
+      "reading": "たいふつだいどうめい",
+      "alternatives": [
+        "第1回対仏大同盟"
+      ],
+      "explanation": "ルイ16世の処刑がきっかけとなった。",
+      "yearStart": 1793,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1203-18",
+      "subject": "sekaishi-tankyu",
+      "question": "1799年に、ナポレオン=ボナパルトが総裁政府を倒して実権をにぎった事件を何というか。",
+      "answer": "ブリュメール18日のクーデタ",
+      "alternatives": [],
+      "explanation": "3人の統領からなる統領政府をつくり、みずから第一統領となった。",
+      "yearStart": 1799,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-19",
+      "subject": "sekaishi-tankyu",
+      "question": "1804年にナポレオンが定めた、私有財産の不可侵や法の前の平等、契約の自由などを定めた法典は何か。",
+      "answer": "ナポレオン法典",
+      "alternatives": [
+        "フランス民法典",
+        "民法典"
+      ],
+      "explanation": "革命の成果を定着させ、各国の法律に影響を与えた。",
+      "yearStart": 1804,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-20",
+      "subject": "sekaishi-tankyu",
+      "question": "1801年にナポレオンがローマ教皇と結んだ、革命以来対立していたカトリック教会と和解するための取り決めは何か。",
+      "answer": "宗教協約",
+      "reading": "しゅうきょうきょうやく",
+      "alternatives": [
+        "コンコルダート",
+        "政教協約"
+      ],
+      "explanation": "国内の安定をはかった。",
+      "yearStart": 1801,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "宗教",
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1203-21",
+      "subject": "sekaishi-tankyu",
+      "question": "1804年に、国民投票で皇帝となったナポレオンが始めた政治体制を何というか。",
+      "answer": "第一帝政",
+      "reading": "だいいちていせい",
+      "alternatives": [],
+      "explanation": "ナポレオン1世と名乗った。",
+      "yearStart": 1804,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-22",
+      "subject": "sekaishi-tankyu",
+      "question": "1805年に、ネルソンの率いるイギリス海軍がフランス・スペインの連合艦隊を破った海戦は何か。",
+      "answer": "トラファルガーの海戦",
+      "alternatives": [],
+      "explanation": "ナポレオンはイギリスへの上陸をあきらめた。",
+      "yearStart": 1805,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-23",
+      "subject": "sekaishi-tankyu",
+      "question": "1805年に、ナポレオンがオーストリアとロシアの連合軍を破った戦いは何か。",
+      "answer": "アウステルリッツの戦い",
+      "alternatives": [
+        "三帝会戦"
+      ],
+      "explanation": "3人の皇帝が戦場にいたことから三帝会戦とも呼ばれる。",
+      "yearStart": 1805,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1203-24",
+      "subject": "sekaishi-tankyu",
+      "question": "1806年に、ナポレオンが西南ドイツの諸国を集めてつくらせた同盟は何か。",
+      "answer": "ライン同盟",
+      "alternatives": [],
+      "explanation": "これによって神聖ローマ帝国は消滅した。",
+      "yearStart": 1806,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-25",
+      "subject": "sekaishi-tankyu",
+      "question": "1806年にナポレオンがベルリンで出した、大陸の諸国にイギリスとの通商を禁じた命令は何か。",
+      "answer": "大陸封鎖令",
+      "reading": "たいりくふうされい",
+      "alternatives": [
+        "ベルリン勅令"
+      ],
+      "explanation": "イギリスに経済的な打撃を与え、フランスの産業が大陸の市場を独占することをねらった。",
+      "yearStart": 1806,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交",
+        "経済"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-26",
+      "subject": "sekaishi-tankyu",
+      "question": "ナポレオンに敗れたプロイセンで、シュタインやハルデンベルクが中心となっておこなった近代化の改革を何というか。",
+      "answer": "プロイセン改革",
+      "reading": "ぷろいせんかいかく",
+      "alternatives": [],
+      "explanation": "農民の解放などをおこなった。哲学者フィヒテは「ドイツ国民に告ぐ」という講演で国民意識の高まりをうったえた。",
+      "yearStart": 1807,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1203-27",
+      "subject": "sekaishi-tankyu",
+      "question": "ナポレオンの支配に対するスペインの民衆の抵抗をえがいた、「1808年5月3日」で知られるスペインの画家は誰か。",
+      "answer": "ゴヤ",
+      "alternatives": [],
+      "explanation": "スペインの民衆はゲリラ戦でフランス軍を苦しめた。",
+      "yearStart": 1814,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "文化"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1203-28",
+      "subject": "sekaishi-tankyu",
+      "question": "1812年にナポレオンが、大陸封鎖令を破ったロシアに対しておこなった遠征を何というか。",
+      "answer": "ロシア遠征",
+      "reading": "ろしあえんせい",
+      "alternatives": [
+        "モスクワ遠征"
+      ],
+      "explanation": "モスクワを占領したが、ロシアの焦土戦術や冬の寒さのために大失敗に終わった。",
+      "yearStart": 1812,
+      "regions": [
+        "ヨーロッパ",
+        "ロシア"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-29",
+      "subject": "sekaishi-tankyu",
+      "question": "1813年に、プロイセン・オーストリア・ロシアなどの連合軍がナポレオンを破った戦いは何か。",
+      "answer": "ライプツィヒの戦い",
+      "alternatives": [
+        "諸国民戦争"
+      ],
+      "explanation": "翌年、連合軍がパリを占領し、ナポレオンは退位してエルバ島に流された。",
+      "yearStart": 1813,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-30",
+      "subject": "sekaishi-tankyu",
+      "question": "1815年に、エルバ島から脱出して皇帝に復帰したナポレオンが、イギリス・プロイセンなどの連合軍に敗れた戦いは何か。",
+      "answer": "ワーテルローの戦い",
+      "alternatives": [],
+      "explanation": "ナポレオンは大西洋のセントヘレナ島に流された。",
+      "yearStart": 1815,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1203-31",
+      "subject": "sekaishi-tankyu",
+      "question": "1815年にナポレオンが皇帝に復帰してから、ふたたび退位するまでの約100日間の支配を何というか。",
+      "answer": "百日天下",
+      "reading": "ひゃくにちてんか",
+      "alternatives": [],
+      "explanation": "ウィーン会議の対立をみて、エルバ島を脱出した。",
+      "yearStart": 1815,
+      "regions": [
+        "ヨーロッパ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1204-01",
+      "subject": "sekaishi-tankyu",
+      "question": "フランス領のサン=ドマングで黒人奴隷の反乱がおこり、1804年に独立して成立した、世界で最初の黒人共和国はどこか。",
+      "answer": "ハイチ",
+      "alternatives": [],
+      "explanation": "フランス革命の影響を受けた。",
+      "yearStart": 1804,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1204-02",
+      "subject": "sekaishi-tankyu",
+      "question": "ハイチの独立運動を指導し、「黒いジャコバン」と呼ばれた人物は誰か。",
+      "answer": "トゥサン=ルヴェルチュール",
+      "alternatives": [
+        "トゥサン=ルーヴェルチュール"
+      ],
+      "explanation": "ナポレオンの軍にとらえられて獄中で死んだが、その後に独立が達成された。",
+      "yearStart": 1801,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1204-03",
+      "subject": "sekaishi-tankyu",
+      "question": "ラテンアメリカの独立運動の中心となった、植民地生まれの白人を何というか。",
+      "answer": "クリオーリョ",
+      "alternatives": [],
+      "explanation": "本国から来た役人に支配されることに不満をもっていた。",
+      "yearStart": 1810,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "社会"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1204-04",
+      "subject": "sekaishi-tankyu",
+      "question": "ベネズエラ・コロンビア・ボリビアなど、南アメリカ北部の独立運動を指導した人物は誰か。",
+      "answer": "シモン=ボリバル",
+      "alternatives": [
+        "ボリバル"
+      ],
+      "explanation": "ボリビアの国名は彼の名にちなむ。",
+      "yearStart": 1819,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1204-05",
+      "subject": "sekaishi-tankyu",
+      "question": "アルゼンチン・チリ・ペルーの独立運動を指導した人物は誰か。",
+      "answer": "サン=マルティン",
+      "alternatives": [],
+      "explanation": "アンデス山脈をこえてチリに進軍した。",
+      "yearStart": 1818,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1204-06",
+      "subject": "sekaishi-tankyu",
+      "question": "1810年にメキシコで独立運動を始めた聖職者は誰か。",
+      "answer": "イダルゴ",
+      "alternatives": [],
+      "explanation": "先住民やメスティーソを率いて蜂起した。メキシコは1821年に独立した。",
+      "yearStart": 1810,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1204-07",
+      "subject": "sekaishi-tankyu",
+      "question": "1822年に、ポルトガルの王子が皇帝となって独立した南アメリカの国はどこか。",
+      "answer": "ブラジル",
+      "alternatives": [],
+      "explanation": "ほかのラテンアメリカ諸国とちがって帝政をとった。",
+      "yearStart": 1822,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "政治"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1204-08",
+      "subject": "sekaishi-tankyu",
+      "question": "1823年にアメリカ合衆国の大統領が発表した、アメリカ大陸とヨーロッパ諸国の相互不干渉をとなえる宣言を何というか。",
+      "answer": "モンロー宣言",
+      "alternatives": [
+        "モンロー教書"
+      ],
+      "explanation": "ヨーロッパ諸国がラテンアメリカの独立に干渉することに反対した。その後の合衆国の外交の基本方針となった。",
+      "yearStart": 1823,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "basic",
+      "verified": true
+    },
+    {
+      "id": "w-1204-09",
+      "subject": "sekaishi-tankyu",
+      "question": "ラテンアメリカを自国の製品の市場とするために、その独立を支持したイギリスの外相は誰か。",
+      "answer": "カニング",
+      "alternatives": [],
+      "explanation": "ウィーン体制の干渉の動きに反対した。",
+      "yearStart": 1822,
+      "regions": [
+        "ヨーロッパ",
+        "南北アメリカ"
+      ],
+      "themes": [
+        "外交"
+      ],
+      "level": "standard",
+      "verified": true
+    },
+    {
+      "id": "w-1204-10",
+      "subject": "sekaishi-tankyu",
+      "question": "ラテンアメリカで、植民地時代から続いた大農園制を何というか。",
+      "answer": "アシエンダ制",
+      "alternatives": [
+        "アシエンダ"
+      ],
+      "explanation": "独立後も大土地所有者が力をもち、貧富の差が残った。",
+      "yearStart": 1820,
+      "yearApprox": true,
+      "regions": [
+        "南北アメリカ"
+      ],
+      "themes": [
+        "経済",
+        "社会"
+      ],
+      "level": "standard",
+      "verified": true
+    }
+  ]
+}
