@@ -8,6 +8,7 @@
 
 import { existsSync, readdirSync, readFileSync, statSync } from 'node:fs';
 import { join, relative } from 'node:path';
+import { readPublicSettings } from '../src/lib/public-settings';
 
 const DIST = 'dist';
 const DISCLAIMER = '教科書会社とは関係のない個人サイトです。教科書名は対応範囲を示すためだけに使用しています';
@@ -107,13 +108,17 @@ if (!existsSync(join(DIST, '404.html'))) errors.push('404.html がありませ�
 
 // ---- 広告（AdSense）----
 const adsTxtPath = join(DIST, 'ads.txt');
-const adsWanted = (process.env.ADSENSE_CLIENT ?? '').trim() !== '';
+// ビルドと同じ決め方（リポジトリ変数 ADSENSE_CLIENT があればそれ、なければ src/site.config.ts）で、出すはずの ID を求める
+const expectedClient = readPublicSettings(process.env).adsenseClient;
 if (adsPages.size === 0) {
-  if (adsWanted) errors.push('ADSENSE_CLIENT が設定されているのに、AdSense のコードがどのページにもありません');
+  if (expectedClient) errors.push(`AdSense の ID（${expectedClient}）を設定しているのに、AdSense のコードがどのページにもありません`);
   if (existsSync(adsTxtPath)) errors.push('広告を設定していないのに ads.txt があります');
 } else {
   const clients = new Set(adsPages.values());
-  if (clients.size > 1) errors.push(`AdSense の ID がページによって違います: ${[...clients].join(', ')}`);
+  if (!expectedClient) errors.push('広告を設定していないのに、AdSense のコードがあるページがあります');
+  else if (clients.size > 1 || !clients.has(expectedClient)) {
+    errors.push(`AdSense の ID が設定（${expectedClient}）と違うページがあります: ${[...clients].join(', ')}`);
+  }
   if (adsPages.size !== htmlFiles.length) errors.push(`AdSense のコードがないページがあります（${htmlFiles.length - adsPages.size}ページ）`);
   const publisher = [...clients][0].replace(/^ca-/, '');
   if (!existsSync(adsTxtPath) || !readFileSync(adsTxtPath, 'utf8').includes(`google.com, ${publisher}, DIRECT`)) {

@@ -51,7 +51,7 @@ export const siteConfig: SiteConfig = {
   policyDate: '2026年11月14日',
   contactFormUrl: 'https://forms.gle/g1ukgqk2LcNNhCvq9',
   reportFormUrl: '',
-  adsenseClient: '',
+  adsenseClient: 'ca-pub-4502375566114455',
   adsenseSlot: '',
   googleSiteVerification: '9NxwDZiu5ggSKrcMXtjNeBhJh-_lwEIbGqFG4-pManE',
   includeSampleData: false,
