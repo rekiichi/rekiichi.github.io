@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { parseAdSlot, parseAdsenseClient, parseHttpsUrl, parseVerificationToken, readPublicSettings } from '../src/lib/public-settings';
+import { siteConfig } from '../src/site.config';
 
 describe('公開時の設定（環境変数）', () => {
   it('AdSense のパブリッシャー ID', () => {
@@ -30,11 +31,14 @@ describe('公開時の設定（環境変数）', () => {
     expect(() => parseVerificationToken('<meta name="google-site-verification" content="x">')).toThrow('GOOGLE_SITE_VERIFICATION');
   });
 
-  it('環境変数が空なら site.config.ts の値（空）になる', () => {
+  it('環境変数が空なら site.config.ts の値になり、環境変数があればそちらが優先される', () => {
     const s = readPublicSettings({ CONTACT_FORM_URL: '  ', ADSENSE_CLIENT: undefined });
-    expect(s.contactFormUrl).toBe('');
-    expect(s.adsenseClient).toBe('');
+    expect(s.contactFormUrl).toBe(parseHttpsUrl('CONTACT_FORM_URL', siteConfig.contactFormUrl));
+    expect(s.adsenseClient).toBe(parseAdsenseClient(siteConfig.adsenseClient));
+    expect(s.googleSiteVerification).toBe(parseVerificationToken(siteConfig.googleSiteVerification));
+    expect(s.operatorName).toBe(siteConfig.operatorName);
     expect(s.operatorName).not.toBe('');
+    expect(readPublicSettings({ CONTACT_FORM_URL: 'https://example.com/form' }).contactFormUrl).toBe('https://example.com/form');
     expect(readPublicSettings({ OPERATOR_NAME: 'テスト' }).operatorName).toBe('テスト');
     expect(readPublicSettings({ ADSENSE_CLIENT: 'pub-1234567890123456', ADSENSE_SLOT: '1234567890' })).toMatchObject({
       adsenseClient: 'ca-pub-1234567890123456',
